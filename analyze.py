@@ -15,6 +15,7 @@ log = logging.getLogger(__name__)
 
 DB_PATH = Path("data/articles.db")
 DELAY_BETWEEN_CALLS = 0.5  # seconds
+MAX_PER_RUN = 50  # analyze at most this many articles per workflow run
 
 SYSTEM_PROMPT = """You are a press analysis assistant. Analyze news articles about Hungary.
 Return ONLY a valid JSON object with these exact fields:
@@ -38,7 +39,9 @@ Analyze this article about Hungary based on the title and source context."""
 
 def get_pending_articles(conn: sqlite3.Connection) -> list[dict]:
     rows = conn.execute(
-        "SELECT id, source, region, title, url, published_at FROM articles WHERE analyzed = 0"
+        """SELECT id, source, region, title, url, published_at FROM articles
+           WHERE analyzed = 0 ORDER BY published_at DESC LIMIT ?""",
+        (MAX_PER_RUN,)
     ).fetchall()
     return [
         {"id": r[0], "source": r[1], "region": r[2],
@@ -51,13 +54,14 @@ def call_claude(prompt: str) -> str | None:
     """Call `claude -p` and return stdout, or None on failure."""
     try:
         result = subprocess.run(
-            ["claude", "-p", prompt],
+            ["claude", "-p", prompt, "--dangerously-skip-permissions"],
             capture_output=True,
             text=True,
             timeout=60,
         )
         if result.returncode != 0:
-            log.warning("claude CLI error: %s", result.stderr[:200])
+            log.warning("claude CLI error (rc=%d) stderr: %s | stdout: %s",
+                        result.returncode, result.stderr[:300], result.stdout[:300])
             return None
         return result.stdout.strip()
     except FileNotFoundError:
