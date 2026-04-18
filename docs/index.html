@@ -86,7 +86,7 @@
 <header>
   <h1 id="siteTitle">Hungary International Press Monitor</h1>
   <div class="right">
-    <small>Updated: 2026-04-18 20:29 UTC</small>
+    <small>Updated: 2026-04-18 20:39 UTC</small>
     <div class="lang-toggle">
       <button id="btnEN" class="active" onclick="setLang('en')">EN</button>
       <button id="btnHU" onclick="setLang('hu')">HU</button>
@@ -95,6 +95,12 @@
 </header>
 <div class="container">
   <div class="kpi-grid" id="kpis"></div>
+
+  <div class="card" id="digestCard" style="margin-bottom:1.5rem;display:none">
+    <h2 id="digestHeading" data-en="Daily Digest" data-hu="Napi digest">Daily Digest</h2>
+    <div id="digestBody" style="font-size:0.9rem;line-height:1.5"></div>
+  </div>
+
   <div class="charts-grid">
     <div class="card">
       <h2 data-en="Articles per Day (last 30 days)" data-hu="Napi cikkszám (elmúlt 30 nap)">Articles per Day (last 30 days)</h2>
@@ -183,7 +189,7 @@
 </div>
 
 <script>
-const STATS = {"total_articles": 2408, "analyzed_articles": 15, "tone": {"neutral": 7, "positive": 7, "mixed": 1}, "framing": {"corruption": 1, "democracy_restoration": 7, "geopolitics": 2, "eu_integration": 3, "rule_of_law": 1, "Fidesz opposition": 1}, "region": {"uk": 498, "wire": 205, "us": 597, "fr": 96, "de": 101, "eu": 511, "cee": 300, "think": 100}, "source": {"Euronews": 106, "Euractiv": 104, "AP News": 103, "Reuters": 102, "Financial Times": 101, "Wall Street Journal": 101, "EUobserver": 101, "The Times": 100, "BBC": 100, "New York Times": 100, "Foreign Policy": 100, "Politico US": 100, "Politico Europe": 100, "Notes from Poland": 100, "The Parliament Magazine": 100, "Balkan Insight": 100, "ECFR": 100, "Visegrad Insight": 100, "The Economist": 99, "Washington Post": 98, "The Guardian": 98, "The Atlantic": 98, "Le Monde": 96, "DW English": 92, "Süddeutsche": 9}, "topics": {"government transition": 15, "democracy": 10, "EU relations": 8, "elections": 7, "geopolitics": 4, "foreign policy": 3, "Fidesz opposition": 3, "Russia deals": 2, "corruption": 1, "EU integration": 1, "rule of law": 1, "economy": 1, "EU funds": 1}, "actors": {"Péter Magyar": 13, "Viktor Orbán": 10, "Tisza Party": 8, "Kremlin": 1, "Bulgaria": 1, "Poland (government)": 1, "European Union": 1, "Fidesz": 1, "international investors": 1, "Vladimir Putin": 1, "Ursula von der Leyen": 1, "European leadership": 1, "EU officials": 1}, "main_actor": {"orban_viktor": 5, "magyar_peter": 8, "hungary_country": 2}, "comparison_countries": {"Bulgaria": 1, "Poland": 1, "Russia": 1, "Ukraine": 1}, "keywords": {"hungary": 18, "magyar": 15, "viktor": 14, "transition": 11, "democratic": 10, "rule": 9, "year": 8, "his": 7, "victory": 7, "tisza": 6, "party": 6, "electoral": 6, "ending": 5, "historic": 5, "government": 5, "years": 4, "majority": 4, "geopolitical": 4, "international": 4, "political": 3, "parliamentary": 3, "marks": 3, "defeat": 3, "april": 3, "significant": 3}, "trending": {"hungary": 4.49, "magyar": 3.74, "viktor": 3.49, "transition": 2.74, "democratic": 2.49, "rule": 2.24, "year": 2.0, "his": 1.75, "victory": 1.75, "tisza": 1.5, "party": 1.5, "electoral": 1.5, "ending": 1.25, "historic": 1.25, "government": 1.25, "years": 1.0, "majority": 1.0, "geopolitical": 1.0, "international": 1.0, "political": 0.75}, "daily": {"2026-03-20": 6, "2026-03-21": 1, "2026-03-22": 4, "2026-03-23": 14, "2026-03-24": 6, "2026-03-25": 13, "2026-03-26": 9, "2026-03-27": 7, "2026-03-28": 3, "2026-03-29": 2, "2026-03-30": 7, "2026-03-31": 6, "2026-04-01": 7, "2026-04-02": 3, "2026-04-03": 7, "2026-04-04": 4, "2026-04-05": 5, "2026-04-06": 20, "2026-04-07": 33, "2026-04-08": 27, "2026-04-09": 42, "2026-04-10": 67, "2026-04-11": 38, "2026-04-12": 97, "2026-04-13": 257, "2026-04-14": 218, "2026-04-15": 184, "2026-04-16": 185, "2026-04-17": 128, "2026-04-18": 16}, "tone_by_source": {"The Times": {"neutral": 2}, "Reuters": {"neutral": 1}, "Washington Post": {"positive": 1}, "BBC": {"neutral": 1}, "New York Times": {"positive": 1, "neutral": 1}, "The Guardian": {"positive": 3, "neutral": 1}, "Financial Times": {"neutral": 1, "positive": 1}, "Le Monde": {"positive": 1}, "The Economist": {"mixed": 1}}, "source_bias": {"The Guardian": {"positive": 75, "neutral": 25}}, "coverage_gaps": [], "last_updated": "2026-04-18T20:29:30.913080+00:00"};
+const STATS = {"total_articles": 2424, "analyzed_articles": 16, "tone": {"neutral": 7, "positive": 8, "mixed": 1}, "framing": {"corruption": 1, "democracy_restoration": 8, "geopolitics": 2, "eu_integration": 3, "rule_of_law": 1, "Fidesz opposition": 1}, "region": {"uk": 498, "wire": 211, "us": 600, "fr": 96, "de": 102, "eu": 517, "cee": 300, "think": 100}, "source": {"Euronews": 107, "AP News": 106, "Reuters": 105, "The Parliament Magazine": 105, "Euractiv": 104, "Wall Street Journal": 102, "New York Times": 101, "Financial Times": 101, "EUobserver": 101, "The Times": 100, "BBC": 100, "Foreign Policy": 100, "Politico US": 100, "Politico Europe": 100, "Notes from Poland": 100, "Balkan Insight": 100, "ECFR": 100, "Visegrad Insight": 100, "Washington Post": 99, "The Economist": 99, "The Guardian": 98, "The Atlantic": 98, "Le Monde": 96, "DW English": 93, "Süddeutsche": 9}, "topics": {"government transition": 16, "democracy": 11, "elections": 8, "EU relations": 8, "geopolitics": 4, "foreign policy": 3, "Fidesz opposition": 3, "Russia deals": 2, "corruption": 1, "EU integration": 1, "rule of law": 1, "economy": 1, "EU funds": 1}, "actors": {"Péter Magyar": 14, "Viktor Orbán": 11, "Tisza Party": 8, "Kremlin": 1, "Bulgaria": 1, "Poland (government)": 1, "European Union": 1, "Pope Francis": 1, "Fidesz": 1, "international investors": 1, "Vladimir Putin": 1, "Ursula von der Leyen": 1, "European leadership": 1, "EU officials": 1}, "main_actor": {"orban_viktor": 6, "magyar_peter": 8, "hungary_country": 2}, "comparison_countries": {"Bulgaria": 1, "Poland": 1, "Russia": 1, "Ukraine": 1}, "keywords": {"hungary": 20, "viktor": 15, "magyar": 15, "transition": 12, "democratic": 10, "rule": 10, "year": 9, "his": 7, "electoral": 7, "victory": 7, "tisza": 6, "party": 6, "political": 5, "ending": 5, "historic": 5, "government": 5, "years": 4, "majority": 4, "defeat": 4, "geopolitical": 4, "international": 4, "right": 4, "wing": 4, "parliamentary": 3, "marks": 3}, "trending": {"hungary": 4.57, "viktor": 3.42, "magyar": 3.42, "transition": 2.74, "democratic": 2.28, "rule": 2.28, "year": 2.05, "his": 1.6, "electoral": 1.6, "victory": 1.6, "tisza": 1.37, "party": 1.37, "political": 1.14, "ending": 1.14, "historic": 1.14, "government": 1.14, "years": 0.91, "majority": 0.91, "defeat": 0.91, "geopolitical": 0.91}, "daily": {"2026-03-20": 7, "2026-03-21": 1, "2026-03-22": 4, "2026-03-23": 15, "2026-03-24": 6, "2026-03-25": 13, "2026-03-26": 9, "2026-03-27": 7, "2026-03-28": 3, "2026-03-29": 2, "2026-03-30": 7, "2026-03-31": 6, "2026-04-01": 7, "2026-04-02": 3, "2026-04-03": 7, "2026-04-04": 4, "2026-04-05": 5, "2026-04-06": 20, "2026-04-07": 33, "2026-04-08": 27, "2026-04-09": 42, "2026-04-10": 67, "2026-04-11": 38, "2026-04-12": 97, "2026-04-13": 258, "2026-04-14": 220, "2026-04-15": 186, "2026-04-16": 186, "2026-04-17": 131, "2026-04-18": 16}, "tone_by_source": {"The Times": {"neutral": 2}, "Reuters": {"neutral": 1}, "Washington Post": {"positive": 1}, "BBC": {"neutral": 1}, "New York Times": {"positive": 2, "neutral": 1}, "The Guardian": {"positive": 3, "neutral": 1}, "Financial Times": {"neutral": 1, "positive": 1}, "Le Monde": {"positive": 1}, "The Economist": {"mixed": 1}}, "source_bias": {"New York Times": {"positive": 67, "neutral": 33}, "The Guardian": {"positive": 75, "neutral": 25}}, "coverage_gaps": [], "last_updated": "2026-04-18T20:39:25.410966+00:00"};
 const PAGE_SIZE = 50;
 let allArticles = [];
 let filteredArticles = [];
@@ -225,6 +231,7 @@ function setLang(l) {
     el.textContent = el.getAttribute('data-' + l) || el.getAttribute('data-en');
   });
   renderKPIs();
+  renderDigest();
   renderTable();
 }
 
@@ -397,11 +404,49 @@ function gotoPage(p) {
   window.scrollTo({top: 0, behavior: 'smooth'});
 }
 
+let DIGEST = null;
+
+function renderDigest() {
+  const el = document.getElementById('digestCard');
+  if (!DIGEST) { el.style.display = 'none'; return; }
+  el.style.display = '';
+  const suf = lang === 'hu' ? '_hu' : '_en';
+  const top = DIGEST['top_story' + suf] || '';
+  const devs = DIGEST['key_developments' + suf] || [];
+  const shifts = DIGEST['narrative_shifts' + suf] || [];
+  const quotes = DIGEST['quotes' + suf] || [];
+  const watch = DIGEST['what_to_watch' + suf] || [];
+  const L = (en, hu) => lang === 'hu' ? hu : en;
+  const bullets = arr => arr.length ? `<ul style="margin:0.25rem 0 0.5rem 1.25rem;padding:0">${arr.map(x => `<li style="margin:0.15rem 0">${x}</li>`).join('')}</ul>` : `<div style="color:#64748b;font-size:0.85rem">—</div>`;
+  const quoteBlock = quotes.length ? quotes.map(q =>
+    `<div style="color:#a78bfa;font-style:italic;border-left:2px solid #334155;padding-left:0.6rem;margin:0.3rem 0">"${q.quote || ''}" <span style="color:#64748b;font-style:normal;font-size:0.8rem">— ${q.speaker || ''}</span></div>`
+  ).join('') : `<div style="color:#64748b;font-size:0.85rem">—</div>`;
+  const date = DIGEST.date || '';
+  const count = DIGEST.article_count || 0;
+
+  document.getElementById('digestBody').innerHTML = `
+    <div style="color:#64748b;font-size:0.8rem;margin-bottom:0.75rem">${date} · ${count} ${L('articles','cikk')}</div>
+    <div style="font-size:1.05rem;font-weight:600;color:#f8fafc;margin-bottom:1rem">${top}</div>
+    <h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${L('Key developments','Főbb fejlemények')}</h3>
+    ${bullets(devs)}
+    ${shifts.length ? `<h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${L('Narrative shifts','Narratíva-váltások')}</h3>${bullets(shifts)}` : ''}
+    <h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${L('Quotes of the day','Napi idézetek')}</h3>
+    ${quoteBlock}
+    <h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${L('What to watch','Figyelendő')}</h3>
+    ${bullets(watch)}
+  `;
+}
+
 async function init() {
   const resp = await fetch('articles.json');
   allArticles = await resp.json();
   filteredArticles = allArticles;
+  try {
+    const dResp = await fetch('digest.json');
+    if (dResp.ok) DIGEST = await dResp.json();
+  } catch (e) { DIGEST = null; }
   renderKPIs();
+  renderDigest();
   renderCharts();
   populateFilters();
   renderTable();
