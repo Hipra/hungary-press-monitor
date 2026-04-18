@@ -1,18 +1,8 @@
 {
   "total_articles": 2409,
-  "analyzed_articles": 50,
-  "tone": {
-    "neutral": 37,
-    "critical": 8,
-    "mixed": 5
-  },
-  "framing": {
-    "other": 17,
-    "eu_integration": 2,
-    "geopolitics": 22,
-    "democracy": 7,
-    "economy": 2
-  },
+  "analyzed_articles": 0,
+  "tone": {},
+  "framing": {},
   "region": {
     "us": 600,
     "uk": 500,
@@ -50,93 +40,12 @@
     "Visegrad Insight": 100,
     "Süddeutsche": 9
   },
-  "topics": {
-    "other": 30,
-    "geopolitics": 24,
-    "foreign policy": 19,
-    "government transition": 9,
-    "EU relations": 7,
-    "democracy": 7,
-    "rule of law": 4,
-    "society": 3,
-    "nato": 3,
-    "elections": 3,
-    "media": 2,
-    "economy": 2,
-    "energy": 1,
-    "eu relations": 1
-  },
-  "actors": {
-    "Iran": 9,
-    "Viktor Orbán": 9,
-    "United States": 5,
-    "Donald Trump": 5,
-    "European Union": 4,
-    "Fidesz": 3,
-    "TISZA": 3,
-    "Mexico": 2,
-    "Péter Magyar": 2,
-    "Bulgaria": 2,
-    "Lebanon": 2,
-    "Europe": 1,
-    "Hungary": 1,
-    "BBC": 1,
-    "Trump administration": 1,
-    "Dave Schilling": 1,
-    "Pope Leo": 1,
-    "Kosovo": 1,
-    "Reform UK": 1,
-    "Kremlin": 1
-  },
-  "keywords": {
-    "hungary": 43,
-    "political": 17,
-    "iran": 13,
-    "european": 11,
-    "hungarian": 10,
-    "diplomatic": 10,
-    "administration": 9,
-    "affairs": 8,
-    "reflects": 8,
-    "broader": 8,
-    "united": 8,
-    "states": 8,
-    "does": 8,
-    "likely": 7,
-    "relations": 7,
-    "government": 7,
-    "trump": 7,
-    "appears": 7,
-    "significant": 6,
-    "york": 6,
-    "details": 6,
-    "tensions": 6,
-    "suggests": 6,
-    "implications": 6,
-    "minister": 6
-  },
-  "trending": {
-    "hungary": 3.16,
-    "political": 1.25,
-    "iran": 0.96,
-    "european": 0.81,
-    "hungarian": 0.74,
-    "diplomatic": 0.74,
-    "administration": 0.66,
-    "affairs": 0.59,
-    "reflects": 0.59,
-    "broader": 0.59,
-    "united": 0.59,
-    "states": 0.59,
-    "does": 0.59,
-    "likely": 0.51,
-    "relations": 0.51,
-    "government": 0.51,
-    "trump": 0.51,
-    "appears": 0.51,
-    "significant": 0.44,
-    "york": 0.44
-  },
+  "topics": {},
+  "actors": {},
+  "main_actor": {},
+  "comparison_countries": {},
+  "keywords": {},
+  "trending": {},
   "daily": {
     "2026-03-20": 6,
     "2026-03-21": 1,
@@ -169,56 +78,6 @@
     "2026-04-17": 123,
     "2026-04-18": 71
   },
-  "tone_by_source": {
-    "Washington Post": {
-      "neutral": 4,
-      "critical": 1
-    },
-    "New York Times": {
-      "neutral": 3,
-      "mixed": 1,
-      "critical": 2
-    },
-    "The Guardian": {
-      "neutral": 6,
-      "critical": 2,
-      "mixed": 1
-    },
-    "DW English": {
-      "neutral": 7
-    },
-    "BBC": {
-      "neutral": 2,
-      "mixed": 1
-    },
-    "The Economist": {
-      "critical": 1
-    },
-    "The Atlantic": {
-      "mixed": 1,
-      "neutral": 3,
-      "critical": 1
-    },
-    "Reuters": {
-      "neutral": 6
-    },
-    "Le Monde": {
-      "neutral": 2,
-      "critical": 1
-    },
-    "Financial Times": {
-      "neutral": 1,
-      "mixed": 1
-    },
-    "Politico US": {
-      "neutral": 1
-    },
-    "Euronews": {
-      "neutral": 1
-    },
-    "The Times": {
-      "neutral": 1
-    }
-  },
-  "last_updated": "2026-04-18T19:43:40.784047+00:00"
+  "tone_by_source": {},
+  "last_updated": "2026-04-18T19:47:52.359296+00:00"
 }

@@ -86,7 +86,7 @@
 <header>
   <h1 id="siteTitle">Hungary International Press Monitor</h1>
   <div class="right">
-    <small>Updated: 2026-04-18 19:43 UTC</small>
+    <small>Updated: 2026-04-18 19:47 UTC</small>
     <div class="lang-toggle">
       <button id="btnEN" class="active" onclick="setLang('en')">EN</button>
       <button id="btnHU" onclick="setLang('hu')">HU</button>
@@ -132,6 +132,14 @@
       <h2 data-en="Trending Keywords (48h)" data-hu="Felkapott szavak (48 óra)">Trending Keywords (48h)</h2>
       <div class="chart-wrap"><canvas id="trendingChart"></canvas></div>
     </div>
+    <div class="card">
+      <h2 data-en="Main Actor Focus" data-hu="Főszereplő megoszlása">Main Actor Focus</h2>
+      <div class="chart-wrap"><canvas id="mainActorChart"></canvas></div>
+    </div>
+    <div class="card">
+      <h2 data-en="Countries Compared to Hungary" data-hu="Melyik országokkal hasonlítják össze">Countries Compared to Hungary</h2>
+      <div class="chart-wrap"><canvas id="comparisonChart"></canvas></div>
+    </div>
   </div>
 
   <div class="card">
@@ -166,7 +174,7 @@
 </div>
 
 <script>
-const STATS = {"total_articles": 2409, "analyzed_articles": 50, "tone": {"neutral": 37, "critical": 8, "mixed": 5}, "framing": {"other": 17, "eu_integration": 2, "geopolitics": 22, "democracy": 7, "economy": 2}, "region": {"us": 600, "uk": 500, "de": 109, "wire": 200, "fr": 100, "eu": 500, "cee": 300, "think": 100}, "source": {"Washington Post": 100, "New York Times": 100, "The Guardian": 100, "DW English": 100, "BBC": 100, "The Economist": 100, "The Atlantic": 100, "Reuters": 100, "Le Monde": 100, "Financial Times": 100, "Politico US": 100, "Euronews": 100, "The Times": 100, "AP News": 100, "Foreign Policy": 100, "Politico Europe": 100, "Notes from Poland": 100, "The Parliament Magazine": 100, "Balkan Insight": 100, "ECFR": 100, "Euractiv": 100, "Wall Street Journal": 100, "EUobserver": 100, "Visegrad Insight": 100, "Süddeutsche": 9}, "topics": {"other": 30, "geopolitics": 24, "foreign policy": 19, "government transition": 9, "EU relations": 7, "democracy": 7, "rule of law": 4, "society": 3, "nato": 3, "elections": 3, "media": 2, "economy": 2, "energy": 1, "eu relations": 1}, "actors": {"Iran": 9, "Viktor Orbán": 9, "United States": 5, "Donald Trump": 5, "European Union": 4, "Fidesz": 3, "TISZA": 3, "Mexico": 2, "Péter Magyar": 2, "Bulgaria": 2, "Lebanon": 2, "Europe": 1, "Hungary": 1, "BBC": 1, "Trump administration": 1, "Dave Schilling": 1, "Pope Leo": 1, "Kosovo": 1, "Reform UK": 1, "Kremlin": 1}, "keywords": {"hungary": 43, "political": 17, "iran": 13, "european": 11, "hungarian": 10, "diplomatic": 10, "administration": 9, "affairs": 8, "reflects": 8, "broader": 8, "united": 8, "states": 8, "does": 8, "likely": 7, "relations": 7, "government": 7, "trump": 7, "appears": 7, "significant": 6, "york": 6, "details": 6, "tensions": 6, "suggests": 6, "implications": 6, "minister": 6}, "trending": {"hungary": 3.16, "political": 1.25, "iran": 0.96, "european": 0.81, "hungarian": 0.74, "diplomatic": 0.74, "administration": 0.66, "affairs": 0.59, "reflects": 0.59, "broader": 0.59, "united": 0.59, "states": 0.59, "does": 0.59, "likely": 0.51, "relations": 0.51, "government": 0.51, "trump": 0.51, "appears": 0.51, "significant": 0.44, "york": 0.44}, "daily": {"2026-03-20": 6, "2026-03-21": 1, "2026-03-22": 3, "2026-03-23": 13, "2026-03-24": 6, "2026-03-25": 12, "2026-03-26": 8, "2026-03-27": 7, "2026-03-28": 3, "2026-03-29": 2, "2026-03-30": 7, "2026-03-31": 5, "2026-04-01": 7, "2026-04-02": 3, "2026-04-03": 7, "2026-04-04": 4, "2026-04-05": 5, "2026-04-06": 20, "2026-04-07": 33, "2026-04-08": 27, "2026-04-09": 42, "2026-04-10": 65, "2026-04-11": 38, "2026-04-12": 95, "2026-04-13": 254, "2026-04-14": 207, "2026-04-15": 178, "2026-04-16": 175, "2026-04-17": 123, "2026-04-18": 71}, "tone_by_source": {"Washington Post": {"neutral": 4, "critical": 1}, "New York Times": {"neutral": 3, "mixed": 1, "critical": 2}, "The Guardian": {"neutral": 6, "critical": 2, "mixed": 1}, "DW English": {"neutral": 7}, "BBC": {"neutral": 2, "mixed": 1}, "The Economist": {"critical": 1}, "The Atlantic": {"mixed": 1, "neutral": 3, "critical": 1}, "Reuters": {"neutral": 6}, "Le Monde": {"neutral": 2, "critical": 1}, "Financial Times": {"neutral": 1, "mixed": 1}, "Politico US": {"neutral": 1}, "Euronews": {"neutral": 1}, "The Times": {"neutral": 1}}, "last_updated": "2026-04-18T19:43:40.784047+00:00"};
+const STATS = {"total_articles": 2409, "analyzed_articles": 0, "tone": {}, "framing": {}, "region": {"us": 600, "uk": 500, "de": 109, "wire": 200, "fr": 100, "eu": 500, "cee": 300, "think": 100}, "source": {"Washington Post": 100, "New York Times": 100, "The Guardian": 100, "DW English": 100, "BBC": 100, "The Economist": 100, "The Atlantic": 100, "Reuters": 100, "Le Monde": 100, "Financial Times": 100, "Politico US": 100, "Euronews": 100, "The Times": 100, "AP News": 100, "Foreign Policy": 100, "Politico Europe": 100, "Notes from Poland": 100, "The Parliament Magazine": 100, "Balkan Insight": 100, "ECFR": 100, "Euractiv": 100, "Wall Street Journal": 100, "EUobserver": 100, "Visegrad Insight": 100, "Süddeutsche": 9}, "topics": {}, "actors": {}, "main_actor": {}, "comparison_countries": {}, "keywords": {}, "trending": {}, "daily": {"2026-03-20": 6, "2026-03-21": 1, "2026-03-22": 3, "2026-03-23": 13, "2026-03-24": 6, "2026-03-25": 12, "2026-03-26": 8, "2026-03-27": 7, "2026-03-28": 3, "2026-03-29": 2, "2026-03-30": 7, "2026-03-31": 5, "2026-04-01": 7, "2026-04-02": 3, "2026-04-03": 7, "2026-04-04": 4, "2026-04-05": 5, "2026-04-06": 20, "2026-04-07": 33, "2026-04-08": 27, "2026-04-09": 42, "2026-04-10": 65, "2026-04-11": 38, "2026-04-12": 95, "2026-04-13": 254, "2026-04-14": 207, "2026-04-15": 178, "2026-04-16": 175, "2026-04-17": 123, "2026-04-18": 71}, "tone_by_source": {}, "last_updated": "2026-04-18T19:47:52.359296+00:00"};
 const PAGE_SIZE = 50;
 let allArticles = [];
 let filteredArticles = [];
@@ -257,6 +265,15 @@ function renderCharts() {
   makeChart('keywordsChart', 'bar', kw.map(([k]) => k), kw.map(([,v]) => v));
   const tr = Object.entries(STATS.trending || {}).slice(0, 15);
   makeChart('trendingChart', 'bar', tr.map(([k]) => k), tr.map(([,v]) => v), ['#f472b6']);
+  const ACTOR_LABELS = {
+    magyar_peter: 'Magyar Péter', orban_viktor: 'Orbán Viktor',
+    hungary_country: 'Magyarország', eu_institutions: 'EU intézmények', other: 'egyéb'
+  };
+  const ma = STATS.main_actor || {};
+  makeChart('mainActorChart', 'doughnut',
+    Object.keys(ma).map(k => ACTOR_LABELS[k] || k), Object.values(ma));
+  const cc = Object.entries(STATS.comparison_countries || {}).slice(0, 12);
+  makeChart('comparisonChart', 'bar', cc.map(([k]) => k), cc.map(([,v]) => v), ['#34d399']);
 }
 
 function populateFilters() {

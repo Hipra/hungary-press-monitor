@@ -57,19 +57,21 @@ def load_articles(conn: sqlite3.Connection) -> list[dict]:
                topics, actors, tone, framing, summary_en, title_hu, summary_hu, analyzed,
                COALESCE(is_relevant, 1) as is_relevant,
                COALESCE(main_actor, 'other') as main_actor,
-               COALESCE(comparison_countries, '[]') as comparison_countries
+               COALESCE(comparison_countries, '[]') as comparison_countries,
+               COALESCE(quotes, '[]') as quotes
         FROM articles
         ORDER BY published_at DESC
     """).fetchall()
     cols = ["id", "source", "region", "title", "url", "published_at", "fetched_at",
             "topics", "actors", "tone", "framing", "summary_en", "title_hu", "summary_hu",
-            "analyzed", "is_relevant", "main_actor", "comparison_countries"]
+            "analyzed", "is_relevant", "main_actor", "comparison_countries", "quotes"]
     articles = []
     for row in rows:
         a = dict(zip(cols, row))
         a["topics"] = json.loads(a["topics"] or "[]")
         a["actors"] = json.loads(a["actors"] or "[]")
         a["comparison_countries"] = json.loads(a["comparison_countries"] or "[]")
+        a["quotes"] = json.loads(a["quotes"] or "[]")
         articles.append(a)
     return articles
 
@@ -133,6 +135,28 @@ def build_stats(articles: list[dict]) -> dict:
         trending[word] = round(score, 2)
     trending_sorted = dict(sorted(trending.items(), key=lambda x: -x[1])[:20])
 
+    # Source bias: dominant tone per source (for stacked bar)
+    source_bias: dict[str, dict] = {}
+    for src, counts in tone_by_source.items():
+        total = sum(counts.values())
+        if total >= 3:
+            source_bias[src] = {t: round(c / total * 100) for t, c in counts.items()}
+
+    # Coverage gaps: topics seen in articles older than 14 days but not in last 14 days
+    cutoff_gap = (now - timedelta(days=14)).isoformat()
+    recent14 = [a for a in analyzed if (a["published_at"] or "") >= cutoff_gap]
+    older = [a for a in analyzed if (a["published_at"] or "") < cutoff_gap]
+    recent_topics: set[str] = set()
+    for a in recent14:
+        recent_topics.update(a["topics"])
+    gap_topics = []
+    old_topic_counts: Counter = Counter()
+    for a in older:
+        old_topic_counts.update(a["topics"])
+    for topic, cnt in old_topic_counts.most_common():
+        if topic not in recent_topics and cnt >= 3:
+            gap_topics.append({"topic": topic, "last_seen_count": cnt})
+
     return {
         "total_articles": len(relevant),
         "analyzed_articles": len(analyzed),
@@ -148,6 +172,8 @@ def build_stats(articles: list[dict]) -> dict:
         "trending": trending_sorted,
         "daily": daily_sorted,
         "tone_by_source": tone_by_source_out,
+        "source_bias": source_bias,
+        "coverage_gaps": gap_topics[:10],
         "last_updated": datetime.now(timezone.utc).isoformat(),
     }
 
@@ -307,6 +333,15 @@ def generate_html(stats: dict, stats_json: str) -> str:
       <h2 data-en="Countries Compared to Hungary" data-hu="Melyik országokkal hasonlítják össze">Countries Compared to Hungary</h2>
       <div class="chart-wrap"><canvas id="comparisonChart"></canvas></div>
     </div>
+    <div class="card">
+      <h2 data-en="Source Bias (tone %, min 3 articles)" data-hu="Forrás hangnem-profil (%, min 3 cikk)">Source Bias (tone %, min 3 articles)</h2>
+      <div class="chart-wrap" style="height:320px"><canvas id="sourceBiasChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="card" id="gapsCard" style="margin-bottom:1.5rem">
+    <h2 data-en="Coverage Gaps (topics not seen in 14 days)" data-hu="Lefedettségi hiányok (14 napja nem szerepelt)">Coverage Gaps (topics not seen in 14 days)</h2>
+    <div id="gapsList" style="color:#94a3b8;font-size:0.875rem"></div>
   </div>
 
   <div class="card">
@@ -441,6 +476,44 @@ function renderCharts() {{
     Object.keys(ma).map(k => ACTOR_LABELS[k] || k), Object.values(ma));
   const cc = Object.entries(STATS.comparison_countries || {{}}).slice(0, 12);
   makeChart('comparisonChart', 'bar', cc.map(([k]) => k), cc.map(([,v]) => v), ['#34d399']);
+
+  // Source bias stacked bar
+  const bias = STATS.source_bias || {{}};
+  const biasLabels = Object.keys(bias).slice(0, 15);
+  if (biasLabels.length) {{
+    const tones = ['positive','neutral','mixed','critical'];
+    const toneColors = {{'positive':'#4ade80','neutral':'#60a5fa','mixed':'#fbbf24','critical':'#f87171'}};
+    new Chart(document.getElementById('sourceBiasChart'), {{
+      type: 'bar',
+      data: {{
+        labels: biasLabels,
+        datasets: tones.map(tone => ({{
+          label: tone,
+          data: biasLabels.map(s => bias[s][tone] || 0),
+          backgroundColor: toneColors[tone],
+        }})),
+      }},
+      options: {{
+        responsive: true, maintainAspectRatio: false,
+        scales: {{
+          x: {{ stacked: true, ticks: {{ color: '#64748b', maxRotation: 45 }}, grid: {{ color: '#1e293b' }} }},
+          y: {{ stacked: true, ticks: {{ color: '#64748b' }}, grid: {{ color: '#334155' }}, max: 100 }},
+        }},
+        plugins: {{ legend: {{ labels: {{ color: '#94a3b8', boxWidth: 12 }} }} }},
+      }},
+    }});
+  }}
+
+  // Coverage gaps
+  const gaps = STATS.coverage_gaps || [];
+  const gapsEl = document.getElementById('gapsList');
+  if (gaps.length === 0) {{
+    gapsEl.textContent = lang === 'hu' ? 'Nincs hiány észlelve.' : 'No gaps detected.';
+  }} else {{
+    gapsEl.innerHTML = gaps.map(g =>
+      `<span class="tag" style="margin:0.2rem">${{g.topic}} <span style="color:#f87171">(×${{g.last_seen_count}})</span></span>`
+    ).join('');
+  }}
 }}
 
 function populateFilters() {{
@@ -490,6 +563,7 @@ function renderTable() {{
       <td style="white-space:nowrap">${{a.source}}</td>
       <td><a href="${{a.url}}" target="_blank" rel="noopener">${{title}}</a>
         ${{summary ? `<div style="color:#64748b;font-size:0.8rem;margin-top:0.25rem">${{summary}}</div>` : ''}}
+        ${{(a.quotes||[]).length ? `<div style="margin-top:0.3rem">${{(a.quotes||[]).map(q=>`<div style="color:#a78bfa;font-size:0.78rem;font-style:italic;border-left:2px solid #334155;padding-left:0.4rem;margin-top:0.2rem">"${{q}}"</div>`).join('')}}</div>` : ''}}
       </td>
       <td><span class="badge tone-${{a.tone}}">${{toneLabel(a.tone)||'—'}}</span></td>
       <td>${{(a.topics||[]).map(t => `<span class="tag">${{t}}</span>`).join('')}}</td>
@@ -549,6 +623,7 @@ def main() -> None:
         ("title_hu", "TEXT"), ("summary_hu", "TEXT"),
         ("is_relevant", "INTEGER DEFAULT 1"),
         ("main_actor", "TEXT"), ("comparison_countries", "TEXT"),
+        ("quotes", "TEXT"),
     ]:
         if col not in existing:
             conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {typedef}")

@@ -2,6 +2,7 @@
 Analyze pending articles using the local Claude CLI.
 Calls `claude -p` per article, extracts structured JSON including
 Hungarian translation of title and summary.
+Loads data/context.md (built by build_context.py) as live background context.
 """
 
 from __future__ import annotations
@@ -18,15 +19,18 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(mess
 log = logging.getLogger(__name__)
 
 DB_PATH = Path("data/articles.db")
+CONTEXT_PATH = Path("data/context.md")
 DELAY_BETWEEN_CALLS = 0.5
 MAX_PER_RUN = 50
 
-SYSTEM_PROMPT = """You are a press analyst specializing in international coverage of Hungary.
+BASE_SYSTEM_PROMPT = """You are a press analyst specializing in international coverage of Hungary.
 
-Context: In April 2026, Hungary underwent a historic government transition.
+Background: In April 2026, Hungary underwent a historic government transition.
 Péter Magyar and the Tisza Party won a two-thirds parliamentary majority,
 ending Viktor Orbán's 15-year rule. The international press is now covering
 Hungary's democratic transition, EU reintegration, and geopolitical realignment.
+
+{context_section}
 
 Analyze the article and return ONLY a valid JSON object with these exact fields:
 
@@ -43,24 +47,33 @@ Analyze the article and return ONLY a valid JSON object with these exact fields:
   "geopolitics" = NATO, Russia, Ukraine, US relations angle
   "economy" = markets, EU funds, investment, fiscal policy
   "eu_integration" = Hungary rejoining EU mainstream, Brussels relations
-  "regional" = V4, CEE, Balkans context
+  "rule_of_law" = judicial reform, court independence, constitutional changes
+  "media_freedom" = press freedom, media ownership, public broadcasting
+  "corruption" = anti-corruption measures, Fidesz-era corruption, asset recovery
+  "regional" = V4, CEE, Balkans, Serbia, Slovakia context
+  "russia_china" = unwinding deals with Russia or China, energy, Huawei, Paks2
   "other"
 
 - main_actor: the primary subject of the article
   "magyar_peter" = Péter Magyar or his government
-  "orban_viktor" = Viktor Orbán (as ex-PM, opposition, legacy)
+  "orban_viktor" = Viktor Orbán (as ex-PM, opposition figure, or legacy)
+  "fidesz" = Fidesz party as opposition
   "hungary_country" = Hungary as a country/institution
   "eu_institutions" = European Commission, Parliament, Council
   "other"
 
 - comparison_countries: array of country names explicitly compared to Hungary (max 3, empty array if none)
 
-- topics: array of 1-4 strings from:
+- topics: array of 1-5 strings from:
   ["government transition", "EU relations", "economy", "democracy", "geopolitics",
-   "elections", "foreign policy", "rule of law", "media", "society", "migration",
-   "energy", "nato", "other"]
+   "elections", "foreign policy", "rule of law", "media freedom", "society", "migration",
+   "energy", "nato", "EU funds", "judicial reform", "corruption", "Fidesz opposition",
+   "V4 diplomacy", "Russia deals", "China deals", "human rights", "other"]
 
 - actors: array of key person/organization names mentioned (max 5)
+
+- quotes: array of 1-3 notable direct quotes from officials, politicians, or analysts
+  (exact quoted text only, max 120 chars each; empty array if no direct quotes)
 
 - summary_en: 2-3 sentence English summary focused on Hungary angle
 
@@ -80,6 +93,19 @@ Published: {published_at}
 Analyze this article."""
 
 
+def load_context() -> str:
+    if CONTEXT_PATH.exists():
+        content = CONTEXT_PATH.read_text(encoding="utf-8").strip()
+        if content:
+            return f"CURRENT CONTEXT (synthesized from recent coverage):\n{content}\n"
+    return ""
+
+
+def build_system_prompt() -> str:
+    context_section = load_context()
+    return BASE_SYSTEM_PROMPT.format(context_section=context_section)
+
+
 def migrate_db(conn: sqlite3.Connection) -> None:
     existing = {row[1] for row in conn.execute("PRAGMA table_info(articles)")}
     new_cols = [
@@ -88,6 +114,7 @@ def migrate_db(conn: sqlite3.Connection) -> None:
         ("is_relevant", "INTEGER DEFAULT 1"),
         ("main_actor", "TEXT"),
         ("comparison_countries", "TEXT"),
+        ("quotes", "TEXT"),
     ]
     for col, typedef in new_cols:
         if col not in existing:
@@ -102,7 +129,7 @@ def get_pending_articles(conn: sqlite3.Connection) -> list[dict]:
         """SELECT id, source, region, title, url, published_at FROM articles
            WHERE analyzed = 0 AND published_at >= ?
            ORDER BY published_at DESC LIMIT ?""",
-        (today, MAX_PER_RUN)
+        (today, MAX_PER_RUN),
     ).fetchall()
     return [
         {"id": r[0], "source": r[1], "region": r[2],
@@ -151,6 +178,7 @@ def save_analysis(conn: sqlite3.Connection, article_id: str, analysis: dict) -> 
             topics = ?, actors = ?, tone = ?, framing = ?,
             summary_en = ?, title_hu = ?, summary_hu = ?,
             is_relevant = ?, main_actor = ?, comparison_countries = ?,
+            quotes = ?,
             analyzed = 1
         WHERE id = ?
         """,
@@ -165,6 +193,7 @@ def save_analysis(conn: sqlite3.Connection, article_id: str, analysis: dict) -> 
             1 if analysis.get("is_relevant", True) else 0,
             analysis.get("main_actor", "other"),
             json.dumps(analysis.get("comparison_countries", [])),
+            json.dumps(analysis.get("quotes", [])),
             article_id,
         ),
     )
@@ -181,13 +210,16 @@ def main() -> None:
         conn.close()
         return
 
-    log.info("Analyzing %d articles...", len(articles))
+    system_prompt = build_system_prompt()
+    context_loaded = CONTEXT_PATH.exists()
+    log.info("Analyzing %d articles (context: %s)...", len(articles),
+             "loaded" if context_loaded else "none")
     saved = failed = 0
 
     for i, article in enumerate(articles, 1):
         log.info("[%d/%d] %s — %s", i, len(articles), article["source"], article["title"][:60])
 
-        prompt = PROMPT_TEMPLATE.format(system=SYSTEM_PROMPT, **article)
+        prompt = PROMPT_TEMPLATE.format(system=system_prompt, **article)
         response = call_claude(prompt)
 
         if not response:
