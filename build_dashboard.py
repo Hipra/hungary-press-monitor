@@ -25,6 +25,10 @@ STOPWORDS = {
     # generic news words
     "news","video","opinion","says","latest","bulletin","world","report",
     "analysis","review","inside","why","here","know","get","take","make",
+    # claude summary boilerplate
+    "article","piece","discusses","examines","explores","highlights","covers",
+    "ongoing","between","amid","while","within","during","following","recent",
+    "content","related","context","focus","topic","issue","situation","including",
     # url/domain fragments
     "com","www","http","https","org","net",
 }
@@ -39,9 +43,11 @@ def extract_keywords(text: str) -> list[str]:
 
 
 def keyword_counts(articles: list[dict]) -> Counter:
+    """Extract keywords from summary_en of analyzed+relevant articles only."""
     c: Counter = Counter()
     for a in articles:
-        c.update(extract_keywords(a.get("title", "")))
+        if a.get("analyzed") and a.get("summary_en"):
+            c.update(extract_keywords(a["summary_en"]))
     return c
 
 
