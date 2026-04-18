@@ -86,7 +86,7 @@
 <header>
   <h1 id="siteTitle">Hungary International Press Monitor</h1>
   <div class="right">
-    <small>Updated: 2026-04-18 19:47 UTC</small>
+    <small>Updated: 2026-04-18 20:29 UTC</small>
     <div class="lang-toggle">
       <button id="btnEN" class="active" onclick="setLang('en')">EN</button>
       <button id="btnHU" onclick="setLang('hu')">HU</button>
@@ -140,6 +140,15 @@
       <h2 data-en="Countries Compared to Hungary" data-hu="Melyik országokkal hasonlítják össze">Countries Compared to Hungary</h2>
       <div class="chart-wrap"><canvas id="comparisonChart"></canvas></div>
     </div>
+    <div class="card">
+      <h2 data-en="Source Bias (tone %, min 3 articles)" data-hu="Forrás hangnem-profil (%, min 3 cikk)">Source Bias (tone %, min 3 articles)</h2>
+      <div class="chart-wrap" style="height:320px"><canvas id="sourceBiasChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="card" id="gapsCard" style="margin-bottom:1.5rem">
+    <h2 data-en="Coverage Gaps (topics not seen in 14 days)" data-hu="Lefedettségi hiányok (14 napja nem szerepelt)">Coverage Gaps (topics not seen in 14 days)</h2>
+    <div id="gapsList" style="color:#94a3b8;font-size:0.875rem"></div>
   </div>
 
   <div class="card">
@@ -174,7 +183,7 @@
 </div>
 
 <script>
-const STATS = {"total_articles": 2409, "analyzed_articles": 0, "tone": {}, "framing": {}, "region": {"us": 600, "uk": 500, "de": 109, "wire": 200, "fr": 100, "eu": 500, "cee": 300, "think": 100}, "source": {"Washington Post": 100, "New York Times": 100, "The Guardian": 100, "DW English": 100, "BBC": 100, "The Economist": 100, "The Atlantic": 100, "Reuters": 100, "Le Monde": 100, "Financial Times": 100, "Politico US": 100, "Euronews": 100, "The Times": 100, "AP News": 100, "Foreign Policy": 100, "Politico Europe": 100, "Notes from Poland": 100, "The Parliament Magazine": 100, "Balkan Insight": 100, "ECFR": 100, "Euractiv": 100, "Wall Street Journal": 100, "EUobserver": 100, "Visegrad Insight": 100, "Süddeutsche": 9}, "topics": {}, "actors": {}, "main_actor": {}, "comparison_countries": {}, "keywords": {}, "trending": {}, "daily": {"2026-03-20": 6, "2026-03-21": 1, "2026-03-22": 3, "2026-03-23": 13, "2026-03-24": 6, "2026-03-25": 12, "2026-03-26": 8, "2026-03-27": 7, "2026-03-28": 3, "2026-03-29": 2, "2026-03-30": 7, "2026-03-31": 5, "2026-04-01": 7, "2026-04-02": 3, "2026-04-03": 7, "2026-04-04": 4, "2026-04-05": 5, "2026-04-06": 20, "2026-04-07": 33, "2026-04-08": 27, "2026-04-09": 42, "2026-04-10": 65, "2026-04-11": 38, "2026-04-12": 95, "2026-04-13": 254, "2026-04-14": 207, "2026-04-15": 178, "2026-04-16": 175, "2026-04-17": 123, "2026-04-18": 71}, "tone_by_source": {}, "last_updated": "2026-04-18T19:47:52.359296+00:00"};
+const STATS = {"total_articles": 2408, "analyzed_articles": 15, "tone": {"neutral": 7, "positive": 7, "mixed": 1}, "framing": {"corruption": 1, "democracy_restoration": 7, "geopolitics": 2, "eu_integration": 3, "rule_of_law": 1, "Fidesz opposition": 1}, "region": {"uk": 498, "wire": 205, "us": 597, "fr": 96, "de": 101, "eu": 511, "cee": 300, "think": 100}, "source": {"Euronews": 106, "Euractiv": 104, "AP News": 103, "Reuters": 102, "Financial Times": 101, "Wall Street Journal": 101, "EUobserver": 101, "The Times": 100, "BBC": 100, "New York Times": 100, "Foreign Policy": 100, "Politico US": 100, "Politico Europe": 100, "Notes from Poland": 100, "The Parliament Magazine": 100, "Balkan Insight": 100, "ECFR": 100, "Visegrad Insight": 100, "The Economist": 99, "Washington Post": 98, "The Guardian": 98, "The Atlantic": 98, "Le Monde": 96, "DW English": 92, "Süddeutsche": 9}, "topics": {"government transition": 15, "democracy": 10, "EU relations": 8, "elections": 7, "geopolitics": 4, "foreign policy": 3, "Fidesz opposition": 3, "Russia deals": 2, "corruption": 1, "EU integration": 1, "rule of law": 1, "economy": 1, "EU funds": 1}, "actors": {"Péter Magyar": 13, "Viktor Orbán": 10, "Tisza Party": 8, "Kremlin": 1, "Bulgaria": 1, "Poland (government)": 1, "European Union": 1, "Fidesz": 1, "international investors": 1, "Vladimir Putin": 1, "Ursula von der Leyen": 1, "European leadership": 1, "EU officials": 1}, "main_actor": {"orban_viktor": 5, "magyar_peter": 8, "hungary_country": 2}, "comparison_countries": {"Bulgaria": 1, "Poland": 1, "Russia": 1, "Ukraine": 1}, "keywords": {"hungary": 18, "magyar": 15, "viktor": 14, "transition": 11, "democratic": 10, "rule": 9, "year": 8, "his": 7, "victory": 7, "tisza": 6, "party": 6, "electoral": 6, "ending": 5, "historic": 5, "government": 5, "years": 4, "majority": 4, "geopolitical": 4, "international": 4, "political": 3, "parliamentary": 3, "marks": 3, "defeat": 3, "april": 3, "significant": 3}, "trending": {"hungary": 4.49, "magyar": 3.74, "viktor": 3.49, "transition": 2.74, "democratic": 2.49, "rule": 2.24, "year": 2.0, "his": 1.75, "victory": 1.75, "tisza": 1.5, "party": 1.5, "electoral": 1.5, "ending": 1.25, "historic": 1.25, "government": 1.25, "years": 1.0, "majority": 1.0, "geopolitical": 1.0, "international": 1.0, "political": 0.75}, "daily": {"2026-03-20": 6, "2026-03-21": 1, "2026-03-22": 4, "2026-03-23": 14, "2026-03-24": 6, "2026-03-25": 13, "2026-03-26": 9, "2026-03-27": 7, "2026-03-28": 3, "2026-03-29": 2, "2026-03-30": 7, "2026-03-31": 6, "2026-04-01": 7, "2026-04-02": 3, "2026-04-03": 7, "2026-04-04": 4, "2026-04-05": 5, "2026-04-06": 20, "2026-04-07": 33, "2026-04-08": 27, "2026-04-09": 42, "2026-04-10": 67, "2026-04-11": 38, "2026-04-12": 97, "2026-04-13": 257, "2026-04-14": 218, "2026-04-15": 184, "2026-04-16": 185, "2026-04-17": 128, "2026-04-18": 16}, "tone_by_source": {"The Times": {"neutral": 2}, "Reuters": {"neutral": 1}, "Washington Post": {"positive": 1}, "BBC": {"neutral": 1}, "New York Times": {"positive": 1, "neutral": 1}, "The Guardian": {"positive": 3, "neutral": 1}, "Financial Times": {"neutral": 1, "positive": 1}, "Le Monde": {"positive": 1}, "The Economist": {"mixed": 1}}, "source_bias": {"The Guardian": {"positive": 75, "neutral": 25}}, "coverage_gaps": [], "last_updated": "2026-04-18T20:29:30.913080+00:00"};
 const PAGE_SIZE = 50;
 let allArticles = [];
 let filteredArticles = [];
@@ -274,6 +283,44 @@ function renderCharts() {
     Object.keys(ma).map(k => ACTOR_LABELS[k] || k), Object.values(ma));
   const cc = Object.entries(STATS.comparison_countries || {}).slice(0, 12);
   makeChart('comparisonChart', 'bar', cc.map(([k]) => k), cc.map(([,v]) => v), ['#34d399']);
+
+  // Source bias stacked bar
+  const bias = STATS.source_bias || {};
+  const biasLabels = Object.keys(bias).slice(0, 15);
+  if (biasLabels.length) {
+    const tones = ['positive','neutral','mixed','critical'];
+    const toneColors = {'positive':'#4ade80','neutral':'#60a5fa','mixed':'#fbbf24','critical':'#f87171'};
+    new Chart(document.getElementById('sourceBiasChart'), {
+      type: 'bar',
+      data: {
+        labels: biasLabels,
+        datasets: tones.map(tone => ({
+          label: tone,
+          data: biasLabels.map(s => bias[s][tone] || 0),
+          backgroundColor: toneColors[tone],
+        })),
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        scales: {
+          x: { stacked: true, ticks: { color: '#64748b', maxRotation: 45 }, grid: { color: '#1e293b' } },
+          y: { stacked: true, ticks: { color: '#64748b' }, grid: { color: '#334155' }, max: 100 },
+        },
+        plugins: { legend: { labels: { color: '#94a3b8', boxWidth: 12 } } },
+      },
+    });
+  }
+
+  // Coverage gaps
+  const gaps = STATS.coverage_gaps || [];
+  const gapsEl = document.getElementById('gapsList');
+  if (gaps.length === 0) {
+    gapsEl.textContent = lang === 'hu' ? 'Nincs hiány észlelve.' : 'No gaps detected.';
+  } else {
+    gapsEl.innerHTML = gaps.map(g =>
+      `<span class="tag" style="margin:0.2rem">${g.topic} <span style="color:#f87171">(×${g.last_seen_count})</span></span>`
+    ).join('');
+  }
 }
 
 function populateFilters() {
@@ -323,6 +370,7 @@ function renderTable() {
       <td style="white-space:nowrap">${a.source}</td>
       <td><a href="${a.url}" target="_blank" rel="noopener">${title}</a>
         ${summary ? `<div style="color:#64748b;font-size:0.8rem;margin-top:0.25rem">${summary}</div>` : ''}
+        ${(a.quotes||[]).length ? `<div style="margin-top:0.3rem">${(a.quotes||[]).map(q=>`<div style="color:#a78bfa;font-size:0.78rem;font-style:italic;border-left:2px solid #334155;padding-left:0.4rem;margin-top:0.2rem">"${q}"</div>`).join('')}</div>` : ''}
       </td>
       <td><span class="badge tone-${a.tone}">${toneLabel(a.tone)||'—'}</span></td>
       <td>${(a.topics||[]).map(t => `<span class="tag">${t}</span>`).join('')}</td>
