@@ -1,45 +1,16 @@
-name: Fetch and analyze
+# Pipeline runs locally on Mac Mini via cron.
+# This workflow is disabled — kept only as documentation.
+name: Fetch and analyze (disabled)
 
 on:
-  schedule:
-    - cron: '0 */2 * * *'   # every 2 hours
-  workflow_dispatch:          # manual trigger
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'This workflow is disabled. Run locally via run.sh.'
+        required: false
 
 jobs:
-  run:
+  noop:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Install Claude CLI
-        run: npm install -g @anthropic-ai/claude-code
-
-      - name: Fetch articles
-        run: python fetch.py
-
-      - name: Analyze with Claude
-        run: python analyze.py
-
-      - name: Build dashboard
-        run: python build_dashboard.py
-
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add data/articles.db docs/
-          git diff --staged --quiet || git commit -m "chore: update [$(date -u +%H:%M UTC)]"
-          git push
-
-    env:
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - run: echo "Pipeline runs on Mac Mini. See run.sh."
