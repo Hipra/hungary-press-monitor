@@ -1,61 +1,61 @@
 {
-  "top_story_en": "Hungary's democratic transition enters its implementation phase: the final vote count formally confirmed Magyar's two-thirds majority on the same day EU officials arrived in Budapest to begin high-stakes reintegration talks, marking the shift from electoral outcome to institutional negotiation.",
-  "top_story_hu": "Magyarország demokratikus átmenete a végrehajtási szakaszba lép: a végleges szavazatszámlálás megerősítette Magyar kétharmados többségét, miközben az EU-tisztviselők is Budapestre érkeztek a tétekkel teli reintegrációs tárgyalásokra – a választási eredményből intézményi folyamat lett.",
+  "top_story_en": "Hungary's democratic transition moves from electoral victory to governing reality: the final vote count locks in Magyar's two-thirds majority while EU officials are already in Budapest for reintegration talks — the international community is treating the transition as fait accompli.",
+  "top_story_hu": "Magyarország demokratikus átmenete a választási győzelemből kormányzási valósággá válik: a végső szavazatszámlálás megerősíti Magyar kétharmados többségét, miközben uniós tisztviselők már Budapesten tárgyalnak — a nemzetközi közösség befejezett tényként kezeli az átmenetet.",
   "key_developments_en": [
-    "Reuters confirms the final vote count seals Tisza Party's two-thirds parliamentary majority, giving Magyar a strong mandate for constitutional-level reforms.",
+    "Final vote count confirms Tisza Party's two-thirds parliamentary majority, formally completing Hungary's electoral transition from Orbán's 15-year rule.",
     "EU officials arrive in Budapest for high-stakes talks with Magyar's government on democratic reform conditions and reintegration terms.",
-    "Financial Times reports international investors are significantly increasing Hungarian asset purchases, pricing in an EU-integration premium under the new government.",
-    "Magyar has approached Poland as a strategic partner in rebuilding Hungary's EU relationships, signalling a pragmatic, Central European-first diplomatic strategy.",
-    "Washington Post identifies Bulgaria as Russia's emerging fallback Central European partner following the loss of Orbán-era Hungary."
+    "Magyar's incoming government reaches out to Poland as a strategic partner for rebuilding Hungary's EU relations.",
+    "International investors are significantly increasing purchases of Hungarian assets, pricing in restored EU fund access and rule-of-law compliance.",
+    "The Times investigation details Orbán's personal enrichment via a mansion in his home village, framing systemic corruption as a proximate cause of his electoral defeat."
   ],
   "key_developments_hu": [
-    "A Reuters megerősíti: a végleges szavazatszámlálás lezárta a Tisza Párt kétharmados parlamenti többségét, erős felhatalmazást adva Magyarnak alkotmányos szintű reformokhoz.",
-    "EU-tisztviselők érkeztek Budapestre, hogy Magyar kormányával tárgyaljanak a demokratikus reformok feltételeiről és az újraintegráció részleteiről.",
-    "A Financial Times arról számol be, hogy a nemzetközi befektetők jelentősen növelték magyar eszközök vásárlását, az EU-integráció felárát árazva be az új kormány alatt.",
-    "Magyar Lengyelországot stratégiai partnerként kereste meg Magyarország EU-kapcsolatainak helyreállításához, pragmatikus, közép-európai-első diplomáciai stratégiát jelezve.",
-    "A Washington Post szerint Bulgária válik Oroszország következő közép-európai támaszkodópontjává az Orbán-kori Magyarország elvesztése után."
+    "A végső szavazatszámlálás megerősíti a Tisza Párt kétharmados parlamenti többségét, formálisan lezárva Magyarország választási átmenetét Orbán 15 éves uralma után.",
+    "Uniós tisztviselők érkeztek Budapestre Magyar kormányával folytatott tárgyalásokra a demokratikus reformok feltételeiről és az újraintegráció feltételrendszeréről.",
+    "Magyar beiktatás előtt álló kormánya Lengyelországhoz fordul stratégiai partnerként Magyarország uniós kapcsolatainak helyreállítása érdekében.",
+    "Nemzetközi befektetők jelentősen növelik magyar eszközök vásárlását, az uniós forrásokhoz való visszatérésre és a jogállamisági megfelelésre fogadva.",
+    "A Times riportja feltárja Orbán személyes meggazdagodását szülőfalujában lévő villája révén, a rendszerszintű korrupciót választási vereségének közvetlen okaként keretezve."
   ],
   "narrative_shifts_en": [
-    "Coverage is pivoting from electoral triumph to scrutiny of governance: the Financial Times 'battles ahead' framing signals a new critical register focused on Magyar's capacity to deliver, not just his victory.",
-    "US outlets (NYT, twice today) are now globalising the Hungary story, framing Orbán's defeat as a lesson for liberal movements worldwide — a thematic expansion beyond EU or bilateral coverage.",
-    "The Economist introduces for the first time the Orbán-comeback storyline, shifting him from defeated incumbent to potential opposition actor — a narrative absent from all prior coverage."
+    "Coverage pivots sharply from election results to governing challenges: the Financial Times 'battles ahead' framing signals international media have closed the victory chapter and opened the accountability one.",
+    "A new geopolitical subplot emerges: Washington Post shifts focus to Bulgaria as Russia's Central European fallback, widening the story beyond Hungary's internal transition.",
+    "The Economist introduces an entirely novel question — Orbán's potential comeback as opposition leader — a framing that was structurally impossible to raise before the vote count was final."
   ],
   "narrative_shifts_hu": [
-    "A tudósítások a választási diadaltól a kormányzás vizsgálata felé fordulnak: az FT 'előttünk álló csaták' keretezése új, kritikus hangnemet jelez, amely Magyar teljesítőképességére összpontosít.",
-    "Az amerikai lapok (NYT, ma kétszer) globalizálják a magyarországi történetet, Orbán vereségét a liberális mozgalmak számára levonható tanulságként tálalva – ez tematikus bővülés az EU- vagy kétoldalú keretezésen túl.",
-    "A The Economist elsőként veti fel az Orbán-visszatérés narratíváját, a legyőzött volt miniszterelnököt potenciális ellenzéki szereplőként pozicionálva – ez a szál a korábbi tudósításokból teljesen hiányzott."
+    "A tudósítások élesen a választási eredményekről a kormányzási kihívásokra fordulnak: az FT 'előttünk álló csaták' keretezése jelzi, hogy a nemzetközi sajtó lezárta a győzelem fejezetét és megnyitotta az elszámoltathatóságét.",
+    "Új geopolitikai mellékszál jelenik meg: a Washington Post Bulgáriára irányítja a figyelmet mint Oroszország közép-európai tartalékára, a történetet Magyarország belső átmenetén túlra tágítva.",
+    "Az Economist egy teljesen új kérdést vet fel — Orbán esetleges visszatérése ellenzéki vezetőként —, amely a szavazatszámlálás véglegesítése előtt strukturálisan felvethetetlen volt."
   ],
   "quotes_en": [
     {
       "quote": "A defeat for Putin",
-      "speaker": "Ukrainian observers, cited by The Guardian, on Magyar's electoral victory"
+      "speaker": "Ukrainian observers, cited by The Guardian"
     },
     {
-      "quote": "Orbán's defeat in Hungary is truly a defeat for the reactionary international",
-      "speaker": "Le Monde commentary"
+      "quote": "Viktor Orban's defeat in Hungary is truly a defeat for the reactionary international",
+      "speaker": "Le Monde"
     }
   ],
   "quotes_hu": [
     {
       "quote": "Vereség Putyinnak",
-      "speaker": "Ukrán megfigyelők, a The Guardian idézésében, Magyar választási győzelméről"
+      "speaker": "Ukrán megfigyelők, idézi The Guardian"
     },
     {
-      "quote": "Orbán veresége Magyarországon valóban a reakciós internacionálé veresége",
-      "speaker": "Le Monde kommentár"
+      "quote": "Orbán Viktor veresége Magyarországon valóban a reakciós internacionálé veresége",
+      "speaker": "Le Monde"
     }
   ],
   "what_to_watch_en": [
-    "What reform conditions EU officials will table in the Budapest reintegration talks — the specific benchmarks set now will define Magyar's legislative calendar for months.",
-    "Whether Orbán breaks his post-defeat silence and how Fidesz positions itself as an opposition force — The Economist's comeback framing suggests this will become a running storyline.",
-    "Speed and sequencing of judicial reform, flagged by the FT as Magyar's central domestic challenge and a likely EU precondition for fund access restoration."
+    "Outcomes of EU-Budapest talks: whether reintegration terms are framed as conditional benchmarks or a fast-track political signal will define Magyar's first major governing test.",
+    "Cabinet formation and legislative priorities: Magyar has been characterized as 'a man in a hurry' but no specific appointments or policy sequencing have yet been reported.",
+    "Orbán's political organization: whether Fidesz consolidates around Orbán as opposition leader or fragments will determine whether the two-thirds majority faces a coherent challenge."
   ],
   "what_to_watch_hu": [
-    "Milyen reformfeltételeket tesznek majd az asztalra az EU-tisztviselők a budapesti reintegrációs tárgyalásokon – a most meghatározott mércék jelölik ki Magyar törvényhozási naptárát hónapokra előre.",
-    "Hogy Orbán megtöri-e vereség utáni hallgatását, és hogyan pozicionálja magát a Fidesz ellenzéki erőként – a The Economist visszatérési narratívája alapján ez tartós szállá válhat.",
-    "Az igazságügyi reform üteme és sorrendje, amelyet az FT Magyar legfontosabb belföldi kihívásaként jelölt meg, és várhatóan az EU-s forrásokhoz való hozzáférés-helyreállítás előfeltétele lesz."
+    "Az EU-Budapest tárgyalások eredménye: az újraintegráció feltételeit kondicionális mérföldkövekként vagy gyorsított politikai jelzésként fogalmazzák-e meg — ez határozza meg Magyar első nagy kormányzati próbáját.",
+    "Kormányalakítás és jogalkotási prioritások: Magyart 'sietős emberként' jellemzik, de konkrét kinevezésekről vagy politikai sorrendről még nem érkezett hír.",
+    "Orbán politikai szervezete: a Fidesz Orbán körül konszolidálódik-e ellenzéki vezetőként, vagy szétesik — ez dönti el, hogy a kétharmados többség koherens kihívással szembesül-e."
   ],
   "date": "2026-04-18",
   "article_count": 16,
-  "generated_at": "2026-04-18T20:39:25.297057+00:00"
+  "generated_at": "2026-04-18T22:02:37.316715+00:00"
 }
