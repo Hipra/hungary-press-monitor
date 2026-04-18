@@ -17,12 +17,13 @@ DOCS_PATH = Path("docs")
 def load_articles(conn: sqlite3.Connection) -> list[dict]:
     rows = conn.execute("""
         SELECT id, source, region, title, url, published_at, fetched_at,
-               topics, actors, tone, framing, summary_en, title_hu, summary_hu, analyzed
+               topics, actors, tone, framing, summary_en, title_hu, summary_hu, analyzed,
+               COALESCE(is_relevant, 1) as is_relevant
         FROM articles
         ORDER BY published_at DESC
     """).fetchall()
     cols = ["id", "source", "region", "title", "url", "published_at", "fetched_at",
-            "topics", "actors", "tone", "framing", "summary_en", "title_hu", "summary_hu", "analyzed"]
+            "topics", "actors", "tone", "framing", "summary_en", "title_hu", "summary_hu", "analyzed", "is_relevant"]
     articles = []
     for row in rows:
         a = dict(zip(cols, row))
@@ -33,12 +34,13 @@ def load_articles(conn: sqlite3.Connection) -> list[dict]:
 
 
 def build_stats(articles: list[dict]) -> dict:
-    analyzed = [a for a in articles if a["analyzed"]]
+    relevant = [a for a in articles if a.get("is_relevant", 1)]
+    analyzed = [a for a in relevant if a["analyzed"]]
 
     tone_counts = Counter(a["tone"] for a in analyzed if a["tone"])
     framing_counts = Counter(a["framing"] for a in analyzed if a["framing"])
-    region_counts = Counter(a["region"] for a in articles)
-    source_counts = Counter(a["source"] for a in articles)
+    region_counts = Counter(a["region"] for a in relevant)
+    source_counts = Counter(a["source"] for a in relevant)
 
     topic_counts: Counter = Counter()
     actor_counts: Counter = Counter()
@@ -47,7 +49,7 @@ def build_stats(articles: list[dict]) -> dict:
         actor_counts.update(a["actors"])
 
     daily: dict[str, int] = defaultdict(int)
-    for a in articles:
+    for a in relevant:
         day = (a["published_at"] or "")[:10]
         if day:
             daily[day] += 1
@@ -60,7 +62,7 @@ def build_stats(articles: list[dict]) -> dict:
     tone_by_source_out = {src: dict(counts) for src, counts in tone_by_source.items()}
 
     return {
-        "total_articles": len(articles),
+        "total_articles": len(relevant),
         "analyzed_articles": len(analyzed),
         "tone": dict(tone_counts),
         "framing": dict(framing_counts),
@@ -76,8 +78,9 @@ def build_stats(articles: list[dict]) -> dict:
 
 def write_json(articles: list[dict], stats: dict) -> None:
     DOCS_PATH.mkdir(exist_ok=True)
+    relevant = [a for a in articles if a.get("is_relevant", 1)]
     (DOCS_PATH / "articles.json").write_text(
-        json.dumps(articles, ensure_ascii=False, indent=2)
+        json.dumps(relevant, ensure_ascii=False, indent=2)
     )
     (DOCS_PATH / "stats.json").write_text(
         json.dumps(stats, ensure_ascii=False, indent=2)
@@ -437,9 +440,9 @@ def main() -> None:
 
     # Add new columns if DB predates this version
     existing = {row[1] for row in conn.execute("PRAGMA table_info(articles)")}
-    for col in ["title_hu", "summary_hu"]:
+    for col, typedef in [("title_hu", "TEXT"), ("summary_hu", "TEXT"), ("is_relevant", "INTEGER DEFAULT 1")]:
         if col not in existing:
-            conn.execute(f"ALTER TABLE articles ADD COLUMN {col} TEXT")
+            conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {typedef}")
     conn.commit()
 
     articles = load_articles(conn)

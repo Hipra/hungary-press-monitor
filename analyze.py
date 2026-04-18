@@ -23,6 +23,7 @@ MAX_PER_RUN = 50
 
 SYSTEM_PROMPT = """You are a press analysis assistant. Analyze news articles about Hungary.
 Return ONLY a valid JSON object with these exact fields:
+- is_relevant: true if Hungary is a main subject of the article, false if Hungary is only briefly or incidentally mentioned
 - topics: array of 1-4 strings from: ["government transition", "EU relations", "economy", "democracy", "geopolitics", "elections", "foreign policy", "rule of law", "media", "society", "migration", "energy", "nato", "other"]
 - actors: array of person/organization names mentioned (max 5)
 - tone: one of "positive", "neutral", "critical", "mixed"
@@ -46,7 +47,7 @@ Analyze this article about Hungary based on the title and source context."""
 def migrate_db(conn: sqlite3.Connection) -> None:
     """Add new columns to existing DB if they don't exist yet."""
     existing = {row[1] for row in conn.execute("PRAGMA table_info(articles)")}
-    for col, typedef in [("title_hu", "TEXT"), ("summary_hu", "TEXT")]:
+    for col, typedef in [("title_hu", "TEXT"), ("summary_hu", "TEXT"), ("is_relevant", "INTEGER DEFAULT 1")]:
         if col not in existing:
             conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {typedef}")
             log.info("Added column: %s", col)
@@ -105,7 +106,8 @@ def save_analysis(conn: sqlite3.Connection, article_id: str, analysis: dict) -> 
         """
         UPDATE articles SET
             topics = ?, actors = ?, tone = ?, framing = ?,
-            summary_en = ?, title_hu = ?, summary_hu = ?, analyzed = 1
+            summary_en = ?, title_hu = ?, summary_hu = ?,
+            is_relevant = ?, analyzed = 1
         WHERE id = ?
         """,
         (
@@ -116,6 +118,7 @@ def save_analysis(conn: sqlite3.Connection, article_id: str, analysis: dict) -> 
             analysis.get("summary_en", ""),
             analysis.get("title_hu", ""),
             analysis.get("summary_hu", ""),
+            1 if analysis.get("is_relevant", True) else 0,
             article_id,
         ),
     )
