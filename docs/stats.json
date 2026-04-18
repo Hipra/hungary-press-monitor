@@ -88,6 +88,55 @@
     "Reform UK": 1,
     "Kremlin": 1
   },
+  "keywords": {
+    "hungary": 794,
+    "orban": 250,
+    "election": 181,
+    "trump": 174,
+    "viktor": 162,
+    "european": 159,
+    "hungarian": 153,
+    "europe": 143,
+    "ukraine": 138,
+    "magyar": 129,
+    "iran": 119,
+    "post": 117,
+    "relations": 115,
+    "bbc": 109,
+    "washington": 107,
+    "council": 107,
+    "york": 104,
+    "wsj": 104,
+    "financial": 104,
+    "war": 102,
+    "euobserver": 100,
+    "defeat": 78,
+    "russia": 60,
+    "minister": 58,
+    "against": 57
+  },
+  "trending": {
+    "strait": 10.64,
+    "west": 7.6,
+    "least": 4.56,
+    "bulgaria": 4.56,
+    "claims": 4.56,
+    "week": 4.56,
+    "help": 4.56,
+    "april": 4.56,
+    "putin": 4.56,
+    "second": 4.56,
+    "order": 4.56,
+    "france": 4.56,
+    "ceasefire": 4.56,
+    "discuss": 4.56,
+    "held": 4.56,
+    "charge": 4.56,
+    "hormuz": 3.42,
+    "polish": 3.04,
+    "ahead": 3.04,
+    "far": 3.04
+  },
   "daily": {
     "2026-03-20": 6,
     "2026-03-21": 1,
@@ -171,5 +220,5 @@
       "neutral": 1
     }
   },
-  "last_updated": "2026-04-18T19:38:23.032441+00:00"
+  "last_updated": "2026-04-18T19:40:46.571253+00:00"
 }
