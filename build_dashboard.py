@@ -83,7 +83,7 @@ def write_json(articles: list[dict], stats: dict) -> None:
     )
 
 
-def generate_html(stats: dict) -> str:
+def generate_html(stats: dict, stats_json: str) -> str:
     last_updated = stats.get("last_updated", "")[:16].replace("T", " ") + " UTC"
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -261,7 +261,7 @@ def generate_html(stats: dict) -> str:
 </div>
 
 <script>
-const STATS = {stats_json};
+const STATS = __STATS_JSON__;
 const PAGE_SIZE = 50;
 let allArticles = [];
 let filteredArticles = [];
@@ -424,7 +424,7 @@ def main() -> None:
     write_json(articles, stats)
 
     stats_json = json.dumps(stats, ensure_ascii=False)
-    html = generate_html(stats).replace("{stats_json}", stats_json)
+    html = generate_html(stats, stats_json).replace("__STATS_JSON__", stats_json)
     DOCS_PATH.mkdir(exist_ok=True)
     (DOCS_PATH / "index.html").write_text(html, encoding="utf-8")
 
