@@ -55,17 +55,21 @@ def load_articles(conn: sqlite3.Connection) -> list[dict]:
     rows = conn.execute("""
         SELECT id, source, region, title, url, published_at, fetched_at,
                topics, actors, tone, framing, summary_en, title_hu, summary_hu, analyzed,
-               COALESCE(is_relevant, 1) as is_relevant
+               COALESCE(is_relevant, 1) as is_relevant,
+               COALESCE(main_actor, 'other') as main_actor,
+               COALESCE(comparison_countries, '[]') as comparison_countries
         FROM articles
         ORDER BY published_at DESC
     """).fetchall()
     cols = ["id", "source", "region", "title", "url", "published_at", "fetched_at",
-            "topics", "actors", "tone", "framing", "summary_en", "title_hu", "summary_hu", "analyzed", "is_relevant"]
+            "topics", "actors", "tone", "framing", "summary_en", "title_hu", "summary_hu",
+            "analyzed", "is_relevant", "main_actor", "comparison_countries"]
     articles = []
     for row in rows:
         a = dict(zip(cols, row))
         a["topics"] = json.loads(a["topics"] or "[]")
         a["actors"] = json.loads(a["actors"] or "[]")
+        a["comparison_countries"] = json.loads(a["comparison_countries"] or "[]")
         articles.append(a)
     return articles
 
@@ -81,9 +85,14 @@ def build_stats(articles: list[dict]) -> dict:
 
     topic_counts: Counter = Counter()
     actor_counts: Counter = Counter()
+    main_actor_counts: Counter = Counter()
+    comparison_counts: Counter = Counter()
     for a in analyzed:
         topic_counts.update(a["topics"])
         actor_counts.update(a["actors"])
+        if a.get("main_actor"):
+            main_actor_counts[a["main_actor"]] += 1
+        comparison_counts.update(a.get("comparison_countries", []))
 
     daily: dict[str, int] = defaultdict(int)
     for a in relevant:
@@ -133,6 +142,8 @@ def build_stats(articles: list[dict]) -> dict:
         "source": dict(source_counts.most_common(25)),
         "topics": dict(topic_counts.most_common(20)),
         "actors": dict(actor_counts.most_common(20)),
+        "main_actor": dict(main_actor_counts),
+        "comparison_countries": dict(comparison_counts.most_common(15)),
         "keywords": dict(kw_all.most_common(25)),
         "trending": trending_sorted,
         "daily": daily_sorted,
@@ -288,6 +299,14 @@ def generate_html(stats: dict, stats_json: str) -> str:
       <h2 data-en="Trending Keywords (48h)" data-hu="Felkapott szavak (48 óra)">Trending Keywords (48h)</h2>
       <div class="chart-wrap"><canvas id="trendingChart"></canvas></div>
     </div>
+    <div class="card">
+      <h2 data-en="Main Actor Focus" data-hu="Főszereplő megoszlása">Main Actor Focus</h2>
+      <div class="chart-wrap"><canvas id="mainActorChart"></canvas></div>
+    </div>
+    <div class="card">
+      <h2 data-en="Countries Compared to Hungary" data-hu="Melyik országokkal hasonlítják össze">Countries Compared to Hungary</h2>
+      <div class="chart-wrap"><canvas id="comparisonChart"></canvas></div>
+    </div>
   </div>
 
   <div class="card">
@@ -413,6 +432,15 @@ function renderCharts() {{
   makeChart('keywordsChart', 'bar', kw.map(([k]) => k), kw.map(([,v]) => v));
   const tr = Object.entries(STATS.trending || {{}}).slice(0, 15);
   makeChart('trendingChart', 'bar', tr.map(([k]) => k), tr.map(([,v]) => v), ['#f472b6']);
+  const ACTOR_LABELS = {{
+    magyar_peter: 'Magyar Péter', orban_viktor: 'Orbán Viktor',
+    hungary_country: 'Magyarország', eu_institutions: 'EU intézmények', other: 'egyéb'
+  }};
+  const ma = STATS.main_actor || {{}};
+  makeChart('mainActorChart', 'doughnut',
+    Object.keys(ma).map(k => ACTOR_LABELS[k] || k), Object.values(ma));
+  const cc = Object.entries(STATS.comparison_countries || {{}}).slice(0, 12);
+  makeChart('comparisonChart', 'bar', cc.map(([k]) => k), cc.map(([,v]) => v), ['#34d399']);
 }}
 
 function populateFilters() {{
@@ -517,7 +545,11 @@ def main() -> None:
 
     # Add new columns if DB predates this version
     existing = {row[1] for row in conn.execute("PRAGMA table_info(articles)")}
-    for col, typedef in [("title_hu", "TEXT"), ("summary_hu", "TEXT"), ("is_relevant", "INTEGER DEFAULT 1")]:
+    for col, typedef in [
+        ("title_hu", "TEXT"), ("summary_hu", "TEXT"),
+        ("is_relevant", "INTEGER DEFAULT 1"),
+        ("main_actor", "TEXT"), ("comparison_countries", "TEXT"),
+    ]:
         if col not in existing:
             conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {typedef}")
     conn.commit()

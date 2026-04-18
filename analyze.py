@@ -21,16 +21,52 @@ DB_PATH = Path("data/articles.db")
 DELAY_BETWEEN_CALLS = 0.5
 MAX_PER_RUN = 50
 
-SYSTEM_PROMPT = """You are a press analysis assistant. Analyze news articles about Hungary.
-Return ONLY a valid JSON object with these exact fields:
-- is_relevant: true if Hungary is a main subject of the article, false if Hungary is only briefly or incidentally mentioned
-- topics: array of 1-4 strings from: ["government transition", "EU relations", "economy", "democracy", "geopolitics", "elections", "foreign policy", "rule of law", "media", "society", "migration", "energy", "nato", "other"]
-- actors: array of person/organization names mentioned (max 5)
-- tone: one of "positive", "neutral", "critical", "mixed"
-- framing: one of "democracy", "geopolitics", "economy", "eu_integration", "regional", "other"
-- summary_en: 2-3 sentence English summary of the article
+SYSTEM_PROMPT = """You are a press analyst specializing in international coverage of Hungary.
+
+Context: In April 2026, Hungary underwent a historic government transition.
+Péter Magyar and the Tisza Party won a two-thirds parliamentary majority,
+ending Viktor Orbán's 15-year rule. The international press is now covering
+Hungary's democratic transition, EU reintegration, and geopolitical realignment.
+
+Analyze the article and return ONLY a valid JSON object with these exact fields:
+
+- is_relevant: true if Hungary is a main subject; false if mentioned only briefly or incidentally
+
+- tone: overall tone toward Hungary or its new direction
+  "positive" = hopeful, supportive, praising
+  "neutral" = factual, balanced
+  "critical" = skeptical, warning, negative
+  "mixed" = both positive and critical elements
+
+- framing: the dominant narrative frame used
+  "democracy_restoration" = Hungary returning to rule of law, democratic norms
+  "geopolitics" = NATO, Russia, Ukraine, US relations angle
+  "economy" = markets, EU funds, investment, fiscal policy
+  "eu_integration" = Hungary rejoining EU mainstream, Brussels relations
+  "regional" = V4, CEE, Balkans context
+  "other"
+
+- main_actor: the primary subject of the article
+  "magyar_peter" = Péter Magyar or his government
+  "orban_viktor" = Viktor Orbán (as ex-PM, opposition, legacy)
+  "hungary_country" = Hungary as a country/institution
+  "eu_institutions" = European Commission, Parliament, Council
+  "other"
+
+- comparison_countries: array of country names explicitly compared to Hungary (max 3, empty array if none)
+
+- topics: array of 1-4 strings from:
+  ["government transition", "EU relations", "economy", "democracy", "geopolitics",
+   "elections", "foreign policy", "rule of law", "media", "society", "migration",
+   "energy", "nato", "other"]
+
+- actors: array of key person/organization names mentioned (max 5)
+
+- summary_en: 2-3 sentence English summary focused on Hungary angle
+
 - title_hu: Hungarian translation of the article title
-- summary_hu: 2-3 sentence Hungarian summary of the article (translate and adapt summary_en)
+
+- summary_hu: 2-3 sentence Hungarian summary (translate and adapt summary_en)
 
 Do not include any explanation or text outside the JSON object."""
 
@@ -41,13 +77,19 @@ Title: {title}
 URL: {url}
 Published: {published_at}
 
-Analyze this article about Hungary based on the title and source context."""
+Analyze this article."""
 
 
 def migrate_db(conn: sqlite3.Connection) -> None:
-    """Add new columns to existing DB if they don't exist yet."""
     existing = {row[1] for row in conn.execute("PRAGMA table_info(articles)")}
-    for col, typedef in [("title_hu", "TEXT"), ("summary_hu", "TEXT"), ("is_relevant", "INTEGER DEFAULT 1")]:
+    new_cols = [
+        ("title_hu", "TEXT"),
+        ("summary_hu", "TEXT"),
+        ("is_relevant", "INTEGER DEFAULT 1"),
+        ("main_actor", "TEXT"),
+        ("comparison_countries", "TEXT"),
+    ]
+    for col, typedef in new_cols:
         if col not in existing:
             conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {typedef}")
             log.info("Added column: %s", col)
@@ -72,7 +114,8 @@ def get_pending_articles(conn: sqlite3.Connection) -> list[dict]:
 def call_claude(prompt: str) -> str | None:
     try:
         result = subprocess.run(
-            ["claude", "-p", prompt, "--model", "claude-haiku-4-5-20251001", "--dangerously-skip-permissions"],
+            ["claude", "-p", prompt, "--model", "claude-haiku-4-5-20251001",
+             "--dangerously-skip-permissions"],
             capture_output=True,
             text=True,
             timeout=60,
@@ -107,7 +150,8 @@ def save_analysis(conn: sqlite3.Connection, article_id: str, analysis: dict) -> 
         UPDATE articles SET
             topics = ?, actors = ?, tone = ?, framing = ?,
             summary_en = ?, title_hu = ?, summary_hu = ?,
-            is_relevant = ?, analyzed = 1
+            is_relevant = ?, main_actor = ?, comparison_countries = ?,
+            analyzed = 1
         WHERE id = ?
         """,
         (
@@ -119,6 +163,8 @@ def save_analysis(conn: sqlite3.Connection, article_id: str, analysis: dict) -> 
             analysis.get("title_hu", ""),
             analysis.get("summary_hu", ""),
             1 if analysis.get("is_relevant", True) else 0,
+            analysis.get("main_actor", "other"),
+            json.dumps(analysis.get("comparison_countries", [])),
             article_id,
         ),
     )
