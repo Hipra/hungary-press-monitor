@@ -1,0 +1,149 @@
+{
+  "total_articles": 2409,
+  "analyzed_articles": 49,
+  "tone": {
+    "neutral": 35,
+    "critical": 7,
+    "mixed": 6,
+    "positive": 1
+  },
+  "framing": {
+    "eu_integration": 2,
+    "other": 18,
+    "geopolitics": 20,
+    "democracy": 7,
+    "economy": 2
+  },
+  "region": {
+    "uk": 500,
+    "de": 109,
+    "us": 600,
+    "wire": 200,
+    "fr": 100,
+    "eu": 500,
+    "cee": 300,
+    "think": 100
+  },
+  "source": {
+    "The Guardian": 100,
+    "DW English": 100,
+    "Washington Post": 100,
+    "BBC": 100,
+    "The Economist": 100,
+    "AP News": 100,
+    "Reuters": 100,
+    "New York Times": 100,
+    "Le Monde": 100,
+    "The Atlantic": 100,
+    "Financial Times": 100,
+    "Politico US": 100,
+    "The Times": 100,
+    "Foreign Policy": 100,
+    "Politico Europe": 100,
+    "Notes from Poland": 100,
+    "Euronews": 100,
+    "The Parliament Magazine": 100,
+    "Balkan Insight": 100,
+    "ECFR": 100,
+    "Euractiv": 100,
+    "Wall Street Journal": 100,
+    "EUobserver": 100,
+    "Visegrad Insight": 100,
+    "Süddeutsche": 9
+  },
+  "topics": {
+    "other": 31,
+    "geopolitics": 18,
+    "foreign policy": 12,
+    "government transition": 8,
+    "democracy": 7,
+    "nato": 4,
+    "EU relations": 3,
+    "rule of law": 3,
+    "eu relations": 3,
+    "elections": 3,
+    "society": 2,
+    "economy": 2
+  },
+  "daily": {
+    "2026-03-20": 6,
+    "2026-03-21": 1,
+    "2026-03-22": 3,
+    "2026-03-23": 12,
+    "2026-03-24": 6,
+    "2026-03-25": 12,
+    "2026-03-26": 8,
+    "2026-03-27": 6,
+    "2026-03-28": 3,
+    "2026-03-29": 2,
+    "2026-03-30": 7,
+    "2026-03-31": 5,
+    "2026-04-01": 7,
+    "2026-04-02": 3,
+    "2026-04-03": 7,
+    "2026-04-04": 4,
+    "2026-04-05": 5,
+    "2026-04-06": 20,
+    "2026-04-07": 33,
+    "2026-04-08": 26,
+    "2026-04-09": 41,
+    "2026-04-10": 67,
+    "2026-04-11": 38,
+    "2026-04-12": 95,
+    "2026-04-13": 256,
+    "2026-04-14": 208,
+    "2026-04-15": 179,
+    "2026-04-16": 172,
+    "2026-04-17": 127,
+    "2026-04-18": 68
+  },
+  "tone_by_source": {
+    "The Guardian": {
+      "neutral": 6,
+      "critical": 1,
+      "mixed": 3,
+      "positive": 1
+    },
+    "DW English": {
+      "neutral": 8
+    },
+    "Washington Post": {
+      "neutral": 3,
+      "critical": 1
+    },
+    "BBC": {
+      "neutral": 2,
+      "mixed": 1
+    },
+    "The Economist": {
+      "critical": 1
+    },
+    "Reuters": {
+      "neutral": 5
+    },
+    "New York Times": {
+      "neutral": 2,
+      "mixed": 1,
+      "critical": 2
+    },
+    "Le Monde": {
+      "neutral": 3,
+      "critical": 1
+    },
+    "The Atlantic": {
+      "neutral": 3,
+      "critical": 1
+    },
+    "Financial Times": {
+      "neutral": 1,
+      "mixed": 1
+    },
+    "Politico US": {
+      "neutral": 1
+    },
+    "The Times": {
+      "neutral": 1
+    }
+  },
+  "last_updated": "2026-04-18T19:00:50.472660+00:00"
+}
