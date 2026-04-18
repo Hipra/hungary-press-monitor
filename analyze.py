@@ -71,7 +71,7 @@ def get_pending_articles(conn: sqlite3.Connection) -> list[dict]:
 def call_claude(prompt: str) -> str | None:
     try:
         result = subprocess.run(
-            ["claude", "-p", prompt, "--dangerously-skip-permissions"],
+            ["claude", "-p", prompt, "--model", "claude-haiku-4-5-20251001", "--dangerously-skip-permissions"],
             capture_output=True,
             text=True,
             timeout=60,
