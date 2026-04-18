@@ -10,17 +10,14 @@ import sqlite3
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlparse
 
 import feedparser
-import requests
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger(__name__)
 
 DB_PATH = Path("data/articles.db")
 SOURCES_PATH = Path("sources.json")
-REQUEST_TIMEOUT = 15
 DELAY_BETWEEN_FEEDS = 1.0  # seconds, polite crawling
 
 
@@ -57,32 +54,6 @@ def article_id(url: str) -> str:
     return hashlib.sha256(url.encode()).hexdigest()[:16]
 
 
-def validate_domain(url: str, expected_domain: str) -> bool:
-    """Confirm the article actually comes from the expected domain."""
-    try:
-        host = urlparse(url).hostname or ""
-        return expected_domain in host
-    except Exception:
-        return False
-
-
-def resolve_google_news_url(google_url: str) -> str:
-    """
-    Google News RSS gives google.com redirect URLs.
-    Follow the redirect to get the real article URL.
-    """
-    try:
-        resp = requests.head(
-            google_url,
-            allow_redirects=True,
-            timeout=REQUEST_TIMEOUT,
-            headers={"User-Agent": "Mozilla/5.0 (compatible; HungaryMonitor/1.0)"},
-        )
-        return resp.url
-    except Exception:
-        return google_url
-
-
 def parse_published(entry) -> str:
     """Return ISO8601 UTC string from feedparser entry."""
     if hasattr(entry, "published_parsed") and entry.published_parsed:
@@ -102,24 +73,22 @@ def fetch_feed(source: dict) -> list[dict]:
         log.error("Failed to parse feed %s: %s", source["name"], e)
         return []
 
+    log.info("  feed status=%s bozo=%s entries=%d", getattr(feed, "status", "?"), feed.bozo, len(feed.entries))
+    if feed.bozo:
+        log.warning("  bozo_exception: %s", feed.bozo_exception)
+
     articles = []
     for entry in feed.entries:
-        raw_url = getattr(entry, "link", "")
-        if not raw_url:
-            continue
-
-        real_url = resolve_google_news_url(raw_url)
-
-        if not validate_domain(real_url, source["domain"]):
-            log.debug("Skipping off-domain URL for %s: %s", source["name"], real_url)
+        url = getattr(entry, "link", "")
+        if not url:
             continue
 
         articles.append({
-            "id": article_id(real_url),
+            "id": article_id(url),
             "source": source["name"],
             "region": source["region"],
             "title": getattr(entry, "title", ""),
-            "url": real_url,
+            "url": url,
             "published_at": parse_published(entry),
             "fetched_at": datetime.now(timezone.utc).isoformat(),
         })
