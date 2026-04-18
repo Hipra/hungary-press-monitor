@@ -66,6 +66,28 @@
     "energy": 1,
     "eu relations": 1
   },
+  "actors": {
+    "Iran": 9,
+    "Viktor Orbán": 9,
+    "United States": 5,
+    "Donald Trump": 5,
+    "European Union": 4,
+    "Fidesz": 3,
+    "TISZA": 3,
+    "Mexico": 2,
+    "Péter Magyar": 2,
+    "Bulgaria": 2,
+    "Lebanon": 2,
+    "Europe": 1,
+    "Hungary": 1,
+    "BBC": 1,
+    "Trump administration": 1,
+    "Dave Schilling": 1,
+    "Pope Leo": 1,
+    "Kosovo": 1,
+    "Reform UK": 1,
+    "Kremlin": 1
+  },
   "daily": {
     "2026-03-20": 6,
     "2026-03-21": 1,
@@ -149,5 +171,5 @@
       "neutral": 1
     }
   },
-  "last_updated": "2026-04-18T19:30:48.798251+00:00"
+  "last_updated": "2026-04-18T19:36:17.164679+00:00"
 }

@@ -41,8 +41,10 @@ def build_stats(articles: list[dict]) -> dict:
     source_counts = Counter(a["source"] for a in articles)
 
     topic_counts: Counter = Counter()
+    actor_counts: Counter = Counter()
     for a in analyzed:
         topic_counts.update(a["topics"])
+        actor_counts.update(a["actors"])
 
     daily: dict[str, int] = defaultdict(int)
     for a in articles:
@@ -65,6 +67,7 @@ def build_stats(articles: list[dict]) -> dict:
         "region": dict(region_counts),
         "source": dict(source_counts.most_common(25)),
         "topics": dict(topic_counts.most_common(20)),
+        "actors": dict(actor_counts.most_common(20)),
         "daily": daily_sorted,
         "tone_by_source": tone_by_source_out,
         "last_updated": datetime.now(timezone.utc).isoformat(),
@@ -205,6 +208,10 @@ def generate_html(stats: dict, stats_json: str) -> str:
       <h2 data-en="Top Sources" data-hu="Legtöbbet publikáló lapok">Top Sources</h2>
       <div class="chart-wrap"><canvas id="sourcesChart"></canvas></div>
     </div>
+    <div class="card">
+      <h2 data-en="Top Actors" data-hu="Legtöbbet említett szereplők">Top Actors</h2>
+      <div class="chart-wrap"><canvas id="actorsChart"></canvas></div>
+    </div>
   </div>
 
   <div class="card">
@@ -229,6 +236,7 @@ def generate_html(stats: dict, stats_json: str) -> str:
           <th data-en="Title" data-hu="Cím">Title</th>
           <th data-en="Tone" data-hu="Hangnem">Tone</th>
           <th data-en="Topics" data-hu="Témák">Topics</th>
+          <th data-en="Actors" data-hu="Szereplők">Actors</th>
         </tr>
       </thead>
       <tbody id="articlesBody"></tbody>
@@ -323,6 +331,8 @@ function renderCharts() {{
   makeChart('regionChart', 'doughnut', Object.keys(STATS.region), Object.values(STATS.region));
   const sources = Object.entries(STATS.source).slice(0, 10);
   makeChart('sourcesChart', 'bar', sources.map(([k]) => k), sources.map(([,v]) => v));
+  const actors = Object.entries(STATS.actors || {{}}).slice(0, 15);
+  makeChart('actorsChart', 'bar', actors.map(([k]) => k), actors.map(([,v]) => v));
 }}
 
 function populateFilters() {{
@@ -375,6 +385,7 @@ function renderTable() {{
       </td>
       <td><span class="badge tone-${{a.tone}}">${{toneLabel(a.tone)||'—'}}</span></td>
       <td>${{(a.topics||[]).map(t => `<span class="tag">${{t}}</span>`).join('')}}</td>
+      <td>${{(a.actors||[]).map(a => `<span class="tag" style="background:#1e3a5f;color:#93c5fd">${{a}}</span>`).join('')}}</td>
     </tr>`;
   }}).join('');
   renderPagination();
