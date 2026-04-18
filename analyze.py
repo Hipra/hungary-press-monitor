@@ -1,7 +1,10 @@
 """
 Analyze pending articles using the local Claude CLI.
-Calls `claude -p` per article, extracts structured JSON.
+Calls `claude -p` per article, extracts structured JSON including
+Hungarian translation of title and summary.
 """
+
+from __future__ import annotations
 
 import json
 import logging
@@ -14,8 +17,8 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(mess
 log = logging.getLogger(__name__)
 
 DB_PATH = Path("data/articles.db")
-DELAY_BETWEEN_CALLS = 0.5  # seconds
-MAX_PER_RUN = 50  # analyze at most this many articles per workflow run
+DELAY_BETWEEN_CALLS = 0.5
+MAX_PER_RUN = 50
 
 SYSTEM_PROMPT = """You are a press analysis assistant. Analyze news articles about Hungary.
 Return ONLY a valid JSON object with these exact fields:
@@ -24,6 +27,8 @@ Return ONLY a valid JSON object with these exact fields:
 - tone: one of "positive", "neutral", "critical", "mixed"
 - framing: one of "democracy", "geopolitics", "economy", "eu_integration", "regional", "other"
 - summary_en: 2-3 sentence English summary of the article
+- title_hu: Hungarian translation of the article title
+- summary_hu: 2-3 sentence Hungarian summary of the article (translate and adapt summary_en)
 
 Do not include any explanation or text outside the JSON object."""
 
@@ -35,6 +40,16 @@ URL: {url}
 Published: {published_at}
 
 Analyze this article about Hungary based on the title and source context."""
+
+
+def migrate_db(conn: sqlite3.Connection) -> None:
+    """Add new columns to existing DB if they don't exist yet."""
+    existing = {row[1] for row in conn.execute("PRAGMA table_info(articles)")}
+    for col, typedef in [("title_hu", "TEXT"), ("summary_hu", "TEXT")]:
+        if col not in existing:
+            conn.execute(f"ALTER TABLE articles ADD COLUMN {col} {typedef}")
+            log.info("Added column: %s", col)
+    conn.commit()
 
 
 def get_pending_articles(conn: sqlite3.Connection) -> list[dict]:
@@ -51,7 +66,6 @@ def get_pending_articles(conn: sqlite3.Connection) -> list[dict]:
 
 
 def call_claude(prompt: str) -> str | None:
-    """Call `claude -p` and return stdout, or None on failure."""
     try:
         result = subprocess.run(
             ["claude", "-p", prompt, "--dangerously-skip-permissions"],
@@ -87,7 +101,8 @@ def save_analysis(conn: sqlite3.Connection, article_id: str, analysis: dict) -> 
     conn.execute(
         """
         UPDATE articles SET
-            topics = ?, actors = ?, tone = ?, framing = ?, summary_en = ?, analyzed = 1
+            topics = ?, actors = ?, tone = ?, framing = ?,
+            summary_en = ?, title_hu = ?, summary_hu = ?, analyzed = 1
         WHERE id = ?
         """,
         (
@@ -96,6 +111,8 @@ def save_analysis(conn: sqlite3.Connection, article_id: str, analysis: dict) -> 
             analysis.get("tone", "neutral"),
             analysis.get("framing", "other"),
             analysis.get("summary_en", ""),
+            analysis.get("title_hu", ""),
+            analysis.get("summary_hu", ""),
             article_id,
         ),
     )
@@ -104,6 +121,7 @@ def save_analysis(conn: sqlite3.Connection, article_id: str, analysis: dict) -> 
 
 def main() -> None:
     conn = sqlite3.connect(DB_PATH)
+    migrate_db(conn)
     articles = get_pending_articles(conn)
 
     if not articles:

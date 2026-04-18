@@ -9,64 +9,51 @@
     *, *::before, *::after { box-sizing: border-box; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #0f172a;
-      color: #e2e8f0;
-      margin: 0;
-      padding: 0;
+      background: #0f172a; color: #e2e8f0; margin: 0; padding: 0;
     }
     header {
-      background: #1e293b;
-      border-bottom: 1px solid #334155;
-      padding: 1.25rem 2rem;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
+      background: #1e293b; border-bottom: 1px solid #334155;
+      padding: 1.25rem 2rem; display: flex; align-items: center; justify-content: space-between;
     }
     header h1 { font-size: 1.25rem; margin: 0; color: #f8fafc; }
+    header .right { display: flex; align-items: center; gap: 1.25rem; }
     header small { color: #94a3b8; font-size: 0.8rem; }
+    .lang-toggle {
+      display: flex; background: #0f172a; border-radius: 6px; overflow: hidden;
+      border: 1px solid #334155;
+    }
+    .lang-toggle button {
+      background: none; border: none; color: #94a3b8; padding: 0.3rem 0.75rem;
+      font-size: 0.85rem; cursor: pointer; font-weight: 600;
+    }
+    .lang-toggle button.active { background: #38bdf8; color: #0f172a; }
     .container { max-width: 1400px; margin: 0 auto; padding: 2rem; }
     .kpi-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-      gap: 1rem;
-      margin-bottom: 2rem;
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem; margin-bottom: 2rem;
     }
     .kpi {
-      background: #1e293b;
-      border: 1px solid #334155;
-      border-radius: 8px;
-      padding: 1.25rem;
-      text-align: center;
+      background: #1e293b; border: 1px solid #334155; border-radius: 8px;
+      padding: 1.25rem; text-align: center;
     }
     .kpi .value { font-size: 2rem; font-weight: 700; color: #38bdf8; }
     .kpi .label { font-size: 0.8rem; color: #94a3b8; margin-top: 0.25rem; }
     .charts-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
-      gap: 1.5rem;
-      margin-bottom: 2rem;
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+      gap: 1.5rem; margin-bottom: 2rem;
     }
     .card {
-      background: #1e293b;
-      border: 1px solid #334155;
-      border-radius: 8px;
-      padding: 1.5rem;
+      background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 1.5rem;
     }
-    .card h2 { font-size: 0.95rem; color: #94a3b8; margin: 0 0 1rem; text-transform: uppercase; letter-spacing: 0.05em; }
+    .card h2 {
+      font-size: 0.95rem; color: #94a3b8; margin: 0 0 1rem;
+      text-transform: uppercase; letter-spacing: 0.05em;
+    }
     .chart-wrap { position: relative; height: 220px; }
-    .filters {
-      display: flex;
-      gap: 0.75rem;
-      flex-wrap: wrap;
-      margin-bottom: 1rem;
-    }
+    .filters { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 1rem; }
     .filters input, .filters select {
-      background: #1e293b;
-      border: 1px solid #334155;
-      color: #e2e8f0;
-      border-radius: 6px;
-      padding: 0.5rem 0.75rem;
-      font-size: 0.875rem;
+      background: #1e293b; border: 1px solid #334155; color: #e2e8f0;
+      border-radius: 6px; padding: 0.5rem 0.75rem; font-size: 0.875rem;
     }
     .filters input { flex: 1; min-width: 200px; }
     table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
@@ -76,95 +63,87 @@
     a { color: #38bdf8; text-decoration: none; }
     a:hover { text-decoration: underline; }
     .badge {
-      display: inline-block;
-      padding: 0.15rem 0.5rem;
-      border-radius: 999px;
-      font-size: 0.72rem;
-      font-weight: 600;
+      display: inline-block; padding: 0.15rem 0.5rem;
+      border-radius: 999px; font-size: 0.72rem; font-weight: 600;
     }
     .tone-positive { background: #14532d; color: #86efac; }
     .tone-neutral   { background: #1e3a5f; color: #93c5fd; }
     .tone-critical  { background: #450a0a; color: #fca5a5; }
     .tone-mixed     { background: #3b1f00; color: #fcd34d; }
     .tag {
-      display: inline-block;
-      background: #334155;
-      color: #cbd5e1;
-      border-radius: 4px;
-      padding: 0.1rem 0.4rem;
-      font-size: 0.72rem;
-      margin: 0.1rem;
+      display: inline-block; background: #334155; color: #cbd5e1;
+      border-radius: 4px; padding: 0.1rem 0.4rem; font-size: 0.72rem; margin: 0.1rem;
     }
-    #pagination { display: flex; gap: 0.5rem; justify-content: center; margin-top: 1rem; }
+    #pagination { display: flex; gap: 0.5rem; justify-content: center; margin-top: 1rem; flex-wrap: wrap; }
     #pagination button {
-      background: #334155;
-      border: none;
-      color: #e2e8f0;
-      padding: 0.4rem 0.8rem;
-      border-radius: 4px;
-      cursor: pointer;
+      background: #334155; border: none; color: #e2e8f0;
+      padding: 0.4rem 0.8rem; border-radius: 4px; cursor: pointer;
     }
     #pagination button.active { background: #38bdf8; color: #0f172a; }
   </style>
 </head>
 <body>
 <header>
-  <h1>Hungary International Press Monitor</h1>
-  <small>Updated: 2026-04-18 19:00 UTC</small>
+  <h1 id="siteTitle">Hungary International Press Monitor</h1>
+  <div class="right">
+    <small>Updated: 2026-04-18 19:05 UTC</small>
+    <div class="lang-toggle">
+      <button id="btnEN" class="active" onclick="setLang('en')">EN</button>
+      <button id="btnHU" onclick="setLang('hu')">HU</button>
+    </div>
+  </div>
 </header>
 <div class="container">
-
   <div class="kpi-grid" id="kpis"></div>
-
   <div class="charts-grid">
     <div class="card">
-      <h2>Articles per Day (last 30 days)</h2>
+      <h2 data-en="Articles per Day (last 30 days)" data-hu="Napi cikkszám (elmúlt 30 nap)">Articles per Day (last 30 days)</h2>
       <div class="chart-wrap"><canvas id="dailyChart"></canvas></div>
     </div>
     <div class="card">
-      <h2>Tone Distribution</h2>
+      <h2 data-en="Tone Distribution" data-hu="Hangnem megoszlása">Tone Distribution</h2>
       <div class="chart-wrap"><canvas id="toneChart"></canvas></div>
     </div>
     <div class="card">
-      <h2>Framing</h2>
+      <h2 data-en="Framing" data-hu="Keretezés">Framing</h2>
       <div class="chart-wrap"><canvas id="framingChart"></canvas></div>
     </div>
     <div class="card">
-      <h2>Top Topics</h2>
+      <h2 data-en="Top Topics" data-hu="Leggyakoribb témák">Top Topics</h2>
       <div class="chart-wrap"><canvas id="topicsChart"></canvas></div>
     </div>
     <div class="card">
-      <h2>Articles by Region</h2>
+      <h2 data-en="Articles by Region" data-hu="Cikkek régiónként">Articles by Region</h2>
       <div class="chart-wrap"><canvas id="regionChart"></canvas></div>
     </div>
     <div class="card">
-      <h2>Top Sources</h2>
+      <h2 data-en="Top Sources" data-hu="Legtöbbet publikáló lapok">Top Sources</h2>
       <div class="chart-wrap"><canvas id="sourcesChart"></canvas></div>
     </div>
   </div>
 
   <div class="card">
-    <h2>Articles</h2>
+    <h2 id="articlesHeading" data-en="Articles" data-hu="Cikkek">Articles</h2>
     <div class="filters">
-      <input type="text" id="searchInput" placeholder="Search title, source, summary...">
+      <input type="text" id="searchInput" placeholder="Search...">
       <select id="toneFilter">
-        <option value="">All tones</option>
-        <option value="positive">Positive</option>
-        <option value="neutral">Neutral</option>
-        <option value="critical">Critical</option>
-        <option value="mixed">Mixed</option>
+        <option value="" data-en="All tones" data-hu="Minden hangnem">All tones</option>
+        <option value="positive" data-en="Positive" data-hu="Pozitív">Positive</option>
+        <option value="neutral" data-en="Neutral" data-hu="Semleges">Neutral</option>
+        <option value="critical" data-en="Critical" data-hu="Kritikus">Critical</option>
+        <option value="mixed" data-en="Mixed" data-hu="Vegyes">Mixed</option>
       </select>
-      <select id="regionFilter"><option value="">All regions</option></select>
-      <select id="sourcFilter"><option value="">All sources</option></select>
+      <select id="regionFilter"><option value="">–</option></select>
+      <select id="sourcFilter"><option value="">–</option></select>
     </div>
     <table>
       <thead>
         <tr>
-          <th>Date</th>
-          <th>Source</th>
-          <th>Title</th>
-          <th>Tone</th>
-          <th>Topics</th>
+          <th data-en="Date" data-hu="Dátum">Date</th>
+          <th data-en="Source" data-hu="Forrás">Source</th>
+          <th data-en="Title" data-hu="Cím">Title</th>
+          <th data-en="Tone" data-hu="Hangnem">Tone</th>
+          <th data-en="Topics" data-hu="Témák">Topics</th>
         </tr>
       </thead>
       <tbody id="articlesBody"></tbody>
@@ -174,25 +153,59 @@
 </div>
 
 <script>
-const STATS = {"total_articles": 2409, "analyzed_articles": 49, "tone": {"neutral": 35, "critical": 7, "mixed": 6, "positive": 1}, "framing": {"eu_integration": 2, "other": 18, "geopolitics": 20, "democracy": 7, "economy": 2}, "region": {"uk": 500, "de": 109, "us": 600, "wire": 200, "fr": 100, "eu": 500, "cee": 300, "think": 100}, "source": {"The Guardian": 100, "DW English": 100, "Washington Post": 100, "BBC": 100, "The Economist": 100, "AP News": 100, "Reuters": 100, "New York Times": 100, "Le Monde": 100, "The Atlantic": 100, "Financial Times": 100, "Politico US": 100, "The Times": 100, "Foreign Policy": 100, "Politico Europe": 100, "Notes from Poland": 100, "Euronews": 100, "The Parliament Magazine": 100, "Balkan Insight": 100, "ECFR": 100, "Euractiv": 100, "Wall Street Journal": 100, "EUobserver": 100, "Visegrad Insight": 100, "Süddeutsche": 9}, "topics": {"other": 31, "geopolitics": 18, "foreign policy": 12, "government transition": 8, "democracy": 7, "nato": 4, "EU relations": 3, "rule of law": 3, "eu relations": 3, "elections": 3, "society": 2, "economy": 2}, "daily": {"2026-03-20": 6, "2026-03-21": 1, "2026-03-22": 3, "2026-03-23": 12, "2026-03-24": 6, "2026-03-25": 12, "2026-03-26": 8, "2026-03-27": 6, "2026-03-28": 3, "2026-03-29": 2, "2026-03-30": 7, "2026-03-31": 5, "2026-04-01": 7, "2026-04-02": 3, "2026-04-03": 7, "2026-04-04": 4, "2026-04-05": 5, "2026-04-06": 20, "2026-04-07": 33, "2026-04-08": 26, "2026-04-09": 41, "2026-04-10": 67, "2026-04-11": 38, "2026-04-12": 95, "2026-04-13": 256, "2026-04-14": 208, "2026-04-15": 179, "2026-04-16": 172, "2026-04-17": 127, "2026-04-18": 68}, "tone_by_source": {"The Guardian": {"neutral": 6, "critical": 1, "mixed": 3, "positive": 1}, "DW English": {"neutral": 8}, "Washington Post": {"neutral": 3, "critical": 1}, "BBC": {"neutral": 2, "mixed": 1}, "The Economist": {"critical": 1}, "Reuters": {"neutral": 5}, "New York Times": {"neutral": 2, "mixed": 1, "critical": 2}, "Le Monde": {"neutral": 3, "critical": 1}, "The Atlantic": {"neutral": 3, "critical": 1}, "Financial Times": {"neutral": 1, "mixed": 1}, "Politico US": {"neutral": 1}, "The Times": {"neutral": 1}}, "last_updated": "2026-04-18T19:00:50.472660+00:00"};
+const STATS = {"total_articles": 2409, "analyzed_articles": 49, "tone": {"neutral": 35, "critical": 7, "mixed": 6, "positive": 1}, "framing": {"eu_integration": 2, "other": 18, "geopolitics": 20, "democracy": 7, "economy": 2}, "region": {"uk": 500, "de": 109, "us": 600, "wire": 200, "fr": 100, "eu": 500, "cee": 300, "think": 100}, "source": {"The Guardian": 100, "DW English": 100, "Washington Post": 100, "BBC": 100, "The Economist": 100, "AP News": 100, "Reuters": 100, "New York Times": 100, "Le Monde": 100, "The Atlantic": 100, "Financial Times": 100, "Politico US": 100, "The Times": 100, "Foreign Policy": 100, "Politico Europe": 100, "Notes from Poland": 100, "Euronews": 100, "The Parliament Magazine": 100, "Balkan Insight": 100, "ECFR": 100, "Euractiv": 100, "Wall Street Journal": 100, "EUobserver": 100, "Visegrad Insight": 100, "Süddeutsche": 9}, "topics": {"other": 31, "geopolitics": 18, "foreign policy": 12, "government transition": 8, "democracy": 7, "nato": 4, "EU relations": 3, "rule of law": 3, "eu relations": 3, "elections": 3, "society": 2, "economy": 2}, "daily": {"2026-03-20": 6, "2026-03-21": 1, "2026-03-22": 3, "2026-03-23": 12, "2026-03-24": 6, "2026-03-25": 12, "2026-03-26": 8, "2026-03-27": 6, "2026-03-28": 3, "2026-03-29": 2, "2026-03-30": 7, "2026-03-31": 5, "2026-04-01": 7, "2026-04-02": 3, "2026-04-03": 7, "2026-04-04": 4, "2026-04-05": 5, "2026-04-06": 20, "2026-04-07": 33, "2026-04-08": 26, "2026-04-09": 41, "2026-04-10": 67, "2026-04-11": 38, "2026-04-12": 95, "2026-04-13": 256, "2026-04-14": 208, "2026-04-15": 179, "2026-04-16": 172, "2026-04-17": 127, "2026-04-18": 68}, "tone_by_source": {"The Guardian": {"neutral": 6, "critical": 1, "mixed": 3, "positive": 1}, "DW English": {"neutral": 8}, "Washington Post": {"neutral": 3, "critical": 1}, "BBC": {"neutral": 2, "mixed": 1}, "The Economist": {"critical": 1}, "Reuters": {"neutral": 5}, "New York Times": {"neutral": 2, "mixed": 1, "critical": 2}, "Le Monde": {"neutral": 3, "critical": 1}, "The Atlantic": {"neutral": 3, "critical": 1}, "Financial Times": {"neutral": 1, "mixed": 1}, "Politico US": {"neutral": 1}, "The Times": {"neutral": 1}}, "last_updated": "2026-04-18T19:05:43.146346+00:00"};
 const PAGE_SIZE = 50;
 let allArticles = [];
 let filteredArticles = [];
 let currentPage = 1;
+let lang = 'en';
 
 const TONE_COLORS = {
   positive: '#4ade80', neutral: '#60a5fa', critical: '#f87171', mixed: '#fbbf24'
 };
 const PALETTE = ['#38bdf8','#818cf8','#34d399','#fb923c','#a78bfa','#f472b6','#facc15','#2dd4bf'];
 
+const I18N = {
+  siteTitle: { en: 'Hungary International Press Monitor', hu: 'Magyarország a Nemzetközi Sajtóban' },
+  searchPlaceholder: { en: 'Search title, source, summary…', hu: 'Keresés cím, forrás, összefoglaló…' },
+  kpi: {
+    total: { en: 'Total Articles', hu: 'Összes cikk' },
+    analyzed: { en: 'Analyzed', hu: 'Elemzett' },
+    sources: { en: 'Sources', hu: 'Forrás' },
+    critical: { en: 'Critical', hu: 'Kritikus' },
+    positive: { en: 'Positive', hu: 'Pozitív' },
+  },
+  tone: {
+    positive: { en: 'positive', hu: 'pozitív' },
+    neutral: { en: 'neutral', hu: 'semleges' },
+    critical: { en: 'critical', hu: 'kritikus' },
+    mixed: { en: 'mixed', hu: 'vegyes' },
+  },
+};
+
+function t(obj) { return obj[lang] || obj.en; }
+
+function setLang(l) {
+  lang = l;
+  document.getElementById('btnEN').classList.toggle('active', l === 'en');
+  document.getElementById('btnHU').classList.toggle('active', l === 'hu');
+  document.getElementById('siteTitle').textContent = t(I18N.siteTitle);
+  document.getElementById('searchInput').placeholder = t(I18N.searchPlaceholder);
+  document.querySelectorAll('[data-en]').forEach(el => {
+    el.textContent = el.getAttribute('data-' + l) || el.getAttribute('data-en');
+  });
+  renderKPIs();
+  renderTable();
+}
+
 function renderKPIs() {
   const el = document.getElementById('kpis');
   const kpis = [
-    [STATS.total_articles, 'Total Articles'],
-    [STATS.analyzed_articles, 'Analyzed'],
-    [Object.keys(STATS.source).length, 'Sources'],
-    [STATS.tone.critical || 0, 'Critical'],
-    [STATS.tone.positive || 0, 'Positive'],
+    [STATS.total_articles, t(I18N.kpi.total)],
+    [STATS.analyzed_articles, t(I18N.kpi.analyzed)],
+    [Object.keys(STATS.source).length, t(I18N.kpi.sources)],
+    [STATS.tone.critical || 0, t(I18N.kpi.critical)],
+    [STATS.tone.positive || 0, t(I18N.kpi.positive)],
   ];
   el.innerHTML = kpis.map(([v,l]) =>
     `<div class="kpi"><div class="value">${v}</div><div class="label">${l}</div></div>`
@@ -204,8 +217,7 @@ function makeChart(id, type, labels, data, colors) {
     type,
     data: { labels, datasets: [{ data, backgroundColor: colors || PALETTE, borderColor: '#0f172a', borderWidth: 1 }] },
     options: {
-      responsive: true,
-      maintainAspectRatio: false,
+      responsive: true, maintainAspectRatio: false,
       plugins: { legend: { display: type === 'doughnut', labels: { color: '#94a3b8', boxWidth: 12 } } },
       scales: type !== 'doughnut' ? {
         x: { ticks: { color: '#64748b', maxRotation: 45 }, grid: { color: '#1e293b' } },
@@ -216,36 +228,26 @@ function makeChart(id, type, labels, data, colors) {
 }
 
 function renderCharts() {
-  const daily = STATS.daily;
-  makeChart('dailyChart', 'bar', Object.keys(daily), Object.values(daily));
-
-  const tone = STATS.tone;
+  makeChart('dailyChart', 'bar', Object.keys(STATS.daily), Object.values(STATS.daily));
   makeChart('toneChart', 'doughnut',
-    Object.keys(tone), Object.values(tone),
-    Object.keys(tone).map(t => TONE_COLORS[t] || '#94a3b8'));
-
-  const framing = STATS.framing;
-  makeChart('framingChart', 'doughnut', Object.keys(framing), Object.values(framing));
-
-  const topics = STATS.topics;
-  const topTopics = Object.entries(topics).slice(0, 10);
-  makeChart('topicsChart', 'bar',
-    topTopics.map(([k]) => k), topTopics.map(([,v]) => v));
-
-  const region = STATS.region;
-  makeChart('regionChart', 'doughnut', Object.keys(region), Object.values(region));
-
+    Object.keys(STATS.tone), Object.values(STATS.tone),
+    Object.keys(STATS.tone).map(t => TONE_COLORS[t] || '#94a3b8'));
+  makeChart('framingChart', 'doughnut', Object.keys(STATS.framing), Object.values(STATS.framing));
+  const topTopics = Object.entries(STATS.topics).slice(0, 10);
+  makeChart('topicsChart', 'bar', topTopics.map(([k]) => k), topTopics.map(([,v]) => v));
+  makeChart('regionChart', 'doughnut', Object.keys(STATS.region), Object.values(STATS.region));
   const sources = Object.entries(STATS.source).slice(0, 10);
-  makeChart('sourcesChart', 'bar',
-    sources.map(([k]) => k), sources.map(([,v]) => v));
+  makeChart('sourcesChart', 'bar', sources.map(([k]) => k), sources.map(([,v]) => v));
 }
 
 function populateFilters() {
   const regions = [...new Set(allArticles.map(a => a.region).filter(Boolean))].sort();
   const sources = [...new Set(allArticles.map(a => a.source).filter(Boolean))].sort();
-  document.getElementById('regionFilter').innerHTML +=
+  document.getElementById('regionFilter').innerHTML =
+    `<option value="">– region –</option>` +
     regions.map(r => `<option value="${r}">${r}</option>`).join('');
-  document.getElementById('sourcFilter').innerHTML +=
+  document.getElementById('sourcFilter').innerHTML =
+    `<option value="">– source –</option>` +
     sources.map(s => `<option value="${s}">${s}</option>`).join('');
 }
 
@@ -256,7 +258,9 @@ function applyFilters() {
   const source = document.getElementById('sourcFilter').value;
 
   filteredArticles = allArticles.filter(a => {
-    if (q && !`${a.title} ${a.source} ${a.summary_en}`.toLowerCase().includes(q)) return false;
+    const titleField = lang === 'hu' && a.title_hu ? a.title_hu : a.title;
+    const summaryField = lang === 'hu' && a.summary_hu ? a.summary_hu : a.summary_en;
+    if (q && !`${titleField} ${a.source} ${summaryField}`.toLowerCase().includes(q)) return false;
     if (tone && a.tone !== tone) return false;
     if (region && a.region !== region) return false;
     if (source && a.source !== source) return false;
@@ -266,22 +270,28 @@ function applyFilters() {
   renderTable();
 }
 
+function toneLabel(tone) {
+  return lang === 'hu' ? (I18N.tone[tone]?.hu || tone) : tone;
+}
+
 function renderTable() {
   const start = (currentPage - 1) * PAGE_SIZE;
   const page = filteredArticles.slice(start, start + PAGE_SIZE);
   const tbody = document.getElementById('articlesBody');
-  tbody.innerHTML = page.map(a => `
+  tbody.innerHTML = page.map(a => {
+    const title = lang === 'hu' && a.title_hu ? a.title_hu : a.title;
+    const summary = lang === 'hu' && a.summary_hu ? a.summary_hu : a.summary_en;
+    return `
     <tr>
       <td style="white-space:nowrap;color:#64748b">${(a.published_at||'').slice(0,10)}</td>
       <td style="white-space:nowrap">${a.source}</td>
-      <td><a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>
-        ${a.summary_en ? `<div style="color:#64748b;font-size:0.8rem;margin-top:0.25rem">${a.summary_en}</div>` : ''}
+      <td><a href="${a.url}" target="_blank" rel="noopener">${title}</a>
+        ${summary ? `<div style="color:#64748b;font-size:0.8rem;margin-top:0.25rem">${summary}</div>` : ''}
       </td>
-      <td><span class="badge tone-${a.tone}">${a.tone||'—'}</span></td>
+      <td><span class="badge tone-${a.tone}">${toneLabel(a.tone)||'—'}</span></td>
       <td>${(a.topics||[]).map(t => `<span class="tag">${t}</span>`).join('')}</td>
-    </tr>
-  `).join('');
-
+    </tr>`;
+  }).join('');
   renderPagination();
 }
 
@@ -306,12 +316,10 @@ async function init() {
   const resp = await fetch('articles.json');
   allArticles = await resp.json();
   filteredArticles = allArticles;
-
   renderKPIs();
   renderCharts();
   populateFilters();
   renderTable();
-
   document.getElementById('searchInput').addEventListener('input', applyFilters);
   document.getElementById('toneFilter').addEventListener('change', applyFilters);
   document.getElementById('regionFilter').addEventListener('change', applyFilters);
