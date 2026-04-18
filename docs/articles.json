@@ -198,6 +198,23 @@
     "analyzed": 1
   },
   {
+    "id": "a5ac9632d2a535b7",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Two more Reform local election candidates accused of offensive posts - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORGEyWGxJT0M5Qm44b3BUZDlPQ2VUWDJlanVuZzJpVUpjSWFlYk5iMldHdW1nOVJRZGZrb2JNMU40Q1NzSUdIQjFYSjk4bVZqdFFsZG5PVUVaSTdNTk93Z1FKN29jNDBYLTF5SjhBY1N2eUd1VlNQRmxMR2drQTJFZER5Ym1sbzJQVV80dlV0X2xVR3lFNEs2ODRxdnBMeTJINFlNcUtjdFBXUDY1ZEMxSU0xZno?oc=5",
+    "published_at": "2026-04-18T16:01:00+00:00",
+    "fetched_at": "2026-04-18T19:12:24.528810+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "c96a223ade1a53eb",
     "source": "Washington Post",
     "region": "us",
@@ -254,14 +271,24 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWl9XRGwzTm96b1N4RkFOekl1UUNteF9HeWo0RHNQcUhGU0t4OFh1YWlFQi1mb2E5aUJocWdKdVVUMWZFS3FSek1IRGhHSUFqWTdpSUlLR2lvd0hKckRwaHEtU1JubkZMMWk1Rmw1OW9jOTY4WmliNDlMSW9oNVRJcXhKVkQwUUdVM3hMdm9IaDl6cXRLLVBWanl3?oc=5",
     "published_at": "2026-04-18T15:54:00+00:00",
     "fetched_at": "2026-04-18T18:52:56.503267+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "nato",
+      "other"
+    ],
+    "actors": [
+      "Emmanuel Macron",
+      "France",
+      "Lebanon",
+      "UNIFIL"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "French President Emmanuel Macron announced that one French soldier was killed and three others were wounded in an attack on peacekeeping forces in Lebanon. The incident targeted UNIFIL peacekeepers operating in the region. Macron condemned the attack and called for accountability.",
+    "title_hu": "Macron: egy francia katona meghalt, három megsebesült a libanoni békefenntartók elleni támadásban",
+    "summary_hu": "Emmanuel Macron francia elnök bejelentette, hogy egy francia katona életét vesztette, három pedig megsebesült a libanoni békefenntartók elleni támadásban. Az incidens az UNIFIL misszió tagjait érte. Macron elítélte a támadást és felelősségre vonást követelt.",
+    "analyzed": 1
   },
   {
     "id": "8c70cb3c8ce0e295",
@@ -303,6 +330,30 @@
     "summary_en": "This article covers reported attacks on ships and the reclosing of the Strait of Hormuz involving Iran. The content does not appear to relate to Hungary. It may have been included in a Hungary-focused feed by error or via a broad regional aggregation.",
     "title_hu": null,
     "summary_hu": null,
+    "analyzed": 1
+  },
+  {
+    "id": "c0dd38d1008f81c1",
+    "source": "The Atlantic",
+    "region": "us",
+    "title": "The President and the Pope - The Atlantic",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1waV9HWjV1NFF0WFZpTU9DM2VRUU1fVFJiVmVFeEVTaXRtYU02U1Q2NFRrbTVlX2p4UnFpTy1ZaFg5OVkySks5SVQwS0JPMTgzM0JjSGFfM1JrWmRWdTMwN3R2S0hZRXdaNnFsZ2lHamRsVWlNc3NsZ2NWRQ?oc=5",
+    "published_at": "2026-04-18T15:19:33+00:00",
+    "fetched_at": "2026-04-18T19:08:17.885628+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "other"
+    ],
+    "actors": [
+      "Donald Trump",
+      "Pope"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "The Atlantic examines the relationship between the U.S. President and the Pope, likely exploring tensions or alignments between American political power and the Catholic Church. The piece may touch on how this dynamic affects Central European Catholic-nationalist leaders like Viktor Orbán, who has cultivated ties with both Washington and the Vatican. The framing suggests a geopolitical lens on religion and power.",
+    "title_hu": "Az elnök és a pápa",
+    "summary_hu": "Az Atlantic az amerikai elnök és a pápa kapcsolatát vizsgálja, feltárva az amerikai politikai hatalom és a katolikus egyház közötti feszültségeket vagy összhangot. Az írás érintheti, hogy ez a dinamika hogyan befolyásolja a közép-európai katolikus-nacionalista vezetőket, köztük Orbán Viktort, aki kapcsolatokat ápol Washingtonnal és a Vatikánnal egyaránt. A cikk geopolitikai keretben tárgyalja a vallás és a hatalom összefüggéseit.",
     "analyzed": 1
   },
   {
@@ -391,6 +442,28 @@
     "summary_en": "The article covers Italian politics, focusing on Prime Minister Giorgia Meloni's weakening political position and the rise of a progressive opposition challenger. This content is not directly related to Hungary. No significant Hungary-specific context is present in the title or source metadata.",
     "title_hu": null,
     "summary_hu": null,
+    "analyzed": 1
+  },
+  {
+    "id": "b2a517caa03fbb06",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Mexico mends ties with Spain in first presidential visit in eight years - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOclJlZXBNM3dGRTdtRDJPbDF5UEthUG9CeVRGN21aMVgteDM1RllpeFZmd0xESE1LQWNzSmxsR0ExS0RZUllBVnRQcVFNZzg2b0JZMHplQ2h6RDZyQmZUc0htc0NRWlAyTm9XMlEwaC1Eb19aYUdsdnhvTndWTGp6VVFlLW5ZZXdZbmoxcGVYTDFEVS1BR25DcWhid1JzWm95WmREY1F1NGZ5V2laaXNiNQ?oc=5",
+    "published_at": "2026-04-18T14:16:58+00:00",
+    "fetched_at": "2026-04-18T19:07:56.269905+00:00",
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Mexico",
+      "Spain"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Mexico and Spain are mending diplomatic ties as the Mexican president makes the first presidential visit to Spain in eight years. The visit signals a normalization of relations between the two countries after a period of tension. Details of agreements or discussions held during the visit were reported by Reuters.",
+    "title_hu": "Mexikó rendezi kapcsolatait Spanyolországgal az első elnöki látogatáson nyolc év után",
+    "summary_hu": "Mexikó és Spanyolország diplomáciai kapcsolatait rendezi, miután a mexikói elnök nyolc év után először tett elnöki látogatást Spanyolországban. A látogatás a két ország közötti feszültség enyhülését jelzi. A Reuters részleteket közölt a tárgyalásokról és a megkötött megállapodásokról.",
     "analyzed": 1
   },
   {
@@ -544,6 +617,31 @@
     "summary_en": "This article from Le Monde covers the Israeli army's establishment of a 'Yellow Line' in Lebanon, drawing a parallel to similar demarcations in Gaza. The content is unrelated to Hungary. No Hungarian context, actors, or policy implications are present in the article.",
     "title_hu": null,
     "summary_hu": null,
+    "analyzed": 1
+  },
+  {
+    "id": "be9f9e761372e5be",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Brazil's Lula calls on permanent members of UN Security Council to change behaviour - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzVhY0VOUy0tWFptSHphZUhtM25ZT3cyY3FBd1NibHRIcmtEQzc2eWpadTRjVTNuT0stQ2dlWmV0bXhEVi0xY1JqZFltWFdEWTh2aVB6X2JFM0xEUU8zSWY3aldudFdaRTlNZElfdERTaDRQdk9LS1ZxUEtOck5MRWdKYWhVcm03VXVublY0Q0c0MnZwb1NHV1VWTGxaOHMxSklrSnk3dkw2OUxvNzNleGtjSWt5d1FnUlVVUVYtWWY0UQ?oc=5",
+    "published_at": "2026-04-18T12:05:43+00:00",
+    "fetched_at": "2026-04-18T19:07:56.269870+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "other"
+    ],
+    "actors": [
+      "Lula",
+      "UN Security Council",
+      "Brazil"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Brazilian President Lula called on the permanent members of the UN Security Council to change their behaviour. The statement reflects Brazil's ongoing push for reform of global governance institutions. This article does not directly concern Hungary.",
+    "title_hu": "Lula brazil elnök az ENSZ BT állandó tagjainak magatartásváltozását sürgeti",
+    "summary_hu": "Lula brazil elnök felszólította az ENSZ Biztonsági Tanácsának állandó tagjait, hogy változtassanak magatartásukon. A nyilatkozat Brazil folyamatos törekvését tükrözi a globális kormányzati intézmények reformja iránt. Ez a cikk közvetlenül nem érinti Magyarországot.",
     "analyzed": 1
   },
   {
@@ -883,6 +981,27 @@
     "analyzed": 1
   },
   {
+    "id": "91832fbbec48f5d6",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Video. Latest news bulletin | April 18th, 2026 – Midday - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmZSYTdLeVkxeTdndGxQS3VvWHM4ckF3THJ1WXRRNDlpNk5hTzVqNjRrcVFCeGdobUw3S2ZMX3ZVUldmeWxzdEdZbHA1OWpvX0l2Q3RpT3NJX1hvYXhhMm1LMS1RN3dFemdLdks3TUVuNGlqRFkyeFlxc2xmQTlWdjRPZlR6cUhGQ0cwOGF3?oc=5",
+    "published_at": "2026-04-18T10:00:17+00:00",
+    "fetched_at": "2026-04-18T19:08:26.591821+00:00",
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Euronews"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This is a generic midday news bulletin from Euronews dated April 18, 2026. The title does not reference Hungary or any Hungary-specific topic. No substantive content about Hungary can be extracted from the title alone.",
+    "title_hu": "Videó. Legfrissebb hírek | 2026. április 18. – Déli kiadás – Euronews.com",
+    "summary_hu": "Ez az Euronews 2026. április 18-i déli híradója. A cím nem tartalmaz Magyarországra vonatkozó konkrét információt. A cikk tartalma a cím alapján nem elemezhető.",
+    "analyzed": 1
+  },
+  {
     "id": "0ed1baa97615059f",
     "source": "Financial Times",
     "region": "uk",
@@ -1117,14 +1236,18 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTZlc1YzdVY4U0NENDVzaU1OeVhtbkVKVHpCbkhpdk5SOUdHS2JtNmFoVGpoZWwxX0Exd01tTjNHX2tLZzZXcHFmeHVMa2d0TjdBSVB5TUtFc3BURUM1eVY1Z3V4N2pkQjY1Sk83bGVHdkcyMDJuUlVXQUVNaVIwWVN1eVNaOTNtdDNRWndYYzZKYjE4anJuV2NGdk5rTTNWUXB6ekZ3UlZzcFFH?oc=5",
     "published_at": "2026-04-18T06:06:00+00:00",
     "fetched_at": "2026-04-18T18:52:54.748398+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Iranians"
+    ],
+    "tone": "critical",
+    "framing": "other",
+    "summary_en": "This article from Reuters covers fears among Iranians regarding increasing pressure following war and a domestic crackdown. The content does not relate to Hungary and appears to have been misrouted to this analysis pipeline. No Hungarian context is present in the title or source metadata.",
+    "title_hu": "Az irániak félnek az erősödő nyomástól a háború és a megtorlás után – Reuters",
+    "summary_hu": "Ez a Reuters-cikk az irániak félelmeit tárgyalja a háborút és a belső elnyomást követő fokozódó nyomással kapcsolatban. A tartalom nem kapcsolódik Magyarországhoz, és úgy tűnik, tévesen kerül ebbe az elemzési folyamatba. A címben és a forrás metaadataiban nincs magyar vonatkozás.",
+    "analyzed": 1
   },
   {
     "id": "4961f33c0053142c",
@@ -1134,14 +1257,19 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0h0SlU0MmlqcU9iVmhZRG5PVjBQWjdMNXVIcU5ZaEljZnF5MFFycFFCMnZ3VXhOc3ZtY1p5MTJNRjJrb3RvcmZuZ0pBeElPNWtrb1JyMVpfdTBQMU90elBsRlRHNHlPOHpEeTJjYi1GaTM2LWNuYWNOcDlCNjFEUm01eFJjVFA1RXF2T1h2cjNhaXdvZ2pDYVJTTkJtVWZoVE9SMXBhZjJVVUg0UnpzLVJHZXFNX096?oc=5",
     "published_at": "2026-04-18T05:53:00+00:00",
     "fetched_at": "2026-04-18T18:53:00.159453+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "migration",
+      "other"
+    ],
+    "actors": [
+      "Yumna Kassab"
+    ],
+    "tone": "critical",
+    "framing": "other",
+    "summary_en": "Australian author Yumna Kassab reflects on the dystopian nature of tough immigration rhetoric from Australian politicians. The piece is an opinion column about migration policy in Australia, not directly related to Hungary. It has no apparent Hungarian political context.",
+    "title_hu": "Amikor egy ausztrál politikus szigorú új bevándorlási politikát jelent be, disztópiára gondolok | Yumna Kassab",
+    "summary_hu": "Yumna Kassab ausztrál szerző a szigorú bevándorlási retorika disztopikus jellegéről elmélkedik az ausztrál politikusok kapcsán. Az írás véleménycikk Ausztrália migrációs politikájáról, és közvetlenül nem kapcsolódik Magyarországhoz. Nincs érdemi magyar politikai vonatkozása.",
+    "analyzed": 1
   },
   {
     "id": "c2ef6114023e39a7",
@@ -1151,14 +1279,20 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXBkQkpITjZPckxNM0FNRVZkU2VZTDBGN1ZMdm4zYWRDQmcyUWgwRWFNY1NVd09Cd0E1SHJDQmFoNDRCV1ZjUGhzbTczNzJvU2puV2FEVDMyanU5eFJ5TmU2TjJKODJCaUItRGlUV0h6d2ZxZFdNcnIwR1ZkQWFmaV9IaDU1clJrTXJCY2dzUlZaZnBCLXZz?oc=5",
     "published_at": "2026-04-18T05:25:03+00:00",
     "fetched_at": "2026-04-18T18:53:08.820568+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "rule of law",
+      "foreign policy"
+    ],
+    "actors": [
+      "Washington Post"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "A highly sought international fugitive has been apprehended, concluding a prolonged manhunt that spanned several years. The arrest marks a significant development in international law enforcement cooperation. Details about the suspect's identity and the nature of the charges have not been specified in the available information.",
+    "title_hu": "A világ egyik legkeresettebb emberét letartóztatták, évek óta tartó hajsza ért véget",
+    "summary_hu": "Letartóztattak egy nemzetközileg körözött személyt, ezzel lezárult egy több éve tartó hajsza. Az elfogás jelentős előrelépést jelent a nemzetközi bűnüldözési együttműködésben. A rendelkezésre álló információk alapján a gyanúsított személyazonossága és a vádak részletei nem ismertek.",
+    "analyzed": 1
   },
   {
     "id": "7f810429ee4a9e50",
@@ -1168,14 +1302,18 @@
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80ek9FenFEQXNNNzR2anVVbjc1VjVsRW41VlVIby1ZMlpoamV2Y1AteFltTlZDSTdiWlpLMGF3a2JvS3VXc2N1a3p0c3plQW8?oc=5",
     "published_at": "2026-04-18T04:16:27+00:00",
     "fetched_at": "2026-04-18T18:53:05.235674+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Hungary"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This article from The Times (UK) covers news related to Hungary. The specific content could not be retrieved from the provided URL, as it appears to be a Google News aggregator link. The article's exact subject matter remains unclear from the title alone.",
+    "title_hu": "Magyarország – The Times",
+    "summary_hu": "Ez a The Times (UK) cikkek egyike, amely Magyarországgal foglalkozik. A megadott URL egy Google Hírek összesítő hivatkozás, amelyből a konkrét tartalom nem volt lekérhető. A cikk pontos témája a cím alapján nem állapítható meg.",
+    "analyzed": 1
   },
   {
     "id": "fa8680ac4961688a",
@@ -1185,14 +1323,22 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmg0M0tyNlBHbktra2VPcjVLaTBtbnVSYzhJUkE1Z0VZUTBlOXdyekpQVU9sdURyaTZaNlRyN1N1M3I4ZElKNlNzdDFyTmFfMUJ3ZUhiWUxzMW5scExjSjNrWkNYdkNkVDRLTWlVNUpkT2dFVHdZTFh6V3NEeHNBQ1IwX3U?oc=5",
     "published_at": "2026-04-18T04:00:40+00:00",
     "fetched_at": "2026-04-18T18:53:03.622282+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "EU relations",
+      "economy",
+      "foreign policy"
+    ],
+    "actors": [
+      "Hungary",
+      "European Union",
+      "Financial Times"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Investors are increasing their exposure to Hungarian assets, encouraged by signs that Hungary may be moving toward closer ties with the European Union. The shift in sentiment reflects optimism that improved EU relations could unlock frozen cohesion funds and stabilize the Hungarian economy. Markets appear to be pricing in a potential foreign policy realignment under the Orbán government.",
+    "title_hu": "Befektetők özönlenek a magyar eszközökbe az EU-közeledésre fogadva",
+    "summary_hu": "A befektetők növelik kitettségüket a magyar eszközökkel szemben, mivel jelek mutatkoznak arra, hogy Magyarország közeledhet az Európai Unióhoz. A hangulat megváltozása azt a várakozást tükrözi, hogy a javuló EU-kapcsolatok feloldhatják a befagyasztott kohéziós forrásokat és stabilizálhatják a magyar gazdaságot. A piacok úgy tűnik, az Orbán-kormány lehetséges külpolitikai átrendeződését is beárazzák.",
+    "analyzed": 1
   },
   {
     "id": "f0670e963e5434f3",
@@ -1202,14 +1348,22 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmRmZTBNWTdidk1YZ2ZFcENUVHVDSDdtT0NBUWp3Ty02LWpfUHAteDZSWHZibUZ1a1dTRnRneV9hTm1waVlYVTFtN25zWGJET01uZzZiNEZJRHBCVm9HV0RBWG13ZGluSUVZQnFhRzNYWXdJXzJzMTlkbkVfbXUza09pUS0?oc=5",
     "published_at": "2026-04-18T04:00:40+00:00",
     "fetched_at": "2026-04-18T18:53:03.622425+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "foreign policy",
+      "other"
+    ],
+    "actors": [
+      "Vladimir Putin",
+      "Fidesz"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "The Financial Times reports that a pro-Putin candidate is leading in Bulgaria's upcoming election, raising concerns about Russian influence spreading within EU member states. The article draws implicit parallels to Hungary's Orbán government, which has similarly been characterized as a Kremlin-friendly 'Trojan horse' inside the EU. This development signals growing anxiety in Brussels about Russian soft power undermining EU cohesion.",
+    "title_hu": "Putyin 'trójai falova' vezet a bolgár választásokon",
+    "summary_hu": "A Financial Times arról számol be, hogy egy Putyin-barát jelölt vezet Bulgária közelgő választásain, ami aggodalmakat kelt az orosz befolyás terjedésével kapcsolatban az EU tagállamaiban. A cikk implicit párhuzamot von Magyarország Orbán-kormányával, amelyet szintén 'trójai falóként' jellemeznek az EU-n belül. Ez a fejlemény Brüsszel növekvő aggodalmát tükrözi az orosz befolyásolási kísérletek uniós egységet aláásó hatásával kapcsolatban.",
+    "analyzed": 1
   },
   {
     "id": "087a26dbb3fb41ab",
@@ -1236,14 +1390,23 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2Z3WHlGS2dKQTItWEVUS0QxSTNCLXEzNmtPQUkxOFk4NURXS1RiSDIwclVIYVNMVnV6SHpMcUNOWWx4S1RnT29BNjlXQWF4eGcyOTNQWnBjRG42NHlZMjZ5cmFTQ2lPYlRiYWdjb19wVEQ0VnRKSlVyYWh6M1hBWXdpT0hHWWhIWHFj0gGLAUFVX3lxTE9BLWJlV3EteEctOENWU3hocVVlUlhhWDBmMWwybFRrZFU5cnNaa3lRZ3RySjc0WkRMUGx5VEp4RnVGUFhMOWU3d25XVzRhSDlNdjdLRXFKbnVuNWxJYjlDTWtBZzVSNV9wVXB2di1aY3VWS2JIbEt4R1ZBME55NjlBV3V1T1ZMYVAyRkk?oc=5",
     "published_at": "2026-04-18T03:27:35+00:00",
     "fetched_at": "2026-04-18T18:53:29.849522+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "energy",
+      "geopolitics",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "United States",
+      "Russia",
+      "EU"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The United States has extended a waiver permitting the purchase of Russian oil, signaling continued flexibility in energy sanctions policy. This decision has significant implications for European countries, including Hungary, which remains heavily dependent on Russian energy imports. The move reflects ongoing tensions between energy security needs and geopolitical pressure to isolate Russia.",
+    "title_hu": "Az USA meghosszabbította az orosz olaj vásárlását lehetővé tevő felmentést",
+    "summary_hu": "Az Egyesült Államok meghosszabbította azt a felmentést, amely lehetővé teszi az orosz olaj vásárlását, ezzel rugalmasságot mutatva az energiaszankciók terén. Ez a döntés jelentős hatással van az európai országokra, köztük Magyarországra, amely erősen függ az orosz energiaimporttól. A lépés tükrözi az energiabiztonsági igények és az Oroszország elszigetelésére irányuló geopolitikai nyomás közötti feszültséget.",
+    "analyzed": 1
   },
   {
     "id": "85dafcb15b3a7fd0",
@@ -1270,14 +1433,23 @@
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3Rnc5cmptUDFJel9DamFhbEoyTmJhOFhtM3RIUVMzYUplNG9Vd2RfcEx6cVVpTXJWcW1OUlI3ckVCNmgxOWM0d0RkVkpWLXIzbVZFTFEzZUVBcUlZbU5QeHI0SU5tdUxoQVQ0?oc=5",
     "published_at": "2026-04-18T02:08:11+00:00",
     "fetched_at": "2026-04-18T18:53:01.747277+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "elections",
+      "democracy",
+      "government transition",
+      "rule of law"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Fidesz",
+      "Hungarian opposition"
+    ],
+    "tone": "critical",
+    "framing": "democracy",
+    "summary_en": "The Economist examines whether Viktor Orbán and his Fidesz party can be defeated in upcoming Hungarian elections. The article likely explores the state of the opposition, structural advantages Orbán holds through media control and electoral rules, and what conditions might enable a change of government. It reflects growing international interest in Hungary's democratic trajectory.",
+    "title_hu": "Le lehet győzni Orbán Viktort?",
+    "summary_hu": "A The Economist azt vizsgálja, hogy Orbán Viktor és a Fidesz legyőzhető-e a közelgő magyarországi választásokon. A cikk valószínűleg az ellenzék helyzetét, Orbán strukturális előnyeit – a médiafeletti uralom és a választási szabályok révén –, valamint azokat a feltételeket elemzi, amelyek mellett kormányváltás következhet be. Az írás tükrözi a nemzetközi érdeklődés növekedését Magyarország demokratikus irányával kapcsolatban.",
+    "analyzed": 1
   },
   {
     "id": "4957caf04633fc0c",
@@ -1287,14 +1459,19 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXMwdmlzeUNRNDFXcDIycFEtT1NHVk5KZHpMNW5XT2ZWWHNMVU40cHloQVZ2TTBwUzhPNWZxd2hlcGpUUy04aXZpbFZrRTh2cUM1OENnYWZ5Z1g2SDJrQ2d4dE82V0NGQXVyNzl3UFFYX01LZlp5UFVId21Zc3ZUR3NJaFk2SGtQazBaV2F6Qm1xbEh5RWg3ZkZTUEh2UzR6cVdpTFktT3ZJaFFObHJVOHAxbHV3SlF5QzRuMWl0dzNWRHlxMlpHR0xOVQ?oc=5",
     "published_at": "2026-04-18T01:33:01+00:00",
     "fetched_at": "2026-04-18T18:53:27.828050+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "US Supreme Court",
+      "Chevron"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "The US Supreme Court ruled in favor of Chevron in an environmental case. The decision has implications for environmental regulation in the United States. This article does not appear to be directly related to Hungary.",
+    "title_hu": "Az amerikai Legfelsőbb Bíróság a Chevron oldalán döntött környezetvédelmi ügyben - Le Monde.fr",
+    "summary_hu": "Az amerikai Legfelsőbb Bíróság a Chevron javára döntött egy környezetvédelmi ügyben. A határozat kihatással van az Egyesült Államok környezetvédelmi szabályozására. Ez a cikk nem kapcsolódik közvetlenül Magyarországhoz.",
+    "analyzed": 1
   },
   {
     "id": "5e834e23298f21f1",
@@ -1304,14 +1481,23 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWJsbldUWDIxdkRLRDdfeGk4eTlZcmptLUp5cVpiRnBuQmJfYVpydmFDM0xaV2d5MmtscWdTUFdYY1ZzdmhUb3lITTZfS2xZN0lfekU2bFZpcVctSlo3aUxvYlZMUmp6N2V5UXdSQnJiVnRERlJZY3NPclM3YjBLZTJhZHk2aFJsSGJTQzZUQzZPbVhndEYwdFRmQVM?oc=5",
     "published_at": "2026-04-18T01:30:00+00:00",
     "fetched_at": "2026-04-18T18:53:00.158928+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "EU relations",
+      "government transition",
+      "foreign policy",
+      "democracy"
+    ],
+    "actors": [
+      "Peter Magyar",
+      "European Union",
+      "European Commission"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "EU officials have traveled to Hungary for high-stakes negotiations with Peter Magyar's newly formed government. The talks signal a potential reset in the historically tense relationship between Brussels and Budapest. The visit represents a significant diplomatic moment following Hungary's recent government transition.",
+    "title_hu": "EU-tisztviselők Magyarországra érkeztek tárgyalni Magyar Péter kormányával",
+    "summary_hu": "Uniós tisztviselők utaztak Magyarországra, hogy tárgyaljanak Magyar Péter újonnan alakult kormányával. A tárgyalások a Brüsszel és Budapest közötti feszült viszony lehetséges újraindítását jelzik. A látogatás fontos diplomáciai pillanatot jelent a közelmúltbeli magyarországi kormányváltást követően.",
+    "analyzed": 1
   },
   {
     "id": "97bc5252087cdbf3",
@@ -1321,14 +1507,20 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlk5em9JZXh5T29lUXFwb1BvbWhjNGMxLV8yaFJUQXVZbE54Nnd3ZVgyMzRuTlFib2RnbnE0TEh3ZkV1Q0xnMlRpUmU1X3RBd25ZM0tlUklXZTlBMHg1T1RLN0FxTnJXYktBVjdpQjJZVHRKcTdpdmtlb2VrVVI5REFZVkFERjdVRjdhVHV3STFuM3V5b3JBcjJXX1ZvNHBCcnZSUWZMd051cFQ5a1Zaa1cwV1RUWUszSi1pSg?oc=5",
     "published_at": "2026-04-18T01:30:00+00:00",
     "fetched_at": "2026-04-18T18:53:00.159347+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "EU relations",
+      "other"
+    ],
+    "actors": [
+      "US tech firms",
+      "EU"
+    ],
+    "tone": "critical",
+    "framing": "eu_integration",
+    "summary_en": "US technology companies successfully lobbied the European Union to keep emissions data from datacentres confidential. This move prevents public scrutiny of the environmental impact of major tech infrastructure in Europe. The decision raises concerns about transparency and accountability in EU climate reporting.",
+    "title_hu": "Az amerikai technológiai cégek sikeresen lobbiztak azért, hogy az adatközpontok kibocsátási adatai titkosak maradjanak az EU-ban",
+    "summary_hu": "Az amerikai technológiai vállalatok sikeresen nyomást gyakoroltak az Európai Unióra, hogy az adatközpontok kibocsátási adatai ne kerüljenek nyilvánosságra. Ez megakadályozza a nagy technológiai infrastruktúra környezeti hatásának nyilvános ellenőrzését Európában. A döntés aggodalmakat vet fel az EU klímajelentések átláthatóságával és elszámoltathatóságával kapcsolatban.",
+    "analyzed": 1
   },
   {
     "id": "0ac86e8ebdbf1140",
@@ -1338,14 +1530,18 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR21hb2NfVVZhV2ItOXFNSm5aQ0U1T0gtWW1jVVUzUmZ5Rkk0UU9vQjJ6UUM1d0gzZE00dHZwdm5VOUJBSnBqUWVLOU1wX3pYMHNTcEJUNUYzMHdTSjk5ejV1NGZMM2RyVnRVazhfQURNYzRidVB3TGlXVXJnRGpIQzZGQXRpeDVkZ1E3aGJpTUlvVTMzV3YxbHlYSXJXeVdMdkZFTm0yWQ?oc=5",
     "published_at": "2026-04-18T01:01:00+00:00",
     "fetched_at": "2026-04-18T18:52:56.503059+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Etan Patz"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "A judge has declined to dismiss a case related to the 1979 disappearance of Etan Patz in the United States, setting the stage for a third trial. This is an American criminal justice case with no relevance to Hungary.",
+    "title_hu": "A bíró elutasította az 1979-es Etan Patz-eltűnési ügy megszüntetését, harmadik tárgyalás várható",
+    "summary_hu": "Egy bíró elutasította az 1979-es Etan Patz-eltűnési üggyel kapcsolatos kereset megszüntetését az Egyesült Államokban, így harmadik tárgyalásra kerül sor. Ez egy amerikai büntetőjogi ügy, amely nem kapcsolódik Magyarországhoz.",
+    "analyzed": 1
   },
   {
     "id": "eac0f46e65188230",
@@ -1355,14 +1551,22 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdTF5THdIMkUwNGtSbW5iUVJ2b3dNM1RHSDBEOEZDdzZHMUI5X19pVUlSYnA5eDM1emRwNEJqbkg4NVBJWE1BbW84MzNlQWpKMnFleDJ6cEw1RHR5NUVGSHE0eUxBanp3SDZIRmotNURMMUdyZVdBLXNBR0xZeFhKTC1OZ09GQ1pDNXZnS2FfU1h2Rk5rN0E?oc=5",
     "published_at": "2026-04-18T00:54:58+00:00",
     "fetched_at": "2026-04-18T18:53:29.849424+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "other"
+    ],
+    "actors": [
+      "AfD",
+      "Friedrich Merz",
+      "CDU/CSU"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Germany's far-right AfD party has surpassed Friedrich Merz's conservative CDU/CSU bloc in polling, marking a significant shift in German political dynamics. This development signals growing support for nationalist and Eurosceptic forces in Europe's largest economy. The trend mirrors broader European shifts toward right-wing populism, with potential implications for EU cohesion and Hungary's political alignment.",
+    "title_hu": "Németország hírei: A szélsőjobboldali AfD megelőzte Merz konzervatívjait",
+    "summary_hu": "Németországban az AfD szélsőjobboldali párt megelőzte Friedrich Merz CDU/CSU konzervatív tömbjét a közvélemény-kutatásokban. Ez jelentős elmozdulást jelez a német politikai erőviszonyokban, és a nacionalista, euroszkeptikus erők növekvő támogatottságát tükrözi. A trend szélesebb európai összefüggésbe illeszkedik, és hatással lehet az EU kohéziójára, valamint a kontinens jobboldali populista mozgalmaira.",
+    "analyzed": 1
   },
   {
     "id": "3724ac309b95e0c3",
@@ -1372,14 +1576,18 @@
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUG1JYXVraVoxN3lOTE41Q1dXVXNxTmVvU0ZVNVhBLTFLRVdIdTBTTGw3SkJjX2s3NVZiZk9lZEh6R2RUUE1fUGpGRWptTFFKdmNud1NnU0p2ejdITlprSlhJemFHY29wR1VmZE9TdVVQR2pRVDFwZTd6OHh3SkVWdC1oM0JwdlVMbS1wMTRLTzkxMHFRRWViSG1iREFCYnd1WGI1UGtB?oc=5",
     "published_at": "2026-04-18T00:22:00+00:00",
     "fetched_at": "2026-04-18T18:52:56.502905+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Jon Rahm"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This article is about professional golfer Jon Rahm and the LIV Golf tour, with no relevance to Hungary. The piece covers questions about the tour's future following an interview with its CEO. This article does not contain Hungary-related content.",
+    "title_hu": "Jon Rahm a golfra összpontosít, miközben a LIV vezérigazgatójának interjúja újabb kérdéseket vet fel a túra jövőjéről",
+    "summary_hu": "Ez a cikk Jon Rahm profi golfozóról és a LIV Golf túráról szól, Magyarországgal nincs kapcsolata. A cikk a túra jövőjével kapcsolatos kérdéseket tárgyalja a vezérigazgató nyilatkozata kapcsán. A tartalom nem releváns a magyarországi sajtóelemzés szempontjából.",
+    "analyzed": 1
   },
   {
     "id": "8d7755b32f500b9b",
@@ -1389,14 +1597,23 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT016Y1FXUTVIaTNYYVhrZTdBSUpKczJ2VnVmVEd6SkV0cF9xdi1ldTZ6TXgwSVFIRmVaRjJzYkpibGFjcmhJdEIydGlmWXNPR3JfRzJhRml6TTBQdmhIVUxjU2RubWhOdlZuOC1zblktUHIwMngxbkhYMnB1OHg0ZGx5eVNZeWZ6VkhwTE41RzBTS3lmX0Y4?oc=5",
     "published_at": "2026-04-18T00:20:48+00:00",
     "fetched_at": "2026-04-18T18:53:29.849652+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "energy",
+      "foreign policy",
+      "other"
+    ],
+    "actors": [
+      "Iran",
+      "Israel",
+      "Lebanon"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The article reports on the status of the Strait of Hormuz remaining open amid an Israel-Lebanon truce in the context of Iran war developments. This geopolitical situation has implications for global energy markets and oil transit routes. Hungary, as an energy-dependent Central European country, is potentially affected by disruptions to Middle Eastern energy supplies.",
+    "title_hu": "Iráni háború: a Hormuzi-szoros nyitva marad az izraeli-libanoni tűzszünet közepette",
+    "summary_hu": "A cikk arról számol be, hogy a Hormuzi-szoros nyitva marad az izraeli-libanoni tűzszünet idején, az iráni háborús fejlemények közepette. Ez a geopolitikai helyzet kihatással van a globális energiapiacokra és az olajszállítási útvonalakra. Magyarország, mint energiafüggő közép-európai ország, potenciálisan érintett a közel-keleti energiaellátás esetleges zavarai által.",
+    "analyzed": 1
   },
   {
     "id": "4983dbf2ede63a91",
@@ -1406,14 +1623,18 @@
     "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE5QVnRac1NpLVpiaHBKQ0tCVlB2N2RFNHZvRHNDSEp1RXFUazk2VjJGRkNBeDItdw?oc=5",
     "published_at": "2026-04-18T00:18:34+00:00",
     "fetched_at": "2026-04-18T18:53:29.849360+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "DW"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This entry appears to be a generic DW (Deutsche Welle) homepage or feed link rather than a specific article about Hungary. No substantive content about Hungarian affairs can be extracted from the title or metadata alone. Further context or article body would be required for meaningful analysis.",
+    "title_hu": "Hírek és aktualitások Németországból és a nagyvilágból - DW.com",
+    "summary_hu": "Ez a bejegyzés úgy tűnik, hogy a DW (Deutsche Welle) általános kezdőlapjára vagy hírcsatornájára mutat, nem pedig egy konkrét Magyarországgal foglalkozó cikkre. A cím és a metaadatok alapján nem vonható le érdemi következtetés magyar ügyekről. Az elemzéshez a cikk szövege szükséges lenne.",
+    "analyzed": 1
   },
   {
     "id": "129d2528384d5c3e",
@@ -1423,14 +1644,16 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeExMQ3BnNGlrYWhTRlVILUJVZ3JVeVJIQl9FN0J0NW9VUE1YM2tJeEx1N01kdWJpUFM4ek9tNV9icEpzcHFtbGI0RVZrd1c4QWp0Zmo5Q0J0MmNhZk01djM1aTlqbDhoT1hTcTY3ZDI5dU95ZkVmUkM0WEYtT01jY3MtelBrR3czZjNFQ2VEbEtYdkFBQXZTSmpIRzZZRXBPUEx5djhFNzI4ZnhMYjNwRS1CZw?oc=5",
     "published_at": "2026-04-17T23:52:00+00:00",
     "fetched_at": "2026-04-18T18:52:56.503044+00:00",
-    "topics": [],
+    "topics": [
+      "other"
+    ],
     "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This article is not related to Hungary. It covers a criminal case in the Atlanta, USA area, reporting that roommates of a man accused of killing two people claim a dispute preceded the attacks.",
+    "title_hu": "Az atlantai környéki támadások előtt vita előzte meg a két ember megölésével vádolt férfi szobatársai szerint",
+    "summary_hu": "Ez a cikk nem Magyarországhoz kapcsolódik. Az atlantai körzetben történt bűnügyet tárgyal: a két ember megölésével vádolt férfi szobatársai elmondták, hogy a támadásokat egy vita előzte meg.",
+    "analyzed": 1
   },
   {
     "id": "e4a2c2f659a81581",
@@ -1440,14 +1663,19 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VQY3hoX3ZkQVVEazZUZWxXdURzYmI3OFBKUlc0eGloZW9GYjhJbjE5NEVMeDd2MmkzQ0FKZzBob0steVh2S1dES3g5NEZOQUhLSTZhbFFrTDFEZzFxYktaaml0NG9RSXlmczhBem85elpaUDUxcC1YVWV6aXNHWnlJNTVjNzRLZDQzVUY2U08wQnlqeTBmRTdmNE9teW84TWx2YzhLc3RwREJxOHZoVHJOWXduMkhraFM0?oc=5",
     "published_at": "2026-04-17T23:00:00+00:00",
     "fetched_at": "2026-04-18T18:52:54.748380+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Bayer",
+      "Johnson & Johnson"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "A US judge rejected Bayer's attempt to block Johnson & Johnson from making claims about its prostate cancer drug. The ruling is a legal setback for Bayer in the pharmaceutical competitive landscape. This article has no direct relevance to Hungary.",
+    "title_hu": "Amerikai bíró elutasította a Bayer kérelmét a Johnson & Johnson prosztatarák-gyógyszer ellen",
+    "summary_hu": "Egy amerikai bíró elutasította a Bayer azon kísérletét, hogy megakadályozza a Johnson & Johnson-t prosztatarák-gyógyszerével kapcsolatos állítások tételében. Az ítélet jogi visszalépést jelent a Bayer számára. A cikk nem kapcsolódik Magyarországhoz.",
+    "analyzed": 1
   },
   {
     "id": "b2c9dab624ff2112",
@@ -1457,14 +1685,18 @@
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFBlQUI3NDBjVEpkUlJBNFZFOHRrYVBKVzBpTUxCdHN2MS1TNnl6SUh2V2VSY1RVQWR0NndPT0ZqVnJsVHNxcGVPNHgzWXVIUXNTTHpTWXFWUUg4T2RTN190UGl3Y2tRb2NOaTZqMFhuWV9iNklCeV95Z1FhRmFtS3FtdFNsNmh0alFtMlE1b9IBjwFBVV95cUxNYXlaaHdralRvdjFkU2J0VWF1WUg5NDBrV2tPWVJHUzVqUHdoeFBDeG9uM2Y5Y0dpbDVod1JHVUF0c2NXaGh1RDdfVFUyczNqanNZQzJ5UkhfU29lOWk2RzN6cktFeGMtaFhrWkRFWGxIZ0twRjhMeEV5RnVBZmlwSzhzM3h3V3AyWTVOUFZZZw?oc=5",
     "published_at": "2026-04-17T22:51:49+00:00",
     "fetched_at": "2026-04-18T18:53:29.849410+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Myanmar"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Myanmar released over 4,000 prisoners as part of an annual tradition. The mass release is a recurring practice in the country. This article does not relate to Hungary.",
+    "title_hu": "Mianmar több mint 4000 foglyot szabadít fel az éves hagyomány keretében",
+    "summary_hu": "Mianmar több mint 4000 foglyot szabadított fel az éves hagyomány részeként. A tömeges szabadon bocsátás visszatérő gyakorlat az országban. Ez a cikk nem kapcsolódik Magyarországhoz.",
+    "analyzed": 1
   },
   {
     "id": "288f1f9622b5db8b",
@@ -1474,14 +1706,18 @@
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOGp4MGZGMzFieXpCNlRtM2RPQjJxUjMyMmJlbFZPTEVHQnAwQmxybkthN2I0UnhMZWVNdWFqUUdlZWIzSG1uN2JfMHB3M3ZUQW8wdUlaSHlSbGtlM0lmYWhFclpiOFNXVUF5VjRKd2pnMGJGc29LQjRuZUpfT3B6T2dLQW9lRVhZZ3N1UC1scy1RalhKVm9PNThRWnFleUFjVllGWUMzYUJqeThKeUpBT0E0cHR5VFExSlg3LTNyME1QdkxZRXJVeUVkUGlqcGxaMG5FUExpNlhEUTI5Z1lQSDcwQlVYdEZNWmc?oc=5",
     "published_at": "2026-04-17T22:41:00+00:00",
     "fetched_at": "2026-04-18T18:53:00.159423+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Francesca Albanese"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This Guardian article is a weekly reading roundup covering unrelated topics including the 'tradwife' lifestyle trend, UN Special Rapporteur Francesca Albanese's personal life, and the psychology of hugging. The article has no discernible connection to Hungary or Hungarian affairs.",
+    "title_hu": "Öt nagyszerű olvasnivaló: egy hónap a hagyományos feleség szerepében, Francesca Albanese 'hullámvasút' élete és a hatmásodperces ölelések problémája",
+    "summary_hu": "Ez a Guardian-cikk egy heti olvasnivaló-összefoglaló, amely nem kapcsolódó témákat tárgyal: a 'tradwife' életstílus-trendet, Francesca Albanese ENSZ-különleges előadó személyes életét és az ölelés pszichológiáját. A cikknek nincs érzékelhető kapcsolata Magyarországgal vagy magyar ügyekkel.",
+    "analyzed": 1
   },
   {
     "id": "4a56f458cd74ddbc",
@@ -1491,14 +1727,16 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTkJTVUI5Rjd6LXJkT1NnSTU0aU1sZ2FxcThPZElseXdCY0c3TnBuXzZSRTJJOWR2REFtbEdvQzBpN24tNGpsZXlHZExqOXk1WDNlbmllb2xDLUlwR3h0N0RJZ3BkNHZLRV8yWXBkRG1IMENpWFA2MGxCZ1luR3ljWFpxOVotX1BKTjVCejkwZFBXSHU3Nkh4bnNrSQ?oc=5",
     "published_at": "2026-04-17T22:40:27+00:00",
     "fetched_at": "2026-04-18T18:53:06.980287+00:00",
-    "topics": [],
+    "topics": [
+      "other"
+    ],
     "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This article is not about Hungary. It covers Maine voters' perspectives ahead of the 2026 U.S. Senate election. The content is unrelated to Hungarian politics, society, or affairs.",
+    "title_hu": "Mit gondolnak a maine-i szavazók a 2026-os szenátusi választások előtt",
+    "summary_hu": "Ez a cikk nem Magyarországról szól. Az amerikai Maine állam szavazóinak véleményét mutatja be a 2026-os szenátusi választások előtt. A tartalom nem kapcsolódik a magyar politikához vagy társadalomhoz.",
+    "analyzed": 1
   },
   {
     "id": "49790cc58923c6e7",
@@ -1508,14 +1746,20 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSWJyRy1fU3hZVVJRaVBLNURoQUR1TEZDTlNqSGViTVg3ZHBOcE5oV2FubzM5RDgydlNkUmdZX2pZVWt3OE1zZXJGUUJRdFBXeFRWM3hvaFhTenYwMzFfT09DN3pveXdraFh5TENtelJ4eWpsVGJaTHFTdWNZalNobm1lZWpUeXRpTWlrLXo1QW4wcWtiZkd1YXpR?oc=5",
     "published_at": "2026-04-17T22:20:00+00:00",
     "fetched_at": "2026-04-18T18:53:16.885255+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "rule of law",
+      "other"
+    ],
+    "actors": [
+      "FBI",
+      "Kash Patel"
+    ],
+    "tone": "critical",
+    "framing": "democracy",
+    "summary_en": "The Atlantic reports on the absence and low profile of FBI Director Kash Patel, raising concerns about the leadership and independence of the bureau. The article questions whether the FBI is being sidelined or weakened under the current administration. This reflects broader democratic backsliding concerns in the United States.",
+    "title_hu": "Az FBI igazgatója eltűnt",
+    "summary_hu": "Az Atlantic arról számol be, hogy Kash Patel, az FBI igazgatója feltűnően visszahúzódott és alig látható a nyilvánosság előtt. A cikk kérdőre vonja a hivatal vezetését és függetlenségét a jelenlegi adminisztráció alatt. Ez szélesebb körű demokratikus visszaesési aggodalmakat tükröz az Egyesült Államokban.",
+    "analyzed": 1
   },
   {
     "id": "7cf04244292e8a1e",
@@ -1525,14 +1769,16 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdngxZkEwQVN6X2pRRmR4cG5VYVJRZC04Xy1NWXRhZnBoVW1KWE41MTl3cHk4UGZwY25hSk92X0xPQVB0eEtpVDhFbUFiM005cTg2a1ZpN3lqM3VKMHpGd2RfZ2NobjhSWUhoX0R6cXhjQ2FwTkg3Y3BiVU9Cc2llbW5xcXRWYV9oZURoajdRUTZZOVh2d1VpaWQ5eVBQaU5meWc?oc=5",
     "published_at": "2026-04-17T22:12:45+00:00",
     "fetched_at": "2026-04-18T18:53:06.980086+00:00",
-    "topics": [],
+    "topics": [
+      "other"
+    ],
     "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Rescuers are making what is expected to be a final attempt to save a whale that has become stranded. The operation involves emergency response teams working to free or assist the distressed animal. The outcome of the rescue effort remains uncertain.",
+    "title_hu": "Videó: A mentők valószínűleg utolsó kísérletet tesznek egy zátonyra futott bálna megmentésére",
+    "summary_hu": "A mentőcsapatok feltehetően utolsó kísérletet tesznek egy zátonyra futott bálna megmentésére. A művelet vészhelyzeti reagáló csapatokat von be, akik megpróbálják kiszabadítani vagy segíteni a bajba jutott állatot. A mentési akció kimenetele egyelőre bizonytalan.",
+    "analyzed": 1
   },
   {
     "id": "f8ed4f9367a98239",
@@ -1542,14 +1788,24 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUpMTkdNMEZpT3dta0s5cGNrcTNKeVdhZmJIR0NOQkhOcDU4R2VkTFoxZFY4WjdyczFGcEp6djFRRnphNjhKZi1SaTQ1S2s1OXR4TFFMWnNWbXVLOWgtUUNJYXRkQU1pSV90TFUyRzJqYUhUcEk1ekpnZ2NrZVVRdTFSbzR5aGYxWDVz?oc=5",
     "published_at": "2026-04-17T21:29:30+00:00",
     "fetched_at": "2026-04-18T18:53:10.639596+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "rule of law",
+      "democracy",
+      "government transition",
+      "EU relations"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Fidesz",
+      "Hungarian government",
+      "European Union"
+    ],
+    "tone": "critical",
+    "framing": "democracy",
+    "summary_en": "The article from Foreign Policy examines Hungary's political trajectory under Viktor Orbán, exploring how the government maintains a semblance of order while systematically dismantling democratic institutions. It analyzes the paradox of a state that functions bureaucratically yet operates outside the norms of liberal democracy. The piece likely critiques the consolidation of power and erosion of checks and balances in Hungary.",
+    "title_hu": "Rend rend nélkül",
+    "summary_hu": "A Foreign Policy cikke Viktor Orbán vezetése alatt vizsgálja Magyarország politikai pályáját, elemezve, hogyan tartja fenn a kormány a rend látszatát, miközben szisztematikusan lebontja a demokratikus intézményeket. A cikk azt a paradoxont járja körül, hogy az állam bürokratikusan működik, mégis a liberális demokrácia normáin kívül helyezkedik el. Az írás valószínűleg kritizálja a hatalomkoncentrációt és az ellenőrzési mechanizmusok erodálódását Magyarországon.",
+    "analyzed": 1
   },
   {
     "id": "d33423170e023266",
@@ -1559,14 +1815,18 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0VJUTRISlZSb3o5OUVYeEppQmlrbllJVnpIemZQMUtCY0JJMFRibW8zb0NhVHVIQXBXcjk5SUgtbXNMQnhHVjExVWJsR1ZOQS1aQTdkcXdwOHFkaDRnTXpsdVg2cUFWelJGUEE2YUYwSWtuRmtRZ0lxRlZHWUNjUHVQT0N0Tk9HMDdoOWVmMF9RU0I5VG1QMlFJbGJyWUdtMWtxXzZxdXd1SWRGbWU0?oc=5",
     "published_at": "2026-04-17T21:22:00+00:00",
     "fetched_at": "2026-04-18T18:53:00.159286+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Daniel Kinahan"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This article concerns the arrest of Daniel Kinahan, alleged leader of an Irish organised crime group, in the United Arab Emirates. The story has no direct connection to Hungary or Hungarian affairs.",
+    "title_hu": "Daniel Kinahan, az ír szervezett bűnözői csoport feltételezett vezetőjét letartóztatták az Egyesült Arab Emírségekben",
+    "summary_hu": "A cikk Daniel Kinahan letartóztatásáról szól, akit egy ír szervezett bűnözői csoport feltételezett vezetőjeként tartanak számon, és az Egyesült Arab Emírségekben tartóztattak le. A történetnek nincs közvetlen kapcsolata Magyarországgal vagy a magyar ügyekkel.",
+    "analyzed": 1
   },
   {
     "id": "25635221cfe9c37a",
@@ -1576,14 +1836,21 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGZVU01hWlQ4Z2dHTENwVzhYa3BPT0FTZ2hwMVM5QU5sVDRqVS02N3JDbjVKMXI0b1lLLWF0ajJIcnFXOTFDS2Q1blZhdUIyT2V6VW14Y1FrcmhJTUoyMU41cVFNWEM1eWZzeXBxR0dWUGZtRTR2V0daZnM4SG9WYVhMR28zalNKSEVSX0xldENfX29BSUhTc2xwS3FzaGhUdG5F?oc=5",
     "published_at": "2026-04-17T21:18:21+00:00",
     "fetched_at": "2026-04-18T18:53:10.639648+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "energy",
+      "geopolitics",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "Ukraine"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine is developing plans to rebuild its energy infrastructure using renewable sources following wartime destruction. This reconstruction effort has implications for Hungary as a neighboring EU member state dependent on energy transit routes through Ukraine. The shift toward renewables could reshape regional energy dependencies that currently affect Hungary's energy security.",
+    "title_hu": "Ukrajna tervet dolgozott ki a megújuló energiával való újjáépítésre",
+    "summary_hu": "Ukrajna megújuló energiaforrásokra alapozott újjáépítési tervet dolgoz ki háborús infrastruktúra-pusztítás után. Ez az átalakulás hatással lehet Magyarországra, amely szomszédos EU-tagállamként az ukrajnai energiatranzit-útvonalakon is függ. A megújuló energiára való átállás átformálhatja a régió energetikai függőségi viszonyait, amelyek jelenleg Magyarország energiabiztonságát is érintik.",
+    "analyzed": 1
   },
   {
     "id": "48136178f9bd8196",
@@ -1593,14 +1860,19 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0daa0NEUkJ3UXJsel9LOUw0NlZoYWtsSlV3RDB0U3hBTVRGWnVaeFVKZzZhWmFGTDVSSnF6UmkyWXNKbGxVV1VoMGJEZTFIampEQjRISHZVRjk2UGROR2hnZjN0QzFXeDNIVHAySEVTUlpaRDlFQktvMk8yQi1xV3E1T3VkNWR1SHZjVnlMM0Fxd2pTN2k0?oc=5",
     "published_at": "2026-04-17T20:42:52+00:00",
     "fetched_at": "2026-04-18T18:53:06.980328+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "LIV Golf",
+      "Saudi Arabia"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "The article examines LIV Golf's financial difficulties amid questions about Saudi Arabian funding. It explores whether Saudi Arabia's broader investments in global sports will remain stable given these uncertainties. The piece has no direct connection to Hungary.",
+    "title_hu": "A LIV Golf kapkod a szaúdi finanszírozási kérdések közepette – meddig tart a királyság részesedése más sportágakban?",
+    "summary_hu": "A cikk a LIV Golf pénzügyi nehézségeit vizsgálja a szaúdi finanszírozással kapcsolatos kérdések tükrében. Elemzi, hogy Szaúd-Arábia globális sporttámogatásai hosszú távon fenntarthatók-e. A cikknek nincs közvetlen kapcsolata Magyarországgal.",
+    "analyzed": 1
   },
   {
     "id": "9f2f3060d5649a10",
@@ -1610,14 +1882,22 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkVmMHd0YlhOMXhnenBsQ2JKaktOTnlzYzVKRkMzVzZLa1V6VXRVU1NDNDdYSHY3WUtNLThNc2RIY01OX3Jod19ad2lyaUhNRXByeWxBM0FWQWY4NzRRLWM1U3lEN2NOZjFxUThRN2NBeUhQbEdOcllCb0N6VUtiQkN1OXFuZ3pVM0xVeHRHX1FGR1gzbWR4N1l2UmprdGx2WV85Mm5YYk1MeFU0dTJn?oc=5",
     "published_at": "2026-04-17T20:37:40+00:00",
     "fetched_at": "2026-04-18T18:52:54.748375+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Volodymyr Zelenskiy",
+      "Ukraine",
+      "Russia",
+      "Belarus"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Ukrainian President Zelenskiy stated that Ukraine believes Russia will attempt to draw Belarus into the ongoing war. This development would represent a significant escalation of the conflict on Ukraine's northern border. The statement reflects ongoing Ukrainian concerns about Belarusian involvement in Russian military operations.",
+    "title_hu": "Zelenszkij: Ukrajna úgy véli, Oroszország ismét megpróbálja bevonni Fehéroroszországot a háborúba",
+    "summary_hu": "Zelenszkij ukrán elnök szerint Ukrajna attól tart, hogy Oroszország ismét megkísérli bevonni Fehéroroszországot a háborúba. Ez jelentős eszkalációt jelentene az ukrán északi határon. A nyilatkozat tükrözi Ukrajna folyamatos aggodalmát a fehérorosz katonai részvétel lehetőségével kapcsolatban.",
+    "analyzed": 1
   },
   {
     "id": "be3cff9bedcea3d2",
@@ -1627,14 +1907,20 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLXRpVFBWNElCOWNBR3M0eFZ2VzBVREhlQ1RoeXFIUkRXNUx6VjlOQnVtejNUTGhLWDZvY0U5ZEhwa0dnR2lBaEdfQ2hTVWxfWUxRNlN3b0sxWk9mZ05PRC1mRkQtdDNRMVFNcVJBcG1WWXNOVjhXRzZWZDA4aG1QbV9reGxEczlDNENEVGN1WjLSAZABQVVfeXFMT3dDQ0h5VVJJQTRUX096MFd5VHhBOFItUmJaQTVrdThwQjhicHo0ZUZXTUNKaGZ2N1NCOWVRU1lqTjZiUk1SUmF1VkRUY2NES1o1NnhaaTAtRWJPVlFmaW5qRVBkQ0FwM19ZT1k2bjIyRGV6QTc0SFpxY29QLTNfUTAtRE1KREJ2bW0tdlAzMDBw?oc=5",
     "published_at": "2026-04-17T20:33:26+00:00",
     "fetched_at": "2026-04-18T18:53:29.849645+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Donald Trump",
+      "DW"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The article examines whether the 25th Amendment to the US Constitution could be used to remove Donald Trump from office. It explores the legal and political mechanisms involved in such a process. This topic carries indirect relevance to Hungary given the Orbán government's close alignment with Trump-era US foreign policy.",
+    "title_hu": "Az alkotmány 25. módosítása eltávolíthatja-e Donald Trumpot a hivatalából?",
+    "summary_hu": "A cikk azt vizsgálja, hogy az Egyesült Államok alkotmányának 25. módosítása alapján el lehetne-e távolítani Donald Trumpot az elnöki tisztségből. A szerző elemzi az ehhez szükséges jogi és politikai feltételeket. A téma közvetve érinti Magyarországot is, tekintettel az Orbán-kormány szoros kapcsolatára a Trump-féle amerikai külpolitikával.",
+    "analyzed": 1
   },
   {
     "id": "e93f411b1b7be434",
@@ -1644,14 +1930,22 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXFRTHRQR2R0d1FLdjZzVFVDYjhKUWJDUF91dHBtbVUtR3JYOEpUc2NEVVhJU2FER0l6ZVNRZU5xOXVwVzBibHAzSWdXSHpsT1NkbV96X0FEOFVJVU1LMXV1OWZaY0NzMktCVXNZQS1XeUMzdU9nRmg5a1FpeG9DLXZ4V2Y4eWdvbWhTV2t3LUZWVmVnVXplNVNkd1B0Um5DVmc?oc=5",
     "published_at": "2026-04-17T20:30:00+00:00",
     "fetched_at": "2026-04-18T18:53:15.066557+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "elections",
+      "democracy",
+      "media"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Magyar Péter",
+      "Tisza Párt"
+    ],
+    "tone": "critical",
+    "framing": "democracy",
+    "summary_en": "The article appears to cover the withdrawal or resignation of a prominent left-wing or opposition figure in Hungary's political landscape. The 'loneliest voice' framing suggests an isolated opposition politician stepping back from public or political life, reflecting the challenges faced by democratic opposition in Hungary's media and political environment.",
+    "title_hu": "A baloldal legmagányosabb hangja visszalép",
+    "summary_hu": "A cikk egy kiemelkedő magyar ellenzéki politikus visszalépését vagy lemondását tárgyalja. A 'legmagányosabb hang' megfogalmazás egy elszigetelt ellenzéki szereplőre utal, aki visszavonul a közélettől, tükrözve az ellenzék nehézségeit Magyarország politikai és médiaközegében.",
+    "analyzed": 1
   },
   {
     "id": "2bfbfc5350f0b4f8",
@@ -1661,14 +1955,22 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGI5Q2lia3o5RGJoRmE4dUhLLWdGRF9xUURmS0NoRTJWOXk4eDFXVl9ZY09EWm53UXozeXlLUmlubmVZUXEzcDB5bGRMbkFBWUdxYVhOREIycmRFNUpRUVQ5eklZTHFrMGlKSGF6bUVELU4wQi1hRWR5NmJ2RTlnWkFodFY5aGJvRkRySmZ6Y2lpU05MSFRRUDlR?oc=5",
     "published_at": "2026-04-17T20:10:00+00:00",
     "fetched_at": "2026-04-18T18:53:10.639509+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "energy",
+      "other"
+    ],
+    "actors": [
+      "Iran",
+      "United States"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Iran has declared the Strait of Hormuz completely open for navigation despite an ongoing U.S. blockade. The statement reflects continued tensions between Iran and the United States over control of this critical global shipping lane. The situation has significant implications for global energy markets and regional stability.",
+    "title_hu": "Irán szerint a Hormuz-szoros 'teljesen nyitott' az amerikai blokád ellenére",
+    "summary_hu": "Irán bejelentette, hogy a Hormuz-szoros teljesen nyitva áll a hajózás előtt, annak ellenére, hogy az Egyesült Államok blokádot tart fenn. A nyilatkozat az Irán és az USA közötti feszültségeket tükrözi e kritikus fontosságú globális hajózási útvonal felett. A helyzet jelentős hatással lehet a globális energiapiacokra és a regionális stabilitásra.",
+    "analyzed": 1
   },
   {
     "id": "6165981ffb4e0dd9",
@@ -1678,14 +1980,24 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR01Zd0pqU0c2Mml4OEZwQlJxVlhhdUdyYmtEZld0T281OHFSbkJEOXFvd3RkU0xTZUYzUXM2VXMwdlRrbklpSWdfTVFGVzNIM0JGWU1qbzF6ZUY3TVp0eU1FMFdHV1pGd2Q3LXRXLWFlMkczY0cwVXpZLVc2N3FWZHlEemUyMF8wTFU3UmtXRkVnTmNDOGw40gGXAUFVX3lxTFBldEZFVUdDSS1NQkZxX3NVMkVzMXBvZVQzbVdlbHlCSWUxR2tBbHBsWnVPcFBiUlpZeGprSEJoYmJHSWZtUzRGVjV4bEhUaXl4ZkRudGp2Nld2c0p6MGR3SE1CVE1OdGFfNk1md3VpTVYtWVc4RWd0bVJrd1RocFNsZjBIa2J1Wno1RjIwTEZUQUFCZ3VZQ2s?oc=5",
     "published_at": "2026-04-17T20:03:44+00:00",
     "fetched_at": "2026-04-18T18:53:29.849389+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "energy",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "European Union",
+      "DW",
+      "Iran",
+      "OPEC"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The Strait of Hormuz has reopened following a period of tension, prompting Europe to reassess its shipping security strategies. European leaders and policymakers are exploring ways to safeguard critical maritime supply routes amid ongoing geopolitical instability. The development has significant implications for energy imports and trade flows into Europe.",
+    "title_hu": "Ahogy a Hormuzi-szoros újranyílik, Európa a hajózás biztonságát keresi",
+    "summary_hu": "A Hormuzi-szoros egy feszült időszak után újra megnyílt, ami arra készteti Európát, hogy újraértékelje hajózásbiztonsági stratégiáit. Az európai vezetők és döntéshozók módszereket keresnek a kritikus tengeri ellátási útvonalak védelmére a folyamatos geopolitikai instabilitás közepette. A fejlemény jelentős hatással van Európa energiaimportjára és kereskedelmi forgalmára.",
+    "analyzed": 1
   },
   {
     "id": "355a9a039df15863",
@@ -1695,14 +2007,21 @@
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTdTM1p3MnlIWXdXTUJzRElJR0I5U3NabWFsMmZYU1VTVjhTbGg1Zlo5NlFpdlhJbmp5c3kxYTBEeFR0bnNmQ0FzMS04NDByTHdxUjdXSEpHRGtOUWsxNHRFUzRuN1FYSFE1dEd4VnNLd2g3Wm9SQVVjbWRhcXYxWEtHNWwtbTg0LTVNaw?oc=5",
     "published_at": "2026-04-17T19:56:00+00:00",
     "fetched_at": "2026-04-18T18:53:00.159325+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "other"
+    ],
+    "actors": [
+      "Donald Trump",
+      "George W. Bush"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "The article draws parallels between Donald Trump's declaration of victory over Iran and George W. Bush's infamous 'mission accomplished' speech during the Iraq War. The Guardian suggests Trump's triumphalist rhetoric may be premature, echoing a historically ill-fated moment of overconfidence. The comparison implies skepticism about the durability or completeness of any deal or military outcome with Iran.",
+    "title_hu": "Trump iráni háborús győzelmi hencegése Bush balszerencsés 'küldetés teljesítve' kijelentésére emlékeztet",
+    "summary_hu": "A cikk párhuzamot von Trump Iránnal szembeni győzelmi bejelentése és George W. Bush hírhedt 'küldetés teljesítve' beszéde között az iraki háború idejéből. A Guardian szerint Trump diadalmaskodó retorikája elhamarkodott lehet, egy történelmileg balszerencsés önelégültségi pillanatot idézve fel. Az összehasonlítás szkepticizmust sugall az Iránnal kötött bármilyen megállapodás vagy katonai eredmény tartósságával kapcsolatban.",
+    "analyzed": 1
   },
   {
     "id": "b4eea452613da7a2",
@@ -1712,14 +2031,18 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkRwbFNPRlk1YVhQTE1velhMT004YWV6WXlUZ2FrTlJVMHVCSkFiU3poMFhKZmEyNGwzRVdBdXFLWEJIWnhKQnBUUDB2RzVCTm5JZEVqN2liYXM3WllTYTlGaU5EWVo5ci1NV2JZUUlQdjBreWYxMEhtNURBMWpRRUYwdDlHNHBKb1dqX0E5R2V5ZTlpZUhvcG5yMGItbXZBVUw1VFk0ckNmM0E?oc=5",
     "published_at": "2026-04-17T19:42:00+00:00",
     "fetched_at": "2026-04-18T18:52:54.748410+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Meta"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Meta is planning the first wave of layoffs around May 20, 2026, with additional workforce reductions expected later in the year. The cuts are part of a broader restructuring effort at the social media giant. This article does not contain content related to Hungary.",
+    "title_hu": "Exkluzív: A Meta május 20-át célozza meg az első elbocsátási hullám időpontjaként; további leépítések várhatók 2026 folyamán",
+    "summary_hu": "A Meta az első elbocsátási hullámot 2026. május 20. körülre tervezi, további létszámleépítésekkel az év hátralévő részében. Az intézkedések egy szélesebb körű átszervezés részét képezik. Ez a cikk nem tartalmaz Magyarországgal kapcsolatos tartalmat.",
+    "analyzed": 1
   },
   {
     "id": "3815e4ab3b279c5c",
@@ -1729,14 +2052,19 @@
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0lUVTlBc24wM1MzZGN1ZDY0R3BDUTllMjNtRnhjMENJd3NYVWNNazFhay1wYlJKczEySGRJaHVEV3pDa29pMUQ3N1lNRUw3UFRqRHZraXJmRG1UZFVwZ2ZabFBDMkROeWhoVEhHY0pWZlM1b2ljR3JFMlA1cHZGdHBtT2p4eFlTZmF4SllB?oc=5",
     "published_at": "2026-04-17T19:26:00+00:00",
     "fetched_at": "2026-04-18T18:52:56.502612+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "other"
+    ],
+    "actors": [
+      "Will Anderson Jr.",
+      "Houston Texans"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Houston Texans defensive end Will Anderson Jr. signed a record-breaking $150 million contract extension, making him the highest-paid non-quarterback in NFL history. This deal reflects the growing value of elite pass rushers in the modern NFL. The contract sets a new benchmark for defensive players league-wide.",
+    "title_hu": "A Texans Will Anderson Jr.-je rekord 150 millió dolláros szerződéshosszabbítást kap, az NFL legjobban fizetett nem-irányítója",
+    "summary_hu": "A Houston Texans védekező végembere, Will Anderson Jr. rekord összegű, 150 millió dolláros szerződéshosszabbítást írt alá, ezzel az NFL történetének legjobban fizetett nem-irányítójává vált. Az üzlet az elit passz-megakadályozók növekvő értékét tükrözi a modern NFL-ben. A szerződés új mércét állít fel a védekezési játékosok számára az egész ligában.",
+    "analyzed": 1
   },
   {
     "id": "6005df77f3fd0334",
@@ -1746,14 +2074,16 @@
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96X0UwUncwOFB0alZGOHI5SDY0aGJVNXNFa2gyY1I3NjczZXlNZWFPUnRKVGdWUEZNejI4dHFqQjk1blhkVUFRanNxNGdIcnBjcmdJN1QwN1hJQnc5a3pvZ3VndkR6cmVDUUhCQVFMSlU0QW5pNFE0?oc=5",
     "published_at": "2026-04-17T19:18:16+00:00",
     "fetched_at": "2026-04-18T18:53:06.980120+00:00",
-    "topics": [],
+    "topics": [
+      "other"
+    ],
     "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This is a weekly history quiz published by The New York Times on April 18, 2026. The article does not appear to contain content specifically related to Hungary. It is a general trivia quiz format with no direct relevance to Hungarian affairs.",
+    "title_hu": "Visszatekintés: Heti történelmi kvíz, 2026. április 18. – The New York Times",
+    "summary_hu": "Ez egy heti történelmi kvíz, amelyet a The New York Times tett közzé 2026. április 18-án. A cikk nem tartalmaz Magyarországgal kapcsolatos tartalmat. Általános történelmi kvíz formátumú írásról van szó, amely nem releváns a magyar ügyekre nézve.",
+    "analyzed": 1
   },
   {
     "id": "4929c331f8e41416",
@@ -1763,14 +2093,19 @@
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JZ3BYd3ZJeW5IZ2t4TEJJd05CVWtWVXg0WG1CemMyeFh2WUNfX3RVeS1jQkZfU0FTaHlPUk5nT1pCR3c4MW5jUDZ0ZWJ1aU03OFR0TFJaaGdWQQ?oc=5",
     "published_at": "2026-04-17T19:02:23+00:00",
     "fetched_at": "2026-04-18T18:52:58.371111+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "society",
+      "other"
+    ],
+    "actors": [
+      "Green Party"
+    ],
+    "tone": "critical",
+    "framing": "other",
+    "summary_en": "Green Party candidates in the UK have been accused of making antisemitic posts on social media, according to a BBC report. The accusations raise concerns about discrimination within the party. The story highlights ongoing debates about antisemitism in political organizations.",
+    "title_hu": "Zöld Párti jelölteket antiszemita bejegyzésekkel vádolnak",
+    "summary_hu": "Az Egyesült Királyság Zöld Pártjának jelöltjeit antiszemita közösségi médias bejegyzések miatt vádolják egy BBC-jelentés szerint. A vádak aggodalomra adnak okot a pártban tapasztalható diszkriminációval kapcsolatban. A történet rávilágít a politikai szervezeteken belüli antiszemitizmusról szóló folyamatos vitákra.",
+    "analyzed": 1
   },
   {
     "id": "fda1570cbc5e7e73",
@@ -1780,14 +2115,21 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZm5wdmI2ZUJQUzd1UFh1WURQcThlSmljZ2NxdTJ3enZGODJzU3lOQVZ0M2NQZDJpZThJSHI3MFhvd29QYUZOZjlHZTZKUXB3RmpJQ1IydmhRcGVta1dzWXhBaDhlOWJxUzcwc3FNOG1JRnZKbnNLcVlRMlR2V2x2SFVsVERmMGZ0dnJEbFVSd1lEMGlncXlzX0pFekJQd3ppVklsbkFmd3VxTE16RW5pa0JWU1VQTE1rUkxWeXpIX1dUd0l2Q2xLcWRULUVZam8?oc=5",
     "published_at": "2026-04-17T18:45:53+00:00",
     "fetched_at": "2026-04-18T18:53:10.639770+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "EU relations",
+      "other"
+    ],
+    "actors": [
+      "Foreign Policy"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Foreign Policy's 'What in the World?' newsletter covers global geopolitical developments, likely including Hungary's role in European and international affairs. The publication frequently examines Hungary's divergent positions within the EU and NATO. Specific article content could not be retrieved from the provided URL.",
+    "title_hu": "Mi történik a világban? - Foreign Policy",
+    "summary_hu": "A Foreign Policy 'Mi történik a világban?' hírlevelе globális geopolitikai fejleményeket tárgyal, valószínűleg érintve Magyarország európai és nemzetközi szerepét is. A kiadvány rendszeresen foglalkozik Magyarország EU-n és NATO-n belüli eltérő álláspontjaival. A cikk konkrét tartalma a megadott URL alapján nem volt lekérhető.",
+    "analyzed": 1
   },
   {
     "id": "e6ec3c465184197a",
@@ -1797,14 +2139,16 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWliRVZMMTIybEFsci1rRFhtQVp6X2hwcmg3cWEzZUYwQk1QSmtqQ21lLTRHVFhVQjExdzk2cE1ETWptRDcta0FSMGVXemtjbzdhdGltMk1oRmoybHFXcWpsVDZEMVBFQ1JuVnc5cjBXSEVrZTdVay1MMlBJYzZtTXBWTDJpdXhIa0o1eVNiNUVUZzhPYlo2emJyV3VYNHJnQjE4?oc=5",
     "published_at": "2026-04-17T18:38:00+00:00",
     "fetched_at": "2026-04-18T18:53:00.159260+00:00",
-    "topics": [],
+    "topics": [
+      "other"
+    ],
     "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "The Guardian's weekly photo roundup covering major events from around the world. The gallery format presents visual snapshots of global news without a specific focus on Hungary. No Hungary-specific content is indicated by the title or source metadata.",
+    "title_hu": "A hét a világ körül 20 képben",
+    "summary_hu": "A Guardian heti fotóösszeállítása a világ különböző pontjairól érkező fontosabb eseményeket mutatja be. A galériaformátum vizuális pillanatképeket nyújt a globális hírekről, Magyarországra vonatkozó specifikus tartalom nélkül. A cím és a forrásadatok alapján nem azonosítható magyarországi vonatkozású tartalom.",
+    "analyzed": 1
   },
   {
     "id": "e4074abb23702f23",
@@ -1814,14 +2158,16 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3h6MGw1SUY0U2tKcE1jdlpzSGdGajhrMkxfekRodzh0eDRFellTa1drZHR2UERJcHdHa3lqZGVxU2Zzd1ZlazVzZFY5UGIyOE12UlIzcWdTQ2dwLTZPRmp1YmpXX00wN0RYY1F6cEdObjVmSjBHSzVMekhmZlM5YWNoVFYta1U?oc=5",
     "published_at": "2026-04-17T18:31:26+00:00",
     "fetched_at": "2026-04-18T18:53:10.639601+00:00",
-    "topics": [],
+    "topics": [
+      "other"
+    ],
     "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This Foreign Policy article investigates whether London's illicit financial flows may have contributed to the death of a young person described as a 'teenage fantasist.' The piece appears to examine the real-world consequences of money laundering and opaque financial systems in the UK capital. Based on the title alone, no direct connection to Hungary is evident.",
+    "title_hu": "London piszkos pénze valóban megölt egy tizenéves fantasztát?",
+    "summary_hu": "A Foreign Policy cikke azt vizsgálja, hogy London illegális pénzáramlásai hozzájárulhattak-e egy fiatal 'fantaszta' halálához. Az írás a pénzmosás és az átláthatatlan pénzügyi rendszerek valós következményeit elemzi. A cím alapján közvetlen magyarországi vonatkozás nem azonosítható.",
+    "analyzed": 1
   },
   {
     "id": "a8da750dae1e3b4d",
@@ -1831,14 +2177,16 @@
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZHpsZ0lYLTNwWGV3V3FUVGJxME5lajNwNVA3TnBUQ1NUb0xiY29ZUXNtNF9OY0UzYVFpQjRQMm5PdkZUenlLeW5ZOTE1V2NJTWN0SEJZd1NIb1I5VER4Q0dOSWZDV2E0RTlOamVfVF9maHJTYlYzdWZMdUgyZ1FoRUlvOV9aM05uYlFKdkZxbFNHaUVfQW1JWVhfbURZLVdkZ0cwWDZ1ejRjZjJRY08zSlRQSXZoajNuRmc0ekNyLWdPbnNEUXdPaXV4VVdOa01rRG9pOEk3c3RLNDg0c3BF?oc=5",
     "published_at": "2026-04-17T18:30:08+00:00",
     "fetched_at": "2026-04-18T18:53:27.828190+00:00",
-    "topics": [],
+    "topics": [
+      "other"
+    ],
     "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This article from Le Monde covers Israeli settlers in the West Bank and the issue of impunity for crimes committed by settlers. The content is unrelated to Hungary. No Hungarian-specific context can be derived from the available metadata.",
+    "title_hu": "A Nyugati Parton az izraeli telepesek, akik bűncselekményeket követnek el, teljes büntetlenséget élveznek",
+    "summary_hu": "Ez a Le Monde-cikk az izraeli telepesekről szól a Nyugati Parton, és a telepesek által elkövetett bűncselekmények büntetlenségének kérdésével foglalkozik. A tartalom nem kapcsolódik Magyarországhoz. A rendelkezésre álló metaadatokból nem vonható le magyar vonatkozású következtetés.",
+    "analyzed": 1
   },
   {
     "id": "ea4e8a1d6c37c830",
@@ -1848,14 +2196,19 @@
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU29fdm44MlpSa1RGWWhTUXdka0NXNWhWUlpiRTZOQlBVNXE3MGJzdFRJZ3oyUXNBTVlxaUJHeGd3M3BoZ1lBQjBmNEM0Zmhtckoxazl2TlBOZVh4Z0hDMkU3VXZ6ZFJLd29YX1E1bDB5bDdETm5wOEFzUXZzZG9QeWpUVGJLT2wtSVNxbmNwVks?oc=5",
     "published_at": "2026-04-17T18:26:31+00:00",
     "fetched_at": "2026-04-18T18:53:16.885288+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Iran"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The Atlantic examines Iran's strategic capabilities, arguing the country possessed a form of decisive leverage or deterrent power. The article appears to reframe understanding of Iran's geopolitical threat posture. This piece has limited direct relevance to Hungary.",
+    "title_hu": "Iránnak végső soron volt egy apokaliptikus fegyvere",
+    "summary_hu": "Az Atlantic elemzi Irán stratégiai képességeit, azzal érvelve, hogy az ország döntő befolyásolási eszközzel rendelkezett. A cikk újraértelmezi Irán geopolitikai fenyegetési profilját. A tartalom Magyarországot közvetlenül nem érinti.",
+    "analyzed": 1
   },
   {
     "id": "b35ee41fb8997735",
@@ -1865,14 +2218,22 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDFrbVotRURYU3diTG9mRnZiOE5zQVItWU4zenVTN3h0TElCbXJ6dzc3SEQxRzI0c3NRVHVmMDVFdXJwbERRQWdqeTlBdzB6OGhwbjZCd0ZheERKMG5JTXhkYkxPVFA5NzV6RjhkV3dKLUlfZktaSzdPQ1Nfc1A2MFJYSnRYM2R4VUdiZ2dQWnpOVFhaOEZWcXBNdmVTZjZMMmg1Q1pweFdWamU4M3Ruc1FBRXc?oc=5",
     "published_at": "2026-04-17T18:20:00+00:00",
     "fetched_at": "2026-04-18T18:53:18.714108+00:00",
-    "topics": [],
-    "actors": [],
-    "tone": null,
-    "framing": null,
-    "summary_en": null,
-    "title_hu": null,
-    "summary_hu": null,
-    "analyzed": 0
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "energy",
+      "EU relations"
+    ],
+    "actors": [
+      "Donald Trump",
+      "European Union"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "European nations are moving to accelerate efforts to secure the Strait of Hormuz, a critical oil shipping route, despite a directive from President Trump to keep the US away from the operation. The move signals growing European strategic autonomy in regional security matters. This development has implications for EU energy security and transatlantic relations.",
+    "title_hu": "Európa felgyorsítja a Hormuz-szoros biztosítására irányuló erőfeszítéseket Trump visszavonulási utasítása ellenére",
+    "summary_hu": "Az európai országok felgyorsítják a Hormuz-szoros, egy kritikus olajszállítási útvonal biztosítására irányuló erőfeszítéseket, annak ellenére, hogy Trump elnök utasította az Egyesült Államokat a visszavonulásra. A lépés az európai stratégiai autonómia erősödését jelzi a regionális biztonsági kérdésekben. Az esemény hatással van az EU energiabiztonságára és a transzatlanti kapcsolatokra.",
+    "analyzed": 1
   },
   {
     "id": "ed8ca64ec2f87c26",
@@ -3456,6 +3817,23 @@
     "analyzed": 0
   },
   {
+    "id": "aa4255d8b0760115",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Rupee ends stronger, trims underperformance versus Asia FX on RBI measures - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGJxOHJiSWhWSlpIeXZZMVE5TnJQY3pPTFhmQVlZVXE2aFZPeGxMNXNSWkJ0RzFEdlV2ZEVXRlFXTnNoUTd2QXVSU1ZnOEFyVlVxY3o0eFZxY3J1S0dUR20ydHRqdFdsa3lGUlBoa0twR3hfaTRCRVZKUFFmS1VVMXdPYlRwdmRiTHpRb004Qi1hLWt4UXZTLXRhZ0NueDA2dHNtbXc1QXoydXBYRW5HTnB4dEw?oc=5",
+    "published_at": "2026-04-17T02:59:00+00:00",
+    "fetched_at": "2026-04-18T19:07:56.269959+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "ade6df8494f8ccdf",
     "source": "Washington Post",
     "region": "us",
@@ -3837,6 +4215,40 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0ZKTklWUVdSUkwxY0JsSzZOQTdWN0xiTU9DUi02RDJsakp1anV0YnhrYmh6dW01VE9GNzRrZm53SWlSdUlWSjVmVUpwWTMyclVONEdUTHF2dW1vRFBaZmEzZjV2WDZtcjBIU1hOblA5UURLZnRkb09FNnkwRURrUWx1TjA0QTNBM3Y3NHdTNC1LYVpETHFUbg?oc=5",
     "published_at": "2026-04-16T21:01:00+00:00",
     "fetched_at": "2026-04-18T18:52:56.503273+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "d4c4385c8f12e8d1",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "At least 17 people killed in Russia’s deadliest attack on Ukraine this year - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXV0NzlQWWNoRDVBZWpWMHhWcGRHeUszb3FxRHFmUEJDSDVVa1VJQWxPV1laWXo1WmhIc2ZxLUFuQjFZWllrZURrdC12TkFQMGpYdHJhVUYyVDlrazZDOTRFbkdlYjZhdEJPTkE4akN5dnNhYmNOeXdCZTdYbms0U183QVBDMGpJQ01xcWd4cDBMdnFFTEZMNVFfWElmN0dTUUZQdzZualo5Zm1Ea095QnlrdTY?oc=5",
+    "published_at": "2026-04-16T20:57:00+00:00",
+    "fetched_at": "2026-04-18T19:08:01.558894+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "bb3735f2cd14538c",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "More than 100 writers quit French publisher in protest against rightwing owner Vincent Bolloré - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM1hTTmlYOHU1b3d6bURkdWZmTXJFdllSR05Lb0NxLXZsN1JjbmRfZS1SS0ZZb1A3eGpFd0NIRVFyT1g0RWhybU9xdzRNbGFWOGN5VjdOSTZRNGUyS1ZpdnJTTFBzeEZKUTN4ZjhIck1CV1lBSnNXbkE2YUE2bm5iN0Fub3d6Q2RfQW05aHBQQy1rMjk0UXhCTjhrMU41LXctUmxfdkJKeEpsb0hpZ0xZRGlDOV9LMEVWeDY1MU5jamlTRGs?oc=5",
+    "published_at": "2026-04-16T20:57:00+00:00",
+    "fetched_at": "2026-04-18T19:08:01.558900+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -4374,6 +4786,23 @@
     "analyzed": 0
   },
   {
+    "id": "701e0858adb44c6f",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Why were these two US immigration judges fired? | Seth Stern - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQVZyX1RmckUxVjRvSUhFb1B0c2wyRXdYOTdoSlh1NGJNN3hfZURuV3NIdEtOSVljX0hzekQ5UWhxZ1NOYjV4Wkgyemd1ZzRhS1ZSYUtDbUxRRTJzUTlLdXNrdG1WQmZpejEzcWhWWjNJRHNZS2F2T3hMdEJJTGZPV0tCY1dTX2dDYW9sTTVlQ282SUVGZXRUOU1UVHJ0cS1pWDRWdkxWUQ?oc=5",
+    "published_at": "2026-04-16T16:35:00+00:00",
+    "fetched_at": "2026-04-18T19:12:24.528822+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "dbac9091577ea8b9",
     "source": "DW English",
     "region": "de",
@@ -4398,6 +4827,23 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0tNcXc2SjBoQnBSN0d6TDdDOWNISGxmSmkwT0txaDNqbDdzZjViZGI0STdGWTA1VUNYMjBRaEE2YTZXVnpTZGxRaVhkejlraE9tYUtRNW0wWUtUOXVDeU1yVEI5SThnTVFHOWxKaGdUUnpWbFhUZ2Jqb1Bid0swSXliZGlGR09FMDJTZG1ZbndPWlVkVXozQnVreEdWYmpIVDRzanI0dWVvNUJ6a0hzb1ZB?oc=5",
     "published_at": "2026-04-16T16:14:04+00:00",
     "fetched_at": "2026-04-18T18:53:25.877409+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "b4f14ca591f4f3da",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "My son is getting glasses for the first time. He’s fine about it but I’m an emotional wreck | Stuart Heritage - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0hCcnV4X1ZwSzVtWXFtbXZjLWZrY3JGMEZiNmtvRWk2NlJ2UFFkZjZNX2plR0xvbmJ6Ul9oSFpQT3BIODU2ZW51cGJfZ2FpTmZ4akl0T2k5UFc2ZW5UbkRuNXgwM1Jwb05ROTAyXy1NcmUweWVqYWlySVRaNHduRXIwVU5ETzBFcnBGQ1JB?oc=5",
+    "published_at": "2026-04-16T16:14:00+00:00",
+    "fetched_at": "2026-04-18T19:12:24.528672+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -4680,6 +5126,23 @@
     "analyzed": 0
   },
   {
+    "id": "b69f9e5046c7c46b",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Thursday news quiz: Trump is unwise, an emperor dies and a €1m raffle prize - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV1dBNHkyeENBeWl3dkg4TW90UmFKTmxmQ3JYeDYzUko3Q1RqSEtzejhXZW9QaXVQS3ZRckQtSlE5c0lsU0tEcEVLMnhZMjNLUHItYmxsX2owUHRNTXNrc1ZrYlVEMndsSXFMRDJadmlsYlVlckhFdUdZdWt1cDRRQ1Zxamh3LVhyaGkwaWY3MVdTR3lFM2padV9rdGFWeTRZT2kyMjczTGs0LUxLSkI5c3IxSE9CWHV2SGQ5d0dB?oc=5",
+    "published_at": "2026-04-16T14:22:00+00:00",
+    "fetched_at": "2026-04-18T19:08:01.558528+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "666488d12b5bde3d",
     "source": "Politico Europe",
     "region": "eu",
@@ -4891,6 +5354,23 @@
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MXpJaUVKdUpTZ204cWdVYUJiN09GZmRXSjlEdVIxZEJwWWMzbXR4X3BoaEFwU0JaVWhxVmwtOF8tQkEtMzV4THpZNUtRU0hmSXQ0cXF0NWpSTEYyZlhpUVVDU2lZM0c0c3NEa01IaXFrTUNrbVpN?oc=5",
     "published_at": "2026-04-16T13:42:32+00:00",
     "fetched_at": "2026-04-18T18:53:16.885266+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "b6783380c02f0fec",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Blue Labour gets bluer with MP’s noble quest for a summer of sex | John Crace - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHhTUW16cFJuZUVUWGhQTG1hZWo2TmlNR01iMV82bjV1RUtzcUo5Nl9PTElsRmY2dUlpV3gzV1hfRklldXpvYU5ocDJMcTBlZS00eEN0ell2UEdBM2oyM1g2bmFHaE0yNGVWbE9jaENhbWo4REF1R210TllsUVJjNXpWd04xQzRldXJtb0JEUVhSVndWZlVOcElB?oc=5",
+    "published_at": "2026-04-16T13:36:00+00:00",
+    "fetched_at": "2026-04-18T19:12:24.528828+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -5792,6 +6272,23 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ1lSazF3djFJeHJyQ3pTNmJhUVZVRW9fVU1LdjhmMENaWFdUZjlBSFQzTV9HdXh2T1lYOU9LX3NMSFlXVTV3UTkwLW1jd3VGUVI2RHBVMDhlcTVJYy1tbktvUnNtZEhfX1R0WkhxT2tvTkZON0p6ZlZJTEFhR1Y0OHRYMGxHUWlObEgwMDk5VXM1NlcwS3Bv?oc=5",
     "published_at": "2026-04-16T07:34:00+00:00",
     "fetched_at": "2026-04-18T18:53:00.159440+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "c8743ea360604ec2",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Stephen Curry, Al Horford lead Warriors past Clippers 126-121 with a huge play-in comeback - AP News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEVpMVlqVnc4bjlNMEl6akRyTVVEUHlFd0NWTVEtSHdkZUMtalZJYzlyRGJkdDNfX3pyQ2xpTUlqRGYzR1h1ekRxN3hyRjZXNWZtS25walMtcHhBVmhZaWVmVW5VUkJGMjlOZWozaGVibXFqMHVKR0h3eU0ySGVjVlhpTTZFbHJ6RVZDTFFIM2dGRVR1T3Q3QmFsOA?oc=5",
+    "published_at": "2026-04-16T07:16:00+00:00",
+    "fetched_at": "2026-04-18T19:07:58.074210+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -7332,6 +7829,23 @@
     "analyzed": 0
   },
   {
+    "id": "e9b34c7b491330aa",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "ChatGPT’s latest stylistic quirk is sinister, infuriating – and absolutely everywhere | Stuart Heritage - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWQtNkJVVU4tdmRGYlQ1QUI2VFRnMUhDakpuYUFPYUdGZmlKNHpIWjlJRXdvZHAxMi01Z1dsRkg0WFo2cnY0dDJreVYtSElwYnlqdFlRcXZMMjlTcDBoLTdZaUpCYmZjODNNUkJSWG0yaVdVYWZ2TVRWUU5UUzg5RU03b3E5NEx1aGtTdV9fc3FwcEhRSlBCSQ?oc=5",
+    "published_at": "2026-04-15T16:26:00+00:00",
+    "fetched_at": "2026-04-18T19:08:01.558801+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "a0094166c44bc3fe",
     "source": "Euronews",
     "region": "eu",
@@ -8726,6 +9240,23 @@
     "analyzed": 0
   },
   {
+    "id": "cb53d30d09286de2",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Watch: Amateur astronomers on Earth capture Artemis II - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXRiU0dDT0tVTDlxeHViRDFQX3B3RWhrWGMtWTV1UXdEcXFJcFh5ZXVvbmJnTjRIMHNMWlY0WWRWazJieHNCbkFrOTlfZDNaOUdtUUNzQm1GV0kwcFdMd2dmcVVnUjFRRm1McEl4TDIwUHFXQUZrSmdPWDN2VGd2RzFJd1VuaXhwRXhxNmkydHBQOElWMURkOWVpSnFUM1Z3Vm1UZWVWYjlfUmFmSXd4VW5UWG5JYUE?oc=5",
+    "published_at": "2026-04-15T08:50:59+00:00",
+    "fetched_at": "2026-04-18T19:08:26.591869+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "f13bc1278da5b269",
     "source": "Euronews",
     "region": "eu",
@@ -10052,6 +10583,40 @@
     "analyzed": 0
   },
   {
+    "id": "ddedd56d64492724",
+    "source": "AP News",
+    "region": "wire",
+    "title": "A nonprofit lifeline for the Pittsburgh Post-Gazette as more papers seek nonprofit sector help - AP News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUjI0eF9mbWR2TUtpbzBrLXJsNUE4MEoyZ2t4ci1JdWJ6d0Z2dHhCbVFad19DVl9uMVVIVWFxbFlEVEx2U00zbUNrVUR2TWk3aGZDNHZSTWhNbjFleUVVd2l3alBoekszdVYtMGtpeTdiQkNkWjBIMGwzeHk2dFcxYl9iazZnTldDQzZaZy12QlA0aXlsZXlXVk9zSHJqR1BxZVZxMUVZTE1FY0k?oc=5",
+    "published_at": "2026-04-14T19:39:00+00:00",
+    "fetched_at": "2026-04-18T19:07:58.074466+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "a3a0438f7f41b370",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Irish government survives confidence vote over handling of fuel protests - AP News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGVTX0xLYWF2UTVJZXVBS1llaTRnNUtmdlQ1NDlzLXlEbHZ2ZWRlTWQ3QnR1LWFESk9fWGgtWHVxUEdUT0NDeGRaRGpxVnBOaER6YlJBYlRDbmxlcEpibWpwaFZ1S3p0ZENpaGtDQ3pZYzVaZlZPN3FNYWtURk5CcV9Md2VpY19iM29UbmY4bzFUOHc3T1hnZDlaN19vY2MxTWlF?oc=5",
+    "published_at": "2026-04-14T19:36:22+00:00",
+    "fetched_at": "2026-04-18T19:12:20.762906+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "67f4932ec484940b",
     "source": "The Atlantic",
     "region": "us",
@@ -10144,6 +10709,23 @@
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDR0kzNWREVERRV2FsMVM1TDVqdURXOXUzMWlMS0NFamNRYzQtdDEwS1ZNRHJnVjZHQ09NMEV6VEpSRXFzVDdGbVh2RENlalpvWGZ6N1dKdw?oc=5",
     "published_at": "2026-04-14T18:49:37+00:00",
     "fetched_at": "2026-04-18T18:52:58.371376+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "b25e0534a39cb53b",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Péter Magyar Archives | Page 4 of 8 - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LLWNpVEJJUFRRNmJSUDZ2QTNBNFU2S2ttT2dHS3BtOVpqTkFzSTYydFd0eUMtZlJ4VlZUbk1JeHhTa1VTNGo0c2hsZlJwS19BLWtyN2dZZ1dhaTZVWGV3X3BB?oc=5",
+    "published_at": "2026-04-14T18:45:41+00:00",
+    "fetched_at": "2026-04-18T19:08:21.502489+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -12942,6 +13524,23 @@
     "analyzed": 0
   },
   {
+    "id": "b42216a90ce40964",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "The UK needs more North Sea gas; imports from the US are the real enemy | Nils Pratley - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEFSM1c1VjJib1Yxamo5SFY0NXFkeXNGTE13NnJPR0NuSFkteHJqaUNGeTJBQ1VGS3B6LXZaX0pwT2dDNVc0S1RKbzhucXFqa1BrSUZJMnRqQjNHVW50OEtQVmVkYW1TU2dBanpjUUlYQlpRVU96UlhsakVJZzlBbGhlMTdlcW1UV1RkUjBvU3dUNElyMm56VkNpVnVyRjE1akVJNF9NdFNJclBWR2ZBanViZy0?oc=5",
+    "published_at": "2026-04-14T01:30:00+00:00",
+    "fetched_at": "2026-04-18T19:08:01.558876+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "157cc83752bcbf17",
     "source": "Politico Europe",
     "region": "eu",
@@ -13714,6 +14313,23 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0tYeUM5cDkwR0tGVmlrSTVfQzRKY2x1UjNHRnZTZ0dXUnRFRFNRdi1JMVQ0VmllQmtzcnY5RnhXekdqRXprTDE5eEVqOEVqRmoxQXdTZmV6NGtkUlNibzBRbHJWRVIwdFZGUTRHemVhUWRHeGtsWkk5bTZLMzRxYVViOUd3T0RmSHFaUXFDT1VQUlhVYWhV0gGXAUFVX3lxTE5mUXVRbUh2YjBwLUo3bWtCRmdydEN6WUk4TmdHT21URDQ0WTlHOVVKRXl2Z1BYMURwRFlLdWVyZVUwbG1waTNhb3dISm00LWU2eFdhelFuMkxZeUdQZmV4d0xpSTBqZzNxQTJlMDFQYjZNOG5wLXNWdlRIRkZXclZKV1ZNMGlUaHEwM3NKT1pmZVNiVXdLTk0?oc=5",
     "published_at": "2026-04-13T19:35:37+00:00",
     "fetched_at": "2026-04-18T18:53:29.849836+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "6a7e12da631c0ffe",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "EU plans more fuel subsidies to tackle Iran war price spikes - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUzNrLTVDRi1KbGs5dVpHc3dzNmtDNDhnYU1zbFYxVU1pNTRkTGZJR19WTGxHQTJpdzdFc0V6TGlIS0dqVDQ4NW81emRLaTJWQnF1c013cEFWR2g0ZG1HTXRBWDFXaHlLUG1EUTM0TFJlbGRxYS1SZk9fMllUU2NrN0E2dThnUkw1VUR2WVllVGhqT003MU5VX0NOdzBCVEg0bXU5VWloY1JiSkE2S2J5dVhVS3o3OXQzQll4U3FJUzFGZGJoWDVMQkRNR3lvZw?oc=5",
+    "published_at": "2026-04-13T19:33:00+00:00",
+    "fetched_at": "2026-04-18T19:07:56.270023+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -18739,6 +19355,23 @@
     "analyzed": 0
   },
   {
+    "id": "267a1ec8c7bddbe2",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Polls open in Hungary in a key election that could unseat populist Prime Minister Orbán - AP News",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMlllX1ZHazlfSHFXRGJLUGNxWDNPNTJrSmhCX3c5OVRKREJ0c3Z5QU1WNXpfUkt0aWlua1pSN1JKbEtLZ3BBZ2x0UVMxMWVTM3hPTkRia081aGNTRmZ2SHdqakIzRC03M1JSZFM2U245UzdUVF9KNFJ4WWZxaEVEZ05GRVJBLXluamZlbjlOMVFsTjE4N21JcVluamg4cTBfdTJqanR2RG1fTHhsd2l4SnZwb0FGaXJVYXpUMmtjMVRnMEhlSW9kejcxa0JJQ1Y4SzVlVGd6LTdCSDlyT2c?oc=5",
+    "published_at": "2026-04-12T08:50:00+00:00",
+    "fetched_at": "2026-04-18T19:12:20.763132+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "0ae49d5ae72baa07",
     "source": "Le Monde",
     "region": "fr",
@@ -20983,6 +21616,23 @@
     "analyzed": 0
   },
   {
+    "id": "cdf2054796c644b6",
+    "source": "The Economist",
+    "region": "uk",
+    "title": "Recriminations over Iran have heightened the risk of a break-up of NATO - The Economist",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeGdnN2R5VDhoY0lmUUIwUkU1X3BoanNoNHd3bGRzNlh5SXRWNU81cGhrbDZ3VGFYT0JCTFlQc1F2czhmX1pTYm9BbTRXeEk1OXVWNUpRcmFEcXhkcW1CblBjNE9idVJuZFh0YjJ1d3dHSURDQmFlTkpBTFkzQ1VtU3lJYlZXeGZBY3hXQVMwNXdyRGwzbVZEUUZzSktzT2ZMbTc4U053aUpWbURWRDhaR1RrcUZXNkE?oc=5",
+    "published_at": "2026-04-09T13:08:24+00:00",
+    "fetched_at": "2026-04-18T19:12:26.201605+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "c2b974649faa9cc6",
     "source": "The Parliament Magazine",
     "region": "eu",
@@ -21449,6 +22099,23 @@
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ydlFlWUtGOHY2bWtjczMzR25BUFpfMzNqRHo5WXRUNXZxcE9LOTlmbFRVMDRLaFR0OXRxaTluTWZHTDA2V1hwRElCQnZiaEU0bC1GcnlheU56Nl9LSThrVFctUFRxM1dFU0lHdjZMSlpiQ3lRYll1aExUUdIBgAFBVV95cUxNMUlUOEpxQ0syclV0dzBkeWJZM1dkWk9ndU90OUNfTEpFRk5RYU9KcWxNM0JMTURZY2FZVDNNc01kcFNjRFR0Ym1kNkZaa3BScU5DZ1BEOC03SDczS24xcENLQWVqUlRjOFQwVkpTYUZ4ZDZSaHNXUFpTendETnBqSw?oc=5",
     "published_at": "2026-04-09T07:00:00+00:00",
     "fetched_at": "2026-04-18T18:53:39.160766+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "572a39c953688c15",
+    "source": "Notes from Poland",
+    "region": "cee",
+    "title": "Polish parliament hosts swearing in of constitutional court judges in defiance of president - Notes From Poland",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRkQ5bnZKS2RYdE5iOW1xOG5zZXAxV1lOYldVR3hoVlk0eUFuaXJVa0JnWWlKNlhSaFJkZDY3UHJUWHNsSVdoaXEyQm1QYVNWSXJWcVdYQkVKc0pHS1YtbDlhOGdlNW13QUpmdDZQb0c2YWltSVpVNTJVckpBMm9vdEtSX2s2Mm1vZ1ZMb1JrbGtfQUtMdk5TVmo3cjY4eEhHS2loX1M5OXpyVHhQbTE0Z3FlTTVmeDdvcml1Um02eGc5ZDhzTXkzQllCaw?oc=5",
+    "published_at": "2026-04-09T07:00:00+00:00",
+    "fetched_at": "2026-04-18T19:08:36.838290+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -23397,6 +24064,23 @@
     "analyzed": 0
   },
   {
+    "id": "6d98a392743ba706",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Fidesz Archives | Page 25 of 25 - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LZTVXMTBPNjVUeVBtTzd2NHFUS0d3VW8ya3QtUVRwckphbTdtR3lXelgwdXNyVktnUFp6b3ZmelBybG5yYVd2YndPOGh3THBfdkUteVh0RGxxc0U?oc=5",
+    "published_at": "2026-03-31T04:25:11+00:00",
+    "fetched_at": "2026-04-18T19:08:21.502506+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "4af7c5bbeac86ea4",
     "source": "EUobserver",
     "region": "eu",
@@ -23591,6 +24275,23 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSG1jNWN3OUEtbzZocEQwZ1doTEljOVNYcjZuZXJleUF5cjN3RFByZTVMei1rQ1lLeUlmRkZYUUx2ZkdjQ3Q2RmtXaXFkdGlfLVgtNkFFWVVSMEp6eE1SNExkUTRsRTRLQ2xxVGItVXBMMzZqaU96MUc4SGVKRjBEdzJkQ2JOaS1GQ0ZXVm0yS3owU19FNTFYS2taLVVDNVNjQVV4Skl5RHJLUQ?oc=5",
     "published_at": "2026-03-28T07:00:00+00:00",
     "fetched_at": "2026-04-18T18:53:05.235703+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "3d930a8f5e025319",
+    "source": "Notes from Poland",
+    "region": "cee",
+    "title": "Business - Notes From Poland",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pZy1JN3o1RVRVSXpJbS1WaUxGcW5OVlp6WkpJd3hHbkpJX0V3eDFvdFR3SnFhbmFRdGRaazlqNmtmSkpkX3N0UXQ2NmZzV1BnTXNSU25BN3cwU0IxcmNuVVkzandkblhMTnFPOVFTYzA?oc=5",
+    "published_at": "2026-03-27T13:42:25+00:00",
+    "fetched_at": "2026-04-18T19:08:36.838711+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -24339,6 +25040,23 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1FfVGFsSHFGZkxLaC1NS2VmZGhGLTdOQWZROGRNVTZwbENjMWNOd2VZeUo3U3FoYXRkSHRwNG05WElYSE1qbFgwOFNSNFRMV0xubkY3Q0ZNcXR3Z01vdlAzREJEdV96NElSbFNVSjdiMDlzMXlSN1Y2ZGI4TE1KNnVwYUszYnR3TllXZ3ZrNUNDT0Y2SW9VR2x1SjBKeGQ4Q3YzN1lPeWI4TlV0bEdTTnZPZ0NkQThCX0JJdERtWXBfTl92WU9JMA?oc=5",
     "published_at": "2026-03-23T07:00:00+00:00",
     "fetched_at": "2026-04-18T18:53:37.002460+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "45e76e7f02193aab",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Open line to Moscow - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wbzZOaHhpbUU2c3RFZWhteXlSNGp0eEwwSXBSYTA4QXRSNXVYdFJuMHhwVEJBS2wwTDRKWkZkcFd5NFF3UmZYQTlnRld4Ty1SSGlYR2FGdERmUnBBVmZBOFZFd0dRLWxwMzdEUnBB?oc=5",
+    "published_at": "2026-03-23T07:00:00+00:00",
+    "fetched_at": "2026-04-18T19:08:21.502500+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -26192,6 +26910,23 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ1hWSXR5bHlmbndybVRTcVpJQXh2Q1kyVVMzdFh0TU1VRDVQQjYwS0hfWjlXSDhlR1FIeDZLUVZYX2QtNFZBQWxiZ1ZJRlMtM0Q5cTVBMkFnTUliMXdaYmxyUUZZeGV0TElIQjBvUVpkUE9LS1hOREh2VmdtR01Ya0hsektCQlk0dzlIOFlnZ2t3S1hUMmxyaVZIaG9Sc1cwT3JMQ3lnWmJpWm9WOWc0ZnFad2R0MzkxOG14Y095a2Q5WkpXMlUzYVhR?oc=5",
     "published_at": "2025-12-10T08:00:00+00:00",
     "fetched_at": "2026-04-18T18:53:37.002720+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "29d0450535d85c5f",
+    "source": "ECFR",
+    "region": "think",
+    "title": "On Sofia’s streets: How protests are highlighting an Orbanist turn in Bulgaria - European Council on Foreign Relations",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjFaVTcxWjFBVXZfNVpJX3hZZjBfaTdrdDJlbEFVNmNRQjk0M1FtR0ZrU0J6OUFmNlpmLW9KTG5SOEh5VUZDVmVVaVZ0b3VabUdVZ09yejBOSW5VWF96NklGdTlCcmZNcFU0LWhPQXlEa2ZxNW9JeXJxdE9XQWZjYjFqTnQ1a1FHdjRKdEktQTR3TDl6WDA1WmFEb3dEVnBTck5z0gGoAUFVX3lxTE9GZFFQeUxJTWl1MS10bXJOeE9wam1oM2ZvWV9sdWpqcy04MVktMGk0NFUzUnIyelVjbUk1OXdNUHpxeDEtbkhZZ2FuZWNjWnZtSGt0ZGJtdENhQ1FHUVNmU3h4UmE4ZzZfYUh6WUZNd0h6NC1xX2NRc0ZlYi1KRm9ETU5BNjFFMncwLVNMSk5KY3FULUcyZlo5bEk0aU9nR2tvZnRFYnc1Qw?oc=5",
+    "published_at": "2025-12-09T08:00:00+00:00",
+    "fetched_at": "2026-04-18T19:08:38.524006+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -30333,6 +31068,23 @@
     "analyzed": 0
   },
   {
+    "id": "5612f7620249d369",
+    "source": "Notes from Poland",
+    "region": "cee",
+    "title": "Poland among 12 member states calling for urgent start of EU accession talks with Ukraine - Notes From Poland",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaU5manZLc0FBUkhLM1JDYkpFTVQ3MTRzZXRLOXhHUFlBeFNLdHdJTmFDT3VoYmc3SHY0NUVOS1NpcGxySUh6MzYxYVJfZTJ6SWV5Zng3ajlwTHBXUlExZV83STJ2ZWF3dGFVaDduVzh6eGdOSmJNaXNBV29BRFd5aGktTXVKYVJBVHhmTG81eWNkd1dLVzJjVVV1d0R5cUtzRDVHT1BYVGFOUG4yalpETXA0TDhVVGw2Y1V2X2pvWWt1UnpyM3V3bg?oc=5",
+    "published_at": "2024-06-06T07:00:00+00:00",
+    "fetched_at": "2026-04-18T19:08:36.838746+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "67714dd52e38f029",
     "source": "The Parliament Magazine",
     "region": "eu",
@@ -30561,6 +31313,23 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSVdtaG80b0dUX1FURW5mQlVrTHBwbmIzLUJaMDBGMF9FdkR1ZFpzV3pmUy1rS1pDYzVfeEtNdE9nQ1NwcTdfWkpwbW9zMW1kcVlGYUxQY1RmVjgtQ0pUT0dzSXdZMUluLTRRbVl2VmxkaVFlS2xCVld4N2ZlZ3prWThaaWVCNzVtLUJiUDlhVGFlMVVUSmZ2aw?oc=5",
     "published_at": "2024-05-10T07:00:00+00:00",
     "fetched_at": "2026-04-18T18:53:35.064577+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "28a8262c40702dfc",
+    "source": "ECFR",
+    "region": "think",
+    "title": "European Council on Foreign Relations - European Council on Foreign Relations",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBZRDBKR2MyRmVuZTEtSGtJdjhXclBPS3RkdWFqXzFxdnM4aWVIemRhYVBhbnViWFVOWFA0MTFrRF9odThp?oc=5",
+    "published_at": "2024-05-09T08:14:46+00:00",
+    "fetched_at": "2026-04-18T19:08:38.523651+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -31513,6 +32282,23 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHpQTGlQY2psMUxuNURMTkFNNmtXM01IMUZrNk4zSmY0SUJVaXB4NzJoN280NkhTYUp1UkI2UWhRRWoyMGE3SmszczBUN0tKaXV4RWozRHFCV212bFBCNEtmbUVLQldUMHpzOVFvZGl1TlpGbk1MakN2MUh3OXJucDB2ZGFSS0Y4UExZUWVSYnN5S2NGMllJS18zWWlQNHh5b1VIcnRvYktqUk5LbjFYcE5CTm9UaXc?oc=5",
     "published_at": "2023-10-24T07:00:00+00:00",
     "fetched_at": "2026-04-18T18:53:15.066802+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "e167c36f37ffc360",
+    "source": "Notes from Poland",
+    "region": "cee",
+    "title": "Law - Notes From Poland",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80M042N2RqbXpfVjd3bGhPd1NmZVA5T2VzUkZWWmlJUTZ6U1hRWmYtTU1yQ0RiUWxDRm01OWZaTVUwRXZ6QUZFUUQ3WVN3WUppcUZnSEVBLUhjQlNJOU5BQXMyYVNpQ3pD?oc=5",
+    "published_at": "2023-10-22T00:23:17+00:00",
+    "fetched_at": "2026-04-18T19:08:36.838692+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -33206,6 +33992,23 @@
     "analyzed": 0
   },
   {
+    "id": "1328f8693e6e2a5f",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "Faced with a lack of manpower, Hungary quietly opens up to immigration - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0NIQ19vX0V3bXVvb1BGTE54T05KVXM4Rm8tNlhoMnYwOGZnNDAxV2RwMVdBeFFZU09GVVFTNHlCTHlmelpJdldISFVzcDBJXzNVTjdSeEEyTWtFYlZVZHVmUXdNQ0NIRXNhSEFBZFhXMVI4U3NoSk9UZFhqTDU5UVBFTWgwX2pQNlV0SUZpdFdNVlFOSU5WYjdpcGlVUTZCVFQ0QzF0MEk4UlNHeGd1Q1N4MkcwU0h3V19CS01mQTRaMEVRbmRGLTRjR2RsQmlMYkhtbg?oc=5",
+    "published_at": "2022-08-04T07:00:00+00:00",
+    "fetched_at": "2026-04-18T19:08:28.244992+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "c068f55920cde0b2",
     "source": "Foreign Policy",
     "region": "us",
@@ -33332,6 +34135,23 @@
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWXFUSGwxTmdjM1JIZTBpMk1PZUhxUHM0MWRxNlFGSG5JdEhRQUpodjVqNV9UcDJ3aVdIdkRmcWxlXzBSeWxicE40TmVCU01wM293ZW91WlhjamZ6R0hoczVHOE40TG8tZjIwMVRrdy05ZEFvc3c3ejNNdWZ5VjVJaDR2UU9YOXhuSm4yVXdCT0JNS1YwVWZ6dEVEOTFvZVFucnFWaU5rX0RUUmdVMVl5NUJtdTl1RmtQWGIwRjVyN3RsWlhYdGxBLXV6dENrSkM1THc?oc=5",
     "published_at": "2022-06-14T07:00:00+00:00",
     "fetched_at": "2026-04-18T18:53:24.077484+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "d3b413a915d2d19c",
+    "source": "ECFR",
+    "region": "think",
+    "title": "Ranking - European Sovereignty Index - European Council on Foreign Relations",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMFB5VHpIM3l1VnNDa0ZJMVRzLXUyNnIxcC1PNVdlLUxDVncyMzhEZkQydDRJZVVzdmdtWVBXSDlFVnRWVkZIbEp5S0VpMXdpcG8yd3AzNUI2SWN5RXYxWHNVZDdRVkVwUHNibUZ5cVp6WmdXRko1TW1ERUFnN2ktMWtuTQ?oc=5",
+    "published_at": "2022-06-08T10:04:47+00:00",
+    "fetched_at": "2026-04-18T19:08:38.523958+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -35195,6 +36015,23 @@
     "analyzed": 0
   },
   {
+    "id": "71b94d2e7f766e4c",
+    "source": "Notes from Poland",
+    "region": "cee",
+    "title": "Labour costs three times lower in Poland than eurozone average and gap widening - Notes From Poland",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUS1uM1UybndPVE9nVTBWMmU0dGxmUGQzdThnX3pFYlRxOS1YU2x4dEpqUW5uRTRWMFB5TlVvTzNEcHdRcF9abm1nUFFHckdsMU5PTGQzb3NWbDY3QkN6bHptenRPcHoyUnZJTU5hRVRDcmg0X1JYaDVtT000OHJHbVlFZlJSakJzTHRxYkVNR244UUk5Vmk0aFBUeFNSQU9sZWVqeEctUTFwc3JGS0QtVDJvM3h5ZkZmUlhuNzJ6OA?oc=5",
+    "published_at": "2021-04-06T07:00:00+00:00",
+    "fetched_at": "2026-04-18T19:08:36.838759+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "9067441a5c1e0686",
     "source": "Balkan Insight",
     "region": "cee",
@@ -35253,6 +36090,23 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0QzMHJEcllMLUtNc002YVR5ZHN6MWxCdEFnbi1DUXFwcFQ3NE9ZalVSYlZZSk1qRkdIQUc5dGw0YU53Vk93OGZ5eHM3UzAtUjlUUUVrU1duLVNwRWpOdHNBeW1jcEJIMVpsX1I1TVFKQzc4ZFl3bWZOWEdodEo1WU9Jd2VPaU5BTkJDUHhFVzFZWW9BMW1JSVF5X0QwM041d0FwUl9qTFc?oc=5",
     "published_at": "2021-03-11T08:00:00+00:00",
     "fetched_at": "2026-04-18T18:53:37.002913+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "1b6f802273293e15",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Amid the Pandemic, It’s Now Corruption That ‘Performs Better’ in Hungary - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlNGOS10MU0zbkVhSjREVkdUc19mNWdjRkN3c0lTX0pqejltQmdJdHRiTERubzlpbnppaUdkRGcyTFcyLTZyOEQtRXBoYTBuSW1fdFNEUlJTVWswc0NsX3g4NzNSczJOcnZDZFF3d1AzOFF1OUtza0pzbktfaUs3d3FRTUltajgwTEE0dk14b0FFRmlqejB0OElVVHJRSW4yT3lYeGx5WllxMWREb1E?oc=5",
+    "published_at": "2021-02-24T08:00:00+00:00",
+    "fetched_at": "2026-04-18T19:08:35.047553+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -35678,6 +36532,23 @@
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5temM1SEd5UWV5Wm9XYkhpZFpDM1ZUcFJpNG5HWWtkWEVRNDFTakFoc1ZMc3FzcUdsVGpSbDJwV0RlNzdlZjQxTjhwSUt4aktvREY0MHg5dk5odnJ6TzNRdnNULUtxZWV0LXc?oc=5",
     "published_at": "2020-11-05T14:48:43+00:00",
     "fetched_at": "2026-04-18T18:53:39.161299+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "3cc93678e0336187",
+    "source": "ECFR",
+    "region": "think",
+    "title": "Tibor Dessewffy - European Council on Foreign Relations",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzTERtX193WUpUTFZFNHc1YkpSZXhJaEhlLVFlVzJEM3IwYUk1NDQ3SjdxYnNwd2V2NWdsMkthTm4wekYzSFd6TkMzTXBCcVBpMHc?oc=5",
+    "published_at": "2020-11-05T11:14:05+00:00",
+    "fetched_at": "2026-04-18T19:08:38.523634+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -36426,6 +37297,23 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUDRlR1pTdkNQRGFrZlYySGk0ZF9sSkNfb29QTG5GbmJlRUFQMW1KeUhqaUVzSDB5dC0wcGxCX3k4M2Z2ekstSFlNX1JWN3V3MldTZjYxX01UNkxhc0hZc3BUeDBLWkNiUXdnXzQwT29Ha1luYnFRR2tzajJwRDhNSGNHeXZ0N05lOWdCdDlqeXN3QzVVWWFmVHp4bHVHdzZKWmo0U2RnRnFBSmlBZzlZQk5Ccl9IUTcyRFNvOVZB?oc=5",
     "published_at": "2020-06-03T07:00:00+00:00",
     "fetched_at": "2026-04-18T18:53:05.235814+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "bf0e2dc8e2f77a09",
+    "source": "Notes from Poland",
+    "region": "cee",
+    "title": "Zbigniew Ziobro - Notes From Poland",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yNUp6RTUwZTNIY25qVy1YNENLVERrTWtvY09RWUdUVHVBWmJjbWZqMzNZZFYzZF9zcHRscnlwcHdQRkIwZGpITS1scmg0M0NIVmdXYXh1WkVuQzdT?oc=5",
+    "published_at": "2020-05-28T17:50:24+00:00",
+    "fetched_at": "2026-04-18T19:08:36.838632+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -37939,6 +38827,23 @@
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BYlhwMkJlUXF2amVneUN6dlpscHBTcnNObm5jOFM4ZVpuVjdxVFRBSVpYVGRFYWtwZkVZeDJBaHBpRDlTZ09DYWZuZFhURXlpRFpRQXZYeHVnQQ?oc=5",
     "published_at": "2018-05-29T07:00:00+00:00",
     "fetched_at": "2026-04-18T18:52:58.371692+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "a8a1e6317232beba",
+    "source": "ECFR",
+    "region": "think",
+    "title": "The End of the Concept of ‘the West’? - European Council on Foreign Relations",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Nd3lzM3NYR3FlU0U4M0Z0c1pnNVJ1QUcyV3NtcmZpUmtKNXBjSFhYSVNkYUhZRFhiakdTWEFaazdqZ0VpUHFDSmJ3RXFnZFhHTHlCWjQtQ0Y2Q3JxVVdkN2RqZkFseDM5RnY1aFFzYVF3S3hGdjlpWkdB0gF_QVVfeXFMUGU2NVg0SlBRcmhlOElnS3dfbWVpZzNhQWhITGs4UElVYW9sUW1GRHAwUnBhaDNGSW1HY3ZTbUlIUnJCcm9FdmlWU0Vmc3lKaXMyTXdXSDF6VXpDYkhCV1pURnZ5ZDkwbFd5WnB1RnBCZXM0NWpFLWdvYU1IMXNqbw?oc=5",
+    "published_at": "2018-05-18T07:00:00+00:00",
+    "fetched_at": "2026-04-18T19:08:38.523994+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
@@ -39513,6 +40418,23 @@
     "analyzed": 0
   },
   {
+    "id": "c0f9dc600176d8fc",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Staff Recipes - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9majg4X0hqYk1GaWVFVUU0VVBrc2YxcFZLbUFBcHpjdmVXdktlMzh0WDc2RXF2QTBjbjZtQkRiSEJVR25wRS1tek82Wm14Y1lD?oc=5",
+    "published_at": "2015-11-01T02:22:10+00:00",
+    "fetched_at": "2026-04-18T19:08:11.042114+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
     "id": "f5cce53fdffb7de8",
     "source": "Foreign Policy",
     "region": "us",
@@ -40506,6 +41428,23 @@
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaGIwRWtTUVptMzMzQ09WZ0dNc0hka3N2TjdWaUJnWlN1a1M2RXZ2WUxkaWh4SUtIdGl0eDVrUks5TmhiM0VDLVVjRkRZRGxOcGhWSTk1LXNMajM4Qm51OWVHX0hGQnRQTmtIZDlTbXhfS3p2UHQwQWdrSXk0N0xYTG5TdFBUdHk0MFE?oc=5",
     "published_at": "2011-06-01T07:00:00+00:00",
     "fetched_at": "2026-04-18T18:53:05.236083+00:00",
+    "topics": [],
+    "actors": [],
+    "tone": null,
+    "framing": null,
+    "summary_en": null,
+    "title_hu": null,
+    "summary_hu": null,
+    "analyzed": 0
+  },
+  {
+    "id": "2f9be3242e844dd7",
+    "source": "The Times",
+    "region": "uk",
+    "title": "Gypsies flee intimidation by vigilantes in Hungary - The Times",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZExBUjFqaHNRcUlSblhVbHdkeHRlcFJHVDNpWjJGUzk1YXh1ekNDVnMwRzRkbUZ5RFZhWW9LQjNsVzJ3cERwd09XRG5WcEhfQklKNktzdDBxUGFNWmVlU1ZiQnhlTkdhekxoTlhReUxrWHZLTVhpTVJUV2Z0Mm45bi1YLUxUV3dZTmVZRHZJTmc2WHVZblRGZEdQWUcxU01yaUFsR1VEZXNqbTg?oc=5",
+    "published_at": "2011-04-28T07:00:00+00:00",
+    "fetched_at": "2026-04-18T19:08:07.338790+00:00",
     "topics": [],
     "actors": [],
     "tone": null,
