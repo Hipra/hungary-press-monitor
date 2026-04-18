@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Reuters",
+    "region": "wire",
+    "domain": "reuters.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:reuters.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "AP News",
+    "region": "wire",
+    "domain": "apnews.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:apnews.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "BBC",
+    "region": "uk",
+    "domain": "bbc.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:bbc.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "The Guardian",
+    "region": "uk",
+    "domain": "theguardian.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:theguardian.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "The Economist",
+    "region": "uk",
+    "domain": "economist.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:economist.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Financial Times",
+    "region": "uk",
+    "domain": "ft.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:ft.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "The Times",
+    "region": "uk",
+    "domain": "thetimes.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:thetimes.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "New York Times",
+    "region": "us",
+    "domain": "nytimes.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:nytimes.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Washington Post",
+    "region": "us",
+    "domain": "washingtonpost.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:washingtonpost.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Foreign Policy",
+    "region": "us",
+    "domain": "foreignpolicy.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:foreignpolicy.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Wall Street Journal",
+    "region": "us",
+    "domain": "wsj.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:wsj.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Politico US",
+    "region": "us",
+    "domain": "politico.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:politico.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "The Atlantic",
+    "region": "us",
+    "domain": "theatlantic.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:theatlantic.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Politico Europe",
+    "region": "eu",
+    "domain": "politico.eu",
+    "feed_url": "https://news.google.com/rss/search?q=site:politico.eu+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Euractiv",
+    "region": "eu",
+    "domain": "euractiv.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:euractiv.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "EUobserver",
+    "region": "eu",
+    "domain": "euobserver.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:euobserver.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "The Parliament Magazine",
+    "region": "eu",
+    "domain": "theparliamentmagazine.eu",
+    "feed_url": "https://news.google.com/rss/search?q=site:theparliamentmagazine.eu+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Euronews",
+    "region": "eu",
+    "domain": "euronews.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:euronews.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Le Monde",
+    "region": "fr",
+    "domain": "lemonde.fr",
+    "feed_url": "https://news.google.com/rss/search?q=site:lemonde.fr+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "DW English",
+    "region": "de",
+    "domain": "dw.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:dw.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Süddeutsche",
+    "region": "de",
+    "domain": "sueddeutsche.de",
+    "feed_url": "https://news.google.com/rss/search?q=site:sueddeutsche.de+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Visegrad Insight",
+    "region": "cee",
+    "domain": "visegradinsight.eu",
+    "feed_url": "https://news.google.com/rss/search?q=site:visegradinsight.eu+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Balkan Insight",
+    "region": "cee",
+    "domain": "balkaninsight.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:balkaninsight.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "Notes from Poland",
+    "region": "cee",
+    "domain": "notesfrompoland.com",
+    "feed_url": "https://news.google.com/rss/search?q=site:notesfrompoland.com+hungary&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "name": "ECFR",
+    "region": "think",
+    "domain": "ecfr.eu",
+    "feed_url": "https://news.google.com/rss/search?q=site:ecfr.eu+hungary&hl=en-US&gl=US&ceid=US:en"
+  }
+]
