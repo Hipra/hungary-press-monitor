@@ -1,39 +1,43 @@
 {
-  "top_story_en": "Hungary's Tisza Party has formally consolidated a widened parliamentary majority following the final vote count, giving Péter Magyar an unambiguous mandate for his reform agenda and cementing the end of Viktor Orbán's 15-year rule.",
-  "top_story_hu": "A Tisza Párt a végső szavazatszámlálás után megerősítette és bővítette parlamenti többségét, egyértelmű felhatalmazást adva Magyar Péternek reformprogramjához, és véglegesen lezárva Orbán Viktor 15 éves uralmát.",
+  "top_story_en": "Tisza formally sealed a two-thirds parliamentary supermajority as final votes were counted, while the EU and Magyar government reached a first concrete agreement to unblock frozen EU funds — marking the transition from electoral victory to governing reality.",
+  "top_story_hu": "A Tisza Párt kétharmados parlamenti többségét a végső szavazatszámlálás megerősítette, miközben az EU és a Magyar-kormány megállapodott a befagyasztott uniós pénzek felszabadításáról — a politikai fordulat ezzel kormányzati valósággá vált.",
   "key_developments_en": [
-    "Tisza Party's parliamentary majority expanded beyond initial projections following Hungary's complete final vote count, per Politico and Reuters.",
-    "The EU and Magyar's incoming government reached a formal agreement to collaborate on releasing frozen EU funds following weekend talks in Budapest.",
-    "The Washington Post identifies Bulgaria as Moscow's emerging Central European fallback partner following Orbán's defeat, highlighting the geopolitical ripple effect.",
-    "The Times investigation links Orbán's electoral collapse directly to public anger over his personal enrichment, citing a mansion in his home village as a symbol of his downfall."
+    "Tisza's supermajority is formally confirmed after the final vote count, giving Magyar's government a full constitutional mandate for structural reforms.",
+    "The EU and Magyar's team agreed after weekend Budapest talks to cooperate on releasing previously frozen EU funds — the first concrete economic governance milestone of the transition.",
+    "Viktor Orbán, now in opposition, signalled conditional readiness to approve the €90bn EU loan to Ukraine — but only if the Druzhba oil pipeline resumes, underscoring continued Russian energy alignment.",
+    "Bulgaria's Russia-aligned Rumen Radev is set to win the presidential election, consolidating Bulgaria as Moscow's primary remaining Central European partner after Hungary's EU pivot.",
+    "The Times investigation links Orbán's personal enrichment — including a mansion in his home village — directly to voter disillusionment that drove his electoral defeat."
   ],
   "key_developments_hu": [
-    "A Tisza Párt parlamenti többsége a teljes végeredmény alapján a kezdeti várakozásokon is túlmutat, a Politico és a Reuters szerint.",
-    "Az EU és Magyar Péter leendő kormánya formálisan megállapodott a befagyasztott uniós pénzalapok felszabadításán való együttműködésről a hétvégi budapesti tárgyalások után.",
-    "A Washington Post Bulgáriát jelöli meg Moszkva új közép-európai kapaszkodójaként Orbán bukása nyomán, rámutatva a geopolitikai következmények láncolatára.",
-    "A The Times nyomozása Orbán bukását közvetlen összefüggésbe hozza személyes gazdagodásával, kiemelve szülőfalujában épített kúriáját, mint az elégedetlenség jelképét."
+    "A végső szavazatszámlálás megerősítette a Tisza kétharmados többségét, amely teljes alkotmányos felhatalmazást ad Magyar Péter reformprogramjának.",
+    "Az EU és a Magyar-kormány a hétvégi budapesti tárgyalások után megállapodott a befagyasztott uniós pénzek felszabadításáról — ez az átmenet első konkrét gazdaságpolitikai mérföldköve.",
+    "Orbán Viktor, immár ellenzékből, jelzett hajlandóságot a 90 milliárd eurós ukrán EU-hitel jóváhagyására — de csak a Barátság-kőolajvezeték újraindításának feltételével, ami oroszbarát energetikai kötődéseire utal.",
+    "A Moszkvával szimpatizáló Rumen Radev várhatóan megnyeri a bolgár elnökválasztást, Bulgáriát Oroszország fő közép-európai partnerévé téve Magyarország uniós fordulata után.",
+    "A Times riportja Orbán személyes gazdagodását — köztük szülőfalujában épített villáját — közvetlenül összefüggésbe hozza azzal a szavazói kiábrándultsággal, amely a vereségéhez vezetett."
   ],
   "narrative_shifts_en": [
-    "Coverage today moves from electoral drama to institutional consolidation: the focus shifts to the confirmed majority's governing implications rather than the election outcome itself.",
-    "The corruption-as-cause narrative (The Times) marks a subtle reframe — Orbán's fall is now being explained through personal venality, not just democratic fatigue, potentially presaging legal-exposure reporting."
+    "Orbán coverage pivots from defeat postmortem to active threat assessment: his Druzhba pipeline condition reframes him as a potential opposition obstructor on EU-Ukraine policy, not merely a spent force.",
+    "The WSJ introduces a cautionary institutional-damage register — absent from earlier celebratory transition coverage — warning that democratic restoration requires structural repair beyond Magyar's electoral mandate.",
+    "Bulgaria's Radev result concretizes the regional realignment narrative, shifting it from abstract framing to a named, mapped geopolitical fact."
   ],
   "narrative_shifts_hu": [
-    "A mai tudósítások a választási drámáról az intézményi konszolidáció felé mozdulnak: a hangsúly a megerősített többség kormányzati következményeire kerül, nem magára a választási eredményre.",
-    "A korrupció-mint-ok narratíva (The Times) finom átkeretezést jelent — Orbán bukását már személyes meggazdagodással magyarázzák, nem csupán demokratikus kiégéssel, ami előrevetítheti a jogi felelősségre vonással kapcsolatos tudósítások megjelenését."
+    "Az Orbánról szóló tudósítások hangsúlya a vereség utóéletéről az aktív fenyegetésértékelésre tolódik: a Barátság-vezetékhez kötött feltétel az ellenzéki padsorból obstruáló politikust rajzolja meg, nem csupán egy leáldozó szereplőt.",
+    "A Wall Street Journal óvatos, intézményi károkra figyelmeztető hangnemet üt meg — ez hiányzott az addigi ünnepi átmeneti tudósításokból —, jelezve, hogy a demokratikus helyreállítás Magyar választási győzelmén túlmutató strukturális munkát igényel.",
+    "Radev eredménye konkréttá teszi a regionális átrendeződés narratíváját: a korábban elvont keretezés most földrajzi névhez és archoz kötődik."
   ],
   "quotes_en": [],
   "quotes_hu": [],
   "what_to_watch_en": [
-    "The terms and timeline of the EU fund release agreement will be the first concrete test of how fast Hungary's reintegration dividend materialises in practice.",
-    "Watch for Fidesz's internal response to the widened majority — the larger the loss, the more urgent the question of party leadership succession and potential Orbán comeback.",
-    "Bulgaria's emerging role as a Russian proxy in Central Europe warrants tracking: any V4 or EU-level diplomatic signals toward Sofia could signal how Brussels manages the new regional alignment."
+    "Cabinet composition and legislative calendar: Magyar's governing program specifics — ministry appointments and reform sequencing — remain entirely unreported internationally.",
+    "Orbán's opposition strategy: whether his Druzhba pipeline condition hardens into a systematic blocking posture in parliament or EU councils warrants close monitoring.",
+    "EU funds release mechanics: the Budapest agreement is political — watch for institutional follow-through on timelines and conditionality terms from Brussels."
   ],
   "what_to_watch_hu": [
-    "Az uniós pénzek felszabadítási megállapodásának feltételei és ütemterve lesz az első valódi próbakő, hogy a reintegráció gazdasági hozama mikor és hogyan materializálódik.",
-    "Érdemes figyelni a Fidesz belső reakcióját a kiszélesedett parlamenti vereségre — minél nagyobb a veszteség, annál sürgetőbb a pártvezetési utódlás kérdése és Orbán esetleges visszatérésének esélye.",
-    "Bulgária orosz proxy-szerepének alakulása közép-Európában figyelmet érdemel: bármilyen V4 vagy uniós szintű diplomáciai jelzés Szófia felé mutathat arra, hogyan kezeli Brüsszel az új regionális erőegyensúlyt."
+    "Kabinetösszetétel és törvényhozási menetrend: Magyar kormányprogramjának részletei — tárcavezetői kinevezések, reformok sorrendje — nemzetközi szinten egyelőre teljesen ismeretlenek.",
+    "Orbán ellenzéki stratégiája: a Barátság-vezető feltétel rendszeres parlamenti vagy uniós tanácsi obstrukciós magatartássá keményedik-e, érdemes folyamatosan figyelni.",
+    "Az uniós pénzek felszabadításának mechanizmusa: a budapesti megállapodás politikai szintű — az intézményi végrehajtás ütemezését és a brüsszeli feltételrendszert érdemes nyomon követni."
   ],
   "date": "2026-04-19",
-  "article_count": 5,
-  "generated_at": "2026-04-19T14:14:51.944768+00:00"
+  "article_count": 7,
+  "generated_at": "2026-04-19T18:15:58.760620+00:00"
 }

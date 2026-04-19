@@ -1,5 +1,97 @@
 [
   {
+    "id": "75bdb2ba76a6398f",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Russia-aligned Rumen Radev set to win Bulgarian election, exit polls say - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzlvWDF2ZGlUbUUwNUdmbGpHbmF1d1N4aU9mc3FNQjRKSGs5UEJIY2VSTy01NjBtYkQ2ckRqZzZFZUpwMGF1bTB0Y2EyZkM3djAyZG1ad2dsTlV4dGx2ZS1seTBfaWEzZ3dWa0thOEh2c2J6MDZTRndMX3E5OHZWYW5aVXBMbFUzWUhZ?oc=5",
+    "published_at": "2026-04-19T17:26:15+00:00",
+    "fetched_at": "2026-04-19T18:00:27.741230+00:00",
+    "topics": [
+      "geopolitics",
+      "elections",
+      "Russia deals",
+      "foreign policy"
+    ],
+    "actors": [
+      "Rumen Radev",
+      "Russia"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Bulgaria's Russia-aligned Rumen Radev appears set to win election, marking a divergent geopolitical path from Hungary's EU pivot under Péter Magyar. Following Orbán's defeat, Bulgaria emerges as Russia's primary remaining Central European partner, illustrating the regional realignment reshaping CEE politics. The result represents a strategic regional gain for Moscow offsetting its loss of Hungary as an ally.",
+    "title_hu": "Oroszország-barát Rumen Radev vezetésével Bulgária az orosz politika védelme felé fordul",
+    "summary_hu": "Bulgária Oroszország-barát Rumen Radev választási győzelme azt mutatja, hogy az ország az EU-s irányváltás helyett Oroszország mellett marad. Orbán bukása után Bulgária az orosz érdekek fő közép-európai támaszpontjává válik, ami a régió geopolitikai átalakulásának ellentétes példája. Az eredmény Moszkva számára stratégiai nyereség a magyar veszteség kompenzálásában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Bulgaria",
+      "Hungary"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "26945922049d70a9",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Orbán signals readiness to approve €90B EU loan to Ukraine once Druzhba oil is flowing - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMWt5Z21YMDEwbWxnbnR2bmV1N1ctQm9YTlY2WXRPNFlRMmNRSGFuV0tOR2ZmaWNpMmpLZmZieThaZW5BYkpxanktZGFtcTZTY1BUUjd4eHZHYW80bExYSkMyVG9WRkJ2eWtKc0tpVnpoZVlzcC1nOUlCckNEaDlCaHVhNUZWRVYyMy1PUklwNGdSaFk?oc=5",
+    "published_at": "2026-04-19T16:47:00+00:00",
+    "fetched_at": "2026-04-19T18:00:27.741140+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "foreign policy",
+      "Russia deals"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "European Commission",
+      "Ukraine",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Viktor Orbán, now in opposition after his 15-year rule ended in April 2026, signals willingness to approve a €90 billion EU loan to Ukraine conditional on the Druzhba oil pipeline flowing. The condition underscores his continued alignment with Russian energy interests and demonstrates his potential to obstruct EU policy from the opposition bench, creating friction with the new Magyar government's EU reintegration agenda.",
+    "title_hu": "Orbán azt jelzi, hogy jóváhagyja a 90 milliárd eurós EU-kölcsönt Ukrajna számára, ha a Druzhba olaj folyik",
+    "summary_hu": "Viktor Orbán, aki áprilisban vesztette el 15 éves kormányzati uralmát, azt jelzi, hogy jóváhagyja a 90 milliárd eurós EU-kölcsönt Ukrajna számára, feltéve, hogy a Druzhba olajvezeték működik. A feltétel aláhúzza orosz energiaérdekekkel való folyamatos összhangját és azt, hogy ellenzéki pozícióból képes az EU-politikát gátolni, ami súrlódást okoz az új Magyar kormány EU-integrációs törekvéseivel.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "3835f9ee9abf72cf",
+    "source": "Wall Street Journal",
+    "region": "us",
+    "title": "Opinion | Democracy Has Been Weakened in Hungary - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0hKZENnaERPckFQYjYzcVAxS1ZPRm9pTmdNR2JNc3VkQ0loeGhEc05Cdm45Wmtycy1Wc1dJUFJxbGV1bXdwMFFHUjdvNkZ2TUVCV05UcVVfS3hZTlJzYjlRejBPemdPOXFkYkh6TzBydDcyOFVCWF96elFDVWdWZw?oc=5",
+    "published_at": "2026-04-19T15:50:00+00:00",
+    "fetched_at": "2026-04-19T18:00:21.941304+00:00",
+    "topics": [
+      "democracy",
+      "rule of law",
+      "government transition",
+      "judicial reform"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "democracy_restoration",
+    "summary_en": "A Wall Street Journal opinion piece arguing that Hungarian democracy has suffered institutional damage that extends beyond the recent political transition. The article suggests that despite Magyar's victory and reform agenda, the fundamental weakening of democratic institutions under Orbán's 15-year rule presents deep structural challenges requiring substantial restoration effort.",
+    "title_hu": "Vélemény | A demokrácia gyengült Magyarországon",
+    "summary_hu": "A Wall Street Journal véleménycikke azt állítja, hogy a magyar demokrácia olyan intézményi sérüléseket szenvedett, amelyek túlmutatnak a legutóbbi politikai átmeneten. A cikk arra utal, hogy Magyar győzelme és reformprogramja ellenére is az Orbán 15 éves uralma alatt meggyengült demokratikus intézmények mélyebb szerkezeti kihívásokat jelentenek, amelyekhez jelentős helyreállítási erőfeszítésre van szükség.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "fa72689f76e49119",
     "source": "Politico Europe",
     "region": "eu",
@@ -80,6 +172,35 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "7440f48d719911df",
+    "source": "The Times",
+    "region": "uk",
+    "title": "Suppressed and ‘spied on’ under Orban — now the press can taste freedom - The Times",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcTRSdHBaNjAzUmU0R3dSWnNtTmZDdXB1UFc4Ni16dFI3TnVPVzRia0ZVTUgyWExOQkY3SHZnbWdHOTlnMkRPSFpxbVQ0ZW11VFJzV1hFVjVHczNrTUpINWJ1VGh0NWVxMzlLS2U5a0lHZ3A1bVNVTmNhNzdIS1h5Z0ZFLUJ6aTZDSkJ5Y2h0S2Q4SGhQcmQtNTFEd1hCZw?oc=5",
+    "published_at": "2026-04-18T20:00:00+00:00",
+    "fetched_at": "2026-04-19T18:00:14.025973+00:00",
+    "topics": [
+      "media freedom",
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Hungarian journalists"
+    ],
+    "tone": "positive",
+    "framing": "media_freedom",
+    "summary_en": "Under Viktor Orbán's 15-year rule, the Hungarian press faced systematic suppression and surveillance. The new Péter Magyar-led Tisza government has initiated media reforms guaranteeing press freedom, marking a historic shift toward independent journalism and democratic freedoms in Hungary.",
+    "title_hu": "Orbán alatt elnyomva és 'megfigyelve' — most a sajtó megkóstolja a szabadságot",
+    "summary_hu": "Viktor Orbán 15 éves uralma alatt a magyar sajtó szisztematikus elnyomásnak és megfigyelésnek volt kitéve. Az új Péter Magyar vezette Tisza kormány médiaügyi reformokat kezdeményezett, amely garantálja a sajtószabadságot, és ez történelmi fordulópontot jelent a független újságírás és demokratikus szabadságok irányába Magyarországon.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
     "comparison_countries": [],
     "quotes": []
   },
@@ -599,6 +720,63 @@
     "quotes": []
   },
   {
+    "id": "80bac83415ba8c1e",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Viktor Orbán Archives | Page 76 of 149 - euractiv.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtRWxhb1lfQVN4R0hFdmlCRFNPNDRsa1oxVDY5YU9Db09jOGVkYXdKdUVCdEs1djFnTllqUmM0b2Y0OV9WcUxQbXRYbVVqTi1oYXhrSWNlSFJRUFN3dk5CLUlOZTdFSl82OXhuMDJkaXlmcW9rdVE0LTluVQ?oc=5",
+    "published_at": "2026-04-17T01:46:07+00:00",
+    "fetched_at": "2026-04-19T18:00:29.647579+00:00",
+    "topics": [
+      "government transition"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This is a paginated archive listing from Euractiv containing 149 pages of historical coverage about Viktor Orbán. It is not itself a news article but rather a directory of articles tracking Orbán's tenure and political career.",
+    "title_hu": "Viktor Orbán Archívum | 76. oldal a 149-ből - euractiv.com",
+    "summary_hu": "Ez az Euractiv egy archívum oldala, amely 149 oldalnyi cikket sorol fel Viktor Orbánról. Nem egy konkrét híranyag, hanem a magyar volt miniszterelnök politikai pályafutásáról szóló cikkek gyűjteménye.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "4b8b6e2dd987777b",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary: Who is Peter Magyar and what does he want? - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTzk3OS02X01Ecl9DWjRJdW9YdkxmU0pzS1J4bm14djR3R3Utc0hHYUVEa2hNbHlnZzZibGgxTExHT2duX1NfX3cxQ1htcC15WGNFUFlIOEthaXVBYmphQ1lhM2pCdjZBS1dSODNzckFaLUpRVjE4S2lLRnhKbDZYbm5mTXI5UW9TY3JTUFFKMA?oc=5",
+    "published_at": "2026-04-16T19:13:50+00:00",
+    "fetched_at": "2026-04-19T18:00:38.840715+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "foreign policy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "EU officials",
+      "Polish government"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "DW profiles Péter Magyar, the incoming Prime Minister ending Orbán's 15-year rule, examining who he is and what his political priorities are. The article introduces Magyar's approach to rapid reform, EU reintegration, and democratic renewal in Hungary.",
+    "title_hu": "Magyarország: Ki Péter Magyar és mit akar?",
+    "summary_hu": "A DW-cikk Péter Magyart mutatja be, aki Orbán Viktor 15 éves uralma után az új miniszterelnök. A tanulmány magyar politikai ideáit, reformprioritásait és az EU-s reintegrációra vonatkozó vízióját vizsgálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "e63f7120f65dbb23",
     "source": "DW English",
     "region": "de",
@@ -797,6 +975,296 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "be2353f045fd3d8a",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Budapest passengers break into song after Orban loses election - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZekxYVVR0MTJRcDZZN3ZQUUNVOXM0ZkR2RzRTVTF5SHM3ODJHdlpDckV3M1FZNjRRd0NVR05YNXFZY0ViM2YzMFRhRGZJY1M2dUdsZHYtTDFKS3JtSzVla1Q2N0VxNVk?oc=5",
+    "published_at": "2026-04-13T16:02:26+00:00",
+    "fetched_at": "2026-04-19T10:00:04.851005+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy",
+      "society"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Budapest residents spontaneously celebrated Viktor Orbán's electoral defeat by breaking into song, capturing the public mood of relief and optimism following the end of his 15-year rule. The human-interest moment reflects widespread jubilation over Hungary's democratic transition and change in government direction.",
+    "title_hu": "Budapesti utasok éneklésbe fogtak Orbán választási veresége után",
+    "summary_hu": "Budapest lakói énekléssel ünnepelték Orbán 15 éves kormányzása végét és a Tisza Párt választási győzelmét. A spontán ünneplés a magyarok optimizmusát és az új kormányzati irány iránti reménységét tükrözi az ezután várható demokratikus megújulásra.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "33e5ed91474d1ebe",
+    "source": "DW English",
+    "region": "de",
+    "title": "Change of guard in Hungary as Magyar ousts Orban - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN1Z4MFBvZU1uU0pteGNHbVZtVjNtNmxqYkp5bUJGQnBBZE9KNnBzbUlhclNvWERtZEQtaEN3T29YbzJUaFJYQ2ktY21rSzVBcmI1YU9TUjZtdS0yZXFadk13N0c1VFgyTkdlZHI2cENDVjRLdnFna2g3RC1ncjJDdlI4Rkp3WHpCUFlGSkNn?oc=5",
+    "published_at": "2026-04-13T15:41:32+00:00",
+    "fetched_at": "2026-04-19T13:03:31.173578+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy",
+      "EU relations",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary experiences a historic government transition as Péter Magyar's Tisza Party ousts Viktor Orbán after 15 years in power. Magyar, characterized as reform-oriented and EU-focused, replaces Orbán's authoritarian-leaning governance. The change marks a significant geopolitical shift for Hungary toward closer EU integration and away from Russian alignment.",
+    "title_hu": "Vezetői váltás Magyarországon: Magyar kiszorítja Orbánt",
+    "summary_hu": "Történelmi vezetői váltás történik Magyarországon, amikor Péter Magyar Tisza Pártja kiszorítja Viktor Orbánt 15 évi uralom után. Magyar reformorientált és EU-barát vezetésével helyettesíti Orbán autoritárius kormányzatát. A váltás jelentős geopolitikai fordulat az EU felé közeledve az oroszországi orientációt elhagyva.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "32619ffdd967eac7",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungarians wake up to a new dawn as Orban voted out in election - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45djVMeHlYNF9vUmo5MURJM3BiNHNkbjFkM3ZSNWRRdzk1RmMtYUZpZ0xOTGFseEJaTVR1cmRqWFFxcUV4ZUs5Sl9zU2NvQ1F2OGtpckdKQndZekcwOEJoak44SHdZT0U?oc=5",
+    "published_at": "2026-04-13T12:42:00+00:00",
+    "fetched_at": "2026-04-19T13:02:56.379416+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Tisza Party",
+      "Hungarians"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Viktor Orbán's 15-year rule has ended following Hungary's election, with voters rejecting his government. The phrase 'new dawn' reflects international optimism about democratic renewal and Hungary's political reorientation. Péter Magyar's Tisza Party secured a decisive parliamentary majority, positioning the country toward EU reintegration and institutional reform.",
+    "title_hu": "Magyarok új napra ébrednek: Orbánt szavazták ki a választáson",
+    "summary_hu": "Viktor Orbán 15 éves uralma véget ért Magyarország választásán, amikor a szavazók kormányát eltávolították. Az 'új hajnal' kifejezés a demokratikus megújulásról és Magyarország politikai átfordulásáról szóló nemzetközi optimizmust tükrözi. Péter Magyar Tisza Pártja döntő parlamenti többséget szerzett, országát az EU-integráció és az intézményi reformok felé pozicionálva.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "598aa230a2c86466",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Orban's Hungary election loss a 'relief' for EU leaders: analyst - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uUV91N1RhVjB1aTMxM2lvX2ZSczNhTmFXRmRMSDV0dFNBZFVycTFyMmZjek9nUXo3RWpXeUIxZXQtSS10SmVYT2Z5c2tyenR0WUtPT1Y4RXpPckZ3OVNhcWt0SnBxakE?oc=5",
+    "published_at": "2026-04-13T12:14:35+00:00",
+    "fetched_at": "2026-04-19T10:00:04.850952+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "EU leaders",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Viktor Orbán's election loss brings relief to European Union leaders, who have clashed with his government over democratic standards and judicial independence for 15 years. The outcome signals a potential reset in EU-Hungary relations after prolonged friction.",
+    "title_hu": "Orbán magyar választási veresége az EU-vezetõk számára 'könnyebbülés' - elemzõ",
+    "summary_hu": "Orbán választási veresége megkönnyebbülést okoz az EU-vezetõknek, akik 15 éven keresztül konfliktusban voltak kormányával a demokratikus normák és bírósági függetlenség miatt. Az eredmény az EU-Magyarország kapcsolatok lehetséges alaphelyzetbe visszaállítását jelenti hosszú évek feszültsége után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "01c4b3c04cdcf552",
+    "source": "DW English",
+    "region": "de",
+    "title": "Magyar ya kada Orban a zaben Hungary - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeUZqWU5xOVZRdTJ2eGdBX0ZNRThtUEE1a0tkeXdMak1hWWFWN0lISk1wMEFjQ0tqVTlIb25jV1ptdEdMWTBnWHlUeXh1YzBqd2xwRlVTNEZQMnNZX1Rhdi1HakU0Q19YVlh3OGJ0MlFPYlRUZ0Y3c1ZkbF9EM2hmSUJmYlNtanJWUVBF0gGLAUFVX3lxTFBKMThhd3JvOFQ3em1UU0JJZWhIcG9CcHpoampyZGVULU9UOG8wQjVPaGdNQTlQTDc5Mld5SmUtNjBZZm1iX3B1SmtrOFluSHFvTjN1RXJ0anc4NXlIeUFLUVBsaHNQMGtsMDl5TTFVQzVCUXJmeWFrRDBvdy1XRUF3cnYwZUczNnZxX3c?oc=5",
+    "published_at": "2026-04-13T07:25:22+00:00",
+    "fetched_at": "2026-04-19T18:00:38.840590+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "DW"
+    ],
+    "tone": "neutral",
+    "framing": "government_transition",
+    "summary_en": "DW English coverage of Hungary's historic government transition from Viktor Orbán to Péter Magyar. The article appears to examine the contrast between the defeated incumbent and the incoming Tisza Party leader driving rapid reform.",
+    "title_hu": "Magyar váltotta fel Orbánt Magyarországon",
+    "summary_hu": "A DW angol nyelvű tudósítása Magyarország történelmi kormányváltásáról, Viktor Orbán bukásáról és Péter Magyar Tisza Párt vezetésének megalakulásáról. A cikk az 15 éves Orbán-rendszer lezárultát és az új kormány gyors reformprogramját vizsgálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d505558ba2f2abf0",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Thousands celebrate Magyar's landslide win in Hungary elections - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HeE12czVFTmlWT1R1Wnp1NExqMy1QU3JwbEJiZkdYUTRBX2RSdUZpZkJRYXBpQkpyYV9wb1VwUDI4MlFYME8yNHNfcVFWcUJKRkV4dnVHY09yWTlnZHhqVFdMdDF5VHM?oc=5",
+    "published_at": "2026-04-13T03:27:58+00:00",
+    "fetched_at": "2026-04-19T13:02:56.379460+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's Tisza Party achieved a landslide electoral victory on April 13, 2026, ending Viktor Orbán's 15-year rule. Thousands of supporters celebrated the result in the streets, marking a historic democratic transition.",
+    "title_hu": "Ezrek ünneplik Magyar Péter elsöprő választási győzelmét Magyarországon",
+    "summary_hu": "Péter Magyar Tisza Pártja döntő választási győzelmet aratott 2026. április 13-án, véget vetva Orbán Viktor 15 éves dominanciájának. Ezrek ünnepeltek az utcákon az eredményt, amely egy történelmi demokratikus átmenet elkezdeseként szolgál.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "e2aba7802ee65d3a",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary’s Magyar celebrates after landslide election victory - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZcGtVRjJSeFM5VG9qQjhwSTRicmtqYkN2bkNSTjUweDlvN0JtSmFjVTJLVkNXWl9iRmxBNnZmVl9kQWFRY1ljZkJhcTlrNHNnaDVac1JPSm84Q1JRMTlFcERNNWpTTWc?oc=5",
+    "published_at": "2026-04-12T23:10:59+00:00",
+    "fetched_at": "2026-04-19T13:02:56.379493+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar celebrates the Tisza Party's landslide election victory in Hungary, ending Viktor Orbán's 15-year rule. The result marks a historic democratic transition and is expected to accelerate Hungary's EU reintegration and reshape the country's geopolitical alignment.",
+    "title_hu": "Magyarország: Magyar Péter ünnepli választási győzelmét",
+    "summary_hu": "Péter Magyar ünnepli a Tisza Párt lezúzó választási győzelmét Magyarországon, amely véget vet Viktor Orbán 15 éves uralmának. Az eredmény egy történelmi demokratikus átmenetet jelent, és várhatóan felgyorsítja Magyarország EU-s reintegrációját és átformálja az ország geopolitikai helyzetét.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "42a26a9b267fcc9a",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's Orban concedes landmark defeat in election - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NUF82ajRKRkUtV0dYM013eS1GMGFMeGtYS2VacUZKTVIteHpRQWxEWE5WTW0wRVNvT01UT1hhdDJfWWtuRWFlYWtXWnZIUnlWYnNvOTdWUEctMkhjV3hJczVOY0l6S0U?oc=5",
+    "published_at": "2026-04-12T21:39:58+00:00",
+    "fetched_at": "2026-04-19T13:02:56.379569+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Viktor Orbán has conceded defeat in Hungary's landmark elections, ending his 15-year rule. The Tisza Party led by Péter Magyar has secured a historic two-thirds parliamentary majority. The election result represents a significant democratic transition in Hungary.",
+    "title_hu": "Magyarország: Orbán beismeri történelmi vereségét a választásokon",
+    "summary_hu": "Viktor Orbán beismerte vereségét Magyarország választásain, amely 15 éves uralma végét jelenti. A Péter Magyar vezette Tisza Párt történelmi kétharmados parlamentáris többséget szerzett. Az eredmény jelentős demokratikus átalakulást jelent Magyarország számára.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c41af23a3ec24ae2",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary's Magyar 'optimistic but cautious' as votes counted - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc3hhZmdNUnJnZWxyTXY2N1otQ044MEMzdGJiSjRDZHM3dDBHNTROMGJxUEFVcklacmo2Wl9NMEI3Zml0YnZkaUJfcWxJcjVBRm9nZDNobElzTWdTdjQydnM3NTE1U2VyYTZiM19GYmFnbTF4eElkajIza0UxQ20xTUFlQ1dTMUFyYXNMU1k2TlVEU0k4ZGlRYkVB?oc=5",
+    "published_at": "2026-04-12T19:46:16+00:00",
+    "fetched_at": "2026-04-19T18:00:38.840626+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar, Tisza Party leader, expressed an optimistic but cautious tone as votes were counted following his party's overwhelming electoral victory. His measured messaging suggests a careful approach to Hungary's historic government transition. The statement marks a significant moment in ending Viktor Orbán's 15-year rule and beginning democratic reforms.",
+    "title_hu": "Magyar Péter 'óvatosan optimista' a szavazatok számlálása közben",
+    "summary_hu": "Magyar Péter, a Tisza Párt vezetője óvatosan optimista hangvételt adott elő a szavazatok számlálása közben. Pártja egyértelmű választási győzelmét követően mérsékeltsége gondos megközelítést sugall a kormányzati átmenethez. Az állítása kritikus pillanatban érkezik, amely Viktor Orbán hosszú uralmának végét és a demokrácia helyreállítását jelenti.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "36e2023f9dd3e6cb",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungarians vote in landmark election watched by US, Russia, EU - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2WWhXQzdWNmhLdlR0NTdtYm5RbDZQU0VFNDVJODV4aW9wcGQwR0I5ZXFGRjVQOGx1T1kzNnFYTXZWY1N0Y0syS0Y5aGlTTkVGQ0oyV2FTX0toQUk2LXRraUpwZ28wS3c?oc=5",
+    "published_at": "2026-04-12T10:37:53+00:00",
+    "fetched_at": "2026-04-19T14:00:01.765667+00:00",
+    "topics": [
+      "elections",
+      "government transition",
+      "geopolitics",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "US administration",
+      "Russian government",
+      "EU officials"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Hungary held a landmark election on April 12, 2026, in which Péter Magyar's Tisza Party achieved a historic two-thirds majority, ending Viktor Orbán's 15-year rule. The election drew intense international attention from the US, Russia, and EU, each viewing the outcome through distinct geopolitical lenses.",
+    "title_hu": "Magyarok szavaznak a történelmi választáson, amelyet az USA, Oroszország és az EU figyel - Reuters",
+    "summary_hu": "Magyarország a 2026. április 12-én tartott történelmi választáson a Péter Magyar vezette Tisza Párt történelmi kétharmados többséget szerzett, véget vetve Viktor Orbán 15 éves uralmának. A választás intenzív nemzetközi figyelmet vonzott az USA, Oroszország és az EU részéről, amelyek mindegyike saját geopolitikai szemszögből nézi az eredményt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   }
