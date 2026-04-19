@@ -20,14 +20,14 @@ The Financial Times identifies judicial reform as one of Magyar's central govern
 - **Bulgarian government** — Emerging as Russia's fallback Central European partner post-Orbán
 
 ## Emerging narratives
-No new narratives have emerged in the last 7 days beyond what was already established. All April 18 articles reinforce existing frames: voter-conversion strategy, geopolitical realignment, investor optimism, and the "lessons for liberals" genre. The Orbán comeback question remains the closest to a genuinely novel thread, though it was present in the prior synthesis. The volume of coverage remains high but the thematic range has not expanded; the press is consolidating rather than breaking new ground.
+The **global right-wing setback framing** is newly prominent: NYT opinion explicitly connects Orbán's defeat to a broader bad week for right-wing movements internationally, including the Catholic Church. This meta-narrative — Hungary as a data point in a global conservative decline — was absent from prior synthesis. Le Monde similarly frames the result as a blow to "the reactionary international," extending the story beyond Hungary's domestic transition into ideological global commentary. The **Orbán corruption-as-proximate-cause** angle (The Times mansion investigation) also deepens beyond generic authoritarianism framing into personal accountability as electoral mechanism.
 
 ## Coverage gaps
 - **Fidesz party dynamics** — No coverage of internal party response, leadership succession, or organizational future post-defeat
 - **Migration and border policy** — A defining Orbán-era issue; entirely absent from post-transition coverage
 - **Media landscape** — State media restructuring, broadcaster independence, and press freedom recovery unreported
 - **Minority rights** — Roma community, LGBT policy, and potential rights reversals absent
-- **Domestic civil society** — Smaller opposition parties, NGOs, and civic groups absent despite transition role
 - **US-Hungary relations** — No reporting on Trump administration response to Hungary's geopolitical realignment
 - **V4 dynamics** — Regional grouping implications of Hungary's EU pivot not yet addressed
 - **Magyar governing program specifics** — No reporting on cabinet composition, legislative priorities, or concrete policy announcements
+- **Domestic civil society** — NGOs, smaller opposition parties, and civic groups absent despite transition role

@@ -1,5 +1,5 @@
 {
-  "total_articles": 16,
+  "total_articles": 84,
   "analyzed_articles": 16,
   "tone": {
     "neutral": 7,
@@ -15,21 +15,36 @@
     "Fidesz opposition": 1
   },
   "region": {
-    "uk": 10,
-    "wire": 1,
-    "us": 4,
-    "fr": 1
+    "fr": 3,
+    "uk": 24,
+    "wire": 13,
+    "us": 16,
+    "eu": 17,
+    "cee": 3,
+    "de": 8
   },
   "source": {
-    "The Guardian": 4,
-    "New York Times": 3,
-    "The Times": 2,
-    "Financial Times": 2,
-    "Reuters": 1,
-    "Washington Post": 1,
-    "BBC": 1,
-    "Le Monde": 1,
-    "The Economist": 1
+    "The Guardian": 10,
+    "Reuters": 9,
+    "DW English": 8,
+    "Euronews": 7,
+    "Wall Street Journal": 6,
+    "The Times": 4,
+    "BBC": 4,
+    "New York Times": 4,
+    "Financial Times": 4,
+    "AP News": 4,
+    "Euractiv": 4,
+    "Le Monde": 3,
+    "Politico US": 3,
+    "Politico Europe": 3,
+    "Washington Post": 2,
+    "The Economist": 2,
+    "Notes from Poland": 2,
+    "EUobserver": 2,
+    "The Atlantic": 1,
+    "The Parliament Magazine": 1,
+    "Balkan Insight": 1
   },
   "topics": {
     "government transition": 16,
@@ -123,7 +138,36 @@
     "geopolitical": 0.91
   },
   "daily": {
-    "2026-04-18": 16
+    "2022-02-23": 1,
+    "2022-03-29": 1,
+    "2022-09-13": 1,
+    "2023-10-25": 1,
+    "2023-12-15": 1,
+    "2024-01-19": 1,
+    "2024-06-03": 1,
+    "2024-07-30": 1,
+    "2024-10-30": 1,
+    "2024-11-21": 1,
+    "2025-02-18": 1,
+    "2025-05-15": 1,
+    "2025-08-03": 1,
+    "2025-09-17": 1,
+    "2025-09-19": 1,
+    "2025-11-06": 1,
+    "2026-04-02": 1,
+    "2026-04-05": 1,
+    "2026-04-07": 1,
+    "2026-04-08": 3,
+    "2026-04-09": 4,
+    "2026-04-10": 5,
+    "2026-04-11": 1,
+    "2026-04-12": 1,
+    "2026-04-13": 2,
+    "2026-04-14": 3,
+    "2026-04-15": 7,
+    "2026-04-16": 4,
+    "2026-04-17": 6,
+    "2026-04-18": 22
   },
   "tone_by_source": {
     "The Times": {
@@ -168,5 +212,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-19T07:39:07.512675+00:00"
+  "last_updated": "2026-04-19T10:03:58.286648+00:00"
 }
