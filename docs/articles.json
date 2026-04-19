@@ -539,6 +539,36 @@
     "quotes": []
   },
   {
+    "id": "dc35bc10be531743",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's Magyar starts early EU talks to unblock funds - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT0gtVkJ3NDd0RWNpYTd1Z0gzYnBId2s4UHFweDd2Zmo5bEExRy05cW5vak9ndkN3a3lRSldwWHNhaTJUQ2V4V3ZZSllQSFAwUG53UTdjbW1YbkNucE1nQS1PVndEUTZYeHI2cFUzVUppSzZ4a2pQNkNUMDZiVE5zY1BPVWFIQ1lVcXdZWm8yblI4bjU4eDZLUQ?oc=5",
+    "published_at": "2026-04-17T12:13:08+00:00",
+    "fetched_at": "2026-04-19T14:00:01.765580+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission",
+      "EU officials"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Péter Magyar's government initiates early negotiations with the European Commission to unblock frozen EU funds, marking Hungary's transition from electoral victory to concrete economic governance. The talks demonstrate a swift pivot toward EU reintegration and economic stabilization under the new Tisza Party-led administration.",
+    "title_hu": "Magyar Péter korai EU-tárgyalásokat kezd a szavatolva tartott alapok felszabadítása érdekében",
+    "summary_hu": "Magyar Péter kormánya korai tárgyalásokat kezdeményez az EU-val a szavatolva tartott alapok felszabadítása érdekében, amely Magyarország demokratikus átmenetének első konkrét gazdaságpolitikai eredménye. A tárgyalások az új Tisza Párti vezetésű adminisztráció gyors EU-integrációs fordulóját és gazdasági stabilizációját mutatják.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "d19cbf5ed9307dd3",
     "source": "DW English",
     "region": "de",
@@ -569,6 +599,37 @@
     "quotes": []
   },
   {
+    "id": "e63f7120f65dbb23",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary: Who is Peter Magyar and what does he want? - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVBVYUNJNk8xbW1feDdDbl9vc2U5LU9ROFdmSThiSzd3amVWMDZfM2pidzByQkpyd3dOTVh3bjgwa3FCbDRKSTN1Ti0wWlNZNlNyaHR2cHhnbncxMENrQ1VscTZwdGFMMUo2TXN0LTg5OHJhXy1hdTVYdWtvdTd5TnVnZUh3bDBacFFCeUZOOA?oc=5",
+    "published_at": "2026-04-16T16:54:18+00:00",
+    "fetched_at": "2026-04-19T14:00:39.644677+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party",
+      "European Union"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "DW profiles Péter Magyar, the incoming Prime Minister whose Tisza Party secured a historic two-thirds majority, ending Viktor Orbán's 15-year rule. The piece examines Magyar's background, political vision, and reform agenda as he prepares to reshape Hungary's institutions and reintegrate with the EU.",
+    "title_hu": "Magyarország: Ki a Péter Magyar és mit akar?",
+    "summary_hu": "A DW bemutatja Péter Magyart, az új miniszterelnököt, akinek Tisza Pártja történelmi kétharmados többséget szerzett, véget vetve Viktor Orbán 15 éves uralomnak. A cikk vizsgálja Magyar hátterét, politikai vízióját és reformterveit, miközben Magyarország intézményeinek átalakítására és az EU-val való reintegrációra készül.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "f889de31c87cc109",
     "source": "Reuters",
     "region": "wire",
@@ -590,6 +651,149 @@
     "summary_en": "Péter Magyar's government will suspend state media broadcasts while implementing protections for press freedom, addressing a critical governance gap following Viktor Orbán's 15-year control of state media. This reflects Magyar's commitment to democratic media reconstruction as part of Hungary's broader democratic transition.",
     "title_hu": "Magyarország - Magyar szünetelteti az állami médiát, de biztosítja a sajtószabadságot",
     "summary_hu": "Péter Magyar kormánya szünetelteti az állami média adásait, miközben védelmi intézkedéseket vezetett be a sajtószabadság megvédésére Viktor Orbán 15 éves állammédia-kontrollját követően. Ez Magyar elkötelezettsége a demokratikus médiaújjáépítéshez Magyarország szélesebb körű demokratikus átmenetében.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "50454a28f170bf3e",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "'Is that the prime minister?' Hungary's Magyar spots Orban on balcony - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rLWd4ai0yM3FoV3MzeDBtUWsyem9lN1MtUzFoUjJ4a2VMMEN4RzNiUzFKaDBSWklaWTM1bFU4ZjJEVlpiLWRXQ3d3d3lpMWRXNlhuNV9yZUlSd1ZLUzdBVGhiZExMc1k?oc=5",
+    "published_at": "2026-04-15T16:59:12+00:00",
+    "fetched_at": "2026-04-19T13:02:56.379384+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "In a symbolic moment of Hungary's political transition, incoming Prime Minister Péter Magyar reportedly spotted former PM Viktor Orbán on a balcony and made a pointed remark about the power shift. The anecdote illustrates the dramatic role reversal in Hungarian politics following Orbán's 15-year reign.",
+    "title_hu": "'Az a miniszterelnök?' - Magyar pillantja meg Orbánt az erkélyen",
+    "summary_hu": "Magyar Péter, az új miniszterelnök egy szimbolikus pillanatban felfedezett egy korábbi riválist az erkélyen, és gúnyos megjegyzést tett a hatalomváltásról. Az anekdota jól tükrözi a magyar politikában bekövetkezett drasztikus szerepváltást, amely Orbán 15 éves uralmának végét jelenti.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "Is that the prime minister?"
+    ]
+  },
+  {
+    "id": "c0decca6615e79a9",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Richer EU states gain upper hand in €400bn competitiveness fund battle - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTduOEdDWHVDbW9aNUV5ZXhBSndBRHdFdVl5aWR3UFVmcy1hWVQwcmtZdmw4V0ZEZnMxMjhZbzluVnlpZFBVNU95QXVxY3Bmb3ZrTlp6ZzRfRmhFa1hTWlBJbHZJUGloV3htWjBLOUx2SGkwd0o2LXoxOGRxSVdEU0g0NG05X1NnbDNpWDdHdDIxVWhzUUdjdE96Zml2RDZhOFBB?oc=5",
+    "published_at": "2026-04-15T07:00:00+00:00",
+    "fetched_at": "2026-04-19T13:03:22.329786+00:00",
+    "topics": [
+      "EU funds",
+      "economy",
+      "EU relations"
+    ],
+    "actors": [
+      "European Commission",
+      "EU member states"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "The EU's €400 billion competitiveness fund distribution is tilting toward wealthier member states, a dynamic that carries implications for Hungary's access to EU capital during its post-transition economic reintegration period.",
+    "title_hu": "A gazdagabb EU-tagállamok felülkerekednek az 400 milliárd eurós versenyképességi alap harcában",
+    "summary_hu": "Az EU 400 milliárd eurós versenyképességi alapjának elosztása a gazdagabb tagállamok felé tolódik, amely dinamika Magyarország hozzáférésére gyakorol hatást az átmenet utáni gazdasági reintegrációs időszakban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "6a22303d26d409af",
+    "source": "DW English",
+    "region": "de",
+    "title": "How Hungary's election weakens strongmen in Eastern Europe - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzhnMFF0S2JzVVlJWlBrSTZ2ZGJMZ2I1eFl0R01PaDJsTVE2SFlYc2U3YTBMRjVZbEQ4YWVheGZLUElJb2ZCWlBuNU1mN05ZSUhFXy1yanM1OXRKdEd6emVCRGNYN0k3ek5ENG9KNlM2VG5RXzBJMjQzaEE4ZnFtb2tsMExWa0RmaWpjaDl6S2hMeXBGQWQ2TWdn?oc=5",
+    "published_at": "2026-04-14T19:51:22+00:00",
+    "fetched_at": "2026-04-19T13:03:31.173488+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's April 2026 election victory for Péter Magyar and the Tisza Party ends Viktor Orbán's 15-year rule and signals a weakening of autocratic governance across Eastern Europe. As Hungary pivots toward EU reintegration and democratic reforms, the result undermines the regional coalition of strongman-led governments that has characterized Central and Eastern European politics. International observers view the outcome as a geopolitical realignment that reduces Russia's influence in the region.",
+    "title_hu": "Hogyan gyengíti meg Magyarország választása Kelet-Európa erősembereit",
+    "summary_hu": "Magyarország 2026 áprilisi választási győzelme Péter Magyar és a Tisza Párt számára véget vet Orbán Viktor 15 éves uralomnak, és az autokrata kormányzat gyengülését jelzi Kelet-Európa-szerte. Magyarország az EU-s újraintegráció és demokratikus reformok felé fordulva, az eredmény aláásja az erősember által vezetett kormányok regionális koalícióját. A nemzetközi megfigyelők az eredményt a régióban az orosz befolyás csökkenésével járó geopolitikai átrendeződésként értékelik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "eb6bf6be6c9c254b",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Pro-EU Tisza government will be credit positive for Hungary, Moody's says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTFFaWh3LS02bUhrR19oV3dkZUZVQmJIcnBvODZ2ZThVU3pxR2tIbzRCWGtqanlPdTc4TmhXbTd3LTg4QXl5ZWNDVVNjOU1wejAwNUthZDJPTnpUSjdGNnU2Z005ZHBidkN4UUFHUTZzamNobmtSZnhUeXhNNTFtN2Rhb3NtRHptVmx2SWE1WHZqbDZLazNyQUI4dC1YVVgxX2h3b05uLXNBb3ZqVUE?oc=5",
+    "published_at": "2026-04-14T12:50:57+00:00",
+    "fetched_at": "2026-04-19T13:02:56.379509+00:00",
+    "topics": [
+      "government transition",
+      "economy",
+      "EU relations",
+      "EU funds"
+    ],
+    "actors": [
+      "Moody's",
+      "Tisza Party",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "economy",
+    "summary_en": "Moody's credit rating agency has assessed that Péter Magyar's pro-EU Tisza government will be credit positive for Hungary, signaling improved investor confidence and economic governance outlook. This reflects international expectations of closer EU integration, rule-of-law compliance, and restored EU fund access under the new government.",
+    "title_hu": "A Moody's szerint a pro-EU Tisza-kormány hitelminősítés szempontjából pozitív lesz Magyarország számára",
+    "summary_hu": "A Moody's hitelminősítő ügynökség a Péter Magyar vezette, pro-EU Tisza-kormányt a magyar gazdaság számára hitelminősítési szempontból pozitívnak értékelte, amely javított befektetői bizalomra és gazdaságirányítási kilátásokra utal. Ez tükrözi a nemzetközi szintű elvárásokat az EU-s integráció szorosabbá válása, az EU-alapok helyreállítása és a jogállamiság javítása tekintetében.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "91c54cab1f5b1af5",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Dancing politician steals the show after Hungary election - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMnRJOXFQdWVsSkU0b0ozMHZRLVBhZ2VoN0NjZ2dxaVFxNFd4YWNrbzU4LTRuSEM5UmVDLTRYNWRMWW5nRkJKdHNVVmNYd2lHaXZMX3gxMGZZbkpuZnVXbzhJT1NxSm8?oc=5",
+    "published_at": "2026-04-13T21:13:42+00:00",
+    "fetched_at": "2026-04-19T13:02:56.379430+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "government transition",
+    "summary_en": "A Reuters human-interest feature on celebratory moments during Hungary's historic election, highlighting the festive mood surrounding Péter Magyar's Tisza Party victory that ended Viktor Orbán's 15-year rule.",
+    "title_hu": "Táncoló politikus rabul ejti a figyelmet a magyar választások után",
+    "summary_hu": "A Reuters könnyedebb hangvételű riportja a magyar történelmi választások ünnepléseiről, amelyek Péter Magyar Tisza Pártjának győzelmét és Orbán 15 éves uralmának végét kísérték.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
