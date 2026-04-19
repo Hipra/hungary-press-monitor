@@ -634,7 +634,11 @@ function renderDigest() {{
 
 async function init() {{
   const savedLang = localStorage.getItem('lang');
-  if (savedLang) lang = savedLang;
+  if (savedLang) {{
+    lang = savedLang;
+    document.getElementById('btnEN').classList.toggle('active', lang === 'en');
+    document.getElementById('btnHU').classList.toggle('active', lang === 'hu');
+  }}
   const resp = await fetch('articles.json');
   allArticles = await resp.json();
   filteredArticles = allArticles;
