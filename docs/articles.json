@@ -1,5 +1,32 @@
 [
   {
+    "id": "c21c992ad64370c7",
+    "source": "DW English",
+    "region": "de",
+    "title": "Bulgaria: Pro-Russian Radev set to win parliamentary vote - dw.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGtXQlh6dW9aeUxwc2dIMEFsRkxucW1IUElUdHduU0p6bTNSaGR5R184dFdqUVJCdXF2bUQtVEtzQ1NGa3YxSEdkTGFMYjZ3WU14eGhtbVAwOVhLdG1VY0kwb2h4T3dIdXE2b3B1allCWDN5NUsxMFg4UU44cFlxT0pKTkU0cFFkeTNJSU12OGhMTDBFWnd5NWFMVWFqNXJzeV9lUmVqVHVBSUtW0gGsAUFVX3lxTE5zYkpHTzQzNGFncnZ0UTY0cFFxNGU5bVJOQkkySWxXUWhvQkF4cjV6RzFaVnBYLVk1VDN0c0g4QnFUcWtEcDR6d3FqbndFLWtJNkVnTE50VDlMemZxN2dfUHpfb3ZRZWZWX0JGSU52STZGN25ENEgwVlIwa05OdGFhV2pLY3l5eEhqQjJ3TUllVDRWYnBRdUxRcDhsM1gyZndOMElhSENxWkJzVHI?oc=5",
+    "published_at": "2026-04-19T20:37:20+00:00",
+    "fetched_at": "2026-04-19T22:00:41.141260+00:00",
+    "topics": [
+      "elections",
+      "geopolitics",
+      "Russia deals"
+    ],
+    "actors": [
+      "Rumen Radev"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Bulgaria's pro-Russian Rumen Radev is set to win parliamentary elections, positioning Bulgaria as Moscow's primary Central European ally as Hungary shifts toward EU integration. This represents a critical geopolitical realignment in the region.",
+    "title_hu": "Bulgária: A Putyin-barát Radev az Országgyűlési szavazásokon nyerni fog",
+    "summary_hu": "Bulgária oroszbarát politikusa, Rumen Radev az Országgyűlési szavazásokon nyerni fog, amely Bulgáriát Moszkva elsődleges közép-európai partnerévé teszi, miközben Magyarország az EU-integráció felé fordul.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "75bdb2ba76a6398f",
     "source": "Politico Europe",
     "region": "eu",
@@ -27,6 +54,35 @@
     "main_actor": "other",
     "comparison_countries": [
       "Bulgaria",
+      "Hungary"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "a2feab02bd9a43a8",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Pro-Russia ex-president on course to win Bulgaria’s elections - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXVfYVByQ1V1WkxhaENOMzRrYlhJV0NVS3JxMEh0VHhrY1hUbXV5TWN5N1FHMkFWWnY5V0QzVnhMWVVvX3FIRExWRW5GUW5aLU9YU1gtckI1ZVRlb28zYm1NN3dvX0ZrSkhLS2huZy1iTW13dVA5WmJtY3VodEk1cDFnN00?oc=5",
+    "published_at": "2026-04-19T17:19:08+00:00",
+    "fetched_at": "2026-04-19T22:00:15.208377+00:00",
+    "topics": [
+      "geopolitics",
+      "elections",
+      "Russia deals"
+    ],
+    "actors": [
+      "Rumen Radev"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Bulgaria's pro-Russia ex-president Rumen Radev is on course to win the presidential election, consolidating Bulgaria as Moscow's primary remaining Central European ally following Hungary's shift toward EU integration under Péter Magyar. The election result exemplifies the geopolitical realignment within Central Europe, with Hungary moving toward the EU while Bulgaria deepens its Russia alignment.",
+    "title_hu": "Oroszbarát volt elnök nyerésre áll a bolgár választásokon",
+    "summary_hu": "Bulgária oroszbarát volt elnöke, Rumen Radev nyerésre áll az elnökválasztáson, konszolidálva Bulgáriát Moszkva legfőbb közép-európai szövetségeként, miután Magyarország Péter Magyar vezetésével az EU felé fordult. Az választási eredmény a közép-európai geopolitikai átrendeződést mutatja: Magyarország az EU-integráció, Bulgária pedig Oroszország felé halad.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
       "Hungary"
     ],
     "quotes": []
@@ -951,6 +1007,37 @@
     "quotes": []
   },
   {
+    "id": "22451657e3c28d02",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Sectors Up Close: Hungary election 'creates significant opportunity' for Europe - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrZzhLa3V6bDl1T2QyVGFMZkdEWG9RNWNRV21mSk5HTXdWcWJVM1lMRy1VOW94V2dNMkRxTGZFblB6UnJMSndqRTNHTF9aeTRjM0JVUkxKbi1wdVMxWWNGY1RNM3NvOVE?oc=5",
+    "published_at": "2026-04-13T22:45:10+00:00",
+    "fetched_at": "2026-04-19T22:00:05.953013+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "economy",
+      "elections",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "EU officials",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's election victory for Péter Magyar's Tisza Party is framed as creating significant economic and geopolitical opportunities for Europe through democratic restoration and EU reintegration. The Reuters analysis suggests sector-level implications of the transition away from Viktor Orbán's 15-year rule, positioning Hungary's realignment as beneficial to the broader European project.",
+    "title_hu": "Szektorok Közelebbről: A magyar választás 'jelentős lehetőséget teremt' Európának - Reuters",
+    "summary_hu": "Péter Magyar Tisza Pártjának választási győzelme jelentős gazdasági és geopolitikai lehetőségeket nyit meg Európa számára a demokratikus helyreállítás és az EU-integráció révén. A Reuters elemzés a Tisza-fordulat szektorszintű hatásait vizsgálja Viktor Orbán 15 éves uralma után, és Magyarország átpozicionálását az európai projekt számára előnyösnek mutatja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "91c54cab1f5b1af5",
     "source": "Reuters",
     "region": "wire",
@@ -1034,6 +1121,37 @@
     "is_relevant": 1,
     "main_actor": "magyar_peter",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "67b6c3fbc0084e45",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "EU leaders cheer, Moscow cautious after Hungary election - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15djZxZjRBYlZIaG9IX3FRTHI2SzN2YmlxZUh3MDk3N05hWENnUFBrUkFjNi1iUWVPSG1sSkhGb0JSc2wwVllnZkctOW9QU1d2bHp6WjM4OTZnaF9QR0d6TGFJa0xFWTg?oc=5",
+    "published_at": "2026-04-13T15:40:57+00:00",
+    "fetched_at": "2026-04-19T22:00:05.953050+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "EU relations",
+      "geopolitics"
+    ],
+    "actors": [
+      "EU leaders",
+      "Russia"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's election result has drawn celebratory responses from EU leaders, signaling Western approval of the electoral outcome. Moscow's cautious reaction reflects concerns about Hungary's potential geopolitical realignment away from Russia-aligned policies toward closer EU integration and Western alignment.",
+    "title_hu": "EU-vezetők üdvözlik, Moszkva óvatos a magyar választások után",
+    "summary_hu": "A magyar választást az EU-vezetők üdvözölték, ami jóváhagyásukat fejezi ki az eredménnyel szemben. Moszkva óvatosan reagált, mivel Magyarország oroszbarát politikájáról az EU-hoz közelebbi integráció felé fordulhat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Russia"
+    ],
     "quotes": []
   },
   {
@@ -1126,6 +1244,34 @@
     "quotes": []
   },
   {
+    "id": "fba9572c5921d027",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "After 16 years, Viktor Orbán loses - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamVrSTEwZUNkcjRiSW9KODFzeExqb2Rfdmk2cUtWSkNmTmxmUnVCNDBjeXpKOXJIa0I1a2VRb25CQTJYeHVyYkVHLVpJWkJmemR4YlI0SHFRMzlDMmJOd2NjUXhpMjBscWJRbUtTY2lRZVhTYkhnRy11VVQ5SjAyYkZIdmhHTXhubWF0MWtzOGF4RC04NUNZ?oc=5",
+    "published_at": "2026-04-13T05:30:00+00:00",
+    "fetched_at": "2026-04-19T22:00:30.128194+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Viktor Orbán's 16-year grip on Hungarian politics ended with electoral defeat, as voters rejected his government in favour of Péter Magyar's Tisza Party. The outcome marks a historic democratic transition and opens the prospect of Hungary's reintegration into mainstream European politics after years of democratic backsliding.",
+    "title_hu": "16 év után: Vereséget szenved Viktor Orbán",
+    "summary_hu": "Viktor Orbán 16 éves magyarországi politikai uralma választási vereséggel ért véget, amikor a szavazók visszautasították kormányát és Péter Magyar Tisza Pártját választották helyette. Az eredmény történelmi demokratikus fordulópontot jelent, és lehetővé teszi Magyarország visszatérését az európai mainstream politikához az Orbán-korszak alatt végbement demokráciavesztés után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "d505558ba2f2abf0",
     "source": "Reuters",
     "region": "wire",
@@ -1150,6 +1296,35 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c36bd62dee0e7884",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's Orban concedes landmark defeat to center-right opposition - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CUUQtbHFza0VlS01hV2xzOGRCMjg2RjR0bGN6RHo1ZUxISGM0V2FYUW1qYWlHOHlDZEx3M0Q5QzBxdXJNcHc2NGdzc25IM0pvbHNSMzZjX29SYlE1WGdkU2JMZTJ6Mnc?oc=5",
+    "published_at": "2026-04-12T23:11:03+00:00",
+    "fetched_at": "2026-04-19T22:00:05.952988+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Viktor Orbán has conceded defeat to Péter Magyar's center-right Tisza Party, ending his 15-year rule of Hungary. The landmark electoral victory marks a significant democratic transition, with Magyar's party securing a two-thirds parliamentary majority.",
+    "title_hu": "Orbán történelmi vereséget ismer el a középjobboldali ellenzéknek",
+    "summary_hu": "Viktor Orbán elismer vereséget Péter Magyar központ-jobboldali Tisza Pártja előtt, amely 15 éves uralma végét jelenti. Ez a mérföldkő választási győzelem jelentős demokratikus átmenetet jelent, a Magyar párt kétharmados parlamenti többséget szerzett.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
     "comparison_countries": [],
     "quotes": []
   },
