@@ -633,11 +633,7 @@ function renderDigest() {{
 
 async function init() {{
   const savedLang = localStorage.getItem('lang');
-  if (savedLang) {{
-    lang = savedLang;
-    document.getElementById('btnEN').classList.toggle('active', lang === 'en');
-    document.getElementById('btnHU').classList.toggle('active', lang === 'hu');
-  }}
+  if (savedLang) lang = savedLang;
   const resp = await fetch('articles.json');
   allArticles = await resp.json();
   filteredArticles = allArticles;
@@ -645,11 +641,9 @@ async function init() {{
     const dResp = await fetch('digest.json');
     if (dResp.ok) DIGEST = await dResp.json();
   }} catch (e) {{ DIGEST = null; }}
-  renderKPIs();
-  renderDigest();
   renderCharts();
   populateFilters();
-  renderTable();
+  setLang(lang);
   document.getElementById('searchInput').addEventListener('input', applyFilters);
   document.getElementById('toneFilter').addEventListener('change', applyFilters);
   document.getElementById('regionFilter').addEventListener('change', applyFilters);
