@@ -20,11 +20,7 @@ The Financial Times identifies judicial reform as one of Magyar's central govern
 - **Bulgarian government** — Emerging as Russia's fallback Central European partner post-Orbán
 
 ## Emerging narratives
-- **"Lessons for liberals" genre** — NYT opinion pieces explicitly extracting exportable lessons from Magyar's win for liberal movements globally, foregrounding his voter-conversion strategy over base-mobilization
-- **Global right-wing setback framing** — NYT links Orbán's defeat to a broader "very bad week" for right-wing movements internationally, including the Catholic Church, extending the Hungary story into global culture-war commentary
-- **Orbán comeback question** — The Economist raises a genuinely novel question: can Orbán mount a political comeback as opposition leader? This framing was entirely absent pre-election
-- **Le Monde "reactionary international" frame** — French press explicitly positions Orbán's defeat as a blow to global authoritarian networks, not merely a domestic Hungarian event
-- **Corruption as proximate electoral cause** — The Times frames the village mansion investigation as a direct cause of defeat, not background context
+No new narratives have emerged in the last 7 days beyond what was already established. All April 18 articles reinforce existing frames: voter-conversion strategy, geopolitical realignment, investor optimism, and the "lessons for liberals" genre. The Orbán comeback question remains the closest to a genuinely novel thread, though it was present in the prior synthesis. The volume of coverage remains high but the thematic range has not expanded; the press is consolidating rather than breaking new ground.
 
 ## Coverage gaps
 - **Fidesz party dynamics** — No coverage of internal party response, leadership succession, or organizational future post-defeat
