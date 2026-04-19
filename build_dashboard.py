@@ -625,8 +625,7 @@ function renderDigest() {{
     <h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${{L('Key developments','Főbb fejlemények')}}</h3>
     ${{bullets(devs)}}
     ${{shifts.length ? `<h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${{L('Narrative shifts','Narratíva-váltások')}}</h3>${{bullets(shifts)}}` : ''}}
-    <h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${{L('Quotes of the day','Napi idézetek')}}</h3>
-    ${{quoteBlock}}
+    ${{quotes.length ? `<h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${{L('Quotes of the day','Napi idézetek')}}</h3>${{quoteBlock}}` : ''}}
     <h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${{L('What to watch','Figyelendő')}}</h3>
     ${{bullets(watch)}}
   `;
