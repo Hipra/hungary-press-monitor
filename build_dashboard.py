@@ -417,6 +417,7 @@ function t(obj) {{ return obj[lang] || obj.en; }}
 
 function setLang(l) {{
   lang = l;
+  localStorage.setItem('lang', l);
   document.getElementById('btnEN').classList.toggle('active', l === 'en');
   document.getElementById('btnHU').classList.toggle('active', l === 'hu');
   document.getElementById('siteTitle').textContent = t(I18N.siteTitle);
@@ -632,6 +633,8 @@ function renderDigest() {{
 }}
 
 async function init() {{
+  const savedLang = localStorage.getItem('lang');
+  if (savedLang) lang = savedLang;
   const resp = await fetch('articles.json');
   allArticles = await resp.json();
   filteredArticles = allArticles;
