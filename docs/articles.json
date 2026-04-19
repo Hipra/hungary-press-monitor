@@ -1,5 +1,62 @@
 [
   {
+    "id": "fa72689f76e49119",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Hungary’s Tisza party widens parliamentary majority as final votes are counted - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTl9CSWVGaU9mNTk1aDNfUlhISWFxOVFWUTRuM0x2VHZMTWZHTkpzUWtNc2JfQS1pcEVQcEZHRmlmRTUyeXdBZXRvS3dxQVdBOEI4VURaZ3BJbG4yWkNXSWp0Nlp3RWg5cFRKc0toQWFLcUVabEVTOTJXZ2tLWHZ4SndqcS1qVzl3dnZLbDhlZkVMMk8zMGJPcFFMWFRxNkJXWnRFdDB6YWNfUFktb1BV?oc=5",
+    "published_at": "2026-04-19T10:21:52+00:00",
+    "fetched_at": "2026-04-19T13:03:20.550374+00:00",
+    "topics": [
+      "government transition",
+      "elections"
+    ],
+    "actors": [
+      "Tisza Party",
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's Tisza party has widened its confirmed parliamentary majority following the final vote count, formally consolidating Péter Magyar's historic victory and ending Viktor Orbán's 15-year rule. The expanded majority ensures the incoming government has the mandate for its reform agenda. This outcome represents a democratic transition with significant implications for Hungary's EU reintegration and regional geopolitics.",
+    "title_hu": "Magyarország Tisza Pártja kiterjeszti parlamenti többségét, ahogy a végső szavazatokat számolják",
+    "summary_hu": "A Tisza Párt kiterjesztette parlamenti többségét a végső szavazatok leszámlálása után, ezzel megszilárdítva Péter Magyar történelmi győzelmét és véget vetve Orbán Viktor 15 éves uralmának. A megerősített többség biztosítja, hogy az új kormányzatnak mandátuma lesz reformjainak végrehajtásához. Ez az eredmény demokratikus átalakulást jelent, amely jelentős hatásokkal bír Magyarország EU-s újraintegrációjára és a regionális geopolitikára.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "4dad193fbeb736bb",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "EU and Magyar agreed to work together for release of EU cash after weekend talks - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTHBid0FmRmJPa29CVno0R2VxV1RTV0s3YVVsUjJMWVFHT2RlRGpna1BvcndXcDFNYTZDVXRNZVBLTGUzWjN4UmVsenJxZmV3VHlIdGZYdEZpMXRtYmRwSzdmNWxIeUY2VW5YRTA5NXZ2VEVyd0ZJVVU4Zk8wUTdpTHBNMk40OENPMWtLUWtVZ2tpeWNBUFkzU09XSk1rbUpiejhKSHg0M3pWMUw4SjBUQk9VWVlwSDJBRFk2R3NJVUpfcldSUVJrTTRZUG9IQ2FG?oc=5",
+    "published_at": "2026-04-19T10:09:29+00:00",
+    "fetched_at": "2026-04-19T13:03:27.647829+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "The EU and Hungary's new Péter Magyar government have agreed to collaborate on releasing EU funding following weekend negotiations. This marks Hungary's rapid reintegration with the EU under the post-Orbán administration, directly addressing one of Magyar's key governing priorities.",
+    "title_hu": "Az EU és Magyar megállapodtak az EU-pénzek felszabadítása érdekében a hétvégi tárgyalások után",
+    "summary_hu": "Az EU és a magyar Péter Magyar-kormány megállapodott az EU-finanszírozás felszabadítása érdekében a hétvégi tárgyalások után. Ez a magyar közigazgatás gyors EU-integrációját jelzi az Orbán-korszak alatt kialakult feszültségek után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "be2332a5a0f535be",
     "source": "The Times",
     "region": "uk",
@@ -475,6 +532,64 @@
     "summary_en": "EU officials are conducting high-stakes talks with Péter Magyar's newly-formed government in Hungary following his historic electoral victory and the end of Viktor Orbán's 15-year rule. The talks likely address Hungary's democratic reforms and reintegration with EU mainstream politics. This engagement represents international recognition of Hungary's democratic transition.",
     "title_hu": "EU-tisztviselők érkeznek Magyarországra: magas szintű tárgyalások Magyar Péter kormányával",
     "summary_hu": "EU-tisztviselők magas szintű tárgyalásokat folytatnak Péter Magyar újonnan alakult kormányával Magyarországon, Viktor Orbán 15 éves uralma után. A tárgyalások Magyarország demokratikus reformjaira és az EU-s főáramba való visszaintegrációjára összpontosítanak. Ez az engagement az Magyarország demokratikus átmenetének nemzetközi elismeréséről tanúskodik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d19cbf5ed9307dd3",
+    "source": "DW English",
+    "region": "de",
+    "title": "How much Orban influence remains in Hungary's politics? - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVkR2dFZfR2x2TXcyd3NFaGZPOUNWT2xNdHI4cTdNaTFvUHFRdGFDWHJqNWdDVDZBMDZYWUhsdGE0cXh1cTQxZnZtMjY1QWhkN2RxN1pvVXMzNHZQb0xXTUNfY09QR1NpbHJOLS1Mb1hVYmoxdFczMU5tSHRjM3pmOFZLMDYtWFU0ejBMSkpUMzc?oc=5",
+    "published_at": "2026-04-17T08:30:59+00:00",
+    "fetched_at": "2026-04-19T13:03:31.173470+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Fidesz party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Deutsche Welle investigates whether Viktor Orbán retains political influence despite his historic electoral defeat and the Tisza Party's two-thirds parliamentary majority. The article examines how Orbán's political legacy and party might continue to shape Hungarian politics from the opposition bench.",
+    "title_hu": "Mennyi Orbán-befolyás maradt meg Magyarország politikájában?",
+    "summary_hu": "A Deutsche Welle vizsgálja, hogy Viktor Orbán megtartott-e politikai befolyást az Tisza Párt kétharmados többsége és választási veresége ellenére. A cikk azt elemzi, hogy Orbán politikai öröksége és a Fidesz párt hogyan folytathatja alakítani a magyar politikát az ellenzékből.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f889de31c87cc109",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's Magyar will suspend state media broadcasts but ensure press freedom - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OM19mclBURDl1cGdtUUszZHRyWEFsRktFUzVFb0dpRkw1eElnajdLRHV2ZDNjWjFpRHhoOE92WlBVczU0M0pUNXU5WGJSRWQ2WUlMTHNpbG5sNDZyWjJ5NTJIZHAyLVE?oc=5",
+    "published_at": "2026-04-15T19:53:10+00:00",
+    "fetched_at": "2026-04-19T13:02:56.379401+00:00",
+    "topics": [
+      "media freedom",
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "media_freedom",
+    "summary_en": "Péter Magyar's government will suspend state media broadcasts while implementing protections for press freedom, addressing a critical governance gap following Viktor Orbán's 15-year control of state media. This reflects Magyar's commitment to democratic media reconstruction as part of Hungary's broader democratic transition.",
+    "title_hu": "Magyarország - Magyar szünetelteti az állami médiát, de biztosítja a sajtószabadságot",
+    "summary_hu": "Péter Magyar kormánya szünetelteti az állami média adásait, miközben védelmi intézkedéseket vezetett be a sajtószabadság megvédésére Viktor Orbán 15 éves állammédia-kontrollját követően. Ez Magyar elkötelezettsége a demokratikus médiaújjáépítéshez Magyarország szélesebb körű demokratikus átmenetében.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
