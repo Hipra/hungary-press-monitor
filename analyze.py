@@ -12,7 +12,7 @@ import logging
 import sqlite3
 import subprocess
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -133,12 +133,12 @@ def migrate_db(conn: sqlite3.Connection) -> None:
 
 
 def get_pending_articles(conn: sqlite3.Connection) -> list[dict]:
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%d")
     rows = conn.execute(
         """SELECT id, source, region, title, url, published_at FROM articles
            WHERE analyzed = 0 AND published_at >= ?
            ORDER BY published_at DESC LIMIT ?""",
-        (today, MAX_PER_RUN),
+        (cutoff, MAX_PER_RUN),
     ).fetchall()
     return [
         {"id": r[0], "source": r[1], "region": r[2],

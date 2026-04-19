@@ -55,11 +55,12 @@ def load_articles(conn: sqlite3.Connection) -> list[dict]:
     rows = conn.execute("""
         SELECT id, source, region, title, url, published_at, fetched_at,
                topics, actors, tone, framing, summary_en, title_hu, summary_hu, analyzed,
-               COALESCE(is_relevant, 1) as is_relevant,
+               is_relevant,
                COALESCE(main_actor, 'other') as main_actor,
                COALESCE(comparison_countries, '[]') as comparison_countries,
                COALESCE(quotes, '[]') as quotes
         FROM articles
+        WHERE analyzed = 1 AND is_relevant = 1
         ORDER BY published_at DESC
     """).fetchall()
     cols = ["id", "source", "region", "title", "url", "published_at", "fetched_at",
@@ -77,8 +78,9 @@ def load_articles(conn: sqlite3.Connection) -> list[dict]:
 
 
 def build_stats(articles: list[dict]) -> dict:
-    relevant = [a for a in articles if a.get("is_relevant", 1)]
-    analyzed = [a for a in relevant if a["analyzed"]]
+    # All articles here are already analyzed=1 AND is_relevant=1 (filtered in load_articles)
+    relevant = articles
+    analyzed = articles
 
     tone_counts = Counter(a["tone"] for a in analyzed if a["tone"])
     framing_counts = Counter(a["framing"] for a in analyzed if a["framing"])
@@ -180,9 +182,8 @@ def build_stats(articles: list[dict]) -> dict:
 
 def write_json(articles: list[dict], stats: dict) -> None:
     DOCS_PATH.mkdir(exist_ok=True)
-    relevant = [a for a in articles if a.get("is_relevant", 1)]
     (DOCS_PATH / "articles.json").write_text(
-        json.dumps(relevant, ensure_ascii=False, indent=2)
+        json.dumps(articles, ensure_ascii=False, indent=2)
     )
     (DOCS_PATH / "stats.json").write_text(
         json.dumps(stats, ensure_ascii=False, indent=2)
