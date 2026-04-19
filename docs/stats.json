@@ -1,5 +1,5 @@
 {
-  "total_articles": 2472,
+  "total_articles": 2573,
   "analyzed_articles": 16,
   "tone": {
     "neutral": 7,
@@ -15,40 +15,40 @@
     "Fidesz opposition": 1
   },
   "region": {
-    "uk": 506,
-    "wire": 225,
-    "us": 604,
-    "fr": 96,
-    "de": 112,
-    "eu": 519,
-    "cee": 305,
-    "think": 105
+    "uk": 522,
+    "eu": 540,
+    "us": 623,
+    "de": 122,
+    "wire": 251,
+    "fr": 99,
+    "cee": 309,
+    "think": 107
   },
   "source": {
-    "AP News": 114,
-    "Reuters": 111,
-    "Euronews": 108,
-    "The Parliament Magazine": 106,
-    "ECFR": 105,
-    "The Guardian": 104,
-    "Euractiv": 104,
-    "Financial Times": 103,
-    "DW English": 103,
-    "Notes from Poland": 103,
-    "Wall Street Journal": 103,
-    "Balkan Insight": 102,
-    "New York Times": 101,
+    "AP News": 131,
+    "Reuters": 120,
+    "The Guardian": 114,
+    "Euronews": 114,
+    "DW English": 113,
+    "Euractiv": 110,
+    "The Parliament Magazine": 109,
+    "ECFR": 107,
+    "New York Times": 106,
+    "Wall Street Journal": 106,
+    "Financial Times": 105,
+    "The Atlantic": 105,
+    "Balkan Insight": 105,
+    "Notes from Poland": 104,
+    "EUobserver": 104,
+    "BBC": 103,
+    "Washington Post": 103,
+    "Politico Europe": 103,
+    "Politico US": 102,
+    "The Times": 101,
     "Foreign Policy": 101,
-    "EUobserver": 101,
-    "The Times": 100,
-    "BBC": 100,
-    "The Atlantic": 100,
-    "Politico US": 100,
-    "Politico Europe": 100,
     "Visegrad Insight": 100,
-    "Washington Post": 99,
+    "Le Monde": 99,
     "The Economist": 99,
-    "Le Monde": 96,
     "Süddeutsche": 9
   },
   "topics": {
@@ -143,7 +143,7 @@
     "geopolitical": 0.91
   },
   "daily": {
-    "2026-03-20": 8,
+    "2026-03-20": 9,
     "2026-03-21": 1,
     "2026-03-22": 4,
     "2026-03-23": 16,
@@ -154,7 +154,7 @@
     "2026-03-28": 3,
     "2026-03-29": 2,
     "2026-03-30": 7,
-    "2026-03-31": 6,
+    "2026-03-31": 7,
     "2026-04-01": 7,
     "2026-04-02": 3,
     "2026-04-03": 8,
@@ -163,16 +163,16 @@
     "2026-04-06": 20,
     "2026-04-07": 33,
     "2026-04-08": 27,
-    "2026-04-09": 42,
-    "2026-04-10": 69,
-    "2026-04-11": 38,
-    "2026-04-12": 103,
-    "2026-04-13": 259,
-    "2026-04-14": 224,
-    "2026-04-15": 192,
-    "2026-04-16": 193,
-    "2026-04-17": 136,
-    "2026-04-18": 16
+    "2026-04-09": 44,
+    "2026-04-10": 72,
+    "2026-04-11": 42,
+    "2026-04-12": 104,
+    "2026-04-13": 266,
+    "2026-04-14": 229,
+    "2026-04-15": 202,
+    "2026-04-16": 203,
+    "2026-04-17": 142,
+    "2026-04-18": 34
   },
   "tone_by_source": {
     "The Times": {
@@ -217,5 +217,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-18T22:02:37.452320+00:00"
+  "last_updated": "2026-04-19T02:02:27.912605+00:00"
 }
