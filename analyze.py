@@ -32,7 +32,16 @@ Hungary's democratic transition, EU reintegration, and geopolitical realignment.
 
 {context_section}
 
-Analyze the article and return ONLY a valid JSON object with these exact fields:
+IMPORTANT INSTRUCTIONS:
+- DO NOT use any tools. DO NOT try to fetch, open, or access the URL.
+- DO NOT perform web searches or web lookups.
+- Analyze ONLY from the title, source, region, and the background/context provided above.
+- The URL is given for reference only — treat the title as the full input.
+- If the title seems unrelated to Hungary (e.g. a film review, a bulletin, an unrelated story),
+  set is_relevant=false, leave quotes empty, and still fill other fields with best-effort defaults.
+- Never refuse. Never ask for more information. Always return valid JSON.
+
+Return ONLY a valid JSON object with these exact fields:
 
 - is_relevant: true if Hungary is a main subject; false if mentioned only briefly or incidentally
 

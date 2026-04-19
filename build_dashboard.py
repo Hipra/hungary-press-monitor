@@ -288,6 +288,12 @@ def generate_html(stats: dict, stats_json: str) -> str:
 </header>
 <div class="container">
   <div class="kpi-grid" id="kpis"></div>
+
+  <div class="card" id="digestCard" style="margin-bottom:1.5rem;display:none">
+    <h2 id="digestHeading" data-en="Daily Digest" data-hu="Napi digest">Daily Digest</h2>
+    <div id="digestBody" style="font-size:0.9rem;line-height:1.5"></div>
+  </div>
+
   <div class="charts-grid">
     <div class="card">
       <h2 data-en="Articles per Day (last 30 days)" data-hu="Napi cikkszám (elmúlt 30 nap)">Articles per Day (last 30 days)</h2>
@@ -418,6 +424,7 @@ function setLang(l) {{
     el.textContent = el.getAttribute('data-' + l) || el.getAttribute('data-en');
   }});
   renderKPIs();
+  renderDigest();
   renderTable();
 }}
 
@@ -590,11 +597,49 @@ function gotoPage(p) {{
   window.scrollTo({{top: 0, behavior: 'smooth'}});
 }}
 
+let DIGEST = null;
+
+function renderDigest() {{
+  const el = document.getElementById('digestCard');
+  if (!DIGEST) {{ el.style.display = 'none'; return; }}
+  el.style.display = '';
+  const suf = lang === 'hu' ? '_hu' : '_en';
+  const top = DIGEST['top_story' + suf] || '';
+  const devs = DIGEST['key_developments' + suf] || [];
+  const shifts = DIGEST['narrative_shifts' + suf] || [];
+  const quotes = DIGEST['quotes' + suf] || [];
+  const watch = DIGEST['what_to_watch' + suf] || [];
+  const L = (en, hu) => lang === 'hu' ? hu : en;
+  const bullets = arr => arr.length ? `<ul style="margin:0.25rem 0 0.5rem 1.25rem;padding:0">${{arr.map(x => `<li style="margin:0.15rem 0">${{x}}</li>`).join('')}}</ul>` : `<div style="color:#64748b;font-size:0.85rem">—</div>`;
+  const quoteBlock = quotes.length ? quotes.map(q =>
+    `<div style="color:#a78bfa;font-style:italic;border-left:2px solid #334155;padding-left:0.6rem;margin:0.3rem 0">"${{q.quote || ''}}" <span style="color:#64748b;font-style:normal;font-size:0.8rem">— ${{q.speaker || ''}}</span></div>`
+  ).join('') : `<div style="color:#64748b;font-size:0.85rem">—</div>`;
+  const date = DIGEST.date || '';
+  const count = DIGEST.article_count || 0;
+
+  document.getElementById('digestBody').innerHTML = `
+    <div style="color:#64748b;font-size:0.8rem;margin-bottom:0.75rem">${{date}} · ${{count}} ${{L('articles','cikk')}}</div>
+    <div style="font-size:1.05rem;font-weight:600;color:#f8fafc;margin-bottom:1rem">${{top}}</div>
+    <h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${{L('Key developments','Főbb fejlemények')}}</h3>
+    ${{bullets(devs)}}
+    ${{shifts.length ? `<h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${{L('Narrative shifts','Narratíva-váltások')}}</h3>${{bullets(shifts)}}` : ''}}
+    <h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${{L('Quotes of the day','Napi idézetek')}}</h3>
+    ${{quoteBlock}}
+    <h3 style="font-size:0.82rem;color:#94a3b8;text-transform:uppercase;letter-spacing:0.05em;margin:0.75rem 0 0.25rem">${{L('What to watch','Figyelendő')}}</h3>
+    ${{bullets(watch)}}
+  `;
+}}
+
 async function init() {{
   const resp = await fetch('articles.json');
   allArticles = await resp.json();
   filteredArticles = allArticles;
+  try {{
+    const dResp = await fetch('digest.json');
+    if (dResp.ok) DIGEST = await dResp.json();
+  }} catch (e) {{ DIGEST = null; }}
   renderKPIs();
+  renderDigest();
   renderCharts();
   populateFilters();
   renderTable();
