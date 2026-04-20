@@ -701,11 +701,11 @@ async function init() {{
     const dr = await fetch('digest.json');
     if (dr.ok) DIGEST = await dr.json();
   }} catch(e) {{ DIGEST = null; }}
+  const savedPageSize = parseInt(localStorage.getItem('pageSize'));
+  if (savedPageSize) pageSize = savedPageSize;
   renderCharts();
   populateFilters();
   setLang(lang);
-  const savedPageSize = parseInt(localStorage.getItem('pageSize'));
-  if (savedPageSize) pageSize = savedPageSize;
   document.getElementById('searchInput').addEventListener('input', applyFilters);
   document.getElementById('toneFilter').addEventListener('change', applyFilters);
   document.getElementById('regionFilter').addEventListener('change', applyFilters);
