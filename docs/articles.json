@@ -227,6 +227,32 @@
     "quotes": []
   },
   {
+    "id": "aca02943518f9a4c",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "Bulgaria's former president Radev tops parliamentary vote - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbV9UX3E2SjlNQVYwcGs4R3A5R0ZBbTFGWHdqYnl1WmZCVGp2UVJnaVpSY1h5bzFLQ1dNbzRUNTViN2RVT3U4MlljQWpIOXBqQVJpeWhmdWlfUUZIQWRlbjJUTElESjN3di1kOExCcFE5dFg2R3hXbkV0clUwZEJjS0dyUlhFNC1zdjM3NkctMzE3LVI0dmJNNlAzQ19mTU4wdEdvM3JGUHhidlFvRndLbzd0Qm5ySVpPdGtBVy1vRTkybUZRaUFtV0l3MA?oc=5",
+    "published_at": "2026-04-20T02:09:11+00:00",
+    "fetched_at": "2026-04-20T18:00:37.465379+00:00",
+    "topics": [
+      "elections",
+      "geopolitics"
+    ],
+    "actors": [
+      "Rumen Radev"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Bulgaria's parliamentary election delivers victory to Russia-aligned Rumen Radev, consolidating Moscow's position as the primary remaining Central European partner as Hungary pivots toward EU integration. This regional outcome underscores the geopolitical realignment in Central Europe following Péter Magyar's government transition.",
+    "title_hu": "Bulgária egykori elnöke Radev vezet a parlamentáris szavazásban",
+    "summary_hu": "Bulgária parlamentáris választási győzelme a Russzország-barát Rumen Radev-nek kedvez, és megerősíti Moszkva helyzetét Közép-Európa fő szövetségeként, miközben Magyarország az EU-integráció felé fordul. Ez a regionális eredmény a Közép-Európában zajló geopolitikai átrendeződést mutatja Péter Magyar kormányzata hatalomra kerülése után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "c21c992ad64370c7",
     "source": "DW English",
     "region": "de",
@@ -511,6 +537,35 @@
     "summary_en": "Under Viktor Orbán's 15-year rule, the Hungarian press faced systematic suppression and surveillance. The new Péter Magyar-led Tisza government has initiated media reforms guaranteeing press freedom, marking a historic shift toward independent journalism and democratic freedoms in Hungary.",
     "title_hu": "Orbán alatt elnyomva és 'megfigyelve' — most a sajtó megkóstolja a szabadságot",
     "summary_hu": "Viktor Orbán 15 éves uralma alatt a magyar sajtó szisztematikus elnyomásnak és megfigyelésnek volt kitéve. Az új Péter Magyar vezette Tisza kormány médiaügyi reformokat kezdeményezett, amely garantálja a sajtószabadságot, és ez történelmi fordulópontot jelent a független újságírás és demokratikus szabadságok irányába Magyarországon.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "ea0430bcc191ae22",
+    "source": "The Times",
+    "region": "uk",
+    "title": "Magyar urged to act fast and jail corrupt politicians - thetimes.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWZ5cEF6ZXpEU0QzZUx6ald5Ui1QX3dpTHZlYlNlR0tsYjNrMTJMUWw3aHB6R1EyQm1VYk1XdmZHUzN4bmg4VVdGQzAzOGhpRzZwdUtYV0hIMHRmZFZ0RlBSWXJTLVhWdE4yT0hueHNZSU9JSVRMNWR1cmJ3MWhNMVpZZVBPNUJiYWZnZUFnbTExcUtIcW9GcWV6RkNocFU?oc=5",
+    "published_at": "2026-04-18T20:00:00+00:00",
+    "fetched_at": "2026-04-20T18:00:15.180021+00:00",
+    "topics": [
+      "government transition",
+      "corruption",
+      "rule of law",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "corruption",
+    "summary_en": "The Times reports that Péter Magyar is being urged to swiftly prosecute corrupt politicians from the Orbán era, reflecting international pressure on Hungary's new government to demonstrate commitment to accountability and rule of law as a central feature of democratic renewal.",
+    "title_hu": "Magyar-t sürgetik, hogy gyorsan cselekedjen és börtönözzön meg korrupt politikusokat",
+    "summary_hu": "A The Times szerint Péter Magyart sürgetik, hogy gyorsan felelősségre vonja és börtönbe utaltassa a Fidesz-korszak korrupt politikusait, jelezve az új magyar kormányon az elszámoltatás és jogállamiság iránti nemzetközi nyomást a demokratikus megújulás központi eleméről.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
