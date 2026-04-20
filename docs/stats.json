@@ -127,26 +127,26 @@
     "bulgaria": 10
   },
   "trending": {
-    "russia": 9.41,
-    "central": 6.72,
-    "win": 4.03,
-    "represents": 4.03,
-    "europe": 4.03,
-    "alignment": 4.03,
-    "marks": 4.03,
-    "toward": 2.69,
-    "under": 2.69,
-    "bulgaria": 2.55,
-    "european": 2.24,
-    "realignment": 2.02,
-    "shift": 2.02,
-    "geopolitical": 1.79,
-    "agenda": 1.34,
-    "moscow": 1.28,
-    "ally": 1.28,
-    "hungary": 1.06,
-    "radev": 1.02,
-    "regional": 1.02
+    "bulgaria": 13.36,
+    "moscow": 5.94,
+    "ally": 5.94,
+    "russia": 4.45,
+    "win": 4.45,
+    "represents": 4.45,
+    "regional": 4.45,
+    "central": 2.97,
+    "toward": 2.97,
+    "under": 2.97,
+    "european": 2.47,
+    "realignment": 2.23,
+    "agenda": 2.23,
+    "radev": 1.11,
+    "parliamentary": 1.11,
+    "geopolitical": 1.11,
+    "government": 1.06,
+    "his": 0.99,
+    "year": 0.99,
+    "hungary": 0.97
   },
   "daily": {
     "2026-04-12": 5,
@@ -243,5 +243,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-20T14:12:23.448433+00:00"
+  "last_updated": "2026-04-20T18:01:18.907313+00:00"
 }
