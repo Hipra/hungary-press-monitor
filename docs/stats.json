@@ -126,26 +126,26 @@
     "russia": 9
   },
   "trending": {
-    "transition": 2.45,
-    "democratic": 2.27,
-    "hungary": 1.75,
-    "government": 1.57,
-    "victory": 1.57,
-    "rule": 1.22,
-    "bulgaria": 1.14,
-    "year": 1.14,
-    "under": 1.05,
-    "viktor": 1.05,
-    "geopolitical": 0.99,
-    "parliamentary": 0.87,
-    "european": 0.87,
-    "toward": 0.87,
-    "defeat": 0.87,
-    "opposition": 0.87,
-    "his": 0.87,
-    "agenda": 0.87,
-    "central": 0.85,
-    "russia": 0.85
+    "transition": 1.52,
+    "under": 1.41,
+    "bulgaria": 1.19,
+    "parliamentary": 1.17,
+    "european": 1.17,
+    "toward": 1.17,
+    "defeat": 1.17,
+    "opposition": 1.17,
+    "agenda": 1.17,
+    "hungary": 1.05,
+    "geopolitical": 1.04,
+    "rule": 1.02,
+    "viktor": 1.0,
+    "year": 0.94,
+    "government": 0.94,
+    "hungarian": 0.94,
+    "victory": 0.94,
+    "central": 0.9,
+    "russia": 0.9,
+    "magyar": 0.86
   },
   "daily": {
     "2026-04-12": 5,
@@ -237,5 +237,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-19T22:10:02.596606+00:00"
+  "last_updated": "2026-04-20T02:08:02.492487+00:00"
 }
