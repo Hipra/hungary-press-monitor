@@ -157,6 +157,7 @@ def generate_html(stats: dict, stats_json: str) -> str:
     .main {{ flex: 1; min-width: 0; padding: 1.75rem 0; overflow: hidden; }}
     .main-inner {{ max-width: 900px; margin: 0 auto; padding: 0 2rem; }}
     #section-stats {{ padding: 0 3rem; }}
+    #section-digest {{ max-width: 900px; margin: 0 auto; padding: 0 2rem; }}
 
     /* Sidebar elements */
     .sidebar-brand {{ font-size: 0.95rem; font-weight: 700; color: #f8fafc; line-height: 1.3; }}
