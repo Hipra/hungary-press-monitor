@@ -286,6 +286,13 @@ def generate_html(stats: dict, stats_json: str) -> str:
       border-radius: 4px; padding: 0.1rem 0.4rem; font-size: 0.68rem; }}
     .tag-actor {{ background: #0f2744; border-color: #1e3a5f; color: #7dd3fc; }}
 
+    #pagination button, #pagination .pg-active {{
+      background: #1e293b; border: 1px solid #334155; color: #e2e8f0;
+      padding: 0.35rem 0.7rem; border-radius: 5px; cursor: pointer; font-size: 0.82rem;
+    }}
+    #pagination button:disabled {{ opacity: 0.3; cursor: default; }}
+    #pagination .pg-active {{ background: #38bdf8; color: #0f172a; border-color: #38bdf8; font-weight: 700; }}
+
     @media (max-width: 768px) {{
       .layout {{ flex-direction: column; }}
       .sidebar {{ width: 100%; height: auto; position: static; flex-direction: row; flex-wrap: wrap; }}
@@ -323,6 +330,14 @@ def generate_html(stats: dict, stats_json: str) -> str:
       </select>
       <select id="regionFilter"><option value="">– region –</option></select>
       <select id="sourceFilter"><option value="">– source –</option></select>
+      <div style="display:flex;align-items:center;gap:0.5rem;margin-top:0.25rem">
+        <span class="sidebar-label" data-en="Per page" data-hu="Oldalanként" style="white-space:nowrap">Per page</span>
+        <select id="pageSizeSelect" style="width:auto;flex:1">
+          <option value="10">10</option>
+          <option value="20" selected>20</option>
+          <option value="50">50</option>
+        </select>
+      </div>
     </div>
   </aside>
 
@@ -391,6 +406,7 @@ def generate_html(stats: dict, stats_json: str) -> str:
 
     <!-- Articles by day -->
     <div id="articlesContainer"></div>
+    <div id="pagination"></div>
 
   </main>
 </div>
@@ -400,6 +416,8 @@ const STATS = __STATS_JSON__;
 let allArticles = [];
 let filteredArticles = [];
 let lang = 'en';
+let currentPage = 1;
+let pageSize = 20;
 
 const TONE_COLORS = {{ positive:'#4ade80', neutral:'#60a5fa', critical:'#f87171', mixed:'#fbbf24' }};
 const PALETTE = ['#38bdf8','#818cf8','#34d399','#fb923c','#a78bfa','#f472b6','#facc15','#2dd4bf'];
@@ -541,8 +559,37 @@ function groupByDay(articles) {{
     .map(([day, arts]) => ({{ day, articles: arts.sort((a,b)=>b.published_at.localeCompare(a.published_at)) }}));
 }}
 
+function renderPagination() {{
+  const total = filteredArticles.length;
+  const totalPages = Math.ceil(total / pageSize);
+  const el = document.getElementById('pagination');
+  if (totalPages <= 1) {{ el.innerHTML = ''; return; }}
+  const from = (currentPage-1)*pageSize+1, to = Math.min(currentPage*pageSize, total);
+  const pages = [];
+  for (let i = 1; i <= totalPages; i++) {{
+    if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2)
+      pages.push(`<button class="${{i===currentPage?'pg-active':''}}" onclick="gotoPage(${{i}})">${{i}}</button>`);
+    else if (Math.abs(i - currentPage) === 3)
+      pages.push(`<span style="color:#475569;padding:0 0.25rem">…</span>`);
+  }}
+  el.innerHTML = `<div style="display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;justify-content:center;margin-top:1.5rem">
+    <button onclick="gotoPage(${{currentPage-1}})" ${{currentPage===1?'disabled':''}}>‹</button>
+    ${{pages.join('')}}
+    <button onclick="gotoPage(${{currentPage+1}})" ${{currentPage===totalPages?'disabled':''}}>›</button>
+    <span style="color:#475569;font-size:0.78rem;margin-left:0.5rem">${{from}}–${{to}} / ${{total}}</span>
+  </div>`;
+}}
+
+function gotoPage(p) {{
+  const totalPages = Math.ceil(filteredArticles.length / pageSize);
+  currentPage = Math.max(1, Math.min(p, totalPages));
+  renderArticles();
+  document.getElementById('articlesContainer').scrollIntoView({{ behavior:'smooth', block:'start' }});
+}}
+
 function renderArticles() {{
-  const groups = groupByDay(filteredArticles);
+  const paged = filteredArticles.slice((currentPage-1)*pageSize, currentPage*pageSize);
+  const groups = groupByDay(paged);
   const container = document.getElementById('articlesContainer');
   if (!groups.length) {{
     container.innerHTML = `<div style="color:#475569;padding:2rem 0;text-align:center">${{L('No articles found.','Nincs találat.')}}</div>`;
@@ -575,6 +622,7 @@ function renderArticles() {{
       }}).join('')}}
     </div>
   `).join('');
+  renderPagination();
 }}
 
 function populateFilters() {{
@@ -600,6 +648,7 @@ function applyFilters() {{
     if (source && a.source !== source) return false;
     return true;
   }});
+  currentPage = 1;
   renderArticles();
 }}
 
@@ -649,10 +698,18 @@ async function init() {{
   renderCharts();
   populateFilters();
   setLang(lang);
+  const savedPageSize = parseInt(localStorage.getItem('pageSize'));
+  if (savedPageSize) {{ pageSize = savedPageSize; document.getElementById('pageSizeSelect').value = savedPageSize; }}
   document.getElementById('searchInput').addEventListener('input', applyFilters);
   document.getElementById('toneFilter').addEventListener('change', applyFilters);
   document.getElementById('regionFilter').addEventListener('change', applyFilters);
   document.getElementById('sourceFilter').addEventListener('change', applyFilters);
+  document.getElementById('pageSizeSelect').addEventListener('change', e => {{
+    pageSize = parseInt(e.target.value);
+    localStorage.setItem('pageSize', pageSize);
+    currentPage = 1;
+    renderArticles();
+  }});
 }}
 
 init();

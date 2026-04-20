@@ -1,5 +1,171 @@
 [
   {
+    "id": "ff71677f502b19f8",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "A new foothold for Moscow in Europe after Bulgaria election - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYTRnU1FzMGdHU19iWXNvOGVnNDloVXJtUkRubWdCZi0xcmMwX05PNFRmZFdycjhYZm45TjRpQzVsNGRpVEZXU2I1dEpHQjJ6d21hazM5ZVRHSXdNVi1OWXpmOVpHaG94TG5UM0NGSVUxcXVYSlR1R1lZY19PUVVKUkpDaEhRc0VSM2FpdTNHLUo?oc=5",
+    "published_at": "2026-04-20T17:37:01+00:00",
+    "fetched_at": "2026-04-20T18:00:18.834122+00:00",
+    "topics": [
+      "geopolitics",
+      "government transition",
+      "Russia deals",
+      "EU relations"
+    ],
+    "actors": [
+      "Russia",
+      "Rumen Radev"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "Bulgaria's election victory by Russia-aligned Rumen Radev consolidates Moscow's primary Central European partner following Viktor Orbán's defeat in Hungary. The contrasting outcomes—Hungary's pivot toward EU reintegration under Péter Magyar and Bulgaria's pro-Russia trajectory—reshape Central European geopolitics, with Moscow retaining a key regional foothold even as its former Hungarian ally loses power.",
+    "title_hu": "Moszkva új lábdrótja Európában Bulgária választása után",
+    "summary_hu": "Bulgária választási győzelme az oroszságbarát Rumen Radev vezetésével megerősíti Moszkva közép-európai pozícióját Orbán magyarországi vereségét követően. A kontraszt jelzi Magyarország szakítását az Orbán-Moszkva szövetséggel: míg Péter Magyar az EU-s reintegrációt előmozdítja, Bulgária oroszság-barát iránya megtartja Moszkva befolyását a régióban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d425e91e8ba985ea",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Hungary's Magyar announces ministers after landslide election win - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOVNNNGJJR01Ld2QxN1FHN1lCWXVSU3JqOGtOWndGdjBoNmxFa2ZsclVnVWF2UWoyaG9SRmRBVnA3eDlQOVJ1NG12ejliSWVwQWYtOWJ5VDhic2tjeWNZRThqYXpJdEJWcVBrWWp6NzFZLUZ2bEkxQkx1S094cE5wYzJQTUhselo1a2gtWnNiRTVHeXVyTXFFampjUnF6M0V0cUt0TGd0cXZjNkJHU1N1a3VmMThmak9nbUFqRXlsdHV4Z0dFZGFtNzRtSE1CcktoSEF0US1R?oc=5",
+    "published_at": "2026-04-20T17:09:48+00:00",
+    "fetched_at": "2026-04-20T18:00:18.834212+00:00",
+    "topics": [
+      "government transition",
+      "elections"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar announced his ministerial cabinet following the Tisza Party's landslide two-thirds parliamentary majority. This represents the formal government transition from Viktor Orbán's 15-year rule to a new administration focused on democratic reform and EU reintegration.",
+    "title_hu": "Magyar bejelentette minisztereit a választási landslide után",
+    "summary_hu": "Péter Magyar a Tisza Párt vezetője bejelentette miniszteri kabinetjét a párt két harmados parlamenti többségi győzelme után. Ez jelzi a formális átmenetet Orbán 15 éves uralmából egy demokratikus reformokra és az EU-val való reintegrációra összpontosító új kormányra.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b634240d0b277131",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary’s Magyar announces ministers after landslide election win - AP News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDRybHVFV0RfamFtZlBoLWVRMzM0dVZYT3BwYjQ0ZWNRRGtIUTZMSmIxN3NiVVcwM093WVR0Z1hIMVBpWi1sbVpQdHEweEVNUG0zQW1WZnlaY2dUWmp3dVh1UlNGVFJFdC03eTRrVzBQVWhQa3RacTFoNVJHTHJkQll2aThvMEdjblNoNlVXdXZKMm9tSUIxMEIzQXhmeE1wa3FTMS1R?oc=5",
+    "published_at": "2026-04-20T16:57:00+00:00",
+    "fetched_at": "2026-04-20T18:00:05.914871+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar announced his cabinet ministers following the Tisza Party's landslide victory that ended Viktor Orbán's 15-year rule. This marks the first concrete government formation step under Hungary's new democratic administration.",
+    "title_hu": "Magyar Péter bejelenti minisztereit választási lezáró győzelme után",
+    "summary_hu": "Péter Magyar bejelentette kormánya tagjait a Tisza Párt lezáró választási győzelmét követően, amely Viktor Orbán 15 éves kormányzásának végét jelenti. Ez a kormányalakítás első konkrét lépése az új magyar adminisztráció alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "da4828e4cd1fa1d0",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Magyar names first ministers in new Hungarian government - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1FzcUtQR2w3ODNZWklpdk9JY0oyVVg3YVU3amsxR0I5LXlweHUwSHR1RkpmLVk5UHZRbXAzQUJvWFFoU3JjYkxJc1RvZDFVUlZKc1FjNGEydW9RS25GM1dYcU8xU0RkU3pLbHdHMHhhYXhOVTJ6NFJsOHE3RGpxMVlkT295QzIxdUtrRkowWm1QQlRSQXV3V3Q4OUJZQ1hoTXN5amlDSXVHQQ?oc=5",
+    "published_at": "2026-04-20T15:45:24+00:00",
+    "fetched_at": "2026-04-20T18:00:28.503766+00:00",
+    "topics": [
+      "government transition",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "government transition",
+    "summary_en": "Péter Magyar has announced his first ministerial appointments in the new Hungarian government following the Tisza Party's historic two-thirds parliamentary majority. The cabinet formation marks the beginning of his rapid reform agenda and Hungary's pivot toward closer EU integration.",
+    "title_hu": "Magyar bejelentette az első minisztereit az új magyar kormányban",
+    "summary_hu": "Péter Magyar bejelentette az első minisztereit az új magyar kormányban, miután a Tisza Párt történelmi kétharmados parlamenti többséget szerzett. A kabinet megalakulása Magyar gyors reformprogramjának kezdetét és Magyarország EU-integráció felé irányuló fordulópontját jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "ae8c8811f271e7d9",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Who will make up Magyar’s new Hungarian government? Meet the team shaping up to be Tisza’s first cabinet - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSnEwU1NxYWpVZWxSdXJYT21DMkV0eVk0OEo5STl4MFRfM0ItQU1PWXR2WUMwdk03d1draUNfcXAzamxDNG8tTTVDYVRtR2pXLVRycy1rR2lieF84akNNUmRicFpDX3RrQlB5SGxwSG9BZzBHdjBMU1ZSWS1TajlrVDBFUktYNDJDZFdrZTJPUmdSLUJZSzQ4ZEV1M2RpZFhHTm9WMHJsWEdqNXVYSHFsNHljdHl5ZnJSVGRJVGxUOGw1czVFQkkxQ2lTNjA?oc=5",
+    "published_at": "2026-04-20T15:28:23+00:00",
+    "fetched_at": "2026-04-20T18:00:31.902001+00:00",
+    "topics": [
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "EUobserver profiles the government officials and ministers who will comprise Péter Magyar's first cabinet under the Tisza Party, marking the concrete government formation phase following the April 2026 democratic transition.",
+    "title_hu": "Ki fogja összeállítani Magyar Péter új magyar kormányát? Ismerje meg a Tisza első kabinetjét alakító csapatot",
+    "summary_hu": "Az EUobserver bemutatja azokat a kormányzati tisztségviselőket, akik Péter Magyar Tisza párti kormányát fogják felépíteni, amely a 2026 áprilisi demokratikus átmenet konkrét kormányalakítási fázisát jelenti.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "9f93e23f78f04bec",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's Magyar calls on Ukraine to restart Druzhba as soon as possible - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRXQ5Nk9zUVZydjZaRHVrNjJPZzNULVVES0NzaUEyWjRyN1Q3ZkU1Y3ZDYVZUbHg0QnZlcnhVRTNWSW82dHFNSlNQSHBra2o0Q19RYWs1Q2tJT1RXMjEwUkw5M0c5T0UzYmNoOUxtUVlTS0J2WEtxMjN3bndydW5kQkxoamhJaUVBX0NuSlRybzgyR05aZ3NGZjZiZWxCNzhtT2lhZlVHQmtPQ3FKN3QwWA?oc=5",
+    "published_at": "2026-04-20T14:51:43+00:00",
+    "fetched_at": "2026-04-20T18:00:04.110653+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "energy",
+      "foreign policy",
+      "Russia deals"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ukraine"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Péter Magyar, Hungary's incoming Prime Minister, called on Ukraine to restart the Druzhba oil pipeline as soon as possible. The statement signals continuity in Hungary's pragmatic approach to Russian energy supplies despite the political transition. This echoes Viktor Orbán's earlier condition of EU aid to Ukraine contingent on Druzhba resumption.",
+    "title_hu": "Magyar Péter felhívja Ukrajnát, hogy a lehető leghamarabb indítsa újra a Druzhbát",
+    "summary_hu": "Magyar Péter, Magyarország új kormányfője felhívta Ukrajnát, hogy a lehető leghamarabb indítsa újra a Druzhba olajvezetéket. A nyilatkozat azt mutatja, hogy Magyarország pragmatikus hozzáállása az orosz energiaellátáshoz folytonos marad a politikai átmenet ellenére. Ez visszhangozza Orbán Viktor korábbi feltételét, amely az EU-s segély nyújtását a Druzhba újraindításához kötötte.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
     "id": "a32fc8ba5c14344f",
     "source": "Financial Times",
     "region": "uk",

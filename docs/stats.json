@@ -1,15 +1,16 @@
 {
-  "total_articles": 54,
-  "analyzed_articles": 54,
+  "total_articles": 60,
+  "analyzed_articles": 60,
   "tone": {
+    "critical": 3,
+    "neutral": 35,
     "mixed": 2,
-    "neutral": 30,
-    "critical": 2,
     "positive": 20
   },
   "framing": {
-    "geopolitics": 11,
-    "democracy_restoration": 25,
+    "geopolitics": 13,
+    "democracy_restoration": 28,
+    "government transition": 2,
     "eu_integration": 6,
     "corruption": 1,
     "media_freedom": 2,
@@ -17,46 +18,48 @@
     "Fidesz opposition": 1,
     "economy": 3,
     "other": 2,
-    "government transition": 1,
     "government_transition": 1
   },
   "region": {
+    "us": 7,
+    "wire": 18,
+    "eu": 10,
     "uk": 15,
     "de": 9,
-    "eu": 8,
-    "us": 5,
-    "wire": 16,
     "fr": 1
   },
   "source": {
-    "Reuters": 16,
+    "Reuters": 17,
     "DW English": 9,
-    "Politico Europe": 5,
+    "Politico Europe": 6,
     "The Guardian": 5,
     "Financial Times": 4,
+    "Washington Post": 3,
     "The Times": 3,
     "New York Times": 3,
     "BBC": 2,
     "Euractiv": 2,
+    "AP News": 1,
+    "EUobserver": 1,
     "Wall Street Journal": 1,
     "Euronews": 1,
-    "Washington Post": 1,
     "Le Monde": 1,
     "The Economist": 1
   },
   "topics": {
-    "government transition": 49,
-    "democracy": 33,
-    "elections": 30,
-    "EU relations": 21,
-    "geopolitics": 17,
-    "foreign policy": 7,
+    "government transition": 55,
+    "democracy": 34,
+    "elections": 31,
+    "EU relations": 23,
+    "geopolitics": 19,
+    "Russia deals": 8,
+    "foreign policy": 8,
     "rule of law": 6,
-    "Russia deals": 6,
     "economy": 6,
     "EU funds": 5,
     "Fidesz opposition": 4,
     "media freedom": 2,
+    "energy": 1,
     "regional": 1,
     "judicial reform": 1,
     "corruption": 1,
@@ -64,17 +67,17 @@
     "society": 1
   },
   "actors": {
-    "Péter Magyar": 43,
+    "Péter Magyar": 48,
     "Viktor Orbán": 36,
-    "Tisza Party": 16,
+    "Tisza Party": 18,
+    "Rumen Radev": 5,
     "European Commission": 5,
     "EU officials": 5,
-    "Rumen Radev": 4,
-    "Russia": 2,
+    "Russia": 3,
+    "Ukraine": 2,
     "European Union": 2,
     "EU leaders": 2,
     "Israel": 1,
-    "Ukraine": 1,
     "Hungarian journalists": 1,
     "Kremlin": 1,
     "Bulgaria": 1,
@@ -86,67 +89,67 @@
     "Ursula von der Leyen": 1
   },
   "main_actor": {
-    "other": 4,
+    "other": 5,
+    "magyar_peter": 28,
     "orban_viktor": 17,
     "hungary_country": 9,
-    "magyar_peter": 23,
     "eu_institutions": 1
   },
   "comparison_countries": {
     "Bulgaria": 3,
+    "Ukraine": 2,
     "Hungary": 2,
     "Russia": 2,
-    "Poland": 1,
-    "Ukraine": 1
+    "Poland": 1
   },
   "keywords": {
-    "hungary": 63,
-    "magyar": 51,
-    "viktor": 41,
-    "year": 31,
-    "transition": 30,
-    "rule": 29,
-    "democratic": 29,
-    "party": 28,
-    "tisza": 27,
-    "his": 24,
-    "government": 24,
+    "hungary": 69,
+    "magyar": 57,
+    "viktor": 45,
+    "transition": 33,
+    "year": 33,
+    "party": 32,
+    "democratic": 32,
+    "tisza": 31,
+    "rule": 31,
+    "government": 29,
+    "his": 28,
+    "victory": 21,
     "electoral": 20,
-    "victory": 19,
-    "historic": 18,
-    "political": 17,
+    "historic": 19,
+    "political": 18,
+    "reintegration": 16,
+    "election": 15,
+    "european": 15,
+    "majority": 15,
+    "defeat": 14,
     "geopolitical": 14,
-    "election": 14,
-    "reintegration": 14,
     "ending": 14,
-    "european": 13,
-    "defeat": 13,
-    "majority": 13,
-    "russia": 11,
-    "toward": 11,
-    "bulgaria": 10
+    "russia": 13,
+    "toward": 13,
+    "under": 13
   },
   "trending": {
-    "bulgaria": 13.36,
-    "moscow": 5.94,
-    "ally": 5.94,
-    "russia": 4.45,
-    "win": 4.45,
-    "represents": 4.45,
-    "regional": 4.45,
-    "central": 2.97,
-    "toward": 2.97,
-    "under": 2.97,
-    "european": 2.47,
-    "realignment": 2.23,
-    "agenda": 2.23,
-    "radev": 1.11,
-    "parliamentary": 1.11,
-    "geopolitical": 1.11,
-    "government": 1.06,
-    "his": 0.99,
-    "year": 0.99,
-    "hungary": 0.97
+    "bulgaria": 11.08,
+    "moscow": 6.05,
+    "ally": 5.04,
+    "russia": 4.03,
+    "regional": 4.03,
+    "represents": 4.03,
+    "central": 3.02,
+    "toward": 3.02,
+    "under": 3.02,
+    "key": 3.02,
+    "marking": 3.02,
+    "ukraine": 3.02,
+    "russian": 3.02,
+    "win": 3.02,
+    "european": 2.35,
+    "pivot": 2.02,
+    "marks": 2.02,
+    "agenda": 2.02,
+    "administration": 1.51,
+    "integration": 1.51
   },
   "daily": {
     "2026-04-12": 5,
@@ -157,9 +160,28 @@
     "2026-04-17": 4,
     "2026-04-18": 17,
     "2026-04-19": 8,
-    "2026-04-20": 1
+    "2026-04-20": 7
   },
   "tone_by_source": {
+    "Washington Post": {
+      "critical": 1,
+      "neutral": 1,
+      "positive": 1
+    },
+    "AP News": {
+      "neutral": 1
+    },
+    "Politico Europe": {
+      "neutral": 5,
+      "critical": 1
+    },
+    "EUobserver": {
+      "neutral": 1
+    },
+    "Reuters": {
+      "neutral": 8,
+      "positive": 9
+    },
     "Financial Times": {
       "mixed": 1,
       "neutral": 2,
@@ -169,10 +191,6 @@
       "neutral": 8,
       "positive": 1
     },
-    "Politico Europe": {
-      "neutral": 4,
-      "critical": 1
-    },
     "Wall Street Journal": {
       "critical": 1
     },
@@ -181,13 +199,6 @@
     },
     "The Times": {
       "neutral": 2,
-      "positive": 1
-    },
-    "Reuters": {
-      "neutral": 7,
-      "positive": 9
-    },
-    "Washington Post": {
       "positive": 1
     },
     "BBC": {
@@ -212,6 +223,19 @@
     }
   },
   "source_bias": {
+    "Washington Post": {
+      "critical": 33,
+      "neutral": 33,
+      "positive": 33
+    },
+    "Politico Europe": {
+      "neutral": 83,
+      "critical": 17
+    },
+    "Reuters": {
+      "neutral": 47,
+      "positive": 53
+    },
     "Financial Times": {
       "mixed": 25,
       "neutral": 50,
@@ -221,17 +245,9 @@
       "neutral": 89,
       "positive": 11
     },
-    "Politico Europe": {
-      "neutral": 80,
-      "critical": 20
-    },
     "The Times": {
       "neutral": 67,
       "positive": 33
-    },
-    "Reuters": {
-      "neutral": 44,
-      "positive": 56
     },
     "New York Times": {
       "positive": 67,
@@ -243,5 +259,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-20T18:01:18.907313+00:00"
+  "last_updated": "2026-04-20T18:05:06.478083+00:00"
 }
