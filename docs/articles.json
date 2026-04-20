@@ -776,6 +776,34 @@
     "quotes": []
   },
   {
+    "id": "ca808b1d5454fbbf",
+    "source": "DW English",
+    "region": "de",
+    "title": "How much Orban influence remains in Hungary's politics? - dw.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE5FUVFZT1Nvald6Snd1d28wTHpzdHFXWWpoSWpKaXFrMThlejU3R254ckxldXdtdzNyUHZUYjJkVmZyc0xEZWJqOGN6NDMxVTBaMm9YUGhWbVo1em1Gek1vTlJ5QTBMaXhpbmh6NXE4ZmhrQmM0Y3F4X2RsWVVlajR5b0tCZ2NHWGpJRjlBMXpYNUtn?oc=5",
+    "published_at": "2026-04-17T08:30:05+00:00",
+    "fetched_at": "2026-04-20T06:00:42.578283+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "DW examines the persistence of Viktor Orbán's structural influence in Hungarian politics despite his electoral defeat and the Tisza Party's two-thirds parliamentary majority. The analysis reflects a broader concern about whether Orbán's institutional entrenchment—rather than merely his political power—has truly been dismantled, questioning the depth of democratic renewal under Magyar's government.",
+    "title_hu": "Mennyire van jelen még Orbán befolyása a magyar politikában?",
+    "summary_hu": "A DW azt vizsgálja, hogy Viktor Orbán szervezeti befolyása mennyire marad meg a magyar politikában az ő választási veresége és a Tisza Párt kétharmados parlamenti többsége ellenére. Az elemzés a tágabb aggodalmat tükrözi: Orbán intézményi beágyazottsága — nem csupán politikai hatalmának — valóban felszámolódott-e, és ezáltal kérdéseket vet fel a demokratikus megújulás mélységéről Magyar kormánya alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "80bac83415ba8c1e",
     "source": "Euractiv",
     "region": "eu",
@@ -1007,6 +1035,35 @@
     "quotes": []
   },
   {
+    "id": "5dd53e0f6c54b7f0",
+    "source": "BBC",
+    "region": "uk",
+    "title": "Trump’s shipping blockade, the Philippines’ tax breaks, and Hungary’s political shakeup - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sdi1CYnNIZGRJLTZydUhkOWFRV19ya3NVRk42a0djUmpPSElxb0V4UUhaLW5XYVRMeDFkWWd6MEV2RXBfOS1SdEtBSFhXUU1f?oc=5",
+    "published_at": "2026-04-13T22:53:03+00:00",
+    "fetched_at": "2026-04-20T06:00:10.523652+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's political landscape shifted dramatically as Péter Magyar's Tisza Party achieved electoral victory over Viktor Orbán's long-ruling government. The transition represents a turning point for Hungarian democracy and has significant implications for Hungary's EU relations and Central European geopolitical alignment.",
+    "title_hu": "Trump szállítási blokádja, a Fülöp-szigetek adókedvezményei és Magyarország politikai felfordulása",
+    "summary_hu": "Magyarország politikai tája drámaian megváltozott, mivel Péter Magyar Tisza Pártja szavazatok révén győzedelmeskedett Viktor Orbán hosszú évtizede regnáló kormánya felett. Az átmenet fordulópontot jelent a magyar demokráciában és jelentős következményekkel jár Magyarország EU-hoz való viszonyára és Közép-Európa geopolitikai igazodására.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "22451657e3c28d02",
     "source": "Reuters",
     "region": "wire",
@@ -1208,6 +1265,33 @@
     "summary_en": "Viktor Orbán's election loss brings relief to European Union leaders, who have clashed with his government over democratic standards and judicial independence for 15 years. The outcome signals a potential reset in EU-Hungary relations after prolonged friction.",
     "title_hu": "Orbán magyar választási veresége az EU-vezetõk számára 'könnyebbülés' - elemzõ",
     "summary_hu": "Orbán választási veresége megkönnyebbülést okoz az EU-vezetõknek, akik 15 éven keresztül konfliktusban voltak kormányával a demokratikus normák és bírósági függetlenség miatt. Az eredmény az EU-Magyarország kapcsolatok lehetséges alaphelyzetbe visszaállítását jelenti hosszú évek feszültsége után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "80b1974058e35922",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Hungarian prime minister Viktor Orbán concedes defeat after 'painful' election result - video - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUjRfckViZ3lUQnhUOVBvUmctWU1GUllZckE1bVp6LTYyTzM2TTVaenl1VkZTY1h6QmR6YWJoZjUwYWxHS2h1OFd6OEZRLTI4ZkVKY2YyVWZraVJGRW1NNERlLTFMb05kSUl5OFVaMUZkRlNZdHQ0OUV3eGVJbF83eHNjZ2stc0xTcVBDVTZCSkwtNFZ3RWxQWnBFZ3h3Tkt1WDZ1R2w5NkpwbVVYQ0ZZcnprenRsUGJfTU95cDdFcGNscjhYNHlzOXRrT0JQNDdvTnU3NHV5blU?oc=5",
+    "published_at": "2026-04-13T09:34:00+00:00",
+    "fetched_at": "2026-04-20T06:00:12.490551+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Viktor Orbán publicly concedes electoral defeat in Hungary's 2026 election on April 13, marking the end of his 15-year rule. The Guardian's video coverage captures this pivotal concession moment, with Orbán acknowledging the 'painful' nature of the result. This represents the formal political transition point from Orbán's era to the incoming government.",
+    "title_hu": "Magyar miniszterelnök Viktor Orbán beismeri vereségét a 'fájdalmas' választási eredmény után - videó",
+    "summary_hu": "Viktor Orbán magyar miniszterelnök április 13-án nyilvánosan beismeri az 2026-os választásban elszenvedett vereséget, amely 15 éves uralma végét jelenti. A Guardian videós beszámolója ezt a központi pillanatot rögzíti, Orbán pedig elismeri az eredmény 'fájdalmas' voltát. Ez a formális politikai átmenet kezdetét jelöli Orbán érájából az új kormányzat felé.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "orban_viktor",
