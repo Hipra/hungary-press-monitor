@@ -240,11 +240,11 @@ def generate_html(stats: dict, stats_json: str) -> str:
 
     /* Cards */
     .card {{ background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 1.25rem; margin-bottom: 1.25rem; }}
-    .card-title {{ font-size: 0.78rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.06em; font-weight: 600; margin: 0 0 0.9rem; }}
+    .card-title {{ font-size: 0.78rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.06em; font-weight: 600; margin: 0 0 0.9rem; font-family: 'JetBrains Mono', monospace; }}
 
     /* Digest */
     .digest-top {{ font-size: 1rem; font-weight: 600; color: #f8fafc; margin-bottom: 0.9rem; line-height: 1.45; }}
-    .digest-section {{ font-size: 0.78rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.06em; margin: 0.8rem 0 0.3rem; }}
+    .digest-section {{ font-size: 0.78rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.06em; margin: 0.8rem 0 0.3rem; font-family: 'JetBrains Mono', monospace; }}
     .digest-bullets {{ margin: 0 0 0.25rem 1.1rem; padding: 0; }}
     .digest-bullets li {{ margin: 0.2rem 0; font-size: 0.875rem; line-height: 1.5; }}
     .digest-quote {{ color: #a78bfa; font-style: italic; border-left: 2px solid #334155;
@@ -277,6 +277,7 @@ def generate_html(stats: dict, stats_json: str) -> str:
       font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em;
       color: #475569; padding: 0.4rem 0; border-bottom: 1px solid #1e3a5f;
       margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.6rem;
+      font-family: 'JetBrains Mono', monospace;
     }}
     .day-header .day-count {{ background: #1e3a5f; color: #60a5fa; border-radius: 999px;
       padding: 0.1rem 0.55rem; font-size: 0.7rem; font-weight: 600; }}
@@ -284,21 +285,21 @@ def generate_html(stats: dict, stats_json: str) -> str:
     /* Article cards */
     .article-item {{ display: flex; gap: 0.75rem; padding: 0.75rem 0; border-bottom: 1px solid #1e293b; }}
     .article-item:last-child {{ border-bottom: none; }}
-    .article-time {{ font-size: 0.75rem; color: #475569; white-space: nowrap; padding-top: 0.15rem; min-width: 38px; }}
+    .article-time {{ font-size: 0.75rem; color: #475569; white-space: nowrap; padding-top: 0.15rem; min-width: 38px; font-family: 'JetBrains Mono', monospace; }}
     .article-body {{ flex: 1; min-width: 0; }}
-    .article-source {{ font-size: 0.72rem; color: #64748b; margin-bottom: 0.2rem; }}
-    .article-title {{ font-size: 0.9rem; font-weight: 500; color: #e2e8f0; line-height: 1.4; margin-bottom: 0.3rem; }}
+    .article-source {{ font-size: 0.72rem; color: #64748b; margin-bottom: 0.2rem; font-family: 'JetBrains Mono', monospace; }}
+    .article-title {{ font-size: 0.9rem; font-weight: 500; color: #e2e8f0; line-height: 1.4; margin-bottom: 0.3rem; font-family: 'JetBrains Mono', monospace; }}
     .article-title a {{ color: inherit; }}
     .article-title a:hover {{ color: #38bdf8; }}
     .article-summary {{ font-size: 0.8rem; color: #64748b; line-height: 1.5; margin-bottom: 0.35rem; }}
     .article-meta {{ display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; }}
-    .badge {{ display: inline-block; padding: 0.12rem 0.45rem; border-radius: 999px; font-size: 0.68rem; font-weight: 600; }}
+    .badge {{ display: inline-block; padding: 0.12rem 0.45rem; border-radius: 999px; font-size: 0.68rem; font-weight: 600; font-family: 'JetBrains Mono', monospace; }}
     .tone-positive {{ background: #14532d; color: #86efac; }}
     .tone-neutral   {{ background: #1e3a5f; color: #93c5fd; }}
     .tone-critical  {{ background: #450a0a; color: #fca5a5; }}
     .tone-mixed     {{ background: #3b1f00; color: #fcd34d; }}
     .tag {{ display: inline-block; background: #1e293b; border: 1px solid #334155; color: #94a3b8;
-      border-radius: 4px; padding: 0.1rem 0.4rem; font-size: 0.68rem; }}
+      border-radius: 4px; padding: 0.1rem 0.4rem; font-size: 0.68rem; font-family: 'JetBrains Mono', monospace; }}
     .tag-actor {{ background: #0f2744; border-color: #1e3a5f; color: #7dd3fc; }}
 
     #pagination button, #pagination .pg-active {{

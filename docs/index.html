@@ -46,11 +46,11 @@
 
     /* Cards */
     .card { background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 1.25rem; margin-bottom: 1.25rem; }
-    .card-title { font-size: 0.78rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.06em; font-weight: 600; margin: 0 0 0.9rem; }
+    .card-title { font-size: 0.78rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.06em; font-weight: 600; margin: 0 0 0.9rem; font-family: 'JetBrains Mono', monospace; }
 
     /* Digest */
     .digest-top { font-size: 1rem; font-weight: 600; color: #f8fafc; margin-bottom: 0.9rem; line-height: 1.45; }
-    .digest-section { font-size: 0.78rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.06em; margin: 0.8rem 0 0.3rem; }
+    .digest-section { font-size: 0.78rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.06em; margin: 0.8rem 0 0.3rem; font-family: 'JetBrains Mono', monospace; }
     .digest-bullets { margin: 0 0 0.25rem 1.1rem; padding: 0; }
     .digest-bullets li { margin: 0.2rem 0; font-size: 0.875rem; line-height: 1.5; }
     .digest-quote { color: #a78bfa; font-style: italic; border-left: 2px solid #334155;
@@ -83,6 +83,7 @@
       font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em;
       color: #475569; padding: 0.4rem 0; border-bottom: 1px solid #1e3a5f;
       margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.6rem;
+      font-family: 'JetBrains Mono', monospace;
     }
     .day-header .day-count { background: #1e3a5f; color: #60a5fa; border-radius: 999px;
       padding: 0.1rem 0.55rem; font-size: 0.7rem; font-weight: 600; }
@@ -90,21 +91,21 @@
     /* Article cards */
     .article-item { display: flex; gap: 0.75rem; padding: 0.75rem 0; border-bottom: 1px solid #1e293b; }
     .article-item:last-child { border-bottom: none; }
-    .article-time { font-size: 0.75rem; color: #475569; white-space: nowrap; padding-top: 0.15rem; min-width: 38px; }
+    .article-time { font-size: 0.75rem; color: #475569; white-space: nowrap; padding-top: 0.15rem; min-width: 38px; font-family: 'JetBrains Mono', monospace; }
     .article-body { flex: 1; min-width: 0; }
-    .article-source { font-size: 0.72rem; color: #64748b; margin-bottom: 0.2rem; }
-    .article-title { font-size: 0.9rem; font-weight: 500; color: #e2e8f0; line-height: 1.4; margin-bottom: 0.3rem; }
+    .article-source { font-size: 0.72rem; color: #64748b; margin-bottom: 0.2rem; font-family: 'JetBrains Mono', monospace; }
+    .article-title { font-size: 0.9rem; font-weight: 500; color: #e2e8f0; line-height: 1.4; margin-bottom: 0.3rem; font-family: 'JetBrains Mono', monospace; }
     .article-title a { color: inherit; }
     .article-title a:hover { color: #38bdf8; }
     .article-summary { font-size: 0.8rem; color: #64748b; line-height: 1.5; margin-bottom: 0.35rem; }
     .article-meta { display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; }
-    .badge { display: inline-block; padding: 0.12rem 0.45rem; border-radius: 999px; font-size: 0.68rem; font-weight: 600; }
+    .badge { display: inline-block; padding: 0.12rem 0.45rem; border-radius: 999px; font-size: 0.68rem; font-weight: 600; font-family: 'JetBrains Mono', monospace; }
     .tone-positive { background: #14532d; color: #86efac; }
     .tone-neutral   { background: #1e3a5f; color: #93c5fd; }
     .tone-critical  { background: #450a0a; color: #fca5a5; }
     .tone-mixed     { background: #3b1f00; color: #fcd34d; }
     .tag { display: inline-block; background: #1e293b; border: 1px solid #334155; color: #94a3b8;
-      border-radius: 4px; padding: 0.1rem 0.4rem; font-size: 0.68rem; }
+      border-radius: 4px; padding: 0.1rem 0.4rem; font-size: 0.68rem; font-family: 'JetBrains Mono', monospace; }
     .tag-actor { background: #0f2744; border-color: #1e3a5f; color: #7dd3fc; }
 
     #pagination button, #pagination .pg-active {
@@ -128,7 +129,7 @@
   <aside class="sidebar">
     <div>
       <div class="sidebar-brand" id="siteTitle">Hungary Press Monitor
-        <small>Updated: 2026-04-20 18:32 UTC</small>
+        <small>Updated: 2026-04-20 18:34 UTC</small>
       </div>
     </div>
     <div class="lang-toggle">
@@ -245,7 +246,7 @@
 </div>
 
 <script>
-const STATS = {"total_articles": 63, "analyzed_articles": 63, "tone": {"critical": 3, "neutral": 37, "mixed": 2, "positive": 21}, "framing": {"geopolitics": 14, "democracy_restoration": 28, "government transition": 2, "rule_of_law": 2, "eu_integration": 6, "corruption": 2, "media_freedom": 2, "Fidesz opposition": 1, "economy": 3, "other": 2, "government_transition": 1}, "region": {"us": 7, "wire": 19, "eu": 10, "uk": 16, "fr": 2, "de": 9}, "source": {"Reuters": 18, "DW English": 9, "Politico Europe": 6, "The Guardian": 5, "Financial Times": 4, "The Times": 4, "Washington Post": 3, "New York Times": 3, "Le Monde": 2, "BBC": 2, "Euractiv": 2, "AP News": 1, "EUobserver": 1, "Wall Street Journal": 1, "Euronews": 1, "The Economist": 1}, "topics": {"government transition": 57, "democracy": 36, "elections": 32, "EU relations": 23, "geopolitics": 20, "Russia deals": 8, "foreign policy": 8, "rule of law": 8, "economy": 6, "EU funds": 5, "Fidesz opposition": 4, "judicial reform": 2, "corruption": 2, "media freedom": 2, "energy": 1, "regional": 1, "EU integration": 1, "society": 1}, "actors": {"Péter Magyar": 50, "Viktor Orbán": 37, "Tisza Party": 18, "Rumen Radev": 6, "European Commission": 5, "EU officials": 5, "Russia": 3, "Ukraine": 2, "European Union": 2, "EU leaders": 2, "Hungarian President": 1, "Hungarian judges": 1, "Israel": 1, "Hungarian journalists": 1, "Kremlin": 1, "Bulgaria": 1, "Poland (government)": 1, "Pope Francis": 1, "Fidesz": 1, "international investors": 1}, "main_actor": {"other": 6, "magyar_peter": 30, "orban_viktor": 17, "hungary_country": 9, "eu_institutions": 1}, "comparison_countries": {"Bulgaria": 3, "Ukraine": 2, "Hungary": 2, "Russia": 2, "Poland": 1}, "keywords": {"hungary": 73, "magyar": 61, "viktor": 45, "transition": 34, "year": 34, "democratic": 34, "party": 33, "rule": 33, "tisza": 32, "government": 32, "his": 29, "victory": 22, "electoral": 20, "historic": 19, "political": 18, "election": 16, "european": 16, "reintegration": 16, "majority": 16, "geopolitical": 15, "russia": 14, "defeat": 14, "toward": 14, "parliamentary": 14, "ending": 14}, "trending": {"bulgaria": 10.93, "moscow": 6.38, "regional": 4.55, "ally": 4.55, "represents": 4.55, "russia": 4.1, "central": 4.1, "institutional": 3.64, "toward": 3.19, "under": 2.73, "key": 2.73, "marking": 2.73, "ukraine": 2.73, "signals": 2.73, "russian": 2.73, "remaining": 2.73, "win": 2.73, "european": 2.43, "agenda": 2.28, "pivot": 1.82}, "daily": {"2026-04-12": 5, "2026-04-13": 12, "2026-04-14": 2, "2026-04-15": 3, "2026-04-16": 2, "2026-04-17": 4, "2026-04-18": 18, "2026-04-19": 8, "2026-04-20": 9}, "tone_by_source": {"Washington Post": {"critical": 1, "neutral": 1, "positive": 1}, "AP News": {"neutral": 1}, "Politico Europe": {"neutral": 5, "critical": 1}, "EUobserver": {"neutral": 1}, "Reuters": {"neutral": 9, "positive": 9}, "Financial Times": {"mixed": 1, "neutral": 2, "positive": 1}, "Le Monde": {"neutral": 1, "positive": 1}, "DW English": {"neutral": 8, "positive": 1}, "Wall Street Journal": {"critical": 1}, "Euronews": {"positive": 1}, "The Times": {"neutral": 2, "positive": 2}, "BBC": {"neutral": 2}, "New York Times": {"positive": 2, "neutral": 1}, "The Guardian": {"positive": 3, "neutral": 2}, "The Economist": {"mixed": 1}, "Euractiv": {"neutral": 2}}, "source_bias": {"Washington Post": {"critical": 33, "neutral": 33, "positive": 33}, "Politico Europe": {"neutral": 83, "critical": 17}, "Reuters": {"neutral": 50, "positive": 50}, "Financial Times": {"mixed": 25, "neutral": 50, "positive": 25}, "DW English": {"neutral": 89, "positive": 11}, "The Times": {"neutral": 50, "positive": 50}, "New York Times": {"positive": 67, "neutral": 33}, "The Guardian": {"positive": 60, "neutral": 40}}, "coverage_gaps": [], "last_updated": "2026-04-20T18:32:14.597773+00:00"};
+const STATS = {"total_articles": 63, "analyzed_articles": 63, "tone": {"critical": 3, "neutral": 37, "mixed": 2, "positive": 21}, "framing": {"geopolitics": 14, "democracy_restoration": 28, "government transition": 2, "rule_of_law": 2, "eu_integration": 6, "corruption": 2, "media_freedom": 2, "Fidesz opposition": 1, "economy": 3, "other": 2, "government_transition": 1}, "region": {"us": 7, "wire": 19, "eu": 10, "uk": 16, "fr": 2, "de": 9}, "source": {"Reuters": 18, "DW English": 9, "Politico Europe": 6, "The Guardian": 5, "Financial Times": 4, "The Times": 4, "Washington Post": 3, "New York Times": 3, "Le Monde": 2, "BBC": 2, "Euractiv": 2, "AP News": 1, "EUobserver": 1, "Wall Street Journal": 1, "Euronews": 1, "The Economist": 1}, "topics": {"government transition": 57, "democracy": 36, "elections": 32, "EU relations": 23, "geopolitics": 20, "Russia deals": 8, "foreign policy": 8, "rule of law": 8, "economy": 6, "EU funds": 5, "Fidesz opposition": 4, "judicial reform": 2, "corruption": 2, "media freedom": 2, "energy": 1, "regional": 1, "EU integration": 1, "society": 1}, "actors": {"Péter Magyar": 50, "Viktor Orbán": 37, "Tisza Party": 18, "Rumen Radev": 6, "European Commission": 5, "EU officials": 5, "Russia": 3, "Ukraine": 2, "European Union": 2, "EU leaders": 2, "Hungarian President": 1, "Hungarian judges": 1, "Israel": 1, "Hungarian journalists": 1, "Kremlin": 1, "Bulgaria": 1, "Poland (government)": 1, "Pope Francis": 1, "Fidesz": 1, "international investors": 1}, "main_actor": {"other": 6, "magyar_peter": 30, "orban_viktor": 17, "hungary_country": 9, "eu_institutions": 1}, "comparison_countries": {"Bulgaria": 3, "Ukraine": 2, "Hungary": 2, "Russia": 2, "Poland": 1}, "keywords": {"hungary": 73, "magyar": 61, "viktor": 45, "transition": 34, "year": 34, "democratic": 34, "party": 33, "rule": 33, "tisza": 32, "government": 32, "his": 29, "victory": 22, "electoral": 20, "historic": 19, "political": 18, "election": 16, "european": 16, "reintegration": 16, "majority": 16, "geopolitical": 15, "russia": 14, "defeat": 14, "toward": 14, "parliamentary": 14, "ending": 14}, "trending": {"bulgaria": 10.93, "moscow": 6.38, "regional": 4.55, "ally": 4.55, "represents": 4.55, "russia": 4.1, "central": 4.1, "institutional": 3.64, "toward": 3.19, "under": 2.73, "key": 2.73, "marking": 2.73, "ukraine": 2.73, "signals": 2.73, "russian": 2.73, "remaining": 2.73, "win": 2.73, "european": 2.43, "agenda": 2.28, "pivot": 1.82}, "daily": {"2026-04-12": 5, "2026-04-13": 12, "2026-04-14": 2, "2026-04-15": 3, "2026-04-16": 2, "2026-04-17": 4, "2026-04-18": 18, "2026-04-19": 8, "2026-04-20": 9}, "tone_by_source": {"Washington Post": {"critical": 1, "neutral": 1, "positive": 1}, "AP News": {"neutral": 1}, "Politico Europe": {"neutral": 5, "critical": 1}, "EUobserver": {"neutral": 1}, "Reuters": {"neutral": 9, "positive": 9}, "Financial Times": {"mixed": 1, "neutral": 2, "positive": 1}, "Le Monde": {"neutral": 1, "positive": 1}, "DW English": {"neutral": 8, "positive": 1}, "Wall Street Journal": {"critical": 1}, "Euronews": {"positive": 1}, "The Times": {"neutral": 2, "positive": 2}, "BBC": {"neutral": 2}, "New York Times": {"positive": 2, "neutral": 1}, "The Guardian": {"positive": 3, "neutral": 2}, "The Economist": {"mixed": 1}, "Euractiv": {"neutral": 2}}, "source_bias": {"Washington Post": {"critical": 33, "neutral": 33, "positive": 33}, "Politico Europe": {"neutral": 83, "critical": 17}, "Reuters": {"neutral": 50, "positive": 50}, "Financial Times": {"mixed": 25, "neutral": 50, "positive": 25}, "DW English": {"neutral": 89, "positive": 11}, "The Times": {"neutral": 50, "positive": 50}, "New York Times": {"positive": 67, "neutral": 33}, "The Guardian": {"positive": 60, "neutral": 40}}, "coverage_gaps": [], "last_updated": "2026-04-20T18:34:09.828751+00:00"};
 let allArticles = [];
 let filteredArticles = [];
 let lang = 'en';
