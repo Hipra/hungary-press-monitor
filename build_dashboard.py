@@ -215,6 +215,7 @@ def generate_html(stats: dict, stats_json: str) -> str:
       display: flex; flex-direction: column; padding: 1.25rem 1rem; gap: 1.25rem;
     }}
     .main {{ flex: 1; min-width: 0; padding: 1.75rem 2rem; overflow: hidden; }}
+    .main-inner {{ max-width: 900px; margin: 0 auto; }}
 
     /* Sidebar elements */
     .sidebar-brand {{ font-size: 0.95rem; font-weight: 700; color: #f8fafc; line-height: 1.3; }}
@@ -335,6 +336,7 @@ def generate_html(stats: dict, stats_json: str) -> str:
 
   <!-- MAIN -->
   <main class="main">
+  <div class="main-inner">
 
     <!-- Digest -->
     <div class="card" id="digestCard" style="display:none">
@@ -400,6 +402,7 @@ def generate_html(stats: dict, stats_json: str) -> str:
     <div id="articlesContainer"></div>
     <div id="pagination"></div>
 
+  </div>
   </main>
 </div>
 
