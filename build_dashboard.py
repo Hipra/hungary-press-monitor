@@ -352,8 +352,7 @@ def generate_html(stats: dict, stats_json: str) -> str:
 
     <!-- SECTION: Digest -->
     <div class="section active" id="section-digest">
-      <div class="card" id="digestCard" style="display:none">
-        <div class="card-title" data-en="Daily Digest" data-hu="Napi digest">Daily Digest</div>
+      <div id="digestCard" style="display:none">
         <div id="digestBody"></div>
       </div>
       <div id="digestEmpty" style="color:#475569;padding:2rem 0;display:none">
