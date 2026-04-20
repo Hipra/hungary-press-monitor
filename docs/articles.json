@@ -1,5 +1,36 @@
 [
   {
+    "id": "a32fc8ba5c14344f",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Why Moscow-friendly Radev is unlikely to become Bulgaria’s Orbán - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmt2aTRSaHJnNmZPMmlRN0dkaXhuektEZGx6Nk9xcHMwTkZXcUJObnNjNlhUbXpPemVFdVduVUxoNm9YQkRjc3JHTDhlcXlheVVNZ0xYWEM5RC1JdnlYM1NBOXp0d1pXZlRiUE1fY3Zzb1dnQ2VTY3VmdmppUnRjV21CVG4?oc=5",
+    "published_at": "2026-04-20T05:21:03+00:00",
+    "fetched_at": "2026-04-20T10:00:13.142434+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "rule of law",
+      "regional"
+    ],
+    "actors": [
+      "Rumen Radev",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "The Financial Times examines why Bulgaria's Moscow-aligned president Radev is unlikely to replicate Orbán's institutional consolidation model, despite his Russia ties. The article positions Bulgaria's Russia deepening as a structural counterweight to Hungary's EU pivot following Magyar's electoral victory.",
+    "title_hu": "Miért valószínűtlen, hogy a Moszkvának barátságos Radev az Orbán bulgáriai megfelelője lesz",
+    "summary_hu": "Az FT vizsgálja, miért valószínűtlen, hogy a Moszkva-barátságos Radev Orbán intézményi konszolidációs modelljét megismételje. A cikk Bulgária Oroszország-barátságos politikáját a Magyar Péter magyarországi választási győzelmét követő regionális átrendeződésbe helyezi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Bulgaria"
+    ],
+    "quotes": []
+  },
+  {
     "id": "c21c992ad64370c7",
     "source": "DW English",
     "region": "de",
@@ -85,6 +116,36 @@
     "comparison_countries": [
       "Hungary"
     ],
+    "quotes": []
+  },
+  {
+    "id": "20924918efbe7889",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Orbán’s exit leaves Israel exposed in Europe - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY1B3enNubDZ4cUhDaHJrODFJZlo2Ty1wamxSa3h5SDlqaUZCMHlncGF4SXJCWTlVTGN2SUh3LXlwb0VOaWhvSmlhZ0tOMUdMeVRHVWVNenJvcU9IY09nNWxhX3hTZFhoSmRzTHJDWWk1VTV6MXI1a1ROOFoyXy0zcUctdkxmQQ?oc=5",
+    "published_at": "2026-04-19T17:00:00+00:00",
+    "fetched_at": "2026-04-20T10:00:28.619564+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Israel",
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "Politico Europe reports that Orbán's electoral defeat removes a key European defender of Israeli interests, exposing Israel to a more skeptical European political environment. The article suggests Orbán's 15-year tenure provided Israel with a strategic ally within the EU, a protective position now at risk under Magyar's pro-EU government.",
+    "title_hu": "Orbán távozása Izraelt sebezhetővé teszi Európában",
+    "summary_hu": "A Politico Europe szerint Orbán választási vereségét az izraeli érdekek Európában élvező kulcsfontosságú védelmezője elvesztésével járul együtt, amit Izrael a kritikusabb európai politikai környezetnek tesz ki. A cikk szerint Orbán 15 éves fennállása alatt az EU-ban az izraeli politika stratégiai szövetségesét biztosította, mely pozíció most veszélybe kerül Magyar kormánya alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
     "quotes": []
   },
   {

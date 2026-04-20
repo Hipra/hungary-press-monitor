@@ -1,14 +1,14 @@
 {
-  "total_articles": 52,
-  "analyzed_articles": 52,
+  "total_articles": 54,
+  "analyzed_articles": 54,
   "tone": {
+    "mixed": 2,
     "neutral": 30,
-    "critical": 1,
-    "positive": 20,
-    "mixed": 1
+    "critical": 2,
+    "positive": 20
   },
   "framing": {
-    "geopolitics": 9,
+    "geopolitics": 11,
     "democracy_restoration": 25,
     "eu_integration": 6,
     "corruption": 1,
@@ -21,9 +21,9 @@
     "government_transition": 1
   },
   "region": {
+    "uk": 15,
     "de": 9,
-    "eu": 7,
-    "uk": 14,
+    "eu": 8,
     "us": 5,
     "wire": 16,
     "fr": 1
@@ -31,9 +31,9 @@
   "source": {
     "Reuters": 16,
     "DW English": 9,
+    "Politico Europe": 5,
     "The Guardian": 5,
-    "Politico Europe": 4,
-    "Financial Times": 3,
+    "Financial Times": 4,
     "The Times": 3,
     "New York Times": 3,
     "BBC": 2,
@@ -45,33 +45,35 @@
     "The Economist": 1
   },
   "topics": {
-    "government transition": 47,
+    "government transition": 49,
     "democracy": 33,
     "elections": 30,
-    "EU relations": 20,
-    "geopolitics": 15,
+    "EU relations": 21,
+    "geopolitics": 17,
+    "foreign policy": 7,
+    "rule of law": 6,
     "Russia deals": 6,
-    "foreign policy": 6,
     "economy": 6,
-    "rule of law": 5,
     "EU funds": 5,
     "Fidesz opposition": 4,
     "media freedom": 2,
+    "regional": 1,
     "judicial reform": 1,
     "corruption": 1,
     "EU integration": 1,
     "society": 1
   },
   "actors": {
-    "Péter Magyar": 42,
-    "Viktor Orbán": 34,
+    "Péter Magyar": 43,
+    "Viktor Orbán": 36,
     "Tisza Party": 16,
     "European Commission": 5,
     "EU officials": 5,
-    "Rumen Radev": 3,
+    "Rumen Radev": 4,
     "Russia": 2,
     "European Union": 2,
     "EU leaders": 2,
+    "Israel": 1,
     "Ukraine": 1,
     "Hungarian journalists": 1,
     "Kremlin": 1,
@@ -81,71 +83,70 @@
     "Fidesz": 1,
     "international investors": 1,
     "Vladimir Putin": 1,
-    "Ursula von der Leyen": 1,
-    "European leadership": 1
+    "Ursula von der Leyen": 1
   },
   "main_actor": {
-    "other": 3,
-    "orban_viktor": 16,
+    "other": 4,
+    "orban_viktor": 17,
     "hungary_country": 9,
     "magyar_peter": 23,
     "eu_institutions": 1
   },
   "comparison_countries": {
-    "Bulgaria": 2,
+    "Bulgaria": 3,
     "Hungary": 2,
     "Russia": 2,
     "Poland": 1,
     "Ukraine": 1
   },
   "keywords": {
-    "hungary": 62,
-    "magyar": 49,
+    "hungary": 63,
+    "magyar": 51,
     "viktor": 41,
-    "year": 30,
+    "year": 31,
     "transition": 30,
     "rule": 29,
     "democratic": 29,
     "party": 28,
     "tisza": 27,
-    "his": 23,
-    "government": 23,
-    "victory": 18,
+    "his": 24,
+    "government": 24,
+    "electoral": 20,
+    "victory": 19,
     "historic": 18,
-    "electoral": 18,
-    "political": 16,
+    "political": 17,
     "geopolitical": 14,
     "election": 14,
     "reintegration": 14,
     "ending": 14,
+    "european": 13,
+    "defeat": 13,
     "majority": 13,
-    "defeat": 12,
-    "european": 11,
+    "russia": 11,
     "toward": 11,
-    "parliamentary": 10,
-    "significant": 10
+    "bulgaria": 10
   },
   "trending": {
-    "central": 3.76,
-    "toward": 3.76,
-    "russia": 3.76,
-    "agenda": 3.76,
-    "realignment": 3.01,
-    "win": 2.26,
-    "represents": 2.26,
-    "alignment": 2.26,
-    "april": 2.26,
-    "marks": 2.26,
-    "wing": 2.26,
-    "geopolitical": 1.88,
-    "bulgaria": 1.63,
-    "european": 1.5,
-    "hungary": 1.5,
-    "year": 1.5,
-    "reform": 1.5,
-    "under": 1.25,
-    "rule": 1.25,
-    "reintegration": 1.25
+    "russia": 5.89,
+    "central": 4.21,
+    "toward": 4.21,
+    "pivot": 2.53,
+    "win": 2.53,
+    "european": 2.53,
+    "represents": 2.53,
+    "europe": 2.53,
+    "alignment": 2.53,
+    "marks": 2.53,
+    "wing": 2.53,
+    "bulgaria": 2.0,
+    "under": 1.68,
+    "agenda": 1.68,
+    "defeat": 1.4,
+    "hungary": 1.36,
+    "realignment": 1.26,
+    "shift": 1.26,
+    "government": 1.18,
+    "parliamentary": 1.12
   },
   "daily": {
     "2026-04-12": 5,
@@ -155,19 +156,22 @@
     "2026-04-16": 2,
     "2026-04-17": 4,
     "2026-04-18": 17,
-    "2026-04-19": 7
+    "2026-04-19": 8,
+    "2026-04-20": 1
   },
   "tone_by_source": {
+    "Financial Times": {
+      "mixed": 1,
+      "neutral": 2,
+      "positive": 1
+    },
     "DW English": {
       "neutral": 8,
       "positive": 1
     },
     "Politico Europe": {
-      "neutral": 4
-    },
-    "Financial Times": {
-      "neutral": 2,
-      "positive": 1
+      "neutral": 4,
+      "critical": 1
     },
     "Wall Street Journal": {
       "critical": 1
@@ -208,16 +212,18 @@
     }
   },
   "source_bias": {
+    "Financial Times": {
+      "mixed": 25,
+      "neutral": 50,
+      "positive": 25
+    },
     "DW English": {
       "neutral": 89,
       "positive": 11
     },
     "Politico Europe": {
-      "neutral": 100
-    },
-    "Financial Times": {
-      "neutral": 67,
-      "positive": 33
+      "neutral": 80,
+      "critical": 20
     },
     "The Times": {
       "neutral": 67,
@@ -237,5 +243,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-20T06:08:39.101145+00:00"
+  "last_updated": "2026-04-20T10:08:37.577697+00:00"
 }
