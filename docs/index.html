@@ -113,7 +113,7 @@
   <aside class="sidebar">
     <div>
       <div class="sidebar-brand" id="siteTitle">Hungary Press Monitor
-        <small>Updated: 2026-04-20 18:05 UTC</small>
+        <small>Updated: 2026-04-20 18:07 UTC</small>
       </div>
     </div>
     <div class="lang-toggle">
@@ -136,14 +136,6 @@
       </select>
       <select id="regionFilter"><option value="">– region –</option></select>
       <select id="sourceFilter"><option value="">– source –</option></select>
-      <div style="display:flex;align-items:center;gap:0.5rem;margin-top:0.25rem">
-        <span class="sidebar-label" data-en="Per page" data-hu="Oldalanként" style="white-space:nowrap">Per page</span>
-        <select id="pageSizeSelect" style="width:auto;flex:1">
-          <option value="10">10</option>
-          <option value="20" selected>20</option>
-          <option value="50">50</option>
-        </select>
-      </div>
     </div>
   </aside>
 
@@ -218,7 +210,7 @@
 </div>
 
 <script>
-const STATS = {"total_articles": 60, "analyzed_articles": 60, "tone": {"critical": 3, "neutral": 35, "mixed": 2, "positive": 20}, "framing": {"geopolitics": 13, "democracy_restoration": 28, "government transition": 2, "eu_integration": 6, "corruption": 1, "media_freedom": 2, "rule_of_law": 1, "Fidesz opposition": 1, "economy": 3, "other": 2, "government_transition": 1}, "region": {"us": 7, "wire": 18, "eu": 10, "uk": 15, "de": 9, "fr": 1}, "source": {"Reuters": 17, "DW English": 9, "Politico Europe": 6, "The Guardian": 5, "Financial Times": 4, "Washington Post": 3, "The Times": 3, "New York Times": 3, "BBC": 2, "Euractiv": 2, "AP News": 1, "EUobserver": 1, "Wall Street Journal": 1, "Euronews": 1, "Le Monde": 1, "The Economist": 1}, "topics": {"government transition": 55, "democracy": 34, "elections": 31, "EU relations": 23, "geopolitics": 19, "Russia deals": 8, "foreign policy": 8, "rule of law": 6, "economy": 6, "EU funds": 5, "Fidesz opposition": 4, "media freedom": 2, "energy": 1, "regional": 1, "judicial reform": 1, "corruption": 1, "EU integration": 1, "society": 1}, "actors": {"Péter Magyar": 48, "Viktor Orbán": 36, "Tisza Party": 18, "Rumen Radev": 5, "European Commission": 5, "EU officials": 5, "Russia": 3, "Ukraine": 2, "European Union": 2, "EU leaders": 2, "Israel": 1, "Hungarian journalists": 1, "Kremlin": 1, "Bulgaria": 1, "Poland (government)": 1, "Pope Francis": 1, "Fidesz": 1, "international investors": 1, "Vladimir Putin": 1, "Ursula von der Leyen": 1}, "main_actor": {"other": 5, "magyar_peter": 28, "orban_viktor": 17, "hungary_country": 9, "eu_institutions": 1}, "comparison_countries": {"Bulgaria": 3, "Ukraine": 2, "Hungary": 2, "Russia": 2, "Poland": 1}, "keywords": {"hungary": 69, "magyar": 57, "viktor": 45, "transition": 33, "year": 33, "party": 32, "democratic": 32, "tisza": 31, "rule": 31, "government": 29, "his": 28, "victory": 21, "electoral": 20, "historic": 19, "political": 18, "reintegration": 16, "election": 15, "european": 15, "majority": 15, "defeat": 14, "geopolitical": 14, "ending": 14, "russia": 13, "toward": 13, "under": 13}, "trending": {"bulgaria": 11.08, "moscow": 6.05, "ally": 5.04, "russia": 4.03, "regional": 4.03, "represents": 4.03, "central": 3.02, "toward": 3.02, "under": 3.02, "key": 3.02, "marking": 3.02, "ukraine": 3.02, "russian": 3.02, "win": 3.02, "european": 2.35, "pivot": 2.02, "marks": 2.02, "agenda": 2.02, "administration": 1.51, "integration": 1.51}, "daily": {"2026-04-12": 5, "2026-04-13": 12, "2026-04-14": 2, "2026-04-15": 3, "2026-04-16": 2, "2026-04-17": 4, "2026-04-18": 17, "2026-04-19": 8, "2026-04-20": 7}, "tone_by_source": {"Washington Post": {"critical": 1, "neutral": 1, "positive": 1}, "AP News": {"neutral": 1}, "Politico Europe": {"neutral": 5, "critical": 1}, "EUobserver": {"neutral": 1}, "Reuters": {"neutral": 8, "positive": 9}, "Financial Times": {"mixed": 1, "neutral": 2, "positive": 1}, "DW English": {"neutral": 8, "positive": 1}, "Wall Street Journal": {"critical": 1}, "Euronews": {"positive": 1}, "The Times": {"neutral": 2, "positive": 1}, "BBC": {"neutral": 2}, "New York Times": {"positive": 2, "neutral": 1}, "The Guardian": {"positive": 3, "neutral": 2}, "Le Monde": {"positive": 1}, "The Economist": {"mixed": 1}, "Euractiv": {"neutral": 2}}, "source_bias": {"Washington Post": {"critical": 33, "neutral": 33, "positive": 33}, "Politico Europe": {"neutral": 83, "critical": 17}, "Reuters": {"neutral": 47, "positive": 53}, "Financial Times": {"mixed": 25, "neutral": 50, "positive": 25}, "DW English": {"neutral": 89, "positive": 11}, "The Times": {"neutral": 67, "positive": 33}, "New York Times": {"positive": 67, "neutral": 33}, "The Guardian": {"positive": 60, "neutral": 40}}, "coverage_gaps": [], "last_updated": "2026-04-20T18:05:06.478083+00:00"};
+const STATS = {"total_articles": 61, "analyzed_articles": 61, "tone": {"critical": 3, "neutral": 36, "mixed": 2, "positive": 20}, "framing": {"geopolitics": 13, "democracy_restoration": 28, "government transition": 2, "rule_of_law": 2, "eu_integration": 6, "corruption": 1, "media_freedom": 2, "Fidesz opposition": 1, "economy": 3, "other": 2, "government_transition": 1}, "region": {"us": 7, "wire": 19, "eu": 10, "uk": 15, "de": 9, "fr": 1}, "source": {"Reuters": 18, "DW English": 9, "Politico Europe": 6, "The Guardian": 5, "Financial Times": 4, "Washington Post": 3, "The Times": 3, "New York Times": 3, "BBC": 2, "Euractiv": 2, "AP News": 1, "EUobserver": 1, "Wall Street Journal": 1, "Euronews": 1, "Le Monde": 1, "The Economist": 1}, "topics": {"government transition": 56, "democracy": 35, "elections": 31, "EU relations": 23, "geopolitics": 19, "Russia deals": 8, "foreign policy": 8, "rule of law": 7, "economy": 6, "EU funds": 5, "Fidesz opposition": 4, "judicial reform": 2, "media freedom": 2, "energy": 1, "regional": 1, "corruption": 1, "EU integration": 1, "society": 1}, "actors": {"Péter Magyar": 49, "Viktor Orbán": 36, "Tisza Party": 18, "Rumen Radev": 5, "European Commission": 5, "EU officials": 5, "Russia": 3, "Ukraine": 2, "European Union": 2, "EU leaders": 2, "Hungarian President": 1, "Hungarian judges": 1, "Israel": 1, "Hungarian journalists": 1, "Kremlin": 1, "Bulgaria": 1, "Poland (government)": 1, "Pope Francis": 1, "Fidesz": 1, "international investors": 1}, "main_actor": {"other": 5, "magyar_peter": 29, "orban_viktor": 17, "hungary_country": 9, "eu_institutions": 1}, "comparison_countries": {"Bulgaria": 3, "Ukraine": 2, "Hungary": 2, "Russia": 2, "Poland": 1}, "keywords": {"hungary": 71, "magyar": 59, "viktor": 45, "year": 34, "party": 33, "transition": 33, "democratic": 33, "tisza": 32, "rule": 32, "government": 30, "his": 29, "victory": 21, "electoral": 20, "historic": 19, "political": 18, "reintegration": 16, "majority": 16, "election": 15, "european": 15, "defeat": 14, "geopolitical": 14, "ending": 14, "russia": 13, "toward": 13, "under": 13}, "trending": {"bulgaria": 10.3, "moscow": 5.62, "ally": 4.68, "represents": 4.68, "russia": 3.75, "regional": 3.75, "institutional": 3.75, "central": 2.81, "toward": 2.81, "under": 2.81, "key": 2.81, "marking": 2.81, "ukraine": 2.81, "signals": 2.81, "russian": 2.81, "win": 2.81, "agenda": 2.34, "european": 2.19, "pivot": 1.87, "marks": 1.87}, "daily": {"2026-04-12": 5, "2026-04-13": 12, "2026-04-14": 2, "2026-04-15": 3, "2026-04-16": 2, "2026-04-17": 4, "2026-04-18": 17, "2026-04-19": 8, "2026-04-20": 8}, "tone_by_source": {"Washington Post": {"critical": 1, "neutral": 1, "positive": 1}, "AP News": {"neutral": 1}, "Politico Europe": {"neutral": 5, "critical": 1}, "EUobserver": {"neutral": 1}, "Reuters": {"neutral": 9, "positive": 9}, "Financial Times": {"mixed": 1, "neutral": 2, "positive": 1}, "DW English": {"neutral": 8, "positive": 1}, "Wall Street Journal": {"critical": 1}, "Euronews": {"positive": 1}, "The Times": {"neutral": 2, "positive": 1}, "BBC": {"neutral": 2}, "New York Times": {"positive": 2, "neutral": 1}, "The Guardian": {"positive": 3, "neutral": 2}, "Le Monde": {"positive": 1}, "The Economist": {"mixed": 1}, "Euractiv": {"neutral": 2}}, "source_bias": {"Washington Post": {"critical": 33, "neutral": 33, "positive": 33}, "Politico Europe": {"neutral": 83, "critical": 17}, "Reuters": {"neutral": 50, "positive": 50}, "Financial Times": {"mixed": 25, "neutral": 50, "positive": 25}, "DW English": {"neutral": 89, "positive": 11}, "The Times": {"neutral": 67, "positive": 33}, "New York Times": {"positive": 67, "neutral": 33}, "The Guardian": {"positive": 60, "neutral": 40}}, "coverage_gaps": [], "last_updated": "2026-04-20T18:07:01.651536+00:00"};
 let allArticles = [];
 let filteredArticles = [];
 let lang = 'en';
@@ -382,8 +374,19 @@ function renderPagination() {
     <button onclick="gotoPage(${currentPage-1})" ${currentPage===1?'disabled':''}>‹</button>
     ${pages.join('')}
     <button onclick="gotoPage(${currentPage+1})" ${currentPage===totalPages?'disabled':''}>›</button>
-    <span style="color:#475569;font-size:0.78rem;margin-left:0.5rem">${from}–${to} / ${total}</span>
+    <span style="color:#475569;font-size:0.78rem;margin-left:0.75rem">${from}–${to} / ${total}</span>
+    <select id="pageSizeSelect" style="background:#1e293b;border:1px solid #334155;color:#e2e8f0;border-radius:5px;padding:0.3rem 0.5rem;font-size:0.78rem;margin-left:0.5rem">
+      <option value="10" ${pageSize===10?'selected':''}>10</option>
+      <option value="20" ${pageSize===20?'selected':''}>20</option>
+      <option value="50" ${pageSize===50?'selected':''}>50</option>
+    </select>
   </div>`;
+  document.getElementById('pageSizeSelect').addEventListener('change', e => {
+    pageSize = parseInt(e.target.value);
+    localStorage.setItem('pageSize', pageSize);
+    currentPage = 1;
+    renderArticles();
+  });
 }
 
 function gotoPage(p) {
@@ -505,17 +508,11 @@ async function init() {
   populateFilters();
   setLang(lang);
   const savedPageSize = parseInt(localStorage.getItem('pageSize'));
-  if (savedPageSize) { pageSize = savedPageSize; document.getElementById('pageSizeSelect').value = savedPageSize; }
+  if (savedPageSize) pageSize = savedPageSize;
   document.getElementById('searchInput').addEventListener('input', applyFilters);
   document.getElementById('toneFilter').addEventListener('change', applyFilters);
   document.getElementById('regionFilter').addEventListener('change', applyFilters);
   document.getElementById('sourceFilter').addEventListener('change', applyFilters);
-  document.getElementById('pageSizeSelect').addEventListener('change', e => {
-    pageSize = parseInt(e.target.value);
-    localStorage.setItem('pageSize', pageSize);
-    currentPage = 1;
-    renderArticles();
-  });
 }
 
 init();

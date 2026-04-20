@@ -330,14 +330,6 @@ def generate_html(stats: dict, stats_json: str) -> str:
       </select>
       <select id="regionFilter"><option value="">– region –</option></select>
       <select id="sourceFilter"><option value="">– source –</option></select>
-      <div style="display:flex;align-items:center;gap:0.5rem;margin-top:0.25rem">
-        <span class="sidebar-label" data-en="Per page" data-hu="Oldalanként" style="white-space:nowrap">Per page</span>
-        <select id="pageSizeSelect" style="width:auto;flex:1">
-          <option value="10">10</option>
-          <option value="20" selected>20</option>
-          <option value="50">50</option>
-        </select>
-      </div>
     </div>
   </aside>
 
@@ -576,8 +568,19 @@ function renderPagination() {{
     <button onclick="gotoPage(${{currentPage-1}})" ${{currentPage===1?'disabled':''}}>‹</button>
     ${{pages.join('')}}
     <button onclick="gotoPage(${{currentPage+1}})" ${{currentPage===totalPages?'disabled':''}}>›</button>
-    <span style="color:#475569;font-size:0.78rem;margin-left:0.5rem">${{from}}–${{to}} / ${{total}}</span>
+    <span style="color:#475569;font-size:0.78rem;margin-left:0.75rem">${{from}}–${{to}} / ${{total}}</span>
+    <select id="pageSizeSelect" style="background:#1e293b;border:1px solid #334155;color:#e2e8f0;border-radius:5px;padding:0.3rem 0.5rem;font-size:0.78rem;margin-left:0.5rem">
+      <option value="10" ${{pageSize===10?'selected':''}}>10</option>
+      <option value="20" ${{pageSize===20?'selected':''}}>20</option>
+      <option value="50" ${{pageSize===50?'selected':''}}>50</option>
+    </select>
   </div>`;
+  document.getElementById('pageSizeSelect').addEventListener('change', e => {{
+    pageSize = parseInt(e.target.value);
+    localStorage.setItem('pageSize', pageSize);
+    currentPage = 1;
+    renderArticles();
+  }});
 }}
 
 function gotoPage(p) {{
@@ -699,17 +702,11 @@ async function init() {{
   populateFilters();
   setLang(lang);
   const savedPageSize = parseInt(localStorage.getItem('pageSize'));
-  if (savedPageSize) {{ pageSize = savedPageSize; document.getElementById('pageSizeSelect').value = savedPageSize; }}
+  if (savedPageSize) pageSize = savedPageSize;
   document.getElementById('searchInput').addEventListener('input', applyFilters);
   document.getElementById('toneFilter').addEventListener('change', applyFilters);
   document.getElementById('regionFilter').addEventListener('change', applyFilters);
   document.getElementById('sourceFilter').addEventListener('change', applyFilters);
-  document.getElementById('pageSizeSelect').addEventListener('change', e => {{
-    pageSize = parseInt(e.target.value);
-    localStorage.setItem('pageSize', pageSize);
-    currentPage = 1;
-    renderArticles();
-  }});
 }}
 
 init();

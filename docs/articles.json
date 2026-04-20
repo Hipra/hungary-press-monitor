@@ -166,6 +166,36 @@
     "quotes": []
   },
   {
+    "id": "3b85c9ef60ba88c8",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's Magyar renews call for president, top judges to resign - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQREFZd3dqQUlXSmJZRXJyZzdKcFdZZ2U0QXRDb2pjcnVJVmFPSFREeTBIRWk1b3JPdlNWTEhVWng3X1BiWkEwbTZEWEVJeTlXYzN3LWpKemtRSGM4U0Q2S0hrUFMzM2FScGRzQWFmc3BKbEVHV2ZBakpuV2l1RUNkZU13NmkzLVpNZWFUQXJyV3d0T1JnamFVVmV0MW9KUQ?oc=5",
+    "published_at": "2026-04-20T14:07:44+00:00",
+    "fetched_at": "2026-04-20T18:00:04.110679+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "judicial reform",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungarian President",
+      "Hungarian judges"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "Péter Magyar is pressing for institutional renewal, calling for Hungary's president and top judges to resign as part of his government's judicial reform agenda. This move signals Magyar's commitment to reconfiguring the courts and constitutional institutions that were shaped during Orbán's 15-year rule. The action represents a pivotal step in Hungary's democratic institutional renewal following the Tisza Party's two-thirds parliamentary majority.",
+    "title_hu": "Magyarország: Magyar Péter megújítja felhívását az elnök és a felső bírák lemondására",
+    "summary_hu": "Magyar Péter az ország elnöke és felső bírói lemondására szólít fel kormányának intézményi reformprogramja keretében. Ez a lépés az Orbán 15 éves uralma alatt formálódott bíróságok és alkotmányi intézmények átforrázását jelenti. Az intézkedés Magyarország demokratikus megújulásának kulcsfontosságú szakaszát képezi a Tisza Párt kétharmados parlamenti többségét követően.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "a32fc8ba5c14344f",
     "source": "Financial Times",
     "region": "uk",
