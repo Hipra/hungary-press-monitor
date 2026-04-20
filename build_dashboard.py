@@ -337,10 +337,6 @@ def generate_html(stats: dict, stats_json: str) -> str:
           <div class="chart-wrap"><canvas id="mainActorChart"></canvas></div>
         </div>
         <div class="card" style="margin:0">
-          <div class="card-title" data-en="Countries Compared to Hungary" data-hu="Összehasonlított országok">Countries Compared to Hungary</div>
-          <div class="chart-wrap"><canvas id="comparisonChart"></canvas></div>
-        </div>
-        <div class="card" style="margin:0">
           <div class="card-title" data-en="Source Bias (tone %)" data-hu="Forrás hangnem-profil (%)">Source Bias (tone %)</div>
           <div class="chart-wrap" style="height:260px"><canvas id="sourceBiasChart"></canvas></div>
         </div>
@@ -469,8 +465,6 @@ function renderCharts() {{
     hungary_country:'Magyarország', eu_institutions:'EU intézmények', other:'egyéb' }};
   const ma = STATS.main_actor||{{}};
   makeChart('mainActorChart','doughnut', Object.keys(ma).map(k=>AL[k]||k), Object.values(ma));
-  const cc = Object.entries(STATS.comparison_countries||{{}}).slice(0,12);
-  makeChart('comparisonChart','bar', cc.map(([k])=>k), cc.map(([,v])=>v), ['#34d399']);
   const bias = STATS.source_bias||{{}};
   const bLabels = Object.keys(bias).slice(0,15);
   if (bLabels.length) {{
