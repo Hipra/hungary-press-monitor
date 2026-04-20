@@ -1,41 +1,39 @@
 {
-  "top_story_en": "Hungary's democratic transition locked in a dual milestone: Tisza's widened parliamentary supermajority was confirmed by final vote count, while Magyar and the EU reached a formal agreement to release frozen funds — the two clearest structural signals yet that the post-Orbán era is operational.",
-  "top_story_hu": "Magyarország demokratikus átmenete két mérföldkőhöz érkezett egyszerre: a Tisza Párt kétharmados többségét a végeredmény megerősítette, miközben Magyar és az EU megállapodott a befagyasztott uniós források felszabadításáról — a két legerősebb strukturális jel arra, hogy az Orbán utáni korszak valóban működésbe lépett.",
+  "top_story_en": "Bulgaria's Russia-aligned Rumen Radev winning its parliamentary election dominates today's coverage, cementing the regional geopolitical split: Hungary pivoting to Brussels while Sofia tilts toward Moscow. The Financial Times complicates the narrative, arguing structural constraints will prevent Radev from becoming a new Orbán.",
+  "top_story_hu": "A mai sajtót Bulgária oroszbarát Rumen Radev parlamenti győzelme uralja, rögzítve a közép-európai geopolitikai hasadékot: Magyarország Brüsszel felé fordul, míg Szófia Moszkva irányába. A Financial Times árnyalja a képet: szerkezeti korlátok megakadályozzák, hogy Radev új Orbánná váljon.",
   "key_developments_en": [
-    "Tisza party widened its confirmed parliamentary supermajority after final votes were counted, cementing Magyar's mandate for structural reform.",
-    "The EU and Magyar government formally agreed to collaborate on releasing frozen EU funds following high-stakes Budapest talks.",
-    "Orbán, now in opposition, conditioned his party's approval of the €90bn EU loan to Ukraine on resumption of Druzhba oil pipeline flows — signaling his intended disruption strategy.",
-    "Bulgaria's pro-Russian Rumen Radev won his parliamentary election, confirming Bulgaria as Moscow's primary remaining Central European partner following Hungary's EU pivot.",
-    "Politico Europe reported that Orbán's defeat removes Hungary as Israel's principal EU defender, exposing Israeli interests to a more skeptical European environment."
+    "Rumen Radev's pro-Russia bloc won Bulgaria's parliamentary election, making Bulgaria Moscow's primary remaining Central European partner after Hungary's EU pivot.",
+    "Viktor Orbán signaled conditional support for the €90bn EU loan to Ukraine — contingent on resumption of Druzhba oil pipeline flows, his first significant opposition-bench maneuver.",
+    "Politico Europe reports Orbán's defeat removes Israel's key European defender, exposing Israeli interests to a more skeptical EU majority.",
+    "The Wall Street Journal published an opinion warning that Hungarian democratic institutions were structurally weakened under Orbán's 15-year rule, challenging assumptions that Magyar's victory alone restores democracy."
   ],
   "key_developments_hu": [
-    "A Tisza Párt a végső szavazatszámlálás után tovább szélesítette kétharmados parlamenti többségét, megszilárdítva Magyar reformmandátumát.",
-    "Az EU és az új magyar kormány formálisan megállapodott a befagyasztott uniós források felszabadítása érdekében folytatandó együttműködésről a budapesti tárgyalások nyomán.",
-    "Orbán Viktor ellenzékből feltételt szabott az Ukrajna részére nyújtandó 90 milliárd eurós EU-hitel jóváhagyásához: a Barátság kőolajvezeték újraindítása nélkül nem szavaz igennel.",
-    "Bulgáriában az oroszbarát Rumen Radev nyerte a parlamenti választást, megerősítve, hogy Bulgária maradt Moszkva legfontosabb közép-európai szövetségese Magyarország EU-fordulata után.",
-    "A Politico Europe szerint Orbán veresége azzal jár, hogy Izrael elveszítette legfontosabb uniós pártfogóját, és egy szkeptikusabb európai politikai környezettel kell szembenéznie."
+    "Rumen Radev oroszbarát blokkja megnyerte Bulgária parlamenti választását, Bulgáriát téve Moszkva elsődleges közép-európai partnerévé Magyarország EU-fordulata után.",
+    "Orbán Viktor feltételesen jelezte támogatását az Ukrajna részére szánt 90 milliárd eurós EU-hitelhez — a Barátság-kőolajvezeték újraindításához kötve azt, első érdemi ellenzéki manőverként.",
+    "A Politico Europe szerint Orbán veresége megfosztja Izraelt fő európai védnökétől, az izraeli érdekek szkeptikusabb EU-többséggel kerülnek szembe.",
+    "A Wall Street Journal véleménycikkben figyelmeztet: a magyar demokratikus intézmények szerkezetileg meggyengültek Orbán 15 éves regnálása alatt, kétségbe vonva, hogy Magyar győzelme önmagában helyreállítja a demokráciát."
   ],
   "narrative_shifts_en": [
-    "The Bulgaria narrative is being analytically refined: the FT argues structural constraints — weaker institutions, EU membership dynamics — prevent Radev from replicating Orbán's consolidation model, shifting the frame from 'Russia's new Orbán' to 'Moscow's structurally limited CEE foothold.'",
-    "Orbán's opposition role is crystallizing from passive loser into conditional disruptor: his Ukraine loan condition is the first concrete signal of an opposition strategy built around Russian energy leverage rather than domestic mobilization."
+    "The Radev-as-Orbán-successor framing, dominant on Apr 18–19, is already being challenged by Apr 20: FT argues Bulgaria lacks the institutional conditions that made Orbán's consolidation possible, shifting from alarm to structural analysis.",
+    "The WSJ opinion introduces a counter-narrative absent from prior coverage: Magyar's victory may be necessary but not sufficient for democratic restoration — adding friction to the prevailing 'new dawn' tone."
   ],
   "narrative_shifts_hu": [
-    "A Bulgáriáról szóló narratíva árnyalódik: az FT szerint az intézményi és uniós strukturális korlátok megakadályozzák, hogy Radev az Orbán-féle konszolidációs modellt megismételje — az értelmezés a 'Moszkva új Orbánja' képtől az 'orosz befolyás strukturálisan korlátozott előretolt állása' felé tolódik.",
-    "Orbán ellenzéki szerepe egyre határozottabb alakot ölt: az ukrán hitel feltételhez kötése az első konkrét jel arra, hogy stratégiája belső mozgósítás helyett az orosz energiaérdekekre épített blokkolásra épül."
+    "Az 'új Orbán' narratíva, amely április 18–19-én uralta a tudósítást, április 20-ra máris kihívás elé kerül: az FT szerint Bulgária nem rendelkezik azokkal az intézményi feltételekkel, amelyek Orbán konszolidációját lehetővé tették — az aggodalom helyét strukturális elemzés veszi át.",
+    "A WSJ véleménycikk egy eddig hiányzó ellennarrációt vezet be: Magyar győzelme szükséges, de talán nem elégséges feltétel a demokratikus helyreállításhoz, feszültséget teremtve az addigi 'új korszak' hangnemmel."
   ],
   "quotes_en": [],
   "quotes_hu": [],
   "what_to_watch_en": [
-    "Cabinet composition and Magyar's first legislative priorities — still unreported internationally despite the supermajority being confirmed.",
-    "Whether Orbán's Druzhba pipeline condition gains traction within Fidesz's parliamentary group or remains a solo signal.",
-    "EU member-state responses to Hungary's reintegration, particularly on rule-of-law conditionality timelines for fund release."
+    "Whether Orbán's Druzhba pipeline condition gains traction within Fidesz's remaining parliamentary bloc or is dismissed as opposition posturing by the new government.",
+    "How Magyar's government responds to the WSJ democratic-institutions warning — whether judicial and media reform timelines accelerate in response to international pressure.",
+    "EU and NATO reaction to Radev's confirmed victory and whether Brussels moves to constrain Bulgarian Russia alignment through conditionality mechanisms."
   ],
   "what_to_watch_hu": [
-    "A kormány összetétele és Magyar első jogalkotási prioritásai — a kétharmados többség megerősítése ellenére a nemzetközi sajtóban egyelőre nem jelentek meg részletek.",
-    "Orbán Barátság-vezetékes feltétele visszhangra talál-e a Fidesz parlamenti frakciójában, vagy csupán egyéni jelzésnek bizonyul.",
-    "Az uniós tagállamok reakciói Magyarország reintegrációjára, különösen a jogállamisági feltételek és a forrásfelszabadítás ütemezése kapcsán."
+    "Orbán Barátság-vezetékhez kötött feltétele kap-e visszhangot a Fidesz megmaradt parlamenti blokkján belül, vagy az új kormány ellenzéki politikai manőverként söpri félre.",
+    "Magyar kormánya hogyan reagál a WSJ demokratikus intézményekre vonatkozó figyelmeztetésére — felgyorsul-e a bírósági és médiareform menetrendje a nemzetközi nyomás hatására.",
+    "Az EU és a NATO hogyan viszonyul Radev megerősített győzelméhez, és Brüsszel él-e feltételességi mechanizmusokkal a bolgár orosz orientáció korlátozására."
   ],
   "date": "2026-04-20",
-  "article_count": 9,
-  "generated_at": "2026-04-20T10:08:37.439582+00:00"
+  "article_count": 7,
+  "generated_at": "2026-04-20T14:12:23.319194+00:00"
 }
