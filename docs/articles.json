@@ -1,5 +1,124 @@
 [
   {
+    "id": "f36a2ac5602a8eb0",
+    "source": "New York Times",
+    "region": "us",
+    "title": "With Orban Out, the Pianist András Schiff Plans a Return to Hungary - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVZOMkxJTHJ5QXpDb3JKY1ZmSnNFNEdoeEZobnAyRlc1RHRoMUwxVHdpekl6bTRCV3dXXzZGZU9aNzBtTkZqUVpPZE5WX0VLdzZTbU9TU0FrTFN3X21DN3E3am84WE5UWmF5V3BzYXlFb1RsZ2ZRM1pLWlpEMDZ6dDRlZGlrV29uVHNJRW9oS09WY3lCaWc?oc=5",
+    "published_at": "2026-04-20T19:52:56+00:00",
+    "fetched_at": "2026-04-20T22:00:17.155364+00:00",
+    "topics": [
+      "government transition",
+      "society",
+      "democracy"
+    ],
+    "actors": [
+      "András Schiff",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Renowned pianist András Schiff, who distanced himself from Hungary during Viktor Orbán's 15-year rule, plans to return following the Tisza Party's historic victory. His intended homecoming symbolizes Hungary's cultural reopening and democratic restoration after the political transition.",
+    "title_hu": "Orbán hatalmának végével András Schiff zongoraművész hazatérésre készül",
+    "summary_hu": "A világszerte elismert zongoraművész András Schiff, aki távolságot tartott Magyarországtól Viktor Orbán 15 éves uralma alatt, a Tisza Párt történelmi választási győzelme után hazatérni készül. Szándékolt visszatérése Magyarország kulturális megnyitását és demokratikus helyreállítását szimbolizálja a politikai átmenet után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "5eccbf9d2dd0e57b",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Ukraine's Zelenskiy says Druzhba oil pipeline flow to be restored by end-April - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZVVncnJzemh5SG5wM2ZLeXkwcWw2MUpNTG5QSzNnUDJ2ZG5IdHd1LXhUU3NUR3JrWmcxR2sxLVRIUjcwV0dIUmg4TXE0MHNZT214ZFpVaDRNUXZ6UFVIUEhFUnNDZkQ3VmtfOUJJQXpjdTNudVAtSDloSko0TEtBSVNzdHU5ek5zQU9vV3dUQXp5eFotX2cyNzQ5dEdUUXpSMXBNek5NUjkzOGZJeFd2TmVTNHI0YXh0VTgzcEFVSTI5MTlt?oc=5",
+    "published_at": "2026-04-20T19:26:45+00:00",
+    "fetched_at": "2026-04-20T22:00:03.883399+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "Russia deals"
+    ],
+    "actors": [
+      "Volodymyr Zelenskiy",
+      "Ukraine"
+    ],
+    "tone": "neutral",
+    "framing": "energy",
+    "summary_en": "Ukraine's President Zelenskiy announced that the Druzhba oil pipeline will resume operations by end-April. This directly addresses demands from both Hungary's incoming PM Péter Magyar and outgoing PM Viktor Orbán, making it critical for Hungary's energy security and EU reintegration strategy.",
+    "title_hu": "Zelenszkij: a Druzsba olajvezeték áramlása április végéig helyreáll",
+    "summary_hu": "Ukrajna elnöke bejelentette, hogy a Druzsba olajvezeték működése április végéig helyreáll. Ez közvetlenül válaszolja Magyarország bejövő és kimenő miniszterelnökének igényeit, és kritikus fontosságú az ország energiabiztonságához és EU-integrációjához.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "06d5ea92a419dd9a",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Hungary must arrest Netanyahu if he visits, Magyar says - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb2l5VHlBLWw1ZEllRDQwMnhVaHVJSUhpZ1Q2RmxGSlZwRTlSZndjMW9PZGMzcUNLcEJ2VGx6RmFrZF9ReVkwN2FuMVViZ2lIY0NONm5yUko0UEpyVGRCZk9RRmU0Y0VQN0d3b3VXSG85S2hIUm52NUx4ZHQ1VzR3aDJKdURKWlI5c0N3b0FWa2J3T0phVU5v?oc=5",
+    "published_at": "2026-04-20T18:10:19+00:00",
+    "fetched_at": "2026-04-20T22:00:29.188987+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "government transition",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Benjamin Netanyahu",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "Incoming Prime Minister Péter Magyar announced that Hungary must arrest Benjamin Netanyahu if he visits, marking a dramatic reversal from Orbán's pro-Israel stance. This signals Hungary's pivot toward EU alignment on international law and ICC compliance, reshaping Budapest's Middle East relations.",
+    "title_hu": "Magyarország le kell tartóztassa Netanjahut, ha meglátogatja - mondja Magyar",
+    "summary_hu": "A leendő miniszterelnök, Péter Magyar bejelentette, hogy Magyarország letartóztatni kell Benjamin Netanjahut, ha meglátogatja az országot, amely markáns fordulat az Orbán pro-izraeli politikájához képest. Ez Magyarország EU-s összehangolódását jelzi a nemzetközi jog és az ICC-megfelelés terén, amely átformálja Budapest Közel-Keleti kapcsolatait.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Israel"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "df2d0fa07efc8a27",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "'If Druzhba is operational, Zelenskyy should open it,' Magyar says about pipeline - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVHdObVU1d2s5bVZQdzJ5OGlYYnV3QXhxVXhXR1N1VmVRd2pwcXFmdy1hWnlZOEh3UnNQODJyM3dDVHhuNHlacVlqVlNoeEp2VHJhbWY5U0N5VFNwLXRHWkN2UGZqYUx5UTRLbVZ6TXpDRzl3N05xdVE4dTZZQXQ5cG03U0RSb1gtY1dBeUx1YUVPMzR2UkpMV0dFbV9lS1dsanFLNndTZ2Q5akg4QkR0V1pkRQ?oc=5",
+    "published_at": "2026-04-20T17:41:37+00:00",
+    "fetched_at": "2026-04-20T22:00:36.609119+00:00",
+    "topics": [
+      "geopolitics",
+      "energy",
+      "foreign policy",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Péter Magyar, Hungary's incoming Prime Minister, stated that if the Druzhba oil pipeline is operational, Ukraine's Zelenskyy should reopen it. This signals pragmatic energy continuity despite Magyar's EU-friendly geopolitical orientation, mirroring earlier Orbán positions while signaling Hungary's energy security priorities.",
+    "title_hu": "\"Ha a Druzhba üzemel, Zelenszkijnek meg kellene nyitnia\" - mondja Magyar a vezetékről",
+    "summary_hu": "Péter Magyar, Magyarország új miniszterelnöke, azt nyilatkozta, hogy ha a Druzhba olajvezeték működik, Ukrajna Zelenszkijjének meg kellene nyitnia. Ez pragmatikus energetikai kontinuitást jelez Magyar EU-barát geopolitikai orientációja ellenére, az energiabiztonság magyar prioritásait tükrözve.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "If Druzhba is operational, Zelenskyy should open it"
+    ]
+  },
+  {
     "id": "ff71677f502b19f8",
     "source": "Washington Post",
     "region": "us",
@@ -77,6 +196,34 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "0e08ba268d725c4f",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "The European right is pivoting away from America - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vTDRudVROYkJKaUtabmNhOGhEZkt2THRhNUpHeVcxOTVaQS0zaWtnXzBFNVdod05mS0hpUmtrS0xiTG1VQVdOeVZpM3ExN3ZDTy1hQmhZaWdWMEVhcmhyS1FtWlFQUEctMkF3UkEyQ1Q?oc=5",
+    "published_at": "2026-04-20T16:05:33+00:00",
+    "fetched_at": "2026-04-20T22:00:13.464428+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "European right-wing parties",
+      "Trump"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Reporting on the European right's geopolitical pivot away from US alignment. Coverage likely contextualizes Hungary's democratic transition and Péter Magyar's pro-EU government as part of broader realignment of European right-wing politics away from Trump-aligned positions toward EU integration.",
+    "title_hu": "Az európai jobboldal elfordulása az Amerikától",
+    "summary_hu": "Az európai jobboldal geopolitikai fordulata az USA-i igazodástól való elfordulás irányában. A cikk feltehetőleg Magyarország demokratikus átmenetét és Péter Magyar EU-barát kormányát az európai jobboldali politika Trump-orientáltságától való szélesebb körű elfordulásának részeként mutatja be.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
     "comparison_countries": [],
     "quotes": []
   },
