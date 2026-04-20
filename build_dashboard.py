@@ -198,10 +198,13 @@ def generate_html(stats: dict, stats_json: str) -> str:
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Hungary Press Monitor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
   <style>
     *, *::before, *::after {{ box-sizing: border-box; }}
-    body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    body {{ font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       background: #0f172a; color: #e2e8f0; margin: 0; padding: 0; }}
     a {{ color: #38bdf8; text-decoration: none; }}
     a:hover {{ text-decoration: underline; }}
@@ -233,7 +236,7 @@ def generate_html(stats: dict, stats_json: str) -> str:
     .kpi-list {{ display: flex; flex-direction: column; gap: 0.4rem; }}
     .kpi-row {{ display: flex; justify-content: space-between; align-items: center;
       font-size: 0.82rem; padding: 0.35rem 0; border-bottom: 1px solid #1e293b; }}
-    .kpi-row .kv {{ font-weight: 700; color: #38bdf8; font-size: 1rem; }}
+    .kpi-row .kv {{ font-weight: 700; color: #38bdf8; font-size: 1rem; font-family: 'JetBrains Mono', monospace; }}
 
     /* Cards */
     .card {{ background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 1.25rem; margin-bottom: 1.25rem; }}
