@@ -5,50 +5,13 @@ Export SQLite data to JSON and generate the static bilingual dashboard.
 from __future__ import annotations
 
 import json
-import re
 import sqlite3
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-STOPWORDS = {
-    "the","a","an","in","of","to","and","for","is","are","was","were","it","its",
-    "on","at","by","as","with","from","that","this","be","has","have","had","he",
-    "she","we","they","but","or","not","what","about","after","before","over",
-    "who","when","will","how","all","new","more","up","out","into","their","been",
-    "would","could","than","so","if","no","do","says","say","said","also","just",
-    "one","two","us","eu","un","can","may","amid","via","per","vs","s","i",
-    # source name fragments
-    "times","guardian","reuters","politico","atlantic","economist","monde",
-    "foreign","policy","euractiv","euronews","insight","visegrad","balkan",
-    "notes","poland","ecfr","observer","parliament","magazine","sueddeutsche",
-    # generic news words
-    "news","video","opinion","says","latest","bulletin","world","report",
-    "analysis","review","inside","why","here","know","get","take","make",
-    # claude summary boilerplate
-    "article","piece","discusses","examines","explores","highlights","covers",
-    "ongoing","between","amid","while","within","during","following","recent",
-    "content","related","context","focus","topic","issue","situation","including",
-    # url/domain fragments
-    "com","www","http","https","org","net",
-}
-
 DB_PATH = Path("data/articles.db")
 DOCS_PATH = Path("docs")
-
-
-def extract_keywords(text: str) -> list[str]:
-    words = re.findall(r"\b[a-zA-Z]{3,}\b", text.lower())
-    return [w for w in words if w not in STOPWORDS]
-
-
-def keyword_counts(articles: list[dict]) -> Counter:
-    """Extract keywords from summary_en of analyzed+relevant articles only."""
-    c: Counter = Counter()
-    for a in articles:
-        if a.get("analyzed") and a.get("summary_en"):
-            c.update(extract_keywords(a["summary_en"]))
-    return c
 
 
 def load_articles(conn: sqlite3.Connection) -> list[dict]:
@@ -111,31 +74,7 @@ def build_stats(articles: list[dict]) -> dict:
             tone_by_source[a["source"]][a["tone"]] += 1
     tone_by_source_out = {src: dict(counts) for src, counts in tone_by_source.items()}
 
-    # Keyword frequency from titles
-    kw_all = keyword_counts(relevant)
-
-    # Trending: keywords in last 48h vs previous 48h, min 3 mentions recent
     now = datetime.now(timezone.utc)
-    cutoff_recent = (now - timedelta(hours=48)).isoformat()
-    cutoff_baseline = (now - timedelta(hours=96)).isoformat()
-    recent = [a for a in relevant if (a["published_at"] or "") >= cutoff_recent]
-    baseline = [a for a in relevant if cutoff_baseline <= (a["published_at"] or "") < cutoff_recent]
-    kw_recent = keyword_counts(recent)
-    kw_baseline = keyword_counts(baseline)
-    baseline_total = max(sum(kw_baseline.values()), 1)
-    recent_total = max(sum(kw_recent.values()), 1)
-    trending = {}
-    for word, cnt in kw_recent.items():
-        if cnt < 3:
-            continue
-        base_rate = kw_baseline.get(word, 0) / baseline_total
-        recent_rate = cnt / recent_total
-        if base_rate == 0:
-            score = recent_rate * 100
-        else:
-            score = recent_rate / base_rate
-        trending[word] = round(score, 2)
-    trending_sorted = dict(sorted(trending.items(), key=lambda x: -x[1])[:20])
 
     # Source bias: dominant tone per source (for stacked bar)
     source_bias: dict[str, dict] = {}
@@ -170,8 +109,6 @@ def build_stats(articles: list[dict]) -> dict:
         "actors": dict(actor_counts.most_common(20)),
         "main_actor": dict(main_actor_counts),
         "comparison_countries": dict(comparison_counts.most_common(15)),
-        "keywords": dict(kw_all.most_common(25)),
-        "trending": trending_sorted,
         "daily": daily_sorted,
         "tone_by_source": tone_by_source_out,
         "source_bias": source_bias,
@@ -396,10 +333,6 @@ def generate_html(stats: dict, stats_json: str) -> str:
           <div class="chart-wrap"><canvas id="actorsChart"></canvas></div>
         </div>
         <div class="card" style="margin:0">
-          <div class="card-title" data-en="Trending Keywords (48h)" data-hu="Felkapott szavak (48 óra)">Trending Keywords (48h)</div>
-          <div class="chart-wrap"><canvas id="trendingChart"></canvas></div>
-        </div>
-        <div class="card" style="margin:0">
           <div class="card-title" data-en="Main Actor Focus" data-hu="Főszereplő megoszlása">Main Actor Focus</div>
           <div class="chart-wrap"><canvas id="mainActorChart"></canvas></div>
         </div>
@@ -531,8 +464,6 @@ function renderCharts() {{
   makeChart('sourcesChart','bar', srcs.map(([k])=>k), srcs.map(([,v])=>v));
   const actors = Object.entries(STATS.actors||{{}}).slice(0,15);
   makeChart('actorsChart','bar', actors.map(([k])=>k), actors.map(([,v])=>v));
-  const tr = Object.entries(STATS.trending||{{}}).slice(0,15);
-  makeChart('trendingChart','bar', tr.map(([k])=>k), tr.map(([,v])=>v), ['#f472b6']);
   const AL = {{ magyar_peter:'Magyar Péter', orban_viktor:'Orbán Viktor', fidesz:'Fidesz',
     hungary_country:'Magyarország', eu_institutions:'EU intézmények', other:'egyéb' }};
   const ma = STATS.main_actor||{{}};
