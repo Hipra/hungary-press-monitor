@@ -300,7 +300,6 @@ def generate_html(stats: dict, stats_json: str) -> str:
         <span data-en="No digest available yet. Run the pipeline to generate one." data-hu="Még nincs digest. Futtasd a pipeline-t a generáláshoz.">No digest available yet.</span>
       </div>
     </div>
-    </div>
 
     <!-- SECTION: Statistics (full width) -->
     <div class="section" id="section-stats">
