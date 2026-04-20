@@ -154,8 +154,9 @@ def generate_html(stats: dict, stats_json: str) -> str:
       position: sticky; top: 0; height: 100vh; overflow-y: auto;
       display: flex; flex-direction: column; padding: 1.25rem 1rem; gap: 1.25rem;
     }}
-    .main {{ flex: 1; min-width: 0; padding: 1.75rem 2rem; overflow: hidden; }}
-    .main-inner {{ max-width: 900px; margin: 0 auto; }}
+    .main {{ flex: 1; min-width: 0; padding: 1.75rem 0; overflow: hidden; }}
+    .main-inner {{ max-width: 900px; margin: 0 auto; padding: 0 2rem; }}
+    #section-stats {{ padding: 0 3rem; }}
 
     /* Sidebar elements */
     .sidebar-brand {{ font-size: 0.95rem; font-weight: 700; color: #f8fafc; line-height: 1.3; }}
