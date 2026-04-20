@@ -248,12 +248,23 @@ def generate_html(stats: dict, stats_json: str) -> str:
       padding-left: 0.6rem; margin: 0.3rem 0; font-size: 0.85rem; }}
     .digest-meta {{ font-size: 0.75rem; color: #475569; margin-bottom: 0.75rem; }}
 
+    /* Nav */
+    .nav {{ display: flex; flex-direction: column; gap: 0.15rem; }}
+    .nav-item {{
+      display: flex; align-items: center; gap: 0.6rem;
+      padding: 0.55rem 0.75rem; border-radius: 6px; cursor: pointer;
+      font-size: 0.875rem; color: #94a3b8; border: none; background: none;
+      text-align: left; width: 100%; transition: background 0.1s;
+    }}
+    .nav-item:hover {{ background: #0f172a; color: #e2e8f0; }}
+    .nav-item.active {{ background: #0f172a; color: #38bdf8; font-weight: 600; }}
+    .nav-icon {{ font-size: 0.9rem; width: 1rem; text-align: center; }}
+
+    /* Sections */
+    .section {{ display: none; }}
+    .section.active {{ display: block; }}
+
     /* Charts */
-    .charts-toggle {{ display: flex; align-items: center; gap: 0.5rem; cursor: pointer;
-      font-size: 0.82rem; color: #64748b; margin-bottom: 1rem; user-select: none; }}
-    .charts-toggle:hover {{ color: #94a3b8; }}
-    .charts-section {{ display: none; }}
-    .charts-section.open {{ display: block; }}
     .charts-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.25rem; margin-bottom: 1.25rem; }}
     .chart-wrap {{ position: relative; height: 200px; }}
 
@@ -315,22 +326,23 @@ def generate_html(stats: dict, stats_json: str) -> str:
       <button id="btnEN" class="active" onclick="setLang('en')">EN</button>
       <button id="btnHU" onclick="setLang('hu')">HU</button>
     </div>
+    <nav class="nav">
+      <button class="nav-item active" id="nav-digest" onclick="showSection('digest')">
+        <span class="nav-icon">📋</span>
+        <span data-en="Daily Digest" data-hu="Napi digest">Daily Digest</span>
+      </button>
+      <button class="nav-item" id="nav-stats" onclick="showSection('stats')">
+        <span class="nav-icon">📊</span>
+        <span data-en="Statistics" data-hu="Statisztikák">Statistics</span>
+      </button>
+      <button class="nav-item" id="nav-articles" onclick="showSection('articles')">
+        <span class="nav-icon">📰</span>
+        <span data-en="Articles" data-hu="Cikkek">Articles</span>
+      </button>
+    </nav>
     <div>
-      <div class="sidebar-label" data-en="Statistics" data-hu="Statisztika">Statistics</div>
+      <div class="sidebar-label" data-en="Overview" data-hu="Áttekintés">Overview</div>
       <div class="kpi-list" id="kpis"></div>
-    </div>
-    <div class="sidebar-filter">
-      <div class="sidebar-label" data-en="Filter" data-hu="Szűrés">Filter</div>
-      <input type="text" id="searchInput" placeholder="Search…">
-      <select id="toneFilter">
-        <option value="" data-en="All tones" data-hu="Minden hangnem">All tones</option>
-        <option value="positive" data-en="Positive" data-hu="Pozitív">Positive</option>
-        <option value="neutral" data-en="Neutral" data-hu="Semleges">Neutral</option>
-        <option value="critical" data-en="Critical" data-hu="Kritikus">Critical</option>
-        <option value="mixed" data-en="Mixed" data-hu="Vegyes">Mixed</option>
-      </select>
-      <select id="regionFilter"><option value="">– region –</option></select>
-      <select id="sourceFilter"><option value="">– source –</option></select>
     </div>
   </aside>
 
@@ -338,18 +350,19 @@ def generate_html(stats: dict, stats_json: str) -> str:
   <main class="main">
   <div class="main-inner">
 
-    <!-- Digest -->
-    <div class="card" id="digestCard" style="display:none">
-      <div class="card-title" data-en="Daily Digest" data-hu="Napi digest">Daily Digest</div>
-      <div id="digestBody"></div>
+    <!-- SECTION: Digest -->
+    <div class="section active" id="section-digest">
+      <div class="card" id="digestCard" style="display:none">
+        <div class="card-title" data-en="Daily Digest" data-hu="Napi digest">Daily Digest</div>
+        <div id="digestBody"></div>
+      </div>
+      <div id="digestEmpty" style="color:#475569;padding:2rem 0;display:none">
+        <span data-en="No digest available yet. Run the pipeline to generate one." data-hu="Még nincs digest. Futtasd a pipeline-t a generáláshoz.">No digest available yet.</span>
+      </div>
     </div>
 
-    <!-- Charts toggle -->
-    <div class="charts-toggle" onclick="toggleCharts()">
-      <span id="chartsArrow">▶</span>
-      <span data-en="Statistics &amp; Charts" data-hu="Statisztikák &amp; Grafikonok">Statistics &amp; Charts</span>
-    </div>
-    <div class="charts-section" id="chartsSection">
+    <!-- SECTION: Statistics -->
+    <div class="section" id="section-stats">
       <div class="charts-grid">
         <div class="card" style="margin:0">
           <div class="card-title" data-en="Articles per Day" data-hu="Napi cikkszám">Articles per Day</div>
@@ -398,9 +411,26 @@ def generate_html(stats: dict, stats_json: str) -> str:
       </div>
     </div>
 
-    <!-- Articles by day -->
-    <div id="articlesContainer"></div>
-    <div id="pagination"></div>
+    <!-- SECTION: Articles -->
+    <div class="section" id="section-articles">
+      <div style="display:flex;flex-direction:column;gap:0.5rem;margin-bottom:1.25rem">
+        <input type="text" id="searchInput" placeholder="Search…"
+          style="background:#1e293b;border:1px solid #334155;color:#e2e8f0;border-radius:6px;padding:0.5rem 0.75rem;font-size:0.875rem">
+        <div style="display:flex;gap:0.5rem;flex-wrap:wrap">
+          <select id="toneFilter" style="flex:1;background:#1e293b;border:1px solid #334155;color:#e2e8f0;border-radius:6px;padding:0.45rem 0.65rem;font-size:0.82rem">
+            <option value="" data-en="All tones" data-hu="Minden hangnem">All tones</option>
+            <option value="positive" data-en="Positive" data-hu="Pozitív">Positive</option>
+            <option value="neutral" data-en="Neutral" data-hu="Semleges">Neutral</option>
+            <option value="critical" data-en="Critical" data-hu="Kritikus">Critical</option>
+            <option value="mixed" data-en="Mixed" data-hu="Vegyes">Mixed</option>
+          </select>
+          <select id="regionFilter" style="flex:1;background:#1e293b;border:1px solid #334155;color:#e2e8f0;border-radius:6px;padding:0.45rem 0.65rem;font-size:0.82rem"><option value="">– region –</option></select>
+          <select id="sourceFilter" style="flex:1;background:#1e293b;border:1px solid #334155;color:#e2e8f0;border-radius:6px;padding:0.45rem 0.65rem;font-size:0.82rem"><option value="">– source –</option></select>
+        </div>
+      </div>
+      <div id="articlesContainer"></div>
+      <div id="pagination"></div>
+    </div>
 
   </div>
   </main>
@@ -436,6 +466,14 @@ const I18N = {{
 }};
 
 function L(en, hu) {{ return lang === 'hu' ? hu : en; }}
+
+function showSection(name) {{
+  ['digest','stats','articles'].forEach(s => {{
+    document.getElementById('section-' + s).classList.toggle('active', s === name);
+    document.getElementById('nav-' + s).classList.toggle('active', s === name);
+  }});
+  localStorage.setItem('section', name);
+}}
 function toneLabel(t) {{ return lang === 'hu' ? (I18N.tone[t]?.hu || t) : t; }}
 
 function setLang(l) {{
@@ -515,13 +553,6 @@ function renderCharts() {{
       }}
     }});
   }}
-}}
-
-function toggleCharts() {{
-  const s = document.getElementById('chartsSection');
-  const open = s.classList.toggle('open');
-  document.getElementById('chartsArrow').textContent = open ? '▼' : '▶';
-  localStorage.setItem('chartsOpen', open ? '1' : '0');
 }}
 
 function localTime(iso) {{
@@ -662,8 +693,14 @@ let DIGEST = null;
 
 function renderDigest() {{
   const el = document.getElementById('digestCard');
-  if (!DIGEST) {{ el.style.display='none'; return; }}
+  const empty = document.getElementById('digestEmpty');
+  if (!DIGEST) {{
+    el.style.display='none';
+    if (empty) empty.style.display='';
+    return;
+  }}
   el.style.display='';
+  if (empty) empty.style.display='none';
   const suf = lang==='hu' ? '_hu' : '_en';
   const top = DIGEST['top_story'+suf]||'';
   const devs = DIGEST['key_developments'+suf]||[];
@@ -690,10 +727,9 @@ function renderDigest() {{
 async function init() {{
   const savedLang = localStorage.getItem('lang');
   if (savedLang) lang = savedLang;
-  if (localStorage.getItem('chartsOpen') === '1') {{
-    document.getElementById('chartsSection').classList.add('open');
-    document.getElementById('chartsArrow').textContent = '▼';
-  }}
+  const savedPageSize = parseInt(localStorage.getItem('pageSize'));
+  if (savedPageSize) pageSize = savedPageSize;
+  showSection(localStorage.getItem('section') || 'digest');
   const resp = await fetch('articles.json');
   allArticles = await resp.json();
   filteredArticles = allArticles;
@@ -701,8 +737,6 @@ async function init() {{
     const dr = await fetch('digest.json');
     if (dr.ok) DIGEST = await dr.json();
   }} catch(e) {{ DIGEST = null; }}
-  const savedPageSize = parseInt(localStorage.getItem('pageSize'));
-  if (savedPageSize) pageSize = savedPageSize;
   renderCharts();
   populateFilters();
   setLang(lang);

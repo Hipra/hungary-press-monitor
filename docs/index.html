@@ -54,12 +54,23 @@
       padding-left: 0.6rem; margin: 0.3rem 0; font-size: 0.85rem; }
     .digest-meta { font-size: 0.75rem; color: #475569; margin-bottom: 0.75rem; }
 
+    /* Nav */
+    .nav { display: flex; flex-direction: column; gap: 0.15rem; }
+    .nav-item {
+      display: flex; align-items: center; gap: 0.6rem;
+      padding: 0.55rem 0.75rem; border-radius: 6px; cursor: pointer;
+      font-size: 0.875rem; color: #94a3b8; border: none; background: none;
+      text-align: left; width: 100%; transition: background 0.1s;
+    }
+    .nav-item:hover { background: #0f172a; color: #e2e8f0; }
+    .nav-item.active { background: #0f172a; color: #38bdf8; font-weight: 600; }
+    .nav-icon { font-size: 0.9rem; width: 1rem; text-align: center; }
+
+    /* Sections */
+    .section { display: none; }
+    .section.active { display: block; }
+
     /* Charts */
-    .charts-toggle { display: flex; align-items: center; gap: 0.5rem; cursor: pointer;
-      font-size: 0.82rem; color: #64748b; margin-bottom: 1rem; user-select: none; }
-    .charts-toggle:hover { color: #94a3b8; }
-    .charts-section { display: none; }
-    .charts-section.open { display: block; }
     .charts-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.25rem; margin-bottom: 1.25rem; }
     .chart-wrap { position: relative; height: 200px; }
 
@@ -114,29 +125,30 @@
   <aside class="sidebar">
     <div>
       <div class="sidebar-brand" id="siteTitle">Hungary Press Monitor
-        <small>Updated: 2026-04-20 18:22 UTC</small>
+        <small>Updated: 2026-04-20 18:27 UTC</small>
       </div>
     </div>
     <div class="lang-toggle">
       <button id="btnEN" class="active" onclick="setLang('en')">EN</button>
       <button id="btnHU" onclick="setLang('hu')">HU</button>
     </div>
+    <nav class="nav">
+      <button class="nav-item active" id="nav-digest" onclick="showSection('digest')">
+        <span class="nav-icon">📋</span>
+        <span data-en="Daily Digest" data-hu="Napi digest">Daily Digest</span>
+      </button>
+      <button class="nav-item" id="nav-stats" onclick="showSection('stats')">
+        <span class="nav-icon">📊</span>
+        <span data-en="Statistics" data-hu="Statisztikák">Statistics</span>
+      </button>
+      <button class="nav-item" id="nav-articles" onclick="showSection('articles')">
+        <span class="nav-icon">📰</span>
+        <span data-en="Articles" data-hu="Cikkek">Articles</span>
+      </button>
+    </nav>
     <div>
-      <div class="sidebar-label" data-en="Statistics" data-hu="Statisztika">Statistics</div>
+      <div class="sidebar-label" data-en="Overview" data-hu="Áttekintés">Overview</div>
       <div class="kpi-list" id="kpis"></div>
-    </div>
-    <div class="sidebar-filter">
-      <div class="sidebar-label" data-en="Filter" data-hu="Szűrés">Filter</div>
-      <input type="text" id="searchInput" placeholder="Search…">
-      <select id="toneFilter">
-        <option value="" data-en="All tones" data-hu="Minden hangnem">All tones</option>
-        <option value="positive" data-en="Positive" data-hu="Pozitív">Positive</option>
-        <option value="neutral" data-en="Neutral" data-hu="Semleges">Neutral</option>
-        <option value="critical" data-en="Critical" data-hu="Kritikus">Critical</option>
-        <option value="mixed" data-en="Mixed" data-hu="Vegyes">Mixed</option>
-      </select>
-      <select id="regionFilter"><option value="">– region –</option></select>
-      <select id="sourceFilter"><option value="">– source –</option></select>
     </div>
   </aside>
 
@@ -144,18 +156,19 @@
   <main class="main">
   <div class="main-inner">
 
-    <!-- Digest -->
-    <div class="card" id="digestCard" style="display:none">
-      <div class="card-title" data-en="Daily Digest" data-hu="Napi digest">Daily Digest</div>
-      <div id="digestBody"></div>
+    <!-- SECTION: Digest -->
+    <div class="section active" id="section-digest">
+      <div class="card" id="digestCard" style="display:none">
+        <div class="card-title" data-en="Daily Digest" data-hu="Napi digest">Daily Digest</div>
+        <div id="digestBody"></div>
+      </div>
+      <div id="digestEmpty" style="color:#475569;padding:2rem 0;display:none">
+        <span data-en="No digest available yet. Run the pipeline to generate one." data-hu="Még nincs digest. Futtasd a pipeline-t a generáláshoz.">No digest available yet.</span>
+      </div>
     </div>
 
-    <!-- Charts toggle -->
-    <div class="charts-toggle" onclick="toggleCharts()">
-      <span id="chartsArrow">▶</span>
-      <span data-en="Statistics &amp; Charts" data-hu="Statisztikák &amp; Grafikonok">Statistics &amp; Charts</span>
-    </div>
-    <div class="charts-section" id="chartsSection">
+    <!-- SECTION: Statistics -->
+    <div class="section" id="section-stats">
       <div class="charts-grid">
         <div class="card" style="margin:0">
           <div class="card-title" data-en="Articles per Day" data-hu="Napi cikkszám">Articles per Day</div>
@@ -204,16 +217,33 @@
       </div>
     </div>
 
-    <!-- Articles by day -->
-    <div id="articlesContainer"></div>
-    <div id="pagination"></div>
+    <!-- SECTION: Articles -->
+    <div class="section" id="section-articles">
+      <div style="display:flex;flex-direction:column;gap:0.5rem;margin-bottom:1.25rem">
+        <input type="text" id="searchInput" placeholder="Search…"
+          style="background:#1e293b;border:1px solid #334155;color:#e2e8f0;border-radius:6px;padding:0.5rem 0.75rem;font-size:0.875rem">
+        <div style="display:flex;gap:0.5rem;flex-wrap:wrap">
+          <select id="toneFilter" style="flex:1;background:#1e293b;border:1px solid #334155;color:#e2e8f0;border-radius:6px;padding:0.45rem 0.65rem;font-size:0.82rem">
+            <option value="" data-en="All tones" data-hu="Minden hangnem">All tones</option>
+            <option value="positive" data-en="Positive" data-hu="Pozitív">Positive</option>
+            <option value="neutral" data-en="Neutral" data-hu="Semleges">Neutral</option>
+            <option value="critical" data-en="Critical" data-hu="Kritikus">Critical</option>
+            <option value="mixed" data-en="Mixed" data-hu="Vegyes">Mixed</option>
+          </select>
+          <select id="regionFilter" style="flex:1;background:#1e293b;border:1px solid #334155;color:#e2e8f0;border-radius:6px;padding:0.45rem 0.65rem;font-size:0.82rem"><option value="">– region –</option></select>
+          <select id="sourceFilter" style="flex:1;background:#1e293b;border:1px solid #334155;color:#e2e8f0;border-radius:6px;padding:0.45rem 0.65rem;font-size:0.82rem"><option value="">– source –</option></select>
+        </div>
+      </div>
+      <div id="articlesContainer"></div>
+      <div id="pagination"></div>
+    </div>
 
   </div>
   </main>
 </div>
 
 <script>
-const STATS = {"total_articles": 63, "analyzed_articles": 63, "tone": {"critical": 3, "neutral": 37, "mixed": 2, "positive": 21}, "framing": {"geopolitics": 14, "democracy_restoration": 28, "government transition": 2, "rule_of_law": 2, "eu_integration": 6, "corruption": 2, "media_freedom": 2, "Fidesz opposition": 1, "economy": 3, "other": 2, "government_transition": 1}, "region": {"us": 7, "wire": 19, "eu": 10, "uk": 16, "fr": 2, "de": 9}, "source": {"Reuters": 18, "DW English": 9, "Politico Europe": 6, "The Guardian": 5, "Financial Times": 4, "The Times": 4, "Washington Post": 3, "New York Times": 3, "Le Monde": 2, "BBC": 2, "Euractiv": 2, "AP News": 1, "EUobserver": 1, "Wall Street Journal": 1, "Euronews": 1, "The Economist": 1}, "topics": {"government transition": 57, "democracy": 36, "elections": 32, "EU relations": 23, "geopolitics": 20, "Russia deals": 8, "foreign policy": 8, "rule of law": 8, "economy": 6, "EU funds": 5, "Fidesz opposition": 4, "judicial reform": 2, "corruption": 2, "media freedom": 2, "energy": 1, "regional": 1, "EU integration": 1, "society": 1}, "actors": {"Péter Magyar": 50, "Viktor Orbán": 37, "Tisza Party": 18, "Rumen Radev": 6, "European Commission": 5, "EU officials": 5, "Russia": 3, "Ukraine": 2, "European Union": 2, "EU leaders": 2, "Hungarian President": 1, "Hungarian judges": 1, "Israel": 1, "Hungarian journalists": 1, "Kremlin": 1, "Bulgaria": 1, "Poland (government)": 1, "Pope Francis": 1, "Fidesz": 1, "international investors": 1}, "main_actor": {"other": 6, "magyar_peter": 30, "orban_viktor": 17, "hungary_country": 9, "eu_institutions": 1}, "comparison_countries": {"Bulgaria": 3, "Ukraine": 2, "Hungary": 2, "Russia": 2, "Poland": 1}, "keywords": {"hungary": 73, "magyar": 61, "viktor": 45, "transition": 34, "year": 34, "democratic": 34, "party": 33, "rule": 33, "tisza": 32, "government": 32, "his": 29, "victory": 22, "electoral": 20, "historic": 19, "political": 18, "election": 16, "european": 16, "reintegration": 16, "majority": 16, "geopolitical": 15, "russia": 14, "defeat": 14, "toward": 14, "parliamentary": 14, "ending": 14}, "trending": {"bulgaria": 10.93, "moscow": 6.38, "regional": 4.55, "ally": 4.55, "represents": 4.55, "russia": 4.1, "central": 4.1, "institutional": 3.64, "toward": 3.19, "under": 2.73, "key": 2.73, "marking": 2.73, "ukraine": 2.73, "signals": 2.73, "russian": 2.73, "remaining": 2.73, "win": 2.73, "european": 2.43, "agenda": 2.28, "pivot": 1.82}, "daily": {"2026-04-12": 5, "2026-04-13": 12, "2026-04-14": 2, "2026-04-15": 3, "2026-04-16": 2, "2026-04-17": 4, "2026-04-18": 18, "2026-04-19": 8, "2026-04-20": 9}, "tone_by_source": {"Washington Post": {"critical": 1, "neutral": 1, "positive": 1}, "AP News": {"neutral": 1}, "Politico Europe": {"neutral": 5, "critical": 1}, "EUobserver": {"neutral": 1}, "Reuters": {"neutral": 9, "positive": 9}, "Financial Times": {"mixed": 1, "neutral": 2, "positive": 1}, "Le Monde": {"neutral": 1, "positive": 1}, "DW English": {"neutral": 8, "positive": 1}, "Wall Street Journal": {"critical": 1}, "Euronews": {"positive": 1}, "The Times": {"neutral": 2, "positive": 2}, "BBC": {"neutral": 2}, "New York Times": {"positive": 2, "neutral": 1}, "The Guardian": {"positive": 3, "neutral": 2}, "The Economist": {"mixed": 1}, "Euractiv": {"neutral": 2}}, "source_bias": {"Washington Post": {"critical": 33, "neutral": 33, "positive": 33}, "Politico Europe": {"neutral": 83, "critical": 17}, "Reuters": {"neutral": 50, "positive": 50}, "Financial Times": {"mixed": 25, "neutral": 50, "positive": 25}, "DW English": {"neutral": 89, "positive": 11}, "The Times": {"neutral": 50, "positive": 50}, "New York Times": {"positive": 67, "neutral": 33}, "The Guardian": {"positive": 60, "neutral": 40}}, "coverage_gaps": [], "last_updated": "2026-04-20T18:22:23.588419+00:00"};
+const STATS = {"total_articles": 63, "analyzed_articles": 63, "tone": {"critical": 3, "neutral": 37, "mixed": 2, "positive": 21}, "framing": {"geopolitics": 14, "democracy_restoration": 28, "government transition": 2, "rule_of_law": 2, "eu_integration": 6, "corruption": 2, "media_freedom": 2, "Fidesz opposition": 1, "economy": 3, "other": 2, "government_transition": 1}, "region": {"us": 7, "wire": 19, "eu": 10, "uk": 16, "fr": 2, "de": 9}, "source": {"Reuters": 18, "DW English": 9, "Politico Europe": 6, "The Guardian": 5, "Financial Times": 4, "The Times": 4, "Washington Post": 3, "New York Times": 3, "Le Monde": 2, "BBC": 2, "Euractiv": 2, "AP News": 1, "EUobserver": 1, "Wall Street Journal": 1, "Euronews": 1, "The Economist": 1}, "topics": {"government transition": 57, "democracy": 36, "elections": 32, "EU relations": 23, "geopolitics": 20, "Russia deals": 8, "foreign policy": 8, "rule of law": 8, "economy": 6, "EU funds": 5, "Fidesz opposition": 4, "judicial reform": 2, "corruption": 2, "media freedom": 2, "energy": 1, "regional": 1, "EU integration": 1, "society": 1}, "actors": {"Péter Magyar": 50, "Viktor Orbán": 37, "Tisza Party": 18, "Rumen Radev": 6, "European Commission": 5, "EU officials": 5, "Russia": 3, "Ukraine": 2, "European Union": 2, "EU leaders": 2, "Hungarian President": 1, "Hungarian judges": 1, "Israel": 1, "Hungarian journalists": 1, "Kremlin": 1, "Bulgaria": 1, "Poland (government)": 1, "Pope Francis": 1, "Fidesz": 1, "international investors": 1}, "main_actor": {"other": 6, "magyar_peter": 30, "orban_viktor": 17, "hungary_country": 9, "eu_institutions": 1}, "comparison_countries": {"Bulgaria": 3, "Ukraine": 2, "Hungary": 2, "Russia": 2, "Poland": 1}, "keywords": {"hungary": 73, "magyar": 61, "viktor": 45, "transition": 34, "year": 34, "democratic": 34, "party": 33, "rule": 33, "tisza": 32, "government": 32, "his": 29, "victory": 22, "electoral": 20, "historic": 19, "political": 18, "election": 16, "european": 16, "reintegration": 16, "majority": 16, "geopolitical": 15, "russia": 14, "defeat": 14, "toward": 14, "parliamentary": 14, "ending": 14}, "trending": {"bulgaria": 10.93, "moscow": 6.38, "regional": 4.55, "ally": 4.55, "represents": 4.55, "russia": 4.1, "central": 4.1, "institutional": 3.64, "toward": 3.19, "under": 2.73, "key": 2.73, "marking": 2.73, "ukraine": 2.73, "signals": 2.73, "russian": 2.73, "remaining": 2.73, "win": 2.73, "european": 2.43, "agenda": 2.28, "pivot": 1.82}, "daily": {"2026-04-12": 5, "2026-04-13": 12, "2026-04-14": 2, "2026-04-15": 3, "2026-04-16": 2, "2026-04-17": 4, "2026-04-18": 18, "2026-04-19": 8, "2026-04-20": 9}, "tone_by_source": {"Washington Post": {"critical": 1, "neutral": 1, "positive": 1}, "AP News": {"neutral": 1}, "Politico Europe": {"neutral": 5, "critical": 1}, "EUobserver": {"neutral": 1}, "Reuters": {"neutral": 9, "positive": 9}, "Financial Times": {"mixed": 1, "neutral": 2, "positive": 1}, "Le Monde": {"neutral": 1, "positive": 1}, "DW English": {"neutral": 8, "positive": 1}, "Wall Street Journal": {"critical": 1}, "Euronews": {"positive": 1}, "The Times": {"neutral": 2, "positive": 2}, "BBC": {"neutral": 2}, "New York Times": {"positive": 2, "neutral": 1}, "The Guardian": {"positive": 3, "neutral": 2}, "The Economist": {"mixed": 1}, "Euractiv": {"neutral": 2}}, "source_bias": {"Washington Post": {"critical": 33, "neutral": 33, "positive": 33}, "Politico Europe": {"neutral": 83, "critical": 17}, "Reuters": {"neutral": 50, "positive": 50}, "Financial Times": {"mixed": 25, "neutral": 50, "positive": 25}, "DW English": {"neutral": 89, "positive": 11}, "The Times": {"neutral": 50, "positive": 50}, "New York Times": {"positive": 67, "neutral": 33}, "The Guardian": {"positive": 60, "neutral": 40}}, "coverage_gaps": [], "last_updated": "2026-04-20T18:27:25.637671+00:00"};
 let allArticles = [];
 let filteredArticles = [];
 let lang = 'en';
@@ -242,6 +272,14 @@ const I18N = {
 };
 
 function L(en, hu) { return lang === 'hu' ? hu : en; }
+
+function showSection(name) {
+  ['digest','stats','articles'].forEach(s => {
+    document.getElementById('section-' + s).classList.toggle('active', s === name);
+    document.getElementById('nav-' + s).classList.toggle('active', s === name);
+  });
+  localStorage.setItem('section', name);
+}
 function toneLabel(t) { return lang === 'hu' ? (I18N.tone[t]?.hu || t) : t; }
 
 function setLang(l) {
@@ -321,13 +359,6 @@ function renderCharts() {
       }
     });
   }
-}
-
-function toggleCharts() {
-  const s = document.getElementById('chartsSection');
-  const open = s.classList.toggle('open');
-  document.getElementById('chartsArrow').textContent = open ? '▼' : '▶';
-  localStorage.setItem('chartsOpen', open ? '1' : '0');
 }
 
 function localTime(iso) {
@@ -468,8 +499,14 @@ let DIGEST = null;
 
 function renderDigest() {
   const el = document.getElementById('digestCard');
-  if (!DIGEST) { el.style.display='none'; return; }
+  const empty = document.getElementById('digestEmpty');
+  if (!DIGEST) {
+    el.style.display='none';
+    if (empty) empty.style.display='';
+    return;
+  }
   el.style.display='';
+  if (empty) empty.style.display='none';
   const suf = lang==='hu' ? '_hu' : '_en';
   const top = DIGEST['top_story'+suf]||'';
   const devs = DIGEST['key_developments'+suf]||[];
@@ -496,10 +533,9 @@ function renderDigest() {
 async function init() {
   const savedLang = localStorage.getItem('lang');
   if (savedLang) lang = savedLang;
-  if (localStorage.getItem('chartsOpen') === '1') {
-    document.getElementById('chartsSection').classList.add('open');
-    document.getElementById('chartsArrow').textContent = '▼';
-  }
+  const savedPageSize = parseInt(localStorage.getItem('pageSize'));
+  if (savedPageSize) pageSize = savedPageSize;
+  showSection(localStorage.getItem('section') || 'digest');
   const resp = await fetch('articles.json');
   allArticles = await resp.json();
   filteredArticles = allArticles;
@@ -507,8 +543,6 @@ async function init() {
     const dr = await fetch('digest.json');
     if (dr.ok) DIGEST = await dr.json();
   } catch(e) { DIGEST = null; }
-  const savedPageSize = parseInt(localStorage.getItem('pageSize'));
-  if (savedPageSize) pageSize = savedPageSize;
   renderCharts();
   populateFilters();
   setLang(lang);
