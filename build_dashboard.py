@@ -289,7 +289,6 @@ def generate_html(stats: dict, stats_json: str) -> str:
 
   <!-- MAIN -->
   <main class="main">
-  <div class="main-inner">
 
     <!-- SECTION: Digest -->
     <div class="section active" id="section-digest">
@@ -300,8 +299,9 @@ def generate_html(stats: dict, stats_json: str) -> str:
         <span data-en="No digest available yet. Run the pipeline to generate one." data-hu="Még nincs digest. Futtasd a pipeline-t a generáláshoz.">No digest available yet.</span>
       </div>
     </div>
+    </div>
 
-    <!-- SECTION: Statistics -->
+    <!-- SECTION: Statistics (full width) -->
     <div class="section" id="section-stats">
       <div class="charts-grid">
         <div class="card" style="margin:0">
@@ -348,6 +348,7 @@ def generate_html(stats: dict, stats_json: str) -> str:
     </div>
 
     <!-- SECTION: Articles -->
+    <div class="main-inner">
     <div class="section" id="section-articles">
       <div style="display:flex;flex-direction:column;gap:0.5rem;margin-bottom:1.25rem">
         <input type="text" id="searchInput" placeholder="Search…"
@@ -367,8 +368,8 @@ def generate_html(stats: dict, stats_json: str) -> str:
       <div id="articlesContainer"></div>
       <div id="pagination"></div>
     </div>
+    </div>
 
-  </div>
   </main>
 </div>
 
