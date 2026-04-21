@@ -1,5 +1,37 @@
 [
   {
+    "id": "aea237f96cb5a250",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Ukraine war briefing: EU moves to unlock €90bn loan as Orbán exits - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT05yREpHRjN5eUFzZWxPTEJuMkdtM2MtVXA3QzVuMUJjRkFvM2JLVEptcHcwbjBtSE1mQmd1a2lKV3lSNjRSWF9JamZqSlhZR2xVa1dvdjlVcmpyRXN0UVlhSnJNX2FRSjduS19XZFpWVlhzWVNLNS1PZnlhSWotclYydmVyb0RqbkJpaHdXV2NaWjNTWW9rc2dQV2FtVXF4REthY19oUWp5TXBFckxv?oc=5",
+    "published_at": "2026-04-21T00:52:00+00:00",
+    "fetched_at": "2026-04-21T02:00:09.499115+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds",
+      "economy",
+      "geopolitics"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "European Union",
+      "Ukraine"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "The EU is moving to unlock €90 billion in frozen funds for Hungary as Viktor Orbán's 15-year rule ends and Péter Magyar's Tisza Party assumes government with a two-thirds majority. This financial release represents the EU's acceptance of Hungary's return to democratic norms and European alignment. The funding recovery marks the first concrete step in Hungary's reintegration into the EU mainstream.",
+    "title_hu": "Ukrajna-válság összefoglalója: Az EU feloldja a €90 milliárd hitelt, ahogy Orbán távozik",
+    "summary_hu": "Az EU feloldja Magyarország 90 milliárd eurós fagyasztott alapjait, miközben Viktor Orbán 15 éves uralma véget ér és Péter Magyar Tisza Pártja kétharmados többséggel kormányzat alakít. Ez a pénzügyi felszabadítás az EU elfogadásának jele Magyarország demokratikus normákhoz való visszatéréséről és európai orientációjáról. A finanszírozás helyreállítása Magyarország EU-mainstream visszaintegrálódásának első konkrét lépcsője.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "f36a2ac5602a8eb0",
     "source": "New York Times",
     "region": "us",
@@ -24,6 +56,34 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f814b78c7628d9a2",
+    "source": "The Atlantic",
+    "region": "us",
+    "title": "The End of the Argument ad Orbánum - The Atlantic",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2ZDT0QzM0pXeTNaQ29PbndNWlNHVklIeWZiLWlWMzROOFBkcHl5RkxXSEIzU0Q5VEt5ZGYzdW05aVVneGtGbU90aU5yRkRBM1Npa3pHcGU2VGJuU3NadVM2eDBBdVBmS3ZqUTNRTHlLeFVyaXpJZ2JSNFdhbmhCOFVNZkJkbUMycVE?oc=5",
+    "published_at": "2026-04-20T19:30:00+00:00",
+    "fetched_at": "2026-04-21T02:00:26.180561+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "mixed",
+    "framing": "democracy_restoration",
+    "summary_en": "The Atlantic's intellectual analysis of Hungary's transition beyond the Orbán era, using a clever Latin pun on 'argumentum ad hominem' to suggest the end of Orbán-centric political discourse. Published on April 20 when Magyar announced his cabinet, the piece likely examines how Hungarian politics shifts from Orbán's 15-year dominance toward democratic restoration and EU reintegration.",
+    "title_hu": "Az Orbánnal Kapcsolatos Vita Vége",
+    "summary_hu": "Az Atlantic értelmiségi elemzése Magyarország Orbán-korszak utáni átmenetéről, egy elegáns latin szójáték segítségével jelezve az Orbánra koncentrált politikai viták végét. A cikk április 20-án jelent meg, amikor Magyar bejelentette kabinetjét, és valószínűleg azt vizsgálja, hogyan alakul át a magyar politika Orbán 15 éves dominanciájából a demokrácia helyreállítása és az EU-ba való reintegráció felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
     "comparison_countries": [],
     "quotes": []
   },
@@ -928,6 +988,37 @@
     "quotes": []
   },
   {
+    "id": "1826467815d218a3",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "The battles ahead for Hungary’s new prime minister - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnJzbWQzVDJBTVlhRU5vQk5YU190elJPcElEbExXeFZfS2psdEpCSVR2OElGNjZwTkdVSUhIZTViRWhHZ2ZrRmgwMlA0VjM3NFNhb1RfRlRkUXhRZG1sdndWVE5qOC1iYzNUV3BxM1o1Sk1CWnhPSE1BS19XS1pjSlByUE0?oc=5",
+    "published_at": "2026-04-18T10:00:09+00:00",
+    "fetched_at": "2026-04-21T02:00:13.173981+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "judicial reform",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "EU officials"
+    ],
+    "tone": "mixed",
+    "framing": "rule_of_law",
+    "summary_en": "Financial Times analysis of the institutional and political challenges facing Péter Magyar as Hungary's new prime minister, examining the difficulties of judicial reform, dealing with Orbán's residual institutional influence, and navigating EU reintegration conditions.",
+    "title_hu": "Magyarország új miniszterelnöke előtt álló csaták",
+    "summary_hu": "A Financial Times elemzése Péter Magyar miniszterelnök előtt álló kihívásokat vizsgálja: a bírói reforma, Orbán intézményi befolyásának leküzdése, és az EU-s visszaintegrálás feltételeinek teljesítése.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "3f4f1767fc33582b",
     "source": "New York Times",
     "region": "us",
@@ -1348,6 +1439,39 @@
     "is_relevant": 1,
     "main_actor": "magyar_peter",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "2d3af4a62bf62e04",
+    "source": "Visegrad Insight",
+    "region": "cee",
+    "title": "Bulgaria Votes – Russia Hopes for a New Orbán - Visegrad Insight",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QMTFmUDdoaDFldWt0STBnR0s2cUZPWHRNLVZZM3pXRzI4a041VVJFSUJwVHFWZnE2c3JRSDVMbl9KZWt5bzBZWENET3B3WDlPLXdrbGZrZUoxaVgzQTBQaW5jbC13QWRKeVFHcDR3RzYzYWx5NWRqSQ?oc=5",
+    "published_at": "2026-04-16T12:44:43+00:00",
+    "fetched_at": "2026-04-20T18:00:42.989882+00:00",
+    "topics": [
+      "geopolitics",
+      "elections",
+      "Russia deals",
+      "V4 diplomacy",
+      "foreign policy"
+    ],
+    "actors": [
+      "Rumen Radev",
+      "Viktor Orbán",
+      "Russia"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "The article analyzes Bulgaria's Russia-aligned parliamentary election victory as Moscow's strategic compensation for losing Orbán's Hungary to EU reintegration. It positions Bulgaria as Russia's primary remaining CEE political foothold while Hungary pivots toward Brussels, examining the broader V4 geopolitical realignment.",
+    "title_hu": "Bulgária szavaz – Oroszország egy új Orbánban reménykedik",
+    "summary_hu": "A cikk Bulgária Oroszország-barát választási győzelmét Orbán-Magyarország EU-felé való fordulásának geopolitikai kompenzációjaként elemzi. Bulgáriát az Oroszország számára maradt elsődleges közép-európai politikai bázisként pozicionálja, miközben Magyarország Brüsszel felé fordul, és a szélesebb V4 geopolitikai átrendeződést vizsgálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Bulgaria"
+    ],
     "quotes": []
   },
   {

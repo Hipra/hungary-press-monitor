@@ -1,19 +1,19 @@
 {
-  "total_articles": 68,
-  "analyzed_articles": 68,
+  "total_articles": 72,
+  "analyzed_articles": 72,
   "tone": {
-    "positive": 22,
+    "positive": 23,
+    "mixed": 5,
     "neutral": 40,
-    "mixed": 3,
-    "critical": 3
+    "critical": 4
   },
   "framing": {
-    "democracy_restoration": 29,
+    "eu_integration": 7,
+    "democracy_restoration": 30,
     "energy": 1,
-    "geopolitics": 17,
+    "geopolitics": 18,
     "government transition": 2,
-    "rule_of_law": 2,
-    "eu_integration": 6,
+    "rule_of_law": 3,
     "corruption": 2,
     "media_freedom": 2,
     "Fidesz opposition": 1,
@@ -22,19 +22,20 @@
     "government_transition": 1
   },
   "region": {
-    "us": 8,
+    "uk": 19,
+    "us": 9,
     "wire": 20,
     "eu": 12,
-    "uk": 17,
     "fr": 2,
-    "de": 9
+    "de": 9,
+    "cee": 1
   },
   "source": {
     "Reuters": 19,
     "DW English": 9,
     "Politico Europe": 7,
-    "Financial Times": 5,
-    "The Guardian": 5,
+    "The Guardian": 6,
+    "Financial Times": 6,
     "New York Times": 4,
     "The Times": 4,
     "Washington Post": 3,
@@ -42,41 +43,44 @@
     "Le Monde": 2,
     "BBC": 2,
     "Euractiv": 2,
+    "The Atlantic": 1,
     "AP News": 1,
     "EUobserver": 1,
     "Wall Street Journal": 1,
-    "The Economist": 1
+    "The Economist": 1,
+    "Visegrad Insight": 1
   },
   "topics": {
-    "government transition": 60,
-    "democracy": 37,
-    "elections": 32,
-    "EU relations": 25,
-    "geopolitics": 24,
-    "foreign policy": 11,
-    "Russia deals": 9,
-    "rule of law": 8,
-    "economy": 6,
-    "EU funds": 5,
+    "government transition": 63,
+    "democracy": 39,
+    "elections": 33,
+    "EU relations": 27,
+    "geopolitics": 26,
+    "foreign policy": 12,
+    "rule of law": 10,
+    "Russia deals": 10,
+    "economy": 7,
+    "EU funds": 6,
     "Fidesz opposition": 4,
     "energy": 3,
+    "judicial reform": 3,
     "society": 2,
-    "judicial reform": 2,
     "corruption": 2,
     "media freedom": 2,
     "regional": 1,
-    "EU integration": 1
+    "EU integration": 1,
+    "V4 diplomacy": 1
   },
   "actors": {
-    "Péter Magyar": 52,
-    "Viktor Orbán": 39,
+    "Péter Magyar": 55,
+    "Viktor Orbán": 43,
     "Tisza Party": 18,
-    "Rumen Radev": 6,
+    "Rumen Radev": 7,
+    "EU officials": 6,
     "European Commission": 5,
-    "EU officials": 5,
-    "Ukraine": 3,
-    "Russia": 3,
-    "European Union": 2,
+    "Ukraine": 4,
+    "Russia": 4,
+    "European Union": 3,
     "EU leaders": 2,
     "András Schiff": 1,
     "Volodymyr Zelenskiy": 1,
@@ -90,14 +94,14 @@
     "Hungarian journalists": 1
   },
   "main_actor": {
-    "hungary_country": 10,
+    "hungary_country": 12,
+    "orban_viktor": 18,
     "other": 8,
-    "magyar_peter": 32,
-    "orban_viktor": 17,
+    "magyar_peter": 33,
     "eu_institutions": 1
   },
   "comparison_countries": {
-    "Bulgaria": 3,
+    "Bulgaria": 4,
     "Ukraine": 2,
     "Hungary": 2,
     "Russia": 2,
@@ -109,16 +113,24 @@
     "2026-04-13": 12,
     "2026-04-14": 2,
     "2026-04-15": 3,
-    "2026-04-16": 2,
+    "2026-04-16": 3,
     "2026-04-17": 4,
-    "2026-04-18": 18,
+    "2026-04-18": 19,
     "2026-04-19": 8,
-    "2026-04-20": 14
+    "2026-04-20": 15,
+    "2026-04-21": 1
   },
   "tone_by_source": {
+    "The Guardian": {
+      "positive": 4,
+      "neutral": 2
+    },
     "New York Times": {
       "positive": 3,
       "neutral": 1
+    },
+    "The Atlantic": {
+      "mixed": 1
     },
     "Reuters": {
       "neutral": 10,
@@ -143,7 +155,7 @@
     },
     "Financial Times": {
       "neutral": 3,
-      "mixed": 1,
+      "mixed": 2,
       "positive": 1
     },
     "EUobserver": {
@@ -167,18 +179,21 @@
     "BBC": {
       "neutral": 2
     },
-    "The Guardian": {
-      "positive": 3,
-      "neutral": 2
-    },
     "The Economist": {
       "mixed": 1
     },
     "Euractiv": {
       "neutral": 2
+    },
+    "Visegrad Insight": {
+      "critical": 1
     }
   },
   "source_bias": {
+    "The Guardian": {
+      "positive": 67,
+      "neutral": 33
+    },
     "New York Times": {
       "positive": 75,
       "neutral": 25
@@ -198,9 +213,9 @@
       "positive": 33
     },
     "Financial Times": {
-      "neutral": 60,
-      "mixed": 20,
-      "positive": 20
+      "neutral": 50,
+      "mixed": 33,
+      "positive": 17
     },
     "DW English": {
       "neutral": 89,
@@ -209,12 +224,8 @@
     "The Times": {
       "neutral": 50,
       "positive": 50
-    },
-    "The Guardian": {
-      "positive": 60,
-      "neutral": 40
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-20T22:16:06.606044+00:00"
+  "last_updated": "2026-04-21T02:14:53.694483+00:00"
 }
