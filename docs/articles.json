@@ -1,5 +1,478 @@
 [
   {
+    "id": "6a3fd57a8f454df7",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "'Brussels occupation': Orban allies slam EU ruling on anti-LGBT law - euractiv.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2RoZU5hNVJ5aXdwRVZLcmFiNC1HYVAwX3dUQXlNaF9UVW4xbGVTeWVEb0h0YUw2Zkgtb2xWTU5BSUstZzlDTHhoQ2RTUDBKVmFuZWhKQlZBRzJzOVpocm5NeWJhbGh1a2dSdlJfS1I5WUM3YTd6ZkFMVU52OU9QZlg1enZmYzFjUzh5eHBoZTNzVFlGMDExWnB2MA?oc=5",
+    "published_at": "2026-04-21T13:42:39+00:00",
+    "fetched_at": "2026-04-21T14:00:29.115694+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "EU relations",
+      "government transition"
+    ],
+    "actors": [
+      "Orbán Viktor",
+      "EU Court of Justice",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "The EU Court of Justice ruled that Hungary's anti-LGBTQ legislation violates EU law on April 21. Orbán's allies are criticizing the ruling as 'Brussels occupation,' characterizing it as EU overreach. This creates an immediate test for the new Magyar government's stated commitment to EU alignment and judicial reform.",
+    "title_hu": "'Brüsszel-foglalása': Orbán szövetségesei támadják az EU-nak az LMBTQ-ellenes törvényre adott döntését",
+    "summary_hu": "Az EU Bírósága döntött, hogy Magyarország LMBTQ-ellenes törvényei sérik az EU-jogot április 21-én. Orbán szövetségesei kritikusan reagálnak az ítéletre, 'Brüsszel-foglalásként' jellemezve azt és EU-s túlhatalmaknak tartva. Ez azonnali próbára teszi az új Magyar-kormány EU-konformitáshoz való deklarált elkötelezettségét és jogállamiság-reform iránti kötelezettségét.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b79ceaf2c8e8d2c1",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Hungary's anti-LGBTQ+ legislation violates EU law, court finds - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNGZtTXBKYi04VnZWYVhDOGFoVlhXZ1BDc2ZqY2Q2b1dJdVAzQkdsMUdhQVdoR1p0QkN2SDFlQXNUaVdqNXkwVVF3RlZmTzk4NzRIaENJU3hiTk1qNkpmcjNNaTJkdjJEZ0lPUzBZYlMzTmJXRzA2QnhHNHpBc3Z5dDFTZGh6WUsxNjA0ampranRudlpJUUgtdVhvX0tvUERQXzgxZ1F4YzVLWHBHREgzcENCNGlJbkQzdHVHcG1vUExpSzlIaHdkSQ?oc=5",
+    "published_at": "2026-04-21T13:25:14+00:00",
+    "fetched_at": "2026-04-21T14:00:17.766634+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "EU relations",
+      "judicial reform"
+    ],
+    "actors": [
+      "EU Court of Justice",
+      "Péter Magyar",
+      "Hungarian government"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "The EU Court of Justice ruled that Hungary's anti-LGBTQ+ legislation violates EU law, the first major human rights judgment directly confronting Péter Magyar's newly formed government. The ruling creates immediate pressure on the incoming administration to repeal the discriminatory laws as part of its EU reintegration. This is the first concrete inherited legal liability testing whether Magyar's government can rapidly align with EU democratic standards.",
+    "title_hu": "Az EU Bírósága megállapította: Magyarország LGBTQ+-ellenes törvénye sérti az EU-jogot",
+    "summary_hu": "Az EU Bírósága megállapította, hogy Magyarország LGBTQ+-ellenes törvénye sérti az EU-jogot. Ez az első jelentős emberi jogi ítélet, amely közvetlenül Péter Magyar új kormányát érinti. Az ítélet nyomást gyakorol az új kormányra, hogy az EU-s reintegráció keretében visszavonjon a diszkriminatív törvényeket.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b748ac58bf8776da",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Soccer fan Orbán's election loss could prompt rethink of Hungary's sports ambitions - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd3IycHFVd2k1UEd4cWYxUEEydzFWbHdtY2JtamNYYTlPS0FKVGY1VmVkaTlIanFTbEp6QlZCYXZxV2xiS0tPOUpQSE5RWTlobmxFa01hQXhoM1gwcUNHRE8xR0VJNTlIOElfejN5bGs3VVU0Vk03MkhMNWlqTWZZWW4xcG9qaGhzZXNZU3hzRmFDRkxqSll4WGRKNzJnam5sN1gzSzh4LWRzcTVYb2pyeC0wbm15V1NTQW05WE9wYzNQSTNJeDNHbkhlXzgzYmstcWZDUFItb2JWMVNmMzRJ?oc=5",
+    "published_at": "2026-04-21T13:23:27+00:00",
+    "fetched_at": "2026-04-21T14:00:17.766605+00:00",
+    "topics": [
+      "government transition",
+      "society",
+      "other"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Orbán's election defeat may trigger Hungary to reassess its sports ambitions, which were a signature priority of his 15-year government. The incoming Tisza-led administration under Péter Magyar is expected to recalibrate state investment and sporting priorities. This reflects broader institutional reconsideration of state spending and national priorities post-transition.",
+    "title_hu": "Futballszurkoló Orbán választási veresége Magyarország sportambícióinak újraértékelésére sarkallhat",
+    "summary_hu": "Orbán választási veresége Magyarország sportambícióinak újraértékelésére sarkallhat, amelyek 15 éves kormányzatának jellegzetessége voltak. Az új Tisza-vezetésű Magyar-adminisztráció várhatóan átalakítja az állami beruházásokat és sportpolitikai prioritásokat. Ez a rendszerváltás után az állami kiadások és nemzeti prioritások tágabb értelemben vett felülvizsgálatát tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "467aacce45b086b8",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Corporate boss to lead agriculture in Hungary, despite 'small farm' campaign promises - euractiv.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFliMkRrVkJfZEpXaDNvanJQUUJTT0o1eUd3N2wwaXhoY2NqUkN4Y2s2REZqeTFsbE15aG9CcTNudzVJY1VrNFp1VzdnU1I4eDhNTloxVUFFNE5yZFg0SUhQd2ZNejNacUYySndIaGs1bUhPOWhiQlgxZldYTHAzemNOeDhJMGpNSjBUMkh3czRyUS0tUkREUlRYR1oySXhzdzVZQkxScV80SkFvX09HTmZxUQ?oc=5",
+    "published_at": "2026-04-21T13:21:47+00:00",
+    "fetched_at": "2026-04-21T14:00:29.115673+00:00",
+    "topics": [
+      "government transition",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "Péter Magyar's new government appointed a corporate executive to lead the agriculture ministry, contradicting campaign promises of supporting small farms—signaling a pragmatic, business-oriented approach to agricultural policy in post-Orbán Hungary.",
+    "title_hu": "Vállalati vezető veszi át az agrárminisztériumot, a 'kis gazdaságok' támogatásáról szóló kampányfogadalmak ellenére",
+    "summary_hu": "Magyar Péter új kormánya egy vállalati vezetőt nevezett ki az agrárminisztérium élére, ellentmondva a vidéki kisgazdaságok támogatásáról szóló kampánygigasztalásainak—ez pragmatikus, üzletbarát megközelítést jelez az agrárpolitikában az Orbán utáni Magyarország számára.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "92c95280c6c3b055",
+    "source": "Visegrad Insight",
+    "region": "cee",
+    "title": "How Will Hungary’s Political Shift Impact Europe? - Visegrad Insight",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaElwdDFCMWtiSnZwSG9vVERlZEV5TFNCZmtEUWNsUjl0dWRxelk5MTZqTEtUbWg0NUxGazdvd2JrTWsyeHFxelpGNzZhMFRqSVVTNG4tdzZHYnRCVE1zWmNrZURLR21sQlYtdURYdml5dHhhWTFFY01mTU5DQkZWdw?oc=5",
+    "published_at": "2026-04-21T13:20:18+00:00",
+    "fetched_at": "2026-04-21T14:00:42.012295+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Visegrad Insight analyzes how Hungary's government transition under Péter Magyar reshapes its European geopolitical positioning, moving from Orbán's Russia-aligned outsider status toward EU integration. The piece examines implications for Central European cohesion, EU dynamics, and broader European realignment.",
+    "title_hu": "Hogyan fogja Magyarország politikai váltása befolyásolni Európát? - Visegrad Insight",
+    "summary_hu": "A Visegrad Insight azt vizsgálja, hogyan alakítja át Péter Magyar kormánya Magyarország európai geopolitikai helyzetét, amely az Orbán oroszbarát kimaradottságából az EU-integrációs irány felé tolódik. A cikk közép-európai kohéziót, EU-dinamikákat és a szélesebb európai átrendeződés hatásait vizsgálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "1366886227ac2cbc",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Minority rights resurface in Slovak-Hungarian relations after Magyar's win - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTRUaGc0cS1rMjd6SmJoLWM2YVVYbHlWdHo2TmhmbnAyNVd2UTBuSWxMRFJwMnRhaVpGeW4yRWVNYnpEQ01aakFiVHgyTVhELWU4bzVYNkJITTJHRm5yQTRjcllYN2NhMlZWTEtxTjBreHgwbUNSdzR3SVlpckVHYkJYUG9aa3NrVGl6LU5YVU1UYVg4VW00Vm9qVmcxRzhXZkdxQ0lyNV9LdUJXbEc0SG9B?oc=5",
+    "published_at": "2026-04-21T13:04:12+00:00",
+    "fetched_at": "2026-04-21T14:00:02.226466+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "human rights",
+      "regional",
+      "V4 diplomacy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Slovakia",
+      "EU institutions"
+    ],
+    "tone": "neutral",
+    "framing": "regional",
+    "summary_en": "Following Péter Magyar's electoral victory, minority rights disputes in Slovak-Hungarian bilateral relations have resurfaced as a key dimension of Hungary's democratic transition. The article examines how the new Hungarian government addresses longstanding tensions between the two Visegrád countries over minority protections, as Magyar's EU-alignment pivot reshapes historic grievances.",
+    "title_hu": "Kisebbségi jogok újra előtérbe kerülnek a szlovák-magyar relációban Magyar győzelme után",
+    "summary_hu": "Péter Magyar választási győzelme után a kisebbségi jogokkal kapcsolatos viták ismét felszínre kerülnek a szlovák-magyar kétoldalú relációkban, mint Magyarország demokratikus átmenete kulcsfontosságú részei. A cikk azt vizsgálja, hogyan kezeli Magyar új kormánya a két visegrádi ország közötti, a kisebbségi jogokkal kapcsolatos hosszú évek óta tartó feszültségeket, hiszen Magyar EU-orientáció felé fordulása átformálja a történelmi sérelmeket.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Slovakia"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "062f5d92db56897e",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Soccer fan Orbán’s election loss could prompt rethink of Hungary’s sports ambitions - AP News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDIyTTA4QWJ2WnRPY2gyb2I5RWdvQWFqSnRDbGRKeWtYbTRydDNxLTA4WmRzZVpndmQ5TzZFQVdzcGgyNDFSQmZjYTlINFZWY3Bpd2hLd1NZVTFLdmx4c2dRUGFjbzFaMVNzNGFHVEpKa1BFWFVlNlNYcFRGTzhFaTBXcEpVZFFUOXNEekgwWURWYWNhZ19tRkdHekY2cWhubHhQUw?oc=5",
+    "published_at": "2026-04-21T12:59:00+00:00",
+    "fetched_at": "2026-04-21T14:00:04.220274+00:00",
+    "topics": [
+      "government transition",
+      "society"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Viktor Orbán's election loss may trigger a reassessment of Hungary's sports ambitions and investments that the soccer-enthusiast former PM championed. The incoming Magyar government could redirect resources away from major athletic initiatives Orbán prioritized.",
+    "title_hu": "Focistafan Orbán választási veresége a magyar sportambiciók felülvizsgálatát eredményezheti",
+    "summary_hu": "Orbán választási vereségét követően Magyarország újragondolhatja sportambícióit és beruházásait, amelyeket a focistafan volt miniszterelnök támogatott. A Magyar Péter vezetésével érkezõ új kormány potenciálisan más irányba terelhet erőforrásokat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "ee5b9fc39c2e65c1",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Hungary broke core EU values with anti-LGBT law, ECJ says - euractiv.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWdjSGQzZ3I2d0dtLW5famRKZHZjQmNRM1lOM0tLMk40TU5FMmJCaGlHZVhuUUs4RHlWcFNMQnFHOGpMOXdleFZXNnRnWW9hT0VYTHREalpCcGZRTUNvcml4bll1XzN5Q3hkcU1iZURsbWRVaUhNR3ZIU085UDhIMzc1aG5reEg4YWc?oc=5",
+    "published_at": "2026-04-21T12:43:27+00:00",
+    "fetched_at": "2026-04-21T14:00:29.115594+00:00",
+    "topics": [
+      "human rights",
+      "rule of law",
+      "EU relations"
+    ],
+    "actors": [
+      "European Court of Justice"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "The European Court of Justice ruled that Hungary's anti-LGBTQ legislation violates core EU values and legal standards. This is the first major human rights judgment directly confronting the inherited legal structures of the Orbán era under the new Magyar government. The ruling presents a concrete challenge to the new government's commitment to EU alignment and democratic reform.",
+    "title_hu": "Magyarország megsértette az EU alapvető értékeit az anti-LMBTQ törvénnyel, mondja az ECJ",
+    "summary_hu": "Az Európai Bírósság (ECJ) ítélte meg, hogy Magyarország anti-LMBTQ törvényei megsértik az EU alapvető értékeit és jogi szabványait. Ez az első jelentős emberi jogi döntés, amely közvetlenül az Orbán-korszak öröklött jogi struktúráit érinti az új Magyar kormányzat alatt. Az ítélet konkrét kihívást jelent az új kormányzat EU-s igazodottságára és demokratikus reformjaira való elkötelezettségéhez.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "45dc2ddd1ed31ea7",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Hungary’s conundrum: undoing Orbán – without becoming Orbán - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcE5TbzcxMXZYZFZicEQ4b0N1M1NqWm1BdHl3X2lPVmszX3hLZExLZk52Wm16Zk1palFGb2ZZdVZxU1RaZE5OMnJJWVFkSE0tNEVCd0tzQ1Q0OERsWGNQbWlKQTZmLTdtQXJ4QXk3TzlxR1h2VnFPZ005S1gtSkRlSkRVeVV1eTRTckZoLU5ZWQ?oc=5",
+    "published_at": "2026-04-21T11:30:00+00:00",
+    "fetched_at": "2026-04-21T14:00:30.906629+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy",
+      "judicial reform"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "The article examines the central institutional paradox facing Péter Magyar's incoming government: dismantling Orbán's authoritarian judiciary and concentrated power structures while avoiding the replication of authoritarian abuses under new leadership. The framing raises skeptical concern that overzealous institutional reform could inadvertently recreate the same centralized power dynamics the government seeks to undo.",
+    "title_hu": "Magyarország dilemmája: Orbán felszámolása – de úgy, hogy nem válunk Orbánná",
+    "summary_hu": "A cikk azt a központi intézményi paradoxont vizsgálja, amellyel Péter Magyar kormánya szembesül: az Orbán autokratikus bíróságrendszerének és központosított hatalmának felszámolása, miközben elkerülhető az autoritárius visszaélések megismétlődése az új vezetés alatt. A keretezés szkeptikus aggodalmat fejez ki, hogy a túlzott intézményi reformok véletlenül megismételhetnék azt a központosított hatalmi dinamikát, amelyet a kormány meg kíván szüntetni.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "e2b772542503ae36",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "EU’s top court finds Hungary’s anti-LGBTQ+ law in breach of key values - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejBsZzZsSDJ4YjVXU1MwWkNLa2hRM1B0NFhZWDY4aHBuOXdKWWdvTmVBYjg3QTVwaHpnWWU0ekVXRkxzS2pRdWJhUUJMdHN1ak5yZ29pUldjempLRUQtUWk4VzB3MG5UX0hGVVpPUzBISks0dkhKaWUwYXBLc1lyWGFubmVhZ2NLNXFqdmxR?oc=5",
+    "published_at": "2026-04-21T11:27:00+00:00",
+    "fetched_at": "2026-04-21T14:00:08.165416+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "EU Court of Justice",
+      "Péter Magyar",
+      "LGBTQ+ communities"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "The EU Court of Justice ruled that Hungary's anti-LGBTQ legislation violates EU fundamental values, delivering the first major human rights verdict confronting Magyar's inherited legal structures and testing the new government's commitment to EU democratic alignment.",
+    "title_hu": "Az EU Bírósága jogsértésnek minősítette Magyarország LMBT+ ellenes törvényét",
+    "summary_hu": "Az Európai Unió Bírósága kimondta, hogy Magyarország LMBT+ ellenes jogszabálya az EU alapvető értékeit sérti, amely az első nagyobb emberi jogi ítélet az örökölt jogrendszer megsértésének dokumentálása és az új kormányzat EU-s irányelv szerinti felzárkózási elkötelezettsége próbatétele.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "9d71cef576d099d0",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary: Orban-era LGBTQ rules breach EU laws, ECJ finds - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTBMcnlSNlNQRTVreEVOMUJrWXpyMk1iQUNMd0w0Y2pQdW9pbmladHdvRmpJNzQtd2otQUZXN0RPYXgyeGlKQkxHWHBEbFJvMDBFbHB6bHpfdkJ2MF9TbXhnZ3VFV013Uk1aT3dZcmdGOW8zN0ZHVlN3OEVNRmFyRC1wRUhnRDBrcWVGcFFicXJCZGJqcjZ2ONIBmAFBVV95cUxNYUR5RkVOQ1R3M0JmSTdsZUduaEsxVDNrU1hYZjRFbkhZRF8xTXBtZ3MwTm9WNGlzRXlVNHFCSlpQckZvbjdhTDFfMms3dkxrT280eWVOdnlvX2ZBVGFrTG9VcGZyZHlsWnlBY2g1bzltOElESTBIbkI0MFJkNVplQk1ReFFSaDUtNTN5YjQtWC1XSVRoTUFnTg?oc=5",
+    "published_at": "2026-04-21T10:52:03+00:00",
+    "fetched_at": "2026-04-21T14:00:38.557175+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "judicial reform",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "EU Court of Justice",
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "The EU Court of Justice ruled that Hungary's anti-LGBTQ legislation violates EU law, marking the first human rights judgment directly confronting the Orbán era's inherited legal structures. The ruling tests Péter Magyar's new government's commitment to EU alignment and presents a concrete policy challenge requiring legislative reform as part of the broader judicial overhaul and EU reintegration process.",
+    "title_hu": "Magyarország: Az Orbán-korszak LGBTQ-törvényei megsértik az EU jogát, megállapította az ECB",
+    "summary_hu": "Az Európai Bíróság megállapította, hogy Magyarország LGBTQ-ellenes jogszabályai sértik az EU jogát, és ez az első olyan emberi jogi ítélet, amely közvetlenül az Orbán-korszak örökségét érinti. Az ítélet tesztel Magyar Péter új kormányának EU-s igazodási elkötelezettségét, és konkrét politikai kihívást jelent, amely jogalkotási reformot igényel az átfogóbb bírósági átalakítás és EU-s visszaintegráció részeként.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "ffe06b8d43ddf6f0",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Nine lessons for the US from Viktor Orbán’s defeat | Kenneth Roth - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRUFfVHVBVFBUbTlGSTdTYkQtVXEteHNSdzBaaTlRcGU2bkNjZ1dzbkVReWJBWmhwamVkOUR3M0luX1owZXROWC1MVExfZ2FwbVd4dnVNZlNMaFllSkR0OEphLUFmRU44T3o0SmlISlRJSEZxMFZ4YVlhYmhUS0VhdlhMalAyTkJCSWc?oc=5",
+    "published_at": "2026-04-21T10:46:00+00:00",
+    "fetched_at": "2026-04-21T14:00:08.165440+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "geopolitics"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Kenneth Roth",
+      "Péter Magyar",
+      "Hungarian voters"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Kenneth Roth's analysis examines lessons the United States can draw from Viktor Orbán's electoral defeat in Hungary and the restoration of democratic governance under Péter Magyar. The piece frames Hungary's transition away from 15 years of autocratic rule as instructive for understanding how democracies can resist authoritarianism and what institutional safeguards proved decisive. Roth, a leading human rights advocate, uses the Hungarian case as a cautionary and hopeful model for democratic resilience.",
+    "title_hu": "Kilenc tanulság az Egyesült Államoknak Viktor Orbán vereségéből",
+    "summary_hu": "Kenneth Roth elemzésében azt vizsgálja, milyen leckéket vonhat le az Egyesült Államok Viktor Orbán magyar választási veresége és a Péter Magyar alatt megújult demokratikus kormányzás kapcsán. A cikk Magyarország 15 év autoritárius uralomtól való eltávolodását tanulságos példaként keretezi arról, hogy az demokratikus társadalmak hogyan ellenállhatnak az autoritarizmusnak. Roth, egy vezető jogvédő, a magyar esetet a demokratikus rugalmasság figyelmeztetésül és reményként szolgáló modelljének használja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [
+      "United States"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "a7c4e2f2e4c3e38d",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "EU optimistic about ending Hungary's veto on €90bn loan for Ukraine - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcUdWTndCV3pMX0dtWVRaWS10XzZoTU55bGtROFZ0Y201T2FvdjNUWFRSQml3QXUzYURMQzFGcFhseHpjRWlTZWVfWXdJM183MjdnbEFwaXQxWExMSU9KZHVkRzhZX3Y3UzBUcktFdWFOallVR2VUckRrdUNXODkzLVNqYXNjZFU0QmQ4VGFaMjlLTHpjWkZfLVNPdks1WkJkRGZnd3JVazVGajJzX3JQZUlXMk00ZnJi?oc=5",
+    "published_at": "2026-04-21T10:39:57+00:00",
+    "fetched_at": "2026-04-21T14:00:34.579019+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy",
+      "EU funds"
+    ],
+    "actors": [
+      "EU institutions",
+      "Hungary",
+      "Ukraine",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "The EU has reached agreement with Hungary's new government to end Hungary's blockade of the €90bn Ukraine support loan, a major reversal from the Orbán era. The deal demonstrates Péter Magyar's pivot toward EU integration and signals Hungary's shift away from Russia-aligned positions. The resolution unlocks critical EU funds for Ukraine while consolidating Hungary's reintegration with the European mainstream.",
+    "title_hu": "Az EU optimista a 90 milliárd eurós Ukrajna-hitel magyarországi vétójának feloldásáról",
+    "summary_hu": "Az EU megállapodása Magyarország új kormányával véget vet az ország vétójának a 90 milliárd eurós Ukrajna-hitelről, amely az Orbán-korszak nagy fordulata. Az egyezmény Péter Magyar EU-s orientálódásáról és az oroszbarát politika elhagyásáról tanúskodik. A megállapodás kritikus uniós forrásokat nyit meg Ukrajna számára, miközben megerősíti Magyarország visszatérését az európai főáramba.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "e5413c232b795d2c",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "EU court deals major blow to Orbán’s legacy and anti-gay crackdown - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkgtRGFEOWN4eVhNQ3hSMC0tMmg4d0JPdnZEb3VUVGxXVnRMTmZDMVVYMUR2Sm9CRmRyM2tCdlBrU0hqZjR5Vk5IVlgyYkhtTGxJOUlST21fMTJvbXRmTGtRLVdGYWs1eFpkM1NWdVlWTjU2b1dFZmg4WTByRUU5b2o4VllKQWpxcl9malJJRTlvM2s0ejNZVGI0UDQ?oc=5",
+    "published_at": "2026-04-21T10:20:52+00:00",
+    "fetched_at": "2026-04-21T14:00:30.906660+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "judicial reform",
+      "EU relations"
+    ],
+    "actors": [
+      "EU Court of Justice",
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Hungary"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "The EU Court of Justice ruled on April 21 that Hungary's anti-LGBTQ legislation violates EU law, delivering a significant blow to Viktor Orbán's legal legacy. The ruling directly confronts Péter Magyar's new government with inherited discriminatory laws requiring legislative reform as part of judicial overhaul and EU reintegration. This marks the first major human rights decision testing the new administration's commitment to EU-aligned governance.",
+    "title_hu": "Az EU Bírósága jelentős csapást mér Orbán örökségére és az LMBTQ-ellenes intézkedésekre",
+    "summary_hu": "Az EU Bírósága április 21-én megállapította, hogy Magyarország anti-LMBTQ törvényhozása sértí az EU jogot, súlyos csapást méz Orbán Viktor örökségére. Az ítélet közvetlenül Péter Magyar új kormányát szembesíti az öröklött diszkriminatív törvényekkel, amelyeket a bírósági reform és az EU-s reintegráció részeként módosítani kell. Ez az első jelentős emberi jogi döntés, amely próbára teszi az új adminisztráció EU-s normákhoz való elköteleződését.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "81ee935a4eece196",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary’s anti-LGBTQ+ legislation violates EU law, court finds - AP News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTFOODNTbHhpOXQ3amdvWnpUVkhUV0tqRTNvbFJpYndXMEZtZW1sMHIzeXRkNnk0TVR5bGtOalRuWE81UVhNSnhrY2tjc1cydzZVUEdNZkZqaHhkY0RleW9SSHJ2X2h6d3ZNaEhRZlZyQVBfb3RNRjExNGZyQVRTTVZ0MEhRX0djcFZtVUtPa2ZWT0l6UXNqdA?oc=5",
+    "published_at": "2026-04-21T10:18:00+00:00",
+    "fetched_at": "2026-04-21T14:00:04.220139+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "EU relations"
+    ],
+    "actors": [
+      "European Union Court of Justice",
+      "Hungary",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "The EU Court of Justice ruled that Hungary's anti-LGBTQ+ legislation violates European Union law, the first major human rights judgment confronting Péter Magyar's newly elected government. The ruling directly tests Magyar's commitment to EU alignment and rule of law reforms as part of Hungary's democratic transition. This decision presents Magyar with an immediate legislative challenge to repeal inherited discriminatory laws to maintain EU standing.",
+    "title_hu": "Magyarország anti-LMBTQ+ jogszabályai megsértik az EU jogot, állapította meg a bíróság",
+    "summary_hu": "Az Európai Unió Bírósága kimondta, hogy Magyarország anti-LMBTQ+ jogszabályai megsértik az uniós jogot, amely az első emberi jogi ítélet, amely Péter Magyar újonnan megválasztott kormányának jogi reformjai előtt álló kihívást jelent. Az ítélet közvetlenül vizsgalja Magyar uniós integrációs és jogállamiság reformokhoz való elkötelezettségét a magyar demokratikus átmenet részeként. Ez az ítélet Magyarországnak azonnali jogalkotási kihívást jelent az örökölt diszkriminatív törvények hatályon kívül helyezésére az EU megfelelésének megőrzése érdekében.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "fd0eb98208458578",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "EU Court rules Hungary's anti LGTBQ+ law breaches core values - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOemhYWUViTnYzc0ZBTDFmbW1ZOFBRQzBJcTh1LTk2dm1KckV1eWJtN3JlTEREQVVfWVF3UFlnVGhvUmJuc2dxOWo2NEZ0UjVDVjlwd2IydW9ZSmhiaGN1a0w2N0ZuUWFJNERxZFQzazdLUVRMaEpYTE1QRkx3VXZmTjFNX2hLRUNWS2dUc0NKWEdUMGtDZHp6LUdPWnUwejFKZE1qMy1QeXdkUUl1REd2QzFoc2gtT0w5TUJsWE1LTVJVS2EzdThNUEFKM0pNcU0?oc=5",
+    "published_at": "2026-04-21T09:45:06+00:00",
+    "fetched_at": "2026-04-21T14:00:34.579043+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "EU relations"
+    ],
+    "actors": [
+      "EU Court of Justice",
+      "Péter Magyar",
+      "Hungary"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "The EU Court of Justice ruled that Hungary's anti-LGBTQ+ legislation violates EU core values, marking the first major legal confrontation over minority rights in the post-Orbán transition. The ruling directly tests Péter Magyar's government's commitment to EU alignment and exposes inherited discriminatory laws requiring legislative repeal as part of democratic reintegration.",
+    "title_hu": "Az EU Bírósága kimondta, hogy Magyarország LGTBQ+ ellenes törvénye sérti az alapvető értékeket",
+    "summary_hu": "Az Európai Unió Bírósága kimondta, hogy Magyarország LGTBQ+ ellenes jogszabálya megsértette az EU alapvető értékeit, amely az első jelentős jogi összecsapás a kisebbségi jogok körül az Orbán utáni átmenetben. A döntés közvetlenül próbára teszi Péter Magyar kormányának az EU-val való összhangra irányuló elkötelezettségét, és az örökölt diszkriminatív törvények EU-val való újraintegráció részeként történő törvényi módosítását követeli meg.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "2eec202c9cfad580",
     "source": "Reuters",
     "region": "wire",
@@ -26,6 +499,35 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c2bbf059b863a5f9",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Magyar Signals Shake-Up of Orban-Era Networks Beyond Hungary’s Borders - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Kc3J0bm0wR0JCOTJwT1dXNW5MdkhVWndURk5JQ3pHalFhQ1dic01GZEFxQnc3Y0dmNWl2aXVyVkpYNGFnb3AwcFRTUGJzMXl0U05vWFpCOW12Z0NkT2dJ?oc=5",
+    "published_at": "2026-04-21T09:41:37+00:00",
+    "fetched_at": "2026-04-21T10:00:46.644324+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Péter Magyar signals plans to dismantle and reorganize networks that Viktor Orbán built across Central and Eastern Europe during his 15-year rule. The shake-up extends beyond Hungary's borders with significant implications for the region's geopolitical alignments and diplomatic relationships.",
+    "title_hu": "Magyar bejelenti az Orbán-korszak határon túli hálózatainak felszámolását",
+    "summary_hu": "Péter Magyar bejelenti az Orbán-korszak során a közép-európai régióban kiépített hálózatok felszámolásáról. A döntés Magyarország határain túl hat és az új kormány diplomáciai és geopolitikai kapcsolatainak átalakulását jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
     "comparison_countries": [],
     "quotes": []
   },
@@ -59,6 +561,37 @@
     "quotes": []
   },
   {
+    "id": "dbadfaf3bd43e02a",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Watch: Europe’s relationship with Israel is fracturing — how far will it go? - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSml2b2V4Z3V4SlNqS1VjSDAya09nMTJZZDJhLXZMb25rcFR1NGZIQXpaQldyMFlVWTI1T0FIekl0dXVxY1VPRE9aVF9pOTliaHZsMTRLM2lvejUyb2ViM0FLSnJtbFZidmJuR0w1c2d1STZXR2hTd29ScXdFNUR0c1ptNTNERThMSVQ3b0dTTVRxUDZGLU50R3FMbHAxVGNfSnM0SF8td2E3SHdfWGI0Sm1HYm1pdm9i?oc=5",
+    "published_at": "2026-04-21T08:33:23+00:00",
+    "fetched_at": "2026-04-21T14:00:34.579321+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "geopolitics",
+      "EU relations",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Netanyahu"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Hungary under Péter Magyar's new government has reversed its long-standing pro-Israel stance by declaring Netanyahu should be arrested under ICC obligations, exemplifying a broader fracturing of Europe's relationship with Israel. This shift marks a dramatic departure from Viktor Orbán's role as Israel's primary EU shield and signals Hungary's reintegration with mainstream EU positions on international law.",
+    "title_hu": "Nézd meg: Európa Izraellel való kapcsolata szétesik — meddig fog menni?",
+    "summary_hu": "Magyar Péter új kormánya drámaian megfordította Magyarország hosszú évek óta fennálló proizraeli álláspontját, kijelentve, hogy Netanjahu-t az ICC joghatósága alatt kellene letartóztatni, ami tükrözi Európa Izraellel való kapcsolatának szélesebb körű megromlását. Ez a fordulat éles szakítás az Orbán-kor izraelpárti szerepével, és Magyarország EU-mainstream jogállamisági és nemzetközi jogi pozícióihoz való visszatérésének jelét mutatja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "59544c0d70defdb1",
     "source": "Politico Europe",
     "region": "eu",
@@ -81,6 +614,68 @@
     "summary_en": "The EU Court of Justice has invalidated Hungarian laws restricting LGBTQ+ rights. This ruling addresses a significant gap in Hungary's transition coverage, where human rights protections have been largely unreported despite their importance for EU reintegration. The decision tests the new Hungarian government's commitment to rule-of-law reforms.",
     "title_hu": "Az EU legfelsőbb bírósága megsemmisítette Magyarország LGBTQ+-ellenes szabályait",
     "summary_hu": "Az Európai Bíróság megsemmisített a LGBTQ+ jogokat korlátozó magyar törvényeket. Az ítélet kitölt egy hiátust az átmenet lefedésében – az emberi jogok alig kerültek szóba, pedig fontosak az EU-ba való visszatéréshez. A döntés az új magyar kormány jogállamiság-reformi kötelezettségét teszteli.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "deb487b9e858cd7e",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "FIREPOWER: EU set to approve €90bn Ukraine loan after Hungary drops veto - euractiv.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajVQQkJIcDNwUW01Y0h6NGZXd1U5UnR5NGdVMGlVVWlJWUx0M0Vac2RHOGlhZHM0U3pEUklXdXZPN3M5c3RVSzNMTHF1SWZCS0MyTTM5dEdNWVpYT2lubHQ5UXdSNWcybWc0dkNsMXdmaHl0QmVxUDdsZGNwYnprc2k0LWJBc2lPVVZtWjNVQTVfdHFESzZwazVLMjk0TGJ6c1FPbw?oc=5",
+    "published_at": "2026-04-21T07:23:06+00:00",
+    "fetched_at": "2026-04-21T14:00:29.115651+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "foreign policy",
+      "geopolitics",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "EU institutions",
+      "Ukraine"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new government dropped its veto on the €90bn EU Ukraine loan, enabling EU approval of the aid after years of blockage under Orbán. This marks a decisive foreign policy pivot demonstrating Magyar's commitment to EU consensus on Ukraine support and signals Hungary's reintegration into EU institutional alignment.",
+    "title_hu": "TÜZVEREJŐ: Az EU 90 milliárd eurós Ukrajna-kölcsön jóváhagyásához készül, miután Magyarország visszavonta vetóját",
+    "summary_hu": "Magyarország új kormánya visszavonta a 90 milliárd eurós EU-s Ukrajna-kölcsön elleni vétóját, lehetővé téve az EU-nak az Orbán alatt több éven keresztül blokkolása után a segítség jóváhagyását. Ez jelentős külpolitikai fordulat, amely a Magyar kormány EU-konszenzushoz való elkötelezettségét mutatja Ukrajna-támogatás terén, és Magyarország EU-s intézményi együttműködésbe való visszaintegrálódásának jelét adja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b59ee5d60c6b3488",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Israel faces new EU sanctions push - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWI5a0IwWEkyTHVpNVVHd0NST2I5TTcyTHZlUC1La3diQlhkR2FLSm95eG9Zdm5keUxoSmRJU3dYWmVsZTNSeVk4VGVGNHVHRm1Pc0lmdmdoZXltdjVGR0dEcnNBU1Z0TDZuSnFBeXVTV1BtVHc0Rm91Mm1XSUYzRHZkdGFTNGdLMUx2eDFtUm5xdw?oc=5",
+    "published_at": "2026-04-21T05:40:00+00:00",
+    "fetched_at": "2026-04-21T14:00:27.232304+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "foreign policy",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Israel",
+      "EU institutions",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new Tisza government under Péter Magyar has ended Viktor Orbán's protective veto role for Israel in EU decision-making, enabling the European Union to pursue sanctions pressure. This represents Hungary's dramatic realignment from Orbán's Israel-shield policy toward mainstream EU foreign policy coordination.",
+    "title_hu": "Izraelt új EU-szankciók nyomása felé sürgetik",
+    "summary_hu": "Magyarország új Tisza-kormánya Péter Magyar vezetésével végpontot vetett Orbán Viktornak az Izrael EU-szintű vétővédelmét nyújtó szerepéhez, lehetővé téve az Európai Uniónak, hogy szankciónyomást gyakoroljon. Ez Magyarország Orbán Izrael-védő politikájától való drámai fordulata az EU-s főáram külpolitikai koordináció irányába.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
