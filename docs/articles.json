@@ -1,5 +1,130 @@
 [
   {
+    "id": "199a3382c6f48016",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Ukraine to restart oil flows via Druzhba pipeline on Wednesday, source says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakR1bUFTcl9Ebms5OFdTUzA5bjdpdGVra19oU1BLMDVfQTJxX1Z3WU9Sc0liaEdnM055eC0zQmVYRW51YWk4TV9GWFZOek96c1JZWENzZFFlWUl6WldnLV9LX0pRU280N3hvRzByZUlqX1hZeXB1ZnRXbnBpc0xnYzIwMjduc2NIT21mX2xiWGdqUWp5OGhsSTdFM0JsM0dsYVhPNHI1MVkzaV92LUE?oc=5",
+    "published_at": "2026-04-21T21:28:41+00:00",
+    "fetched_at": "2026-04-21T22:00:04.170864+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "foreign policy",
+      "government transition",
+      "russia_deals"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine resumes oil flows via the Druzhba pipeline on Wednesday, made possible under Péter Magyar's government after Viktor Orbán's previous restrictions were reversed. This closes a significant source of Hungary-Ukraine energy tension and reflects Hungary's diplomatic shift away from Russian-aligned positions toward EU cooperation. The development represents an early foreign policy success for Magyar's transitional government.",
+    "title_hu": "Ukrajna újraindítja az olajáramlást a Druzhba csatornán szerdán, forrás szerint",
+    "summary_hu": "Ukrajna szerdán újraindítja az olajáramlást a Druzhba csatornán, amely Péter Magyar kormánya alatt vált lehetővé, felülírva Viktor Orbán korábbi korlátozásait. Ez lezárja a magyar-ukrán energiafeszültség jelentős forrását és Magyarország diplomáciai fordulatát tükrözi az oroszállamú pozícióktól az EU-s közreműködés felé. A fejlemény Magyar átmeneti kormányának korai külpolitikai sikere.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Ukraine",
+      "Russia"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "b95a4d9958d65eab",
+    "source": "Politico US",
+    "region": "us",
+    "title": "Israel loses its man in Europe - Politico",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVE5LY0NVejdmSmVKSGxoSXhVLWstQWcyb3R1X3VlVHZIVEJFZncxdUFjM29hczhNUEQ5VDBRUGhGckk1SGxlX3A5cjNOU1d4RU16M044MUZWSHZJUEhpMGs5SUNuU2d3VzhpTkFSTWpCSi1KWGlyMWZrQVdoamJQQ2NoallyWTRqX3lDMlpvSnYwMEswd3VISjFJaFc?oc=5",
+    "published_at": "2026-04-21T20:37:05+00:00",
+    "fetched_at": "2026-04-21T22:00:24.597953+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "foreign policy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Benjamin Netanyahu",
+      "European Union"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's new government under Péter Magyar is reversing Viktor Orbán's protective stance toward Israel, now aligning with EU calls for Netanyahu's arrest under ICC obligations and supporting EU sanctions policy. This represents Hungary's geopolitical realignment as it rejoins the European mainstream after 15 years as Israel's key European ally.",
+    "title_hu": "Izrael elveszíti emberét Európában",
+    "summary_hu": "Magyarország új kormánya Péter Magyar vezetésével megfordítja Viktor Orbán Izrael-barát politikáját, és most az ICC kötelezettségek alapján Netanyahu letartóztatása mellett áll, valamint az EU szankciós politikájához igazodik. Ez Magyarország geopolitikai átrendeződését jelenti, mivel az ország 15 év után visszatér az európai főáramlatba.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "912c0e069c4d0db4",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Exclusive: Ukraine to restart oil flows via Druzhba on Wednesday afternoon, source says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFBSU0xwdHZ1V2JZNzJwMW1vajEwNjVmSTZNR0pOZmowR29oRVd4X3l0TGpjbEd2VzVKR2U2NUhsN184cXhLOXR1eG4zcERYRE4wUnRwVTc5UGY3QTR4MV9TZFBHRjZYYUdBUzRxU0tfSjZkQmNYeG5EbEJsdGFOcGtOc0lTdXUwNHNKM0NfY29GWVRkZ1N2U053QzUzaXRoaXROSlFDT3Zabk5fUlBNbTlncVRfcHVBWFktLURR?oc=5",
+    "published_at": "2026-04-21T19:17:36+00:00",
+    "fetched_at": "2026-04-21T22:00:04.170829+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "Ukraine",
+      "Volodymyr Zelenskiy",
+      "Russia",
+      "Hungary"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine announced it would restart oil flows via the Druzhba pipeline, resolving a key energy dispute with Hungary that Péter Magyar's government had demanded as a precondition for foreign policy realignment. The trilateral agreement with Russia and Hungary represents a significant diplomatic success for the new Hungarian government and removes a major obstacle to Hungary's EU reintegration.",
+    "title_hu": "Exkluzív: Ukrajna szerdán délután újraindítja az olajáramlást a Druzhba-vezetéken, forrás szerint",
+    "summary_hu": "Ukrajna bejelentette, hogy újraindítja az olajáramlást a Druzhba-vezetéken, megoldva azt az energiapatológiát, amelyet Péter Magyar kormánya külpolitikai realignmentje előfeltételeként támasztott. A trilaterális megállapodás Oroszországgal és Magyarországgal jelentős diplomáciai siker az új magyar kormány számára, és eltávolít egy fő akadályt Magyarország EU-reintegrációjától.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c5b411f99681bbdb",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "The great unblocking? EU foreign ministers eye sweeping changes as Orbán exits - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajNseWJnRVMwLUUyMmw1dWpCbUxMYVBrTlJpMUlyZG1fZENZWnNpMFNicUEwMjRWc1E2NVEtUkxWcF96NkhSQTh5ZktIMnR0MVloT3hacWp3eHV0dndkQ3EwRUVEUHNPVlgxekNZT1Qwa0pVb29jYkRnanZQZFRMUW1TSVkwbnhuSmhJZTFRQTY?oc=5",
+    "published_at": "2026-04-21T18:14:00+00:00",
+    "fetched_at": "2026-04-21T22:00:28.207308+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "EU foreign ministers"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "With Viktor Orbán's exit from power, EU foreign ministers are positioned to advance previously blocked initiatives on Ukraine funding, Israeli affairs, and other key foreign policy matters. Hungary's new government under Péter Magyar has signaled a decisive shift away from Orbán-era obstruction, enabling faster EU decision-making. The article explores how Hungary's geopolitical reorientation toward EU integration is unlocking broader policy changes across the union.",
+    "title_hu": "A nagy feloldódás? Az EU külügyminiszterei Orbán elhagyásával átfogó változásokra készülnek",
+    "summary_hu": "Orbán hatalomvesztésével az EU külügyminiszterei felszabadulnak az Ukrajna-finanszírozás, az izraeli-palesztin kérdések és más kulcsfontosságú külpolitikai kezdeményezések terén. Magyar Péter új kormánya egyértelműen jelezte az Orbán-korszak obstrukciós politikájától való eltérést, amely gyorsabb EU-s döntéshozatalt tesz lehetővé. A cikk azt vizsgálja, hogyan teszi lehetővé Magyarország geopolitikai átorientálódása az EU-integráció felé az uniós politika szélesebb szintű változásait.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "82fad22b6467af0f",
     "source": "Washington Post",
     "region": "us",
@@ -29,6 +154,36 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "a7ca4d885f429388",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Ukraine has repaired Druzhba pipeline, Zelenskyy says - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlVmbGVCYldIN0xYV0RFZk4tOFZjRXBpeEtTdUNjckR5WlZNSWpKNlhuRUx5SXRuZkdsdEN5OE9GcEVqeVNieHJmTzV6blY0TEVIeG51N2tJY2ZmV2prTGh5OHc1cGI3cFcxWDRGY0tGNkhCZVlmN0hfdVQ5ZllzYnRvYUkybFNwd0ZRRQ?oc=5",
+    "published_at": "2026-04-21T17:07:00+00:00",
+    "fetched_at": "2026-04-21T22:00:28.207284+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "EU relations",
+      "government transition"
+    ],
+    "actors": [
+      "Volodymyr Zelenskyy",
+      "Ukraine",
+      "Russia"
+    ],
+    "tone": "positive",
+    "framing": "energy",
+    "summary_en": "Ukraine has confirmed repairs to the Druzhba pipeline with resumption expected by end-April, resolving a critical energy tension between Budapest and Kyiv. This trilateral agreement directly addresses Hungary's energy security demands and removes a major obstacle to the new Magyar government's EU reintegration agenda.",
+    "title_hu": "Ukrajna helyreállította a Druzhba vezetéket, mondja Zelenszkij",
+    "summary_hu": "Ukrajna megerősítette a Druzhba vezeték helyreállítását, a folytatódás áprilusának végéig várható, amely feloldja a Budapest és Kijev közötti kritikus energiatension. Ez a trilaterális megállapodás közvetlenül Magyarország energiabiztonságára vonatkozó igényeit oldja meg, és eltávolít egy fő akadályt az új Magyar-kormány EU-s reintegrációs agendájában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
     "comparison_countries": [],
     "quotes": []
   },
@@ -128,6 +283,37 @@
     "comparison_countries": [
       "Israel"
     ],
+    "quotes": []
+  },
+  {
+    "id": "b94e2a6598c5e88a",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Ukraine to restart flows via Russian oil pipeline - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmpMemg2UE9mQl9aRGxxa0NEcGpDdTlLdWxoY3YwREVBZUptUk91dG0zS18tNHFtcEY0eWFBbEp1SlJkdnZmSlY5bnFBaHRhWTJLV3JaT1ItVl9nOGNGX3dkR1FiR1lsMFVsSEZuRlVJaW1Xc2JER2M2eXdCX1phNGRoWU8?oc=5",
+    "published_at": "2026-04-21T16:11:24+00:00",
+    "fetched_at": "2026-04-21T22:00:13.119060+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "EU relations",
+      "government transition",
+      "russia deals"
+    ],
+    "actors": [
+      "Volodymyr Zelenskiy",
+      "Russian government",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "energy",
+    "summary_en": "Ukraine confirmed restart of oil flows via the Russian Druzhba pipeline by end-April, resolving energy tensions that previously blocked EU support. Péter Magyar's new government dropped Hungary's veto, enabling this trilateral resolution and the €90 billion EU Ukraine aid package.",
+    "title_hu": "Ukrajna újraindítja az orosz olajvezetéken keresztüli áramlásokat",
+    "summary_hu": "Ukrajna megerősítette az orosz Druzhba-csatornán keresztüli olajtovábbítás újraindítását április végéig, amely rendezette az EU-s támogatást korábban blokkoló energetikai feszültséget. Péter Magyar új kabinete elvetette Magyarország vétóját, lehetővé téve a trilaterális megállapodást és a 90 milliárd eurós EU-s Ukrajna-segély csomagot.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
     "quotes": []
   },
   {
@@ -1005,6 +1191,37 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "16e1b81c96f97cb2",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "How Orbán’s loss paves way for EU to reopen talks on Israel sanctions - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjRFVkQ0cnEyakZoVFpyTW5fajNGcGRkdUZ1VUtJbXI5aC1aYk1pUG5RSmVXQjFwVURTODlndTBHY0RoUkMzb2Q3Z0dydXplNEN2Sk9IT2QxME8yUzR6TlZIVmtwT3dkeXlUbUtZbTdSYWEySTNsSVM3SXBnLTVtV0VKcm0?oc=5",
+    "published_at": "2026-04-21T05:00:31+00:00",
+    "fetched_at": "2026-04-21T22:00:13.119086+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Benjamin Netanyahu",
+      "European Union"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Viktor Orbán's electoral defeat has removed Hungary's veto on EU discussions about Israel sanctions. Péter Magyar's new government reversed Hungary's blocking position, declaring that Hungary must arrest Netanyahu under ICC obligations. This shift unblocks EU consensus on stronger measures and represents Hungary's realignment with core EU positions.",
+    "title_hu": "Orbán bukása megnyitja az utat az EU izraeli szankciók feletti tárgyalások újrakezdéséhez",
+    "summary_hu": "Viktor Orbán választási veresége eltávolította Magyarország vétójogát az EU izraeli szankciók feletti tárgyalásaiból. Péter Magyar új kormánya felfordította Magyarország blokkoló álláspontját, kijelentve, hogy Magyarországnak le kell tartóztatnia Netanyahut az ICC kötelezettségei alapján. Ez a változás feloldja az EU konszenzust, és Magyarország uniós újrapozicionálódásának szimbóluma.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
     "comparison_countries": [],
     "quotes": []
   },
