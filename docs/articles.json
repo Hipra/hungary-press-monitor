@@ -1,5 +1,93 @@
 [
   {
+    "id": "2eec202c9cfad580",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Kremlin says Russia is ready to resume Druzhba oil flows if Kyiv opens the pipeline - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb2JYcm9nVmFGUEc2ZXJaa25paUk2bmNRNEUxX0prN1FKeVY5bFZ2THFXa2laNUlDbUxJR25TTU1MUXAtWTVrYW1ia1pxR01LNXZDMk0tY0pzYTB2dFNMTzY1NGFsaXpGYlhkT2dWWGRWNkN1NGpfQ2hzcXBmZU92dVNnYi1PdzZHY1EtTVZublhnZnZXcFFKRW9SeXRfaUlZc1hnMUlxUHJteERadmUtcjZwNU1FU0t5QUtjYksxNWJuc2hxNmd3?oc=5",
+    "published_at": "2026-04-21T09:43:48+00:00",
+    "fetched_at": "2026-04-21T10:00:05.514247+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "Russia deals",
+      "foreign policy"
+    ],
+    "actors": [
+      "Kremlin",
+      "Péter Magyar",
+      "Volodymyr Zelenskiy"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The Kremlin stated it is ready to resume Druzhba oil pipeline flows if Ukraine opens it, addressing a critical bilateral issue that influenced Hungary's political transition. Péter Magyar's incoming government called for the pipeline's restart, with Ukraine confirming resumption by end-April, resolving a significant energy tension that had characterized Orbán's approach to Russia.",
+    "title_hu": "Kreml: Oroszország készen áll a Druzhba olajvezeték működésének folytatására, ha Kijev megnyitja a vezetéket",
+    "summary_hu": "A Kreml kijelentette, hogy készen áll a Druzhba olajvezeték működésének folytatására, ha Ukrajna megnyitja azt, ezzel egy kritikus kétoldalú kérdést kezelve, amely befolyásolta Magyarország politikai átalakulását. Magyar Péter bejövő kormánya a vezeték újraindítására szólított fel, Ukrajna pedig az április végéig történő újraindítást megerősítette, feloldva azt az energia feszültséget, amely Orbán Oroszországhoz való viszonya jellemzője volt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "ffb8b9f4a331178b",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "EU court says Hungary's anti-LGBTQ rules breach law - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDdqQVRGRmVJZ3dvQlFVZXp0U2lvSFhZVHlkSTFKa0w0c1lTb1dPX1pLemt2WHNVYkdXN2FfY3dCVTNjaV9VelFDeXhyeVZ0cERUdmJnUllpUExEV1NWRzBjbkJybE95Y1lBU0JmQWhCcDhfQ3VFWlViVlplOHpOQmpyNHptNDd0dGJ1eGhvV2w2Q2VZQTRR?oc=5",
+    "published_at": "2026-04-21T09:29:11+00:00",
+    "fetched_at": "2026-04-21T10:00:05.514275+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "EU Court of Justice",
+      "Hungarian government"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "The EU Court of Justice ruled that Hungary's anti-LGBTQ legislation violates EU law, exposing rule-of-law deficits that extend beyond judicial and media reforms. The ruling comes as Péter Magyar's incoming administration pursues institutional reform and EU reintegration, requiring the new government to confront inherited discriminatory legal structures. This judgment highlights that democratic alignment with European standards encompasses fundamental human rights protections.",
+    "title_hu": "Az EU Bírósága megállapította, hogy Magyarország LMBTQ-ellenes jogszabályai megsértik az uniós jogot",
+    "summary_hu": "Az EU Bírósága döntött arról, hogy Magyarország LMBTQ-ellenes törvényei megsértik az uniós jogot, felhívva a figyelmet az intézményi reformokon túlmutató jogállamisági hiányosságokra. Az ítélet abban az időben érkezik, amikor Péter Magyar bejelentett kormánya intézményi reformokat és EU-s visszaintegrálódást folytat, amit az új adminisztrációnak az örökölt diszkriminatív jogszabályokkal szembeni foglalkozása kell, hogy kísérjen. Az ítélet azt mutatja, hogy az európai demokratikus normákkal való igazodás az alapvető emberi jogi védelemre is kiterjed.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "59544c0d70defdb1",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "EU top court strikes down Hungary’s anti-LGBTQ+ rules - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzdQWnFDWXFtM2traHV1SEtJdFhqaFNWTWUyWGdyOC05SkVON1UyTEdzM0lzMGIyeU1PTHhvU0FrY0VIYmNValBEbXFQZEZDemJONmp4M01uZVJKZXJ3NVRadEEzVmYzdFF0WU9MWVZOZTBWdU5ZaUlWSEk5QjVFU0Joa1RVVnVBRW5IYw?oc=5",
+    "published_at": "2026-04-21T08:16:27+00:00",
+    "fetched_at": "2026-04-21T10:00:30.221963+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Court of Justice of the European Union",
+      "Hungary"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "The EU Court of Justice has invalidated Hungarian laws restricting LGBTQ+ rights. This ruling addresses a significant gap in Hungary's transition coverage, where human rights protections have been largely unreported despite their importance for EU reintegration. The decision tests the new Hungarian government's commitment to rule-of-law reforms.",
+    "title_hu": "Az EU legfelsőbb bírósága megsemmisítette Magyarország LGBTQ+-ellenes szabályait",
+    "summary_hu": "Az Európai Bíróság megsemmisített a LGBTQ+ jogokat korlátozó magyar törvényeket. Az ítélet kitölt egy hiátust az átmenet lefedésében – az emberi jogok alig kerültek szóba, pedig fontosak az EU-ba való visszatéréshez. A döntés az új magyar kormány jogállamiság-reformi kötelezettségét teszteli.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "fa576be1c85ce738",
     "source": "Politico Europe",
     "region": "eu",

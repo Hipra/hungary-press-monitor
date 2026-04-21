@@ -1,18 +1,18 @@
 {
-  "total_articles": 80,
-  "analyzed_articles": 80,
+  "total_articles": 83,
+  "analyzed_articles": 83,
   "tone": {
-    "critical": 5,
+    "neutral": 46,
+    "critical": 6,
     "positive": 25,
-    "neutral": 44,
     "mixed": 6
   },
   "framing": {
-    "rule_of_law": 4,
+    "geopolitics": 22,
+    "rule_of_law": 6,
     "eu_integration": 9,
     "democracy_restoration": 32,
     "energy": 1,
-    "geopolitics": 21,
     "government transition": 2,
     "corruption": 2,
     "media_freedom": 2,
@@ -22,18 +22,18 @@
     "government_transition": 1
   },
   "region": {
-    "eu": 17,
+    "wire": 23,
+    "eu": 18,
     "uk": 20,
     "us": 9,
-    "wire": 21,
     "fr": 2,
     "de": 9,
     "cee": 2
   },
   "source": {
-    "Reuters": 20,
+    "Reuters": 22,
+    "Politico Europe": 9,
     "DW English": 9,
-    "Politico Europe": 8,
     "The Guardian": 7,
     "Financial Times": 6,
     "Euronews": 5,
@@ -53,19 +53,20 @@
   },
   "topics": {
     "government transition": 70,
-    "democracy": 42,
-    "EU relations": 33,
+    "democracy": 44,
+    "EU relations": 35,
     "elections": 33,
-    "geopolitics": 30,
-    "foreign policy": 15,
-    "rule of law": 13,
-    "Russia deals": 11,
+    "geopolitics": 31,
+    "foreign policy": 16,
+    "rule of law": 15,
+    "Russia deals": 12,
     "EU funds": 7,
     "economy": 7,
+    "energy": 4,
     "Fidesz opposition": 4,
     "corruption": 3,
-    "energy": 3,
     "judicial reform": 3,
+    "human rights": 2,
     "society": 2,
     "V4 diplomacy": 2,
     "media freedom": 2,
@@ -73,7 +74,7 @@
     "EU integration": 1
   },
   "actors": {
-    "Péter Magyar": 62,
+    "Péter Magyar": 63,
     "Viktor Orbán": 47,
     "Tisza Party": 19,
     "Rumen Radev": 8,
@@ -81,25 +82,25 @@
     "European Commission": 5,
     "Ukraine": 4,
     "Russia": 4,
+    "Volodymyr Zelenskiy": 3,
     "European Union": 3,
-    "Volodymyr Zelenskiy": 2,
+    "Kremlin": 2,
     "Israel": 2,
     "EU member states": 2,
     "EU leaders": 2,
+    "EU Court of Justice": 1,
+    "Hungarian government": 1,
+    "Court of Justice of the European Union": 1,
+    "Hungary": 1,
     "András Schiff": 1,
-    "Donald Tusk": 1,
-    "Poland": 1,
-    "Benjamin Netanyahu": 1,
-    "Volodymyr Zelenskyy": 1,
-    "European right-wing parties": 1,
-    "Trump": 1
+    "Donald Tusk": 1
   },
   "main_actor": {
-    "hungary_country": 14,
+    "other": 10,
+    "eu_institutions": 4,
+    "hungary_country": 15,
     "magyar_peter": 35,
-    "orban_viktor": 19,
-    "other": 9,
-    "eu_institutions": 3
+    "orban_viktor": 19
   },
   "comparison_countries": {
     "Bulgaria": 5,
@@ -119,13 +120,18 @@
     "2026-04-18": 19,
     "2026-04-19": 8,
     "2026-04-20": 19,
-    "2026-04-21": 2
+    "2026-04-21": 5
   },
   "tone_by_source": {
+    "Reuters": {
+      "neutral": 12,
+      "critical": 1,
+      "positive": 9
+    },
     "Politico Europe": {
+      "neutral": 6,
       "critical": 2,
-      "mixed": 1,
-      "neutral": 5
+      "mixed": 1
     },
     "The Guardian": {
       "positive": 5,
@@ -142,10 +148,6 @@
     },
     "The Atlantic": {
       "mixed": 1
-    },
-    "Reuters": {
-      "neutral": 11,
-      "positive": 9
     },
     "Washington Post": {
       "critical": 1,
@@ -195,10 +197,15 @@
     }
   },
   "source_bias": {
+    "Reuters": {
+      "neutral": 55,
+      "critical": 5,
+      "positive": 41
+    },
     "Politico Europe": {
-      "critical": 25,
-      "mixed": 12,
-      "neutral": 62
+      "neutral": 67,
+      "critical": 22,
+      "mixed": 11
     },
     "The Guardian": {
       "positive": 71,
@@ -212,10 +219,6 @@
       "neutral": 60,
       "mixed": 20,
       "positive": 20
-    },
-    "Reuters": {
-      "neutral": 55,
-      "positive": 45
     },
     "Washington Post": {
       "critical": 33,
@@ -237,5 +240,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-21T06:14:54.171380+00:00"
+  "last_updated": "2026-04-21T10:14:56.604417+00:00"
 }
