@@ -1,5 +1,234 @@
 [
   {
+    "id": "82fad22b6467af0f",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Ukraine completes Druzhba pipeline repairs, hoping to unlock blocked EU loan - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0pwblM4MUJrM3R3cXJSUWpHQ29LMERhMzBEYV9wVGhSVFY3LUdHTDh2NzNmdGw5aFY3WmQwSVVOY3BXSW1ObV9taV96dlpkcXFZbmNOOW1xYThRbG9UODY0ZlJCcHR2QjNWZS1fMERsbkFVQkZTdnl5SngwWlE2dERfYTJ1bUdmTUFybXVoRkJuU2VsemdMWG1PS0QwTmY1RlBIcWs1cDFCY0pKNUY1SlpJUGx0YTlvcXF0bg?oc=5",
+    "published_at": "2026-04-21T17:55:22+00:00",
+    "fetched_at": "2026-04-21T18:00:21.348523+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "energy",
+      "EU funds",
+      "EU relations"
+    ],
+    "actors": [
+      "Ukraine",
+      "Zelenskiy",
+      "Kremlin",
+      "European Commission",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine has completed repairs to the Druzhba oil pipeline, resolving the energy conflict that Hungary had leveraged to block €90 billion in EU aid to Ukraine. With Péter Magyar's new government dropping its veto, the EU loan is now unblocked, marking a major realignment of Hungary's geopolitical position away from Russia toward EU integration.",
+    "title_hu": "Ukrajna befejezi a Druzhba-vezeték javítása, remélve a blokkolt EU-kölcsön feloldását",
+    "summary_hu": "Ukrajna befejezte a Druzhba-olajvezeték javítást, amellyel megoldódik az energetikai konfliktus, amit Magyarország a 90 milliárd eurós EU-kölcsön blokkolására használt. Péter Magyar új kormánya visszavonta a vétót, így az EU-kölcsön már feloldható, ami Magyarország geopolitikai helyzetének jelentős eltolódása Oroszország irányától az EU-s integráció felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "bfc9c747187385ce",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Mideast crises divide Europe as it grapples with rising fuel costs and policy toward Israel - AP News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDd3SDU5YV9wUlFqS2ZLclBiZ3NYZU1kb2Vvb0xHZWUzNDdqdzJJaGlhdTJTdWhrVDZMb3AyeXNoU3VpZ3hNNmV1NWhmSjlwZUZEOUdIWEhXSlpxTzFub0VUOEpXN1FRVXNuemkyZDQwRjF4WkQtZlc2OFEySVBVeGhtd29iajRpU0ZfaWxkeGlPVTBaS2UxVmJ1bmNZWm80VUtlejh6OVh5cmNF?oc=5",
+    "published_at": "2026-04-21T17:03:00+00:00",
+    "fetched_at": "2026-04-21T18:00:08.216525+00:00",
+    "topics": [
+      "foreign policy",
+      "EU relations",
+      "geopolitics",
+      "government transition"
+    ],
+    "actors": [
+      "EU institutions",
+      "Péter Magyar",
+      "Benjamin Netanyahu"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's new government under Péter Magyar contributes to shifting European policy toward Israel and the Middle East. Magyar's declaration that Hungary will enforce ICC obligations to arrest Netanyahu marks a reversal from Orbán's era as Israel's EU ally, enabling the EU to unblock sanctions pressure on Israel—illustrating how Hungary's democratic transition is reshaping Europe's geopolitical posture amid regional crises and energy security concerns.",
+    "title_hu": "Közel-keleti válságok osztják Európát az emelkedő energiaárak és az Izrael-politika közepette",
+    "summary_hu": "Péter Magyar új magyar kormánya módosítja az Európai Unió Izraellel és a Közel-Kelettel szembeni politikáját. Magyar nyilatkozata, hogy Magyarország az ICC kötelezettségek alapján Netanjahu letartóztatásához járul, az Orbán-era izraelbarát politikájának fordulópontja, és lehetővé teszi az EU számára szankciós nyomást gyakorolni Izraelre. Ez jól mutatja, hogyan alakítja át Magyarország demokratikus átmenete az Európai Unió geopolitikai pozícióját.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [
+      "Israel",
+      "United States"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "d6af896e348f726b",
+    "source": "DW English",
+    "region": "de",
+    "title": "Zelenskyy says Druzhba oil pipeline to Europe repaired - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHcxRmRLVVItWVB4WldDSHlJc2Q1d2xsZEx5aG96YWpKYlJNMGZyMk1XM19iak91bDg1Uk13X3A2TFEyZ1htaGZMeHN6dmRTTnV3WDFiZ1MwQkFrbm45dFY5Q1NrMjJnT2hydkg3M2V2d1JTUTRfSUZ0SzRIaDNyM0o5enZ0VDZGdUdTSWJ0X07SAZABQVVfeXFMUHdIZVNwU3RSbTR2SkJqazZwME9rS0VkazFnWjVPUnNNNDl6bVZkXzRTbkZBTER2MTAwTjJ0NU04aHF6VG5uNFl6MW5ITFhWSDFXX0dKWldVeFd5eDBjTVFWU0tfNkN5LTdqazBXTEhPazdkbTl6Ul9tSjBVVlVYYm95Q3BJaDc3OERIRG9CQUlr?oc=5",
+    "published_at": "2026-04-21T16:26:52+00:00",
+    "fetched_at": "2026-04-21T18:00:43.761020+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "Volodymyr Zelenskyy",
+      "Péter Magyar",
+      "Russia"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine's President Zelenskyy announced the resumption of the Druzhba oil pipeline to Europe, resolving a trilateral dispute with Russia and Hungary. This development closes the Hungary-Ukraine energy conflict that became central to Péter Magyar's new government's early foreign policy agenda and signals improved regional cooperation.",
+    "title_hu": "Zelenszkij: a Druzhba olajvezeték helyreállt Európa felé",
+    "summary_hu": "Ukrajna elnöke, Zelenszkij bejelentette a Druzhba olajvezeték Európa felé történő újraindítását, amellyel rendezödik az Oroszország és Magyarország közötti háromoldalú vita. Ez az eredmény lezárja a magyar-ukrán energetikai konfliktust, amely Péter Magyar új kormánya korai külpolitikájának központi kérdésévé vált, és javított regionális együttműködésre utal.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Ukraine",
+      "Russia"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "4d804d7e85541918",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "EU members reject push to suspend association agreement with Israel - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVFpLcHY1TFNHN01UcFFwU3BwaUMyelVwN1ZNQ05XUEZteDRJNlhrTU1ycldqVHFpem9XX2twQVJTTkh5U0FvanlNY1NuNWYyOXBWN2o2dlhMOTlzMUtTRHhodl9OZThweHoxaXpEcERkaU51d29Pakc3N3VIZFpvVHl3WTdNQQ?oc=5",
+    "published_at": "2026-04-21T16:25:30+00:00",
+    "fetched_at": "2026-04-21T18:00:32.458873+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "EU relations",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "EU member states",
+      "Benjamin Netanyahu"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "EU members resist suspension of Israel's association agreement, revealing divisions over accountability mechanisms. Hungary under Péter Magyar has reversed Orbán's pro-Israel shield role, demanding Netanyahu's ICC arrest, which unblocked previously stalled EU sanctions discussions. The result demonstrates ongoing EU tensions over Israel policy and the limits of unified action following Hungary's geopolitical realignment.",
+    "title_hu": "Az EU tagállamok elutasítják Izrael társulási megállapodásának felfüggesztésére irányuló nyomásokat",
+    "summary_hu": "Az EU tagállamok elutasítják Izrael társulási megállapodásának felfüggesztését, ami az izraeli felelősségvállalás körüli megosztottságot tükröz. Magyarország Péter Magyar vezetésével visszavonta Orbán pro-Izrael politikáját, Netanyahu ICC-s elfogadása követeli, feloldva az addig blokádolt EU szankciós tárgyalásokat. Az eredmény az EU izraeli politikájáról folyó feszültségeket és Magyarország geopolitikai átfordulása nyomán az egységes cselekvés korlátait mutatja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [
+      "Israel"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "0d4862f62855d6c3",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Orbán-Fico alliance ends with renewed Slovak-Hungarian friction - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXJaemxHYUwxUjVZdmRVTzA0dWRLQjRfNjBfVVdZVGhnRnZWVGpLMk1FYmtrdmpaTlVJWlV4N1FPd1RnTGV6dWxyMUQzaVpETk8xb3dVOEFTeXl5OURvU1ltSkpreDlneHJHbHZ2ZWdJYm40djF0OEUxckx4UTFwTGtuYWlWSDRKMVE4ZGJkTTFGN19tNWZabEZn?oc=5",
+    "published_at": "2026-04-21T16:07:28+00:00",
+    "fetched_at": "2026-04-21T18:00:34.118888+00:00",
+    "topics": [
+      "V4 diplomacy",
+      "government transition",
+      "foreign policy",
+      "human rights"
+    ],
+    "actors": [
+      "Orbán Viktor",
+      "Fico Robert",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "regional",
+    "summary_en": "The strategic alliance between Viktor Orbán and Slovak PM Robert Fico is ending as Hungary's new Magyar government repositions the country's regional relationships. Bilateral minority rights tensions are resurfacing between Hungary and Slovakia, signaling a shift from Orbán's cross-border CEE network strategy.",
+    "title_hu": "Az Orbán-Fico szövetség véget ér - a szlovák-magyar feszültség újra erősödik",
+    "summary_hu": "A Péter Magyar vezette új magyar kormány az ország regionális kapcsolatait átpozícionálja, aminek eredményeként Viktor Orbán és a szlovák miniszterelnök közötti stratégiai szövetség véget ér. A magyar-szlovák bilaterális kisebbségi jogok körüli feszültségek újra felszínre kerülnek, jelezve az eltolódást az Orbán-korszak regionális hálózatépítésétől.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [
+      "Slovakia"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "24256861188756a2",
+    "source": "The Parliament Magazine",
+    "region": "eu",
+    "title": "Is Bulgaria’s new leader EU’s next Viktor Orbán? - The Parliament Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazlxVUpxaHlQeFh6bkNVRWZqZF9ZYnhtWEZGaG9NTlpoRC1Uc0lHcWpsaEFrWW50eTFXLWxmTzdJNXdkMk1IT2E1QjlvZUdRamhsZ2IzUTVlYXNHd0ZYMFpmME44RUpTYzRWMVA1WUp2a1d5Q0tGdnlXRUVZMERaWmFOeHFiTFdzMWRjZFotaDZCRFF3cU50WkFn?oc=5",
+    "published_at": "2026-04-21T15:03:08+00:00",
+    "fetched_at": "2026-04-21T18:00:37.964248+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "democracy"
+    ],
+    "actors": [
+      "Rumen Radev",
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "Bulgaria's newly elected leader Rumen Radev is being assessed as a potential democratic backslider with Russian sympathies, raising concerns he could replicate Viktor Orbán's authoritarian trajectory. As Hungary exits Moscow's sphere of influence under Péter Magyar, Bulgaria appears to be consolidating Russian influence, marking a Central European political divergence. The comparison highlights the regional stakes of governance choices between democratic reform and authoritarian drift.",
+    "title_hu": "Bulgária új vezetője az EU következő Viktor Orbána?",
+    "summary_hu": "Bulgária újonnan megválasztott vezetője, Rumen Radev kritikának van kitéve potenciális hasonlóságok miatt Viktor Orbánnal, különösen Oroszország-barát politikájában és demokratikus irányításában. Miközben Magyarország Péter Magyar vezetésével kilép az orosz befolyás alól, Bulgária az orosz érdekeket erősíteni látszik, ami a Közép-Európa régió politikai divergenciáját jelzi. Az összehasonlítás a választások súlyát mutatja az autoritárius sodródás és a demokratikus reform között.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Bulgaria"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "6f3f7582654cf9c9",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Zelenskyy announces Druzhba oil pipeline repaired and 'can resume operation' - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQS1nb2IyZnRUQzNBVHgtREtfckw4empsZ2ZEbjd4MTFaRlhkVTlSbVg5WVVNbzdvUG9kcGwwOU1IeHlWSE5fcUpqWmJaZXVfdmRIeFprbmNpbHRXazBTcDZ5dWdCMUY4b3JDVXpNal82MEdFNVJSTjV1OTFOLVp1dkluenJRRXZXajhJTVVidGVMX3NRa1ZRekJoRmpqdzJkckF0YVF0V0RxektXT1czd0pYYzVwVlFRS1JMYg?oc=5",
+    "published_at": "2026-04-21T14:49:44+00:00",
+    "fetched_at": "2026-04-21T18:00:39.988564+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Volodymyr Zelenskyy",
+      "Péter Magyar",
+      "Kremlin",
+      "Ukraine"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Zelenskyy announced the Druzhba oil pipeline repair is complete and operations can resume, resolving the Hungary-Ukraine-Russia energy standoff that had blocked Magyar's government transition and EU reintegration. The trilateral resolution eliminates a critical geopolitical bottleneck and enables Hungary's pivot away from Orbán-era Russian energy dependence.",
+    "title_hu": "Zelenszkij bejelenti, hogy a Druzhba olajvezeték megjavított és 'újra indulhat'",
+    "summary_hu": "Zelenszkij bejelentette, hogy a Druzhba olajvezeték megjavítása befejeződött és a működés folytatódhat. Ez feloldja a magyar-ukrán-orosz energetikai vitát, amely Magyar kormányalakítása útjában állt, és lehetővé teszi Magyarország távolodását Orbán orosz-orientált energiapolitikájától.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Ukraine",
+      "Russia"
+    ],
+    "quotes": [
+      "can resume operation"
+    ]
+  },
+  {
     "id": "6a3fd57a8f454df7",
     "source": "Euractiv",
     "region": "eu",
@@ -230,6 +459,68 @@
     "quotes": []
   },
   {
+    "id": "17a9e0e4961da006",
+    "source": "BBC",
+    "region": "uk",
+    "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vSEJ5XzQ2eEw4R08tWjVTMFkxNlF5Yko1X1puZHZVSVRJeEpQb1ZZWjB5a0tnMGVnamhhaGJCd0RWUk1fYVRJanI5dTZwM2l0R1NhTDJlWVRBQQ?oc=5",
+    "published_at": "2026-04-21T12:28:31+00:00",
+    "fetched_at": "2026-04-21T14:00:06.189166+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "human rights",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "European Court of Justice",
+      "Péter Magyar",
+      "Hungarian government",
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "The European Court of Justice ruled Hungary's anti-LGBTQ laws violate EU values and law. The decision confronts Péter Magyar's government with the need to repeal inherited discriminatory statutes. This judgment represents the central rule-of-law test of Hungary's democratic transition.",
+    "title_hu": "Precedensértékű ítélet: Magyarország LGBTQ-ellenes jogszabályai megsértik az EU-értékeket",
+    "summary_hu": "Az Európai Bíróság megállapította, hogy Magyarország LGBTQ-ellenes jogszabályai megsértik az EU-jog és értékeket. Az ítélet Péter Magyar kormányát az Orbán-korszakból örökölt diszkriminatív jogszabályok hatályon kívül helyezésére kényszeríti. Ez az ítélet Magyarország demokratikus átalakulásának jelenlegi legfontosabb jogi próbatétele.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f0d09fa504fe87a3",
+    "source": "Foreign Policy",
+    "region": "us",
+    "title": "The Trump-Orban Strongman Era of Has Peaked - Foreign Policy",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3dpNlFkRTAxM25pN0wzb01hNmI5ZU4wMVlwMklsSUczSmdYNmNCZ05kcmVHMWdQSTFIS1RQcGxqcW54ZGkwOEpIUEtPWGpYbjBfMV90ZXdBLUd5cHF6ZHJJWTk2a1NWZ2UyWmg2d0dYZXRpR1FYeEFNTnFhNXhxS3lQQVBOZw?oc=5",
+    "published_at": "2026-04-21T11:44:45+00:00",
+    "fetched_at": "2026-04-21T18:00:24.193943+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "government transition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Donald Trump"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Foreign Policy analyzes the decline of the Trump-Orbán geopolitical axis following Hungary's democratic transition. The article examines how the transatlantic alliance of illiberal leaders has reached its peak as Orbán's electoral defeat ends his 15-year rule and Magyar's government pursues EU reintegration.",
+    "title_hu": "A Trump-Orbán Erősember Korszaka Tetőzött - Foreign Policy",
+    "summary_hu": "A Foreign Policy magazin a Trump-Orbán geopolitikai szövetség hanyatlását vizsgálja Magyarország demokratikus átmenete után. A cikk azt elemzi, hogy az illiberális vezetők transatlanti tengelye tetőzött, miután Orbán választási veresége 15 éves uralomnak vet véget és Magyar kormánya az EU-s reintegrációt követi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [
+      "United States"
+    ],
+    "quotes": []
+  },
+  {
     "id": "45dc2ddd1ed31ea7",
     "source": "EUobserver",
     "region": "eu",
@@ -318,6 +609,41 @@
     "main_actor": "eu_institutions",
     "comparison_countries": [],
     "quotes": []
+  },
+  {
+    "id": "4c64c90a9596a8d3",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "‘Totally unacceptable’: EU ministers step up calls for sanctions on Israel following Orbán loss - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNEdWMTBMQkg5SjQ0R3dnYUFjUm1DREVMMW4yU3I4MHZYS2dKUlpxckV4UXFwamVXeDloV3FXUFhBUjUyRFAta2RJZ3lvNXF4NVlRUEt3by1IQmtZa1BmVk1OMXk4TzdyZy1vSVY3b09MVVlPLUZuUVZyRFlvS0FveVpWN3c3ZUo1WHAtemRvZndYaWhrOVBjYnZBNzYzZEZ0aHIyOUNweVJNbTBDNEtjUGVhRlNIV3NJTjB6b3Vsc1Y?oc=5",
+    "published_at": "2026-04-21T10:49:00+00:00",
+    "fetched_at": "2026-04-21T18:00:34.118762+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy",
+      "rule of law",
+      "EU relations"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "EU Foreign Ministers",
+      "Israel",
+      "Benjamin Netanyahu"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's government transition from Viktor Orbán to Péter Magyar has unblocked EU efforts to push for sanctions against Israel, with EU ministers intensifying calls for action. The new Hungarian government reversed Orbán's protective stance toward Israel, aligning with broader EU rule-of-law commitments regarding ICC obligations. This represents a significant shift in Hungary's role within EU foreign policy coordination.",
+    "title_hu": "'Teljesen elfogadhatatlan': EU-s miniszterek fokozzák az izraeli szankciók miatti felhívásaikat az Orbán bukása után",
+    "summary_hu": "Magyarország kormányzati átmenete, melynek során Péter Magyar foglalta el Orbán helyét, feloldotta az EU izraeli szankciókat támogató törekvéseit. Az EU miniszterek fokozzák a felhívásaikat a szankciók bevezetésére, miután az új magyar kormány megfordította Orbán izrael-barát álláspontját. Az új helyzet összhangban van az EU jogállamisági kötelezettségeivel az ICC tekintetében.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": [
+      "Totally unacceptable"
+    ]
   },
   {
     "id": "ffe06b8d43ddf6f0",
@@ -741,6 +1067,36 @@
     "is_relevant": 1,
     "main_actor": "hungary_country",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "78d670d2c38669d5",
+    "source": "The Times",
+    "region": "uk",
+    "title": "Bulgaria election results: pro-Kremlin former fighter pilot is new PM - The Times",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORV9TdGNTdEhteTZVeHZLNFNHRjBidkNMOFRTT3VVeWFnLUExcTh3Wm1uNXM1RUcwTGJnZWtPdkdIWWdIblFkWnBFT1djOUlic2w3SzBKWHBrMlMtVExzUENpeHhXd29YUlE0WWNIRUQ3aXN2VG1CS1RzYS1ST05LUlpmZzI3SDB1dERocG5BLWU3bXlvaUlHamg1Tk4yZmc?oc=5",
+    "published_at": "2026-04-20T20:10:27+00:00",
+    "fetched_at": "2026-04-21T14:00:13.917289+00:00",
+    "topics": [
+      "geopolitics",
+      "elections",
+      "Russia deals",
+      "EU relations"
+    ],
+    "actors": [
+      "Rumen Radev"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Bulgaria's pro-Kremlin Rumen Radev won parliamentary elections, consolidating Moscow's primary remaining Central European foothold as Hungary pivots toward EU reintegration. The outcome reshapes the CEE geopolitical balance following Hungary's government transition.",
+    "title_hu": "Bulgária választási eredmények: Kremlinhez közel álló volt vadászpilóta az új miniszterelnök",
+    "summary_hu": "Bulgáriában a Kremlinhez közel álló Radev Rumen megnyerte a parlamenti választásokat, megerősítve Moszkva fő közép-európai partnerségét, miközben Magyarország az EU-s újraintegráció felé fordul. Az eredmény Magyarország kormányváltása után bekövetkezett közép-európai geopolitikai átrendeződést tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Bulgaria"
+    ],
     "quotes": []
   },
   {
