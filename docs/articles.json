@@ -1,5 +1,100 @@
 [
   {
+    "id": "faaed2b05fe284b9",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Hungary wants to suspend €1m daily fine over asylum. Try following the rules? - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDVsSGNyT1oxM25SYlY5YkQ3R09SSXRZMmZiVF91TFFIV3ptU2k4UW1qczcyLUxPSC1XdWZqb19mTThObExWNjlLTXJvZFpDZm00aDFxdVRVZUJGcC1iU0NrcTFmRzhleFF1Z3ByZ01xaG5jNko1ZDRoRkI2NnlMaXoxSENmNkxhV3B5ZDNBVDJGQ041S1UyZ0JHaWNNaENoTHZzVUoyckxYQQ?oc=5",
+    "published_at": "2026-04-22T05:30:00+00:00",
+    "fetched_at": "2026-04-22T06:00:32.026226+00:00",
+    "topics": [
+      "EU relations",
+      "rule of law",
+      "migration"
+    ],
+    "actors": [
+      "Hungarian government",
+      "EU institutions"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "Hungary's new government seeks to suspend a €1m daily EU fine over asylum policy non-compliance. EUobserver's sarcastic headline signals skepticism, implying the real solution is simply following EU rules rather than seeking exemptions—an early test of Magyar's claimed EU alignment against inherited asylum policy conflicts.",
+    "title_hu": "Magyarország az 1 millió eurós napi bírság felfüggesztését szeretné. Próbáljuk meg betartani a szabályokat?",
+    "summary_hu": "Az új magyar kormány az EU által kiszabott 1 millió eurós napi bírságot szeretné felfüggeszteni az aszilumpolitika megsértése miatt. Az EUobserver gúnyosan azt sugallja, hogy a valódi megoldás az EU szabályok követése lenne—ez az első korai próbatétele a Magyar kormány EU-integrációs ígéretének az örökölt aszilumpolitikai konfliktusok ellen.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f6da2e387c322f65",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Magyar wants to put the Austro-Hungarian Empire back on the map - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS3ZaSkZaZUZiSGh0Y1lNa2NKc2NjRElHOUVzaHhCWmlFX3RYa1ljOUlKaWpFUUJvS2JBV0JXd0Y0b29EWG9jeHE4Q2NCSTc1Z0pVdUt5dlRfYXNXM2pNcXV2bkJJTlFkUFJFT2RDLVFRUVBSOGtBNUh2S1NhVVByX0Vad2tVOXQ4Q1RZRFpNNUhmdw?oc=5",
+    "published_at": "2026-04-22T03:00:00+00:00",
+    "fetched_at": "2026-04-22T06:00:28.322710+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "EU relations",
+      "V4 diplomacy",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "Politico Europe critiques Péter Magyar's regional diplomatic ambitions, suggesting his vision for Hungary's Central European repositioning carries echoes of historical Austro-Hungarian power consolidation. The headline reflects skepticism about whether Magyar's 'Warsaw on the Danube' bilateral strategy risks overreach in asserting regional influence during Hungary's EU reintegration.",
+    "title_hu": "Magyar az Osztrák-Magyar Monarchiát vissza szeretné helyezni a világpolitika térképére",
+    "summary_hu": "A Politico Europe Péter Magyar regionális diplomáciai ambícióit kritizálja, azt sugallva, hogy Magyarország közép-európai újrapozicionálásának víziója az osztrák-magyar nagyhatalom történelmi konszolidálásának visszhangja. A cím azt tükrözi, hogy szkeptikus-e Magyar 'Varsó a Dunán' bilaterális stratégiájának túlzott regionális befolyás-igénye az EU-reintegrációs folyamat során.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland",
+      "Austria"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "144ea2a1939eb35e",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Ukraine war briefing: Quick loan in pipeline as Druzhba reopens - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaC11Y29iUHNFaUZRbC1icklDVTV4bzNHZV94dlZ5RVgyQXBFRHNvbDVid2FtYnVMaEZLY0pkS1ItRm9kajF4NjhwMGtoWU9YWThqd1JDMmwzOU1RZFNqbE9henczLVlXamlYd3N2bE1xcmsxMk0zQTRVY1NuSjJwUURPc3I0Q3UwWjBZQVU3V0Y1OVFpNTBzNkFfM0pLT0RxeVk0bHZUeFpYME5i?oc=5",
+    "published_at": "2026-04-22T01:30:00+00:00",
+    "fetched_at": "2026-04-22T06:00:09.807987+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "EU funds",
+      "energy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary under new PM Péter Magyar has dropped its veto on the €90bn EU loan to Ukraine and enabled the trilateral reopening of the Druzhba pipeline with Ukraine and Russia. These moves reverse Orbán-era blocking tactics and signal Hungary's realignment toward EU and Ukrainian interests, unblocking major EU foreign policy initiatives. The decisions demonstrate Magyar's commitment to EU reintegration after 15 years of obstruction.",
+    "title_hu": "Ukraina-háborús tájékoztatás: Gyors kölcsön készülőben, a Druzhba újra üzemel",
+    "summary_hu": "Magyarország az új miniszterelnök, Péter Magyar vezetésével visszavonta az Ukrajna-nak nyújtandó 90 milliárd eurós EU-kölcsönre vonatkozó vétóját és lehetővé tette a Druzhba-csatorna hármas megnyitását Ukrajna és Oroszország közreműködésével. Ezek a lépések megfordítják az Orbán-korszak blokádó taktikáit, és Magyarország EU és ukrán érdekek felé történő igazodását jelzik, feltárva a nagyfontosságú EU külpolitikai kezdeményezéseket. A döntések azt mutatják, hogy Magyar kormánya az EU-val való újraintegráció felé kötelezi el magát 15 év megakadályozás után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Ukraine",
+      "Russia"
+    ],
+    "quotes": []
+  },
+  {
     "id": "00e7640931802b23",
     "source": "Euractiv",
     "region": "eu",
@@ -376,6 +471,36 @@
     "comparison_countries": [
       "Slovakia"
     ],
+    "quotes": []
+  },
+  {
+    "id": "013c7c1bd33298cc",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "Hungary's anti-LGBTQ+ law breaches EU rules, top court says - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUZfeHBjMUVVVEdXWHl5NG1vc1VFbzRjR1JVUlNlMFl1bldETmFpcDBDazY2QVhxTldwMy1TT1VyelpfS3ExNUVIQmdjS0tvNTdibXNFbFNyaFF5d25DM094OTVtWVRwOGRzTWx0Q3lvSU82VmdEeXY1WE9nX1Bpa0trQy1SMDBkVllqanZWS2lMa3o5cjFvUmhITUR5NnRhU1JXaDFPOTRHbGg2eXdNSWJOdTRIcE5VSFh6WWtaQXVtWnlzaXc?oc=5",
+    "published_at": "2026-04-21T15:48:56+00:00",
+    "fetched_at": "2026-04-22T06:00:37.453984+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "European Court of Justice",
+      "Péter Magyar",
+      "Hungary government"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "The European Court of Justice ruled that Hungary's anti-LGBTQ+ legislation violates EU law, marking a major human rights and rule-of-law challenge for Péter Magyar's new government. The ruling represents the first concrete test of Magyar's EU alignment and requires repeal of inherited discriminatory statutes. This decision signals EU courts' enforcement of fundamental rights protections against Hungary's legal framework.",
+    "title_hu": "Magyarország LGBTQ+ ellenes törvénye megsértette az EU-s szabályokat, mondja az EU Bíróság",
+    "summary_hu": "Az Európai Unió Bírósága megállapította, hogy Magyarország LGBTQ+ ellenes jogszabálya sérti az EU-s jogot, amely nagy kihívást jelent Péter Magyar új kormányzata számára. Az ítélet az első konkrét teszt Magyar EU-s igazodására, és a megörökölt diszkriminatív jogszabályok hatályon kívül helyezését igényli. A döntés az EU bíróságainak azon hajlandóságát mutatja, hogy kikényszerítsék az alapvető jogok védelmét Magyarország jogrendszere ellen.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
     "quotes": []
   },
   {
@@ -1191,6 +1316,39 @@
     "is_relevant": 1,
     "main_actor": "hungary_country",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "743ed692aae3b646",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Europe Today: Israel ties, Ukraine support top agenda as EU foreign ministers meet in Luxembourg - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObUphRDhkVWlpeTM1dzNPYktyNXE5UDRXeXlLQU5Wel8wRmsxaUYyVEhvTjNaMjBWN24xU0oySVBOSHBnNHltekdCbDg5ZnFDN1B1Wl9oZE81cFRhSUthRDdCYm9iMmFLMUlJaW5tQjdEbUszV1gxN3ZoR3RVSmlGZUtMdjF0T2wxbHp6RDRydXVkbU1yd21QMTJ6M19reC1icnRpWnJobmhUSDdkSEhDS3V4U25QdHhNcjlfcjFhOTVrZw?oc=5",
+    "published_at": "2026-04-21T05:56:49+00:00",
+    "fetched_at": "2026-04-22T06:00:35.599993+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "foreign policy",
+      "rule of law"
+    ],
+    "actors": [
+      "EU foreign ministers",
+      "Josep Borrell",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "EU foreign ministers convened in Luxembourg on April 21 to discuss Israel-related obligations and Ukraine support packages. Hungary's newly pivotal role in EU decision-making is implicit, given Péter Magyar's recent declaration that Hungary must arrest Netanyahu under ICC law and Hungary's reversal of its €90 billion Ukraine loan veto, unblocking both multilateral EU funding streams.",
+    "title_hu": "Európa ma: Izrael-kapcsolatok, Ukrajna-támogatás a napirend élén az EU külügyminisztereinek luxemburgi találkozóján",
+    "summary_hu": "Az EU külügyminiszterei április 21-én Luxembourgban üléseztek az Izraellel kapcsolatos kötelezettségek és az Ukrajna-támogatási csomagok megvitatásához. Péter Magyar új magyarországi kormánya döntő szerepet játszik az EU döntéshozatalban, mivel Magyar Netanjahu ICC szerinti letartóztatásáról nyilatkozott, és Magyarország visszavonta a 90 milliárd eurós Ukrajna-hitelvétót, ezzel feloldva a multilaterális uniós finanszírozási csatornákat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [
+      "Israel",
+      "Ukraine"
+    ],
     "quotes": []
   },
   {
@@ -2910,6 +3068,35 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "e8d9b94133c9f019",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Orban's defeat triggers soul-searching, calls for change in Fidesz - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbk9GS1dnTUNKc1ZxZ080cUlZWnVQdmNqRXBoeDFnS2NmTTNoX3VvVGdLTDY1SHNDaUQ0bzJOYU50d3dqbjQtMVNtc0xmYy0wX3JhQklVVFd5M0s3QWFSazN2d1ZpeGtQMWhGNmlwZXM2Q3k4MzZMSWprUmRQS0hYQ3NXWW9QVzlOS2RzNzVES05JX1F6Z1lUN1VKR1ExMFlT?oc=5",
+    "published_at": "2026-04-16T18:54:53+00:00",
+    "fetched_at": "2026-04-21T22:00:04.170906+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "Fidesz opposition",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Fidesz"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Following Viktor Orbán's electoral defeat, Hungary's Fidesz party undergoes internal soul-searching and faces calls for organizational change. Reuters documents the party's institutional response as it transitions to opposition status after 15 years in power.",
+    "title_hu": "Orbán vereségét követően lelkiismereti vizsgálat és változások indulnak a Fidesz-ben - Reuters",
+    "summary_hu": "Viktor Orbán választási vereségét követően a Fidesz párt belső lelkiismereti vizsgálattal és szervezeti változások felhívásaival néz szembe. A Reuters dokumentálja a párt intézményi válaszát, miközben 15 év után ellenzéki státuszba lép.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "fidesz",
     "comparison_countries": [],
     "quotes": []
   },
