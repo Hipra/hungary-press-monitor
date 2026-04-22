@@ -1,21 +1,21 @@
 {
-  "total_articles": 121,
-  "analyzed_articles": 121,
+  "total_articles": 124,
+  "analyzed_articles": 124,
   "tone": {
-    "neutral": 64,
-    "positive": 36,
+    "neutral": 66,
+    "positive": 37,
     "mixed": 7,
     "critical": 14
   },
   "framing": {
-    "geopolitics": 39,
+    "geopolitics": 40,
     "energy": 3,
     "regional": 2,
     "rule_of_law": 16,
     "other": 4,
     "economy": 4,
-    "democracy_restoration": 33,
-    "eu_integration": 12,
+    "democracy_restoration": 34,
+    "eu_integration": 13,
     "government transition": 2,
     "corruption": 2,
     "media_freedom": 2,
@@ -23,9 +23,9 @@
     "government_transition": 1
   },
   "region": {
+    "eu": 38,
     "wire": 29,
     "us": 14,
-    "eu": 35,
     "de": 11,
     "uk": 26,
     "cee": 4,
@@ -35,10 +35,10 @@
     "Reuters": 25,
     "Politico Europe": 13,
     "DW English": 11,
-    "Euronews": 9,
+    "Euractiv": 10,
+    "Euronews": 10,
     "The Guardian": 9,
     "Financial Times": 8,
-    "Euractiv": 8,
     "Washington Post": 6,
     "The Times": 5,
     "AP News": 4,
@@ -56,16 +56,16 @@
     "The Economist": 1
   },
   "topics": {
-    "government transition": 95,
-    "EU relations": 61,
-    "geopolitics": 54,
-    "democracy": 51,
+    "government transition": 97,
+    "EU relations": 63,
+    "geopolitics": 56,
+    "democracy": 53,
+    "foreign policy": 34,
     "elections": 34,
-    "foreign policy": 33,
-    "rule of law": 31,
+    "rule of law": 32,
+    "Russia deals": 14,
     "human rights": 13,
-    "Russia deals": 13,
-    "energy": 11,
+    "energy": 12,
     "EU funds": 10,
     "economy": 8,
     "judicial reform": 7,
@@ -75,36 +75,36 @@
     "corruption": 3,
     "regional": 2,
     "media freedom": 2,
-    "russia_deals": 1
+    "EU integration": 2
   },
   "actors": {
-    "Péter Magyar": 95,
-    "Viktor Orbán": 64,
+    "Péter Magyar": 97,
+    "Viktor Orbán": 65,
     "Tisza Party": 19,
     "Ukraine": 10,
     "Rumen Radev": 10,
-    "Russia": 7,
+    "Russia": 8,
+    "Hungary": 7,
     "EU Court of Justice": 7,
     "EU officials": 7,
     "Volodymyr Zelenskiy": 6,
     "Benjamin Netanyahu": 6,
-    "Hungary": 6,
+    "European Union": 6,
     "European Commission": 6,
-    "European Union": 5,
+    "Volodymyr Zelenskyy": 5,
     "EU institutions": 5,
     "Kremlin": 4,
-    "Volodymyr Zelenskyy": 4,
     "Israel": 4,
     "EU member states": 3,
     "Hungarian government": 3,
     "Russian government": 2
   },
   "main_actor": {
-    "hungary_country": 31,
-    "other": 17,
+    "other": 18,
+    "hungary_country": 32,
     "eu_institutions": 7,
     "orban_viktor": 27,
-    "magyar_peter": 39
+    "magyar_peter": 40
   },
   "comparison_countries": {
     "Bulgaria": 7,
@@ -112,8 +112,8 @@
     "Russia": 5,
     "Israel": 3,
     "United States": 3,
+    "Poland": 3,
     "Slovakia": 2,
-    "Poland": 2,
     "Hungary": 2
   },
   "daily": {
@@ -122,13 +122,18 @@
     "2026-04-14": 4,
     "2026-04-15": 4,
     "2026-04-16": 3,
-    "2026-04-17": 4,
+    "2026-04-17": 6,
     "2026-04-18": 19,
     "2026-04-19": 8,
     "2026-04-20": 20,
-    "2026-04-21": 42
+    "2026-04-21": 43
   },
   "tone_by_source": {
+    "Euractiv": {
+      "neutral": 5,
+      "critical": 2,
+      "positive": 3
+    },
     "Reuters": {
       "neutral": 14,
       "positive": 10,
@@ -161,18 +166,13 @@
       "mixed": 2,
       "positive": 1
     },
-    "Euractiv": {
-      "neutral": 4,
-      "critical": 2,
-      "positive": 2
-    },
     "The Parliament Magazine": {
       "critical": 1
     },
     "Euronews": {
       "positive": 3,
       "critical": 1,
-      "neutral": 4,
+      "neutral": 5,
       "mixed": 1
     },
     "Visegrad Insight": {
@@ -222,6 +222,11 @@
     }
   },
   "source_bias": {
+    "Euractiv": {
+      "neutral": 50,
+      "critical": 20,
+      "positive": 30
+    },
     "Reuters": {
       "neutral": 56,
       "positive": 40,
@@ -251,16 +256,11 @@
       "mixed": 25,
       "positive": 12
     },
-    "Euractiv": {
-      "neutral": 50,
-      "critical": 25,
-      "positive": 25
-    },
     "Euronews": {
-      "positive": 33,
-      "critical": 11,
-      "neutral": 44,
-      "mixed": 11
+      "positive": 30,
+      "critical": 10,
+      "neutral": 50,
+      "mixed": 10
     },
     "BBC": {
       "critical": 33,
@@ -285,5 +285,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-21T22:17:15.090349+00:00"
+  "last_updated": "2026-04-22T02:15:15.166816+00:00"
 }

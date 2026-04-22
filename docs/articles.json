@@ -1,5 +1,35 @@
 [
   {
+    "id": "00e7640931802b23",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Druzhba oil pipeline ready to ship Russian oil again, says Ukraine's Zelenskyy - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEJDUW45WDFBZlpNODJQZzd1LVZPa0M2eTZNOTI0d3BTV0lLYnVEdnZ3MkFmSEJFOFNGcVdsemtGUVVDQnB1enlySnNjZU9YcFJsdjlwY0Qzd2ZFZC1PaWZHQTZ6Z2ljOWRsZ1kzdFp4V2tfTzdoaFlITGNZRzlEN1ZVZG83Z0xZbnQ4eXp1ZkZYTjBqN0ZxZkZ0dGUxbEtFdW93?oc=5",
+    "published_at": "2026-04-21T22:00:33+00:00",
+    "fetched_at": "2026-04-22T02:00:32.917107+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "Russia deals",
+      "foreign policy"
+    ],
+    "actors": [
+      "Volodymyr Zelenskyy",
+      "Russia",
+      "Hungary"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine's President Zelenskyy confirmed the Druzhba oil pipeline is ready to resume Russian oil shipments, a trilateral agreement that resolves energy tensions between Hungary and Ukraine. This breakthrough removes a critical geopolitical obstacle to Péter Magyar's EU reintegration strategy.",
+    "title_hu": "A Druzhba olajvezeték újra szállíthat orosz olajat, megerősítette Zelenszkij - Euractiv",
+    "summary_hu": "Ukrajna elnöke, Zelenszkij megerősítette, hogy a Druzhba olajvezeték szállítási készen áll, amely megoldja a magyar-ukrán energetikai vitát. Ez a trilaterális megállapodás eltávolít egy kritikus geopolitikai akadályt Péter Magyar EU-integrációs stratégiájából.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "199a3382c6f48016",
     "source": "Reuters",
     "region": "wire",
@@ -2677,6 +2707,39 @@
     "quotes": []
   },
   {
+    "id": "9a1829063a12a7f7",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Editors' Choice: Purging bad blood in the Union - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYVVyTHJjNXZsRGVNWkhVblBsY3FZZGlpN2NETDdIaElhazJha0xnakxLYjRNbW5EWVNxbkMwMk1zUFdQWHdWUEkzNFpGS29yX3dMbExqRFNTWnNxWmhZUm5CbFJsU1dDZlRFTXNxQVZQZ0tCbDNMdDV1bGpYdTd4dlFIY3dvZw?oc=5",
+    "published_at": "2026-04-17T15:00:54+00:00",
+    "fetched_at": "2026-04-21T22:00:29.971335+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "democracy",
+      "EU integration"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk",
+      "European Union"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Euractiv editorial framing Hungary's political transition as a healing moment for EU unity. The 'purging bad blood' metaphor reflects optimism that Magyar's government will resolve the institutional tensions and geopolitical conflicts that defined Orbán's 15-year rule, positioning Hungary for reintegration as a functional EU partner rather than a structural obstacle.",
+    "title_hu": "Szerkesztői választás: Rossz véret megtisztítva az Unióban",
+    "summary_hu": "Az Euractiv szerkesztői cikke Magyar Péter új kormányának az EU-s egység helyreállítására vonatkozó lehetőségét értékeli. A 'rossz vér megtisztításának' metaforája az optimizmust tükrözi, hogy az új kormány feloldja az Orbán 15 éves uralmát jellemző intézményi feszültségeket és geopolitikai konfliktusokat, és Magyarország újra funkcionális EU-partnerként áll majd helyre.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
     "id": "dc35bc10be531743",
     "source": "Reuters",
     "region": "wire",
@@ -2700,6 +2763,35 @@
     "summary_en": "Péter Magyar's government initiates early negotiations with the European Commission to unblock frozen EU funds, marking Hungary's transition from electoral victory to concrete economic governance. The talks demonstrate a swift pivot toward EU reintegration and economic stabilization under the new Tisza Party-led administration.",
     "title_hu": "Magyar Péter korai EU-tárgyalásokat kezd a szavatolva tartott alapok felszabadítása érdekében",
     "summary_hu": "Magyar Péter kormánya korai tárgyalásokat kezdeményez az EU-val a szavatolva tartott alapok felszabadítása érdekében, amely Magyarország demokratikus átmenetének első konkrét gazdaságpolitikai eredménye. A tárgyalások az új Tisza Párti vezetésű adminisztráció gyors EU-integrációs fordulóját és gazdasági stabilizációját mutatják.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "8fbb6db7f1bb8aa6",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Podcast| Will Péter Magyar be able to break with Orbán’s legacy? - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTHJIM0VwSl9lVDdDd0k1ejZlQVlBaURhRmtvX2h3ck14cUtQTGxIR1FsQnJieFN5cDhIWXFhb0NfbnFTbUF6SjVCSXpzcDIwbVllRTZFRWhPUDlTRWRVYlpJVkJybGkwTXpsTDhHeWZfZVRHUGVHRkZBZVBLSmFLS3V3Qk9XZkJxanJGYmtuVVgxT1VZcGQxQTZoV2RjRVV4djBHTE9VcF9OTFk?oc=5",
+    "published_at": "2026-04-17T10:00:38+00:00",
+    "fetched_at": "2026-04-21T18:00:39.988530+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "A Euronews podcast explores whether Péter Magyar can effectively break with Viktor Orbán's 15-year autocratic legacy and deliver on democratic reforms. The episode examines the political, institutional, and social challenges facing Hungary's new prime minister as he attempts to dismantle concentrated power structures while rebuilding EU relations and restoring democratic norms.",
+    "title_hu": "Podcast| Képes lesz-e Péter Magyar szakítani Orbán örökségével?",
+    "summary_hu": "Az Euronews podcastja azt vizsgálja, hogy Péter Magyar képes lesz-e hatékonyan szakítani Viktor Orbán 15 éves autokrata örökségével és teljesíteni a demokratikus reformokat. Az epizód azokat a politikai, intézményi és társadalmi kihívásokat vizsgálja, amelyekkel a magyar miniszterelnök szembenéz a koncentrált hatalmi szerkezetek felszámolása és az EU-relációk helyreállítása során.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
