@@ -1,61 +1,51 @@
 {
-  "top_story_en": "Hungary's twin geopolitical breakthrough — the Druzhba pipeline restart and EU approval of the €90bn Ukraine loan — cements Péter Magyar's early foreign policy credibility, but critical framing of his Central European ambitions and selective EU compliance is now entering the coverage for the first time.",
-  "top_story_hu": "A Druzsba-csővezeték újraindítása és az EU 90 milliárd eurós ukrajnai hitelének jóváhagyása Magyar Péter korai külpolitikai sikereit igazolja, ugyanakkor a közép-európai ambícióit és az EU-s szabályoknak való szelektív megfelelését illető kritikus hangok most jelentek meg először a nemzetközi sajtóban.",
+  "top_story_en": "The EU's €90bn Ukraine loan received final ambassador-level approval on April 22, directly enabled by Hungary's veto reversal under Péter Magyar — the single most consequential foreign policy act of the new government's first weeks, confirmed across Reuters, BBC, Euractiv, and Euronews.",
+  "top_story_hu": "Az EU 90 milliárd eurós ukrajnai hitelcsomagját április 22-én az EU-nagykövetei jóváhagyták, miután Magyar Péter kormánya visszavonta Orbán korábbi vétóját — ez az új kormány első heteinek legmeghatározóbb külpolitikai döntése, amelyet Reuters, BBC, Euractiv és Euronews egyaránt megerősített.",
   "key_developments_en": [
-    "EU formally approved the €90bn Ukraine loan after Hungary dropped its veto, confirmed by multiple outlets including BBC, Reuters, FT, and Euronews.",
-    "Druzhba oil pipeline restarted following a trilateral agreement between Hungary, Ukraine, and Russia — Zelenskyy confirmed repairs complete.",
-    "Electrolux announced closure of its Hungarian factory with a $65 million charge, the first significant negative economic datapoint of the transition (WSJ).",
-    "EUobserver sharply criticized Hungary's bid to suspend the €1m daily EU asylum fine, framing it as incompatible with Magyar's stated EU-alignment agenda.",
-    "Politico Europe warned that Magyar's 'Warsaw on the Danube' regional strategy risks echoing Austro-Hungarian imperial consolidation — the first critical foreign-policy framing of Magyar rather than Orbán."
+    "EU ambassadors formally approved the €90bn Ukraine loan on April 22 after Hungary lifted its veto, with new Russia sanctions also advancing (Reuters, Euractiv, BBC).",
+    "Druzhba pipeline restart confirmed trilaterally by Zelenskiy, the Kremlin, and Magyar — Russian oil flows to Hungary and Slovakia resumed Wednesday (DW, Reuters).",
+    "Politico Europe published a critical piece framing Magyar's Central European diplomatic strategy as echoing Austro-Hungarian imperial ambitions, the sharpest foreign-policy pushback yet against the new government.",
+    "EUobserver challenged Hungary's bid to suspend its €1m-per-day EU asylum fine, calling it incompatible with Magyar's stated EU-alignment agenda.",
+    "Electrolux announced closure of its Hungarian factory with a $65m charge, the first significant Western manufacturing exit during the post-Orbán transition (WSJ)."
   ],
   "key_developments_hu": [
-    "Az EU jóváhagyta a 90 milliárd eurós ukrajnai hitelt, miután Magyarország visszavonta vétóját — a BBC, a Reuters, az FT és az Euronews egybehangzóan megerősítette.",
-    "A Druzsba-csővezeték trilaterális megállapodás alapján újraindult; Zelenszkij megerősítette, hogy a javítási munkálatok befejeződtek.",
-    "Az Electrolux bejelentette magyarországi gyárának bezárását 65 millió dolláros leírással — ez az átmenet első komolyabb negatív gazdasági jelzése (WSJ).",
-    "Az EUobserver élesen bírálta Magyarország kérelmét az 1 millió eurós napi menekültügyi bírság felfüggesztésére, ezt összeegyeztethetetlennek tartva Magyar EU-integrációs retorikájával.",
-    "A Politico Europe figyelmeztetett, hogy Magyar 'Dunai Varsó' regionális stratégiája az Osztrák–Magyar Birodalom egykori hatalmi logikáját idézheti — ez az első kifejezetten Magyar külpolitikáját illető kritikus értékelés Orbán örökségétől függetlenül."
+    "Az EU-nagykövetők április 22-én hivatalosan jóváhagyták a 90 milliárd eurós ukrajnai hitelt, miután Magyarország visszavonta vétóját; az új orosz szankciók előkészítése szintén megkezdődött.",
+    "A Druzsba-kőolajvezeték újraindítását Zelenszkij, a Kreml és Magyar háromoldalúan megerősítette — az orosz olajszállítások szerdán újraindultak Magyarország és Szlovákia felé.",
+    "A Politico Europe kritikus cikket közölt, amely Magyar közép-európai diplomáciai stratégiáját az osztrák-magyar birodalmi örökség felidézéseként értékeli — ez az eddigi legélesebb külpolitikai kritika az új kormánnyal szemben.",
+    "Az EUobserver megkérdőjelezte Magyarország azon kísérletét, hogy felfüggessze a napi egymillió eurós EU-s menedékügyi bírságot, amelyet a lap az EU-integrációs ígéretekkel összeegyeztethetetlennek tart.",
+    "Az Electrolux bejelentette magyarországi gyárának bezárását 65 millió dolláros leírással — ez az első jelentős nyugati gyárbezárás a poszt-Orbán átmenet időszakában."
   ],
   "narrative_shifts_en": [
-    "Critical framing of Magyar himself — rather than inherited Orbán-era problems — has entered international coverage for the first time, with Politico Europe on regional overreach and EUobserver on asylum fine selective compliance forming a nascent 'credibility gap' narrative.",
-    "The Electrolux closure introduces an economic counter-signal that complicates the dominant investor-optimism frame that has prevailed since Magyar's election; Western manufacturing exit now sits alongside EU fund releases in the same news cycle.",
-    "Coverage of the Druzhba/Ukraine loan story has shifted from anticipation to confirmation, moving the geopolitical narrative from 'breakthrough potential' to 'first delivered results.'"
+    "For the first time, a major outlet (Politico Europe) directs sustained critical framing at Magyar's own foreign policy vision — not at Orbán's legacy — marking a shift from uncritical transition optimism toward scrutiny of the new government's ambitions.",
+    "The Druzhba-Ukraine loan nexus, previously covered as two separate stories, is now consolidated across all wire services into a single 'great unblocking' diplomatic narrative centered on Magyar."
   ],
   "narrative_shifts_hu": [
-    "Először jelent meg a nemzetközi médiában Magyar Pétert — nem csupán az Orbán-korszak örökségét — közvetlenül bíráló hang: a Politico Europe a regionális túlterjeszkedés, az EUobserver a menekültügyi bírság körüli kettős mérce kapcsán.",
-    "Az Electrolux-bejelentés megtöri az egyoldalú befektetői optimizmus narratíváját: egy nyugati gyártó kivonulása most egyidejűleg jelenik meg az EU-s források felszabadításáról szóló hírekével.",
-    "A Druzsba/ukrajna-hitel történet a várakozásból megerősítéssé érett — a geopolitikai narratíva 'áttörési lehetőségből' 'első kézzel fogható eredménnyé' vált."
+    "Egy jelentős lap (Politico Europe) először irányít tartós kritikát Magyar saját külpolitikai víziójára — nem Orbán örökségére —, jelezve, hogy a kritikátlan átmeneti optimizmus helyét az új kormány ambícióinak vizsgálata veszi át.",
+    "A Druzsba-vezeték és az ukrajnai hitel korábban külön kezelt témái ma az összes hírügynökségnél egyetlen 'nagy feloldás' diplomáciai narratívává olvadt össze, amelynek középpontjában Magyar áll."
   ],
   "quotes_en": [
     {
-      "quote": "Can resume operation.",
-      "speaker": "Volodymyr Zelenskyy, on the repaired Druzhba pipeline"
-    },
-    {
-      "quote": "Totally unacceptable.",
-      "speaker": "EU foreign ministers, on Israel policy — cited by Euractiv, reflecting unblocked EU pressure following Hungary's ICC stance reversal"
+      "quote": "can resume operation",
+      "speaker": "Volodymyr Zelenskiy, on the Druzhba pipeline (Euronews)"
     }
   ],
   "quotes_hu": [
     {
-      "quote": "Újraindítható az üzemeltetés.",
-      "speaker": "Volodimir Zelenszkij, a megjavított Druzsba-csővezetékről"
-    },
-    {
-      "quote": "Teljességgel elfogadhatatlan.",
-      "speaker": "EU-s külügyminiszterek Izrael-politikáról — az Euractiv idézete, a magyar ICC-álláspont megfordulása nyomán feloldott uniós nyomás tükrében"
+      "quote": "újraindítható az üzemeltetés",
+      "speaker": "Volodimir Zelenszkij az ukrajnai Druzsba-vezetékről (Euronews)"
     }
   ],
   "what_to_watch_en": [
-    "Magyar government's concrete legislative response to the ECJ anti-LGBTQ ruling — repeal timeline and strategy remain entirely absent from international reporting.",
-    "Whether the asylum fine suspension bid and agriculture appointment harden into a sustained 'selective EU compliance' narrative or are treated as isolated incidents by Brussels and the press.",
-    "Electrolux closure follow-through: will other Western manufacturers signal similar exits, or will this remain an outlier against the broader investor-optimism trend?"
+    "Magyar government's formal response to the ECJ LGBTQ ruling — a repeal timeline or legislative strategy remains entirely absent from international coverage.",
+    "Whether Politico Europe's 'Austro-Hungarian overreach' framing gains traction among other outlets as Magyar's Warsaw bilateral deepens.",
+    "EU reaction to Hungary's asylum fine suspension request — EUobserver's skepticism may preview a broader Brussels pushback that tests Magyar's EU-alignment credibility."
   ],
   "what_to_watch_hu": [
-    "A Magyar-kormány konkrét jogalkotási válasza az ECJ LMBTQ-ítéletére — a visszavonás menetrendje és stratégiája teljes mértékben hiányzik a nemzetközi tudósításokból.",
-    "A menekültügyi bírság felfüggesztése és a mezőgazdasági kinevezés tartós 'szelektív EU-megfelelés' narratívává szilárdulnak-e, vagy egyedi esetként kezelik őket Brüsszelben és a sajtóban.",
-    "Az Electrolux-bezárás folytatása: mutatnak-e hasonló jelzéseket más nyugati gyártók, vagy ez elszigetelt esemény marad a szélesebb befektetői optimizmus hátterében?"
+    "A Magyar-kormány hivatalos válasza az Európai Bíróság LMBTQ-ítéletére — a visszavonás menetrendje vagy jogalkotási stratégiája még teljesen hiányzik a nemzetközi tudósításokból.",
+    "A Politico Europe 'osztrák-magyar túlterjeszkedés' keretezése terjed-e tovább más lapokhoz, miközben Magyar varsói bilaterális stratégiája mélyül.",
+    "Az EU reakciója a menedékügyi bírság felfüggesztésére irányuló magyar kérésre — az EUobserver szkepticizmusa előrevetítheti Brüsszel szélesebb körű visszautasítását, amely próbára teszi Magyar EU-integrációs hitelességét."
   ],
   "date": "2026-04-22",
-  "article_count": 43,
-  "generated_at": "2026-04-22T10:16:52.580346+00:00"
+  "article_count": 30,
+  "generated_at": "2026-04-22T14:20:29.549823+00:00"
 }
