@@ -1,5 +1,90 @@
 [
   {
+    "id": "51660b9dba26c9e1",
+    "source": "Foreign Policy",
+    "region": "us",
+    "title": "Hungary Drops Veto on Massive EU Loan to Ukraine - Foreign Policy",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTJFeDd0V2Y0MHdsaGFvcDJ3N29QNlRrMlBWakZybnBpdzhJakFxU2xiZW1zRmVGcWd1bFdtdzhpVnVSNjZLdkRCWUtZU0FlMkU5U2NkMGRoOFJxY2YwVnpnUHNYSEd2eHFlSUxRNk5iVzhLM1hXcnhpQmhzZHctUVVCV1ZWY250NnZkdU1XNF9qOFk1VEdpZWF2aEFDX2lzWDYyZk1OMXBkeUNWdWc?oc=5",
+    "published_at": "2026-04-22T20:58:32+00:00",
+    "fetched_at": "2026-04-22T22:00:20.044000+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "European Union",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Péter Magyar's new Tisza-led government reversed Hungary's long-standing veto on a €90 billion EU loan to Ukraine, unblocking crucial financial support and signaling Hungary's reintegration into EU consensus on Ukraine. The move marks a sharp departure from Viktor Orbán's 15-year blocking stance and strengthens Budapest's position within the EU amid broader democratic and judicial reforms.",
+    "title_hu": "Magyarország Feloldja Vétóját az Ukrajna Számára Nyújtandó Hatalmas EU-Kölcsön Ügyében",
+    "summary_hu": "Péter Magyar új Tisza-vezette kormánya visszavonta Magyarország hosszú évek óta tartó vétóját az Ukrajna számára nyújtandó 90 milliárd eurós EU-kölcsönnel szemben, feloldva az elengedhetetlen pénzügyi támogatást és jelezve Magyarország EU-s konszenzusba való visszatérését az Ukrajna ügyében. A lépés éles szakítást jelent Viktor Orbán 15 éves blokkolási álláspontjától, és megerősíti Budapest pozícióját az EU-n belül a szélesebb körű demokratikus és bírósági reformok közepette.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "93c84368f799b43e",
+    "source": "BBC",
+    "region": "uk",
+    "title": "The future of teleshopping, Hungary's media post Orban defeat, Danny Robins from Uncanny, Mandelson vetting row scoop - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvUVRRTnh2d3dPelJkZERGSy0tQUNxWGQzUDJHajgweXRraFgyNVIzWmNia3FzTXhoOUtXTDdleVBNd3NMZ09QY0dJYzExcjlN?oc=5",
+    "published_at": "2026-04-22T19:54:42+00:00",
+    "fetched_at": "2026-04-22T22:00:06.965179+00:00",
+    "topics": [
+      "media freedom",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "media_freedom",
+    "summary_en": "A BBC news bulletin segment covers Hungary's media landscape following Viktor Orbán's electoral defeat and the formation of Péter Magyar's Tisza-led government in April 2026. The coverage examines institutional changes to the media environment as part of Hungary's democratic renewal and post-transition restructuring.",
+    "title_hu": "A teléakadás jövője, Magyarország médiája Orbán veresége után, Danny Robins az Uncannytől, Mandelson-vizsgálat - BBC",
+    "summary_hu": "A BBC híradóműsora Magyarország médiaközegének az Orbán-kormány választási veresége utáni átalakulásáról számol be. A szegmens a Péter Magyar-vezette Tisza Párt kormányzásba lépése után bekövetkezett intézményi média-változásokat vizsgálja, mint a magyar demokratikus megújulás részeként.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d8ea60718fd03894",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Gáspár Orbán, son of Hungary's outgoing prime minister, discharged from military - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ1I0UE9NMEU3LU03ek9ZZmZaVXhDbzNFbzk4V3pLWXRDci00R1RwNGFwMmlxM1Q1X0dvanFta0dTemdxMlNoUXBqall6d3lhSjNUeWJ5RVEzVWo1YURHN1N6N3ZyTHRpTXBoc0drTUZwb0paMlNuWnI0Ul9lRk9JUWNVaXBrRm8tOHU3WXA5Rm90d0JCc1VraDBUcW92Z0w2cy03MmszMWZNbUZJdjJjbm1KRkZhX1c1S1RvaDk2LWY?oc=5",
+    "published_at": "2026-04-22T18:01:02+00:00",
+    "fetched_at": "2026-04-22T22:00:34.707510+00:00",
+    "topics": [
+      "government transition"
+    ],
+    "actors": [
+      "Gáspár Orbán",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Gáspár Orbán, son of Viktor Orbán, has been discharged from military service during Hungary's post-transition period under Péter Magyar's Tisza government. The discharge occurs amid broader institutional changes following the end of Orbán's 15-year rule.",
+    "title_hu": "Gáspár Orbán, az előző miniszterelnök fia, felmentve a katonai szolgálatból",
+    "summary_hu": "Gáspár Orbán, az előző magyar miniszterelnök fia, felmentve lett a katonai szolgálatból a kormányváltás időszakában. Az esemény az új Tisza-vezette kormányzat alatt végbemenő intézményi változások közepette történt, amelyek Orbán 15 éves uralmának végét követik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "a621762418e75d1f",
     "source": "Washington Post",
     "region": "us",
@@ -24,6 +109,35 @@
     "summary_en": "Hungary's new Péter Magyar government dropped its opposition to a €90 billion EU loan package for Ukraine, clearing EU approval on April 22. This represents a significant policy shift away from Viktor Orbán's previous stance, aligning Hungary with broader EU support for Ukraine.",
     "title_hu": "Ukrajna 105 milliárd dolláros kölcsönt kap, miután Magyarország visszavonta ellenkezését",
     "summary_hu": "Magyarország Péter Magyar új kormánya visszavonta ellenkezését a 90 milliárd eurós EU-s kölcsön csomaggal szemben, amely Ukrajna számára szán. Ez a fordulat 2026. április 22-én lehetővé tette az EU jóváhagyását, és jelentős eltolódást jelent Magyarország külpolitikájában az Orbán-era álláspontjához képest.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "fbba9f0b6b82a03d",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Exclusive: Hungary's new government to review €16bn EU defence plan - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa2ZiajRXUDAzVjVnQm1PeDdyN2FyQzRoTGFPLWFCS082QjFhUGNvc0c3VkNXeFRxYlVIZmM4YUdvMy1yLTNIdDlLUWYxQjlBbmtkSGhOSWZ3Z2NQcmRXenpBZEYtRHpXMDdVWnBfSkJrWHAtOVRzYWVKSnJCQ2xWdnItUWVZMzdrejdRTG9XdEF0OVZ1SXQzYWVmQWhVYjBoOEJJeHJ6TU1YcWdRblRsUDNQSzBMQzdac0JpUjFJMGZHYXM5U3dpNmdwR1lFSzRITGc?oc=5",
+    "published_at": "2026-04-22T17:33:06+00:00",
+    "fetched_at": "2026-04-22T22:00:34.707487+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "NATO",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new Tisza government is reviewing a €16 billion EU defence plan, signaling careful assessment of defense policy commitments under its pro-EU realignment. The review reflects Magyar's pragmatic approach to EU integration while maintaining strategic flexibility on security matters.",
+    "title_hu": "Magyarország új kormánya felülvizsgálja a 16 milliárd eurós EU-s védelmi tervet",
+    "summary_hu": "Magyarország új Tisza-kormánya felülvizsgálja a 16 milliárd eurós EU-s védelmi tervet, az EU-integrációs fordulat során a védelmi politikai kötelezettségek gondos értékelését jelezve. A felülvizsgálat Magyar pragmatikus megközelítését tükrözi az EU-hoz való viszonyulásban, miközben stratégiai rugalmasságot tart meg biztonsági kérdésekben.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
@@ -58,6 +172,68 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "42102981ff13ce9b",
+    "source": "BBC",
+    "region": "uk",
+    "title": "EU approves $100bn loan to Ukraine - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YZi1EU2ZWZmRfYVJMdEZabndrNGNzU2RkcE8xSWVoQXloWXBPYlF5WFlSbEFQaURSbk1XNkpmM2pONXJhTFRFdkdPVXYzYjVC?oc=5",
+    "published_at": "2026-04-22T16:52:39+00:00",
+    "fetched_at": "2026-04-22T22:00:06.965071+00:00",
+    "topics": [
+      "EU funds",
+      "EU relations",
+      "geopolitics",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "EU institutions"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "The EU approved a €90bn aid package for Ukraine on April 22, following Hungary's withdrawal of its veto under Péter Magyar's government. This marks a decisive geopolitical realignment from Viktor Orbán's blocking stance, signaling Magyar's commitment to EU alignment and Ukraine support. The approval unblocks critical post-invasion reconstruction funding.",
+    "title_hu": "Az EU 100 milliárd dolláros kölcsönt hagy jóvá Ukrajnának - BBC",
+    "summary_hu": "Az EU április 22-én jóváhagyta a Ukrajna számára nyújtott 90 milliárd eurós segélycsomag jóváhagyásáról számol be. Péter Magyar kormánya visszavonta az Orbán-korszak blokkádóját, ami a geopolitikai realinformációt jelzi. Magyar döntése az EU-hoz való közeledés és Ukrajna támogatása felé való fordulást szimbolizálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "bb79c548b21f6e30",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "EU confident €90B Ukraine loan will be unlocked on Thursday - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaHVmMXBGVE82bnRNTzMtOTBaSGNuQ2JDQmhRaHhXMXQ1UDVmMFRuTzlyYUJyVFd3UTRvVTA1OVlTd1pHbUJ3cnQ1WUFQeXp5R2RkdFZySnVxcUpCcXFWbTZLSkVzbEpwQ2kwSHlzZVRBZ29CTzd4cURCU0ZkU3c2RWtrVE5xLVU?oc=5",
+    "published_at": "2026-04-22T16:10:00+00:00",
+    "fetched_at": "2026-04-22T22:00:27.366623+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "economy",
+      "geopolitics",
+      "EU funds"
+    ],
+    "actors": [
+      "European Commission",
+      "Hungary",
+      "Ukraine",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "The EU confirmed it will unlock the €90 billion Ukraine aid package on April 22, following Hungary's reversal of its previous veto under Péter Magyar's new government. The move signals a dramatic geopolitical shift, with Hungary transitioning from obstruction toward closer EU alignment and stronger support for Ukraine.",
+    "title_hu": "Az EU biztos abban, hogy csütörtökön feloldják a 90 milliárd eurós Ukrajna-segélyt",
+    "summary_hu": "Az EU megerősítette, hogy április 22-én feloldja a 90 milliárd eurós Ukrajna-segélyt, miután Magyarország az új kormány alatt visszavonta vétóját. Ez jelentős geopolitikai fordulat, mely Magyarország obstrukciójából az EU-val való szorosabb együttműködés és Ukrajna támogatása felé való elmozdulását szimbolizálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
     "comparison_countries": [],
     "quotes": []
   },
@@ -152,6 +328,37 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "346bfa3688653053",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "EU close to approving release of $106B loan to Ukraine after months of deadlock - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYUNUTFh3LTR6YUItWlV6ZkNxSEJlQ01DVy1ORTFJbXo5SHZiSWVLT3lSQWhHd1VBdXFobmV3MVNFTF9LV3FQaHdGWHJiNnJCSGZXN205WnpJS1dHMDBvdmticlJkdXQ3VThaMjNiV2hXUTFyamVVVmpwUWp5MEU4VTJBbVl2QWh5NEtlOTJfT2lmT3M1dC0tWldMMk5XTWQyMzd6VmxJclV2Qm5sdWxrTlpWSTlscml1b0tkX3prd2NZWlg3SHFhVzNOeHJOZVR0Ym82YV9tbzdrZw?oc=5",
+    "published_at": "2026-04-22T13:23:04+00:00",
+    "fetched_at": "2026-04-22T14:00:20.008961+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "EU funds",
+      "government transition"
+    ],
+    "actors": [
+      "European Commission",
+      "Ukraine",
+      "Hungary",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The European Union is on the verge of approving a €90 billion loan to Ukraine after Hungary—under new Prime Minister Péter Magyar—dropped its months-long veto of the funding. The approval marks a significant reversal from Viktor Orbán's blocking stance and signals Magyar's government commitment to EU alignment and Ukrainian support.",
+    "title_hu": "Az EU közel van az Ukrajna számára nyújtandó 106 milliárd dolláros kölcsön jóváhagyásához hosszú hónapok után",
+    "summary_hu": "Az Európai Unió készül jóváhagyni a 90 milliárd eurós Ukrajna-kölcsönt, miután Magyarország az új miniszterelnök, Péter Magyar vezetésével feloldotta hosszú hónapokig tartó vétóját. A jóváhagyás jelentős fordulat az Orbán-féle blokkolási politikához képest, és az új magyar kormány EU-s igazodásához és Ukrajna-támogatásához való elkötelezettségét mutatja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
     "comparison_countries": [],
     "quotes": []
   },
@@ -591,6 +798,36 @@
     "summary_en": "Hungary's new government seeks to suspend a €1m daily EU fine over asylum policy non-compliance. EUobserver's sarcastic headline signals skepticism, implying the real solution is simply following EU rules rather than seeking exemptions—an early test of Magyar's claimed EU alignment against inherited asylum policy conflicts.",
     "title_hu": "Magyarország az 1 millió eurós napi bírság felfüggesztését szeretné. Próbáljuk meg betartani a szabályokat?",
     "summary_hu": "Az új magyar kormány az EU által kiszabott 1 millió eurós napi bírságot szeretné felfüggeszteni az aszilumpolitika megsértése miatt. Az EUobserver gúnyosan azt sugallja, hogy a valódi megoldás az EU szabályok követése lenne—ez az első korai próbatétele a Magyar kormány EU-integrációs ígéretének az örökölt aszilumpolitikai konfliktusok ellen.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "ce50c485bd2053d5",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Zelenskyy to crash EU summit after calling Orbán’s bluff in €90bn loan row - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGR0dqM3pVYjczczBfRk8wSGNnWWdSaUQzZUVoNkcyTzhDYlpzb1lOOXdyaU9LcmVocmk4YkVHUnNOYVVMeGRJbjNjcEs1c3VuTVFlbXp6XzhTQk40bkZ1UXQ0dHhBNV9fSzVlcVBSakk?oc=5",
+    "published_at": "2026-04-22T05:02:01+00:00",
+    "fetched_at": "2026-04-22T22:00:12.623230+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "EU funds"
+    ],
+    "actors": [
+      "Volodymyr Zelenskyy",
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Ukrainian President Zelenskyy attended the EU summit as Hungary's obstruction of the €90bn Ukraine loan was overcome. The loan's approval represents a diplomatic breakthrough for Ukraine and marks Hungary's strategic pivot under new PM Péter Magyar, decisively departing from Viktor Orbán's previous blocking stance. This reflects Hungary's broader reintegration into NATO-EU mainstream alignment.",
+    "title_hu": "Zelenskyj az EU-csúcson Orbán szándékait lerántotta a 90 milliárd eurós kölcsön ügyében",
+    "summary_hu": "Az 90 milliárd eurós ukrán kölcsön jóváhagyása után Zelenskyj az EU-csúcson rendezi a helyzetét. A kölcsön feloldása Ukrajna diplomáciai győzelmét jelenti, és kulcsfontosságú teszt a Magyar Péter új kormányának EU-reintegrációjához, amely eltávolodik az Orbán Viktor korábbi blokkolási pozíciójától. Ez Magyarország geopolitikai fordulópontja az EU-NATO felé.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",

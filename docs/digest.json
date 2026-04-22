@@ -1,51 +1,53 @@
 {
-  "top_story_en": "Hungary's Péter Magyar government lifted its veto on the EU's €90bn Ukraine loan on April 22, triggering immediate EU approval — the single largest foreign policy reversal of the post-Orbán transition, confirmed across every major international outlet.",
-  "top_story_hu": "Magyar Péter kormánya április 22-én visszavonta vétóját az EU 90 milliárd eurós ukrajnai hitele ellen, amelyet az EU azonnal jóváhagyott — ez az Orbán utáni átmenet eddigi legnagyobb külpolitikai fordulata, amelyet minden jelentős nemzetközi sajtóorgánum megerősített.",
+  "top_story_en": "Hungary's new Tisza government dropped its veto on the EU's €90 billion loan to Ukraine, unblocking the package after months of Orbán-era deadlock — the single most consequential foreign policy signal of Magyar's first days in office, confirmed across every major wire and broadcaster.",
+  "top_story_hu": "Magyar Péter Tisza-kormánya visszavonta Magyarország vétóját az EU Ukrajna számára szánt 90 milliárd eurós hitelcsomagja ellen, feloldva a hónapok óta tartó patthelyzetet — ez az új kormány első napjainak legjelentősebb külpolitikai lépése, amelyet az összes vezető hírügynökség és médium megerősített.",
   "key_developments_en": [
-    "EU ambassadors formally approved the €90bn Ukraine loan package on April 22 after Hungary withdrew its long-standing veto under PM Magyar.",
-    "The Druzhba pipeline restart was confirmed trilaterally by Hungary, Ukraine, and Russia, resolving a key energy dispute and clearing the diplomatic path for the loan.",
-    "Magyar's government committed to opening Hungary's communist-era ÁVH secret police archives, extending transitional justice beyond the Orbán legacy (Reuters).",
-    "EUobserver criticized Hungary's bid to suspend the EU's €1m daily asylum fine, framing it as selective compliance rather than genuine rule-of-law reform.",
-    "Electrolux announced closure of its Hungarian factory with a $65m charge — a notable manufacturing divestment signal during the transition period."
+    "EU formally approved the €90bn Ukraine loan on April 22 after Hungary lifted its veto, with new Russia sanctions launched in parallel (Reuters, Euronews, BBC, Guardian, FT, WashPost).",
+    "Druzhba pipeline restart confirmed trilaterally by Magyar, Zelenskyy, and the Kremlin, linking energy pragmatism directly to the Ukraine loan unblocking (Reuters, BBC, DW).",
+    "Magyar's government committed to opening communist-era ÁVH secret police archives, the week's clearest transitional justice signal (Reuters).",
+    "EUobserver published a sarcastic rebuke of Hungary's bid to suspend its €1m daily EU asylum fine, flagging selective EU compliance as an emerging credibility problem.",
+    "Electrolux announced closure of its Hungary factory with a $65m charge, a concrete economic counter-signal amid the broader investor optimism narrative (WSJ)."
   ],
   "key_developments_hu": [
-    "Az EU-nagykövetei április 22-én formálisan jóváhagyták a 90 milliárd eurós ukrajnai hitelt, miután Magyarország visszavonta vétóját Magyar Péter miniszterelnök alatt.",
-    "A Barátság kőolajvezeték újraindítását Magyarország, Ukrajna és Oroszország háromoldalúan megerősítette, ezzel elhárítva a hitel előtt álló diplomáciai akadályt.",
-    "Magyar kormánya vállalta az ÁVH kommunista titkosrendőrség iratainak megnyitását, az átmeneti igazságszolgáltatást az Orbán-örökségen túlra is kiterjesztve.",
-    "Az EUobserver bírálta Magyarország kísérletét a napi 1 millió eurós menekültügyi bírság felfüggesztésére, szelektív jogállamiságként értékelve a lépést.",
-    "Az Electrolux bejelentette magyarországi gyárának bezárását 65 millió dolláros leírással — figyelmeztető jel az átmeneti időszakban zajló külföldi befektetések számára."
+    "Az EU április 22-én formálisan jóváhagyta a 90 milliárd eurós ukrajnai hitelt, miután Magyarország visszavonta vétóját; ezzel párhuzamosan új orosz szankciós csomag is életbe lépett (Reuters, Euronews, BBC, Guardian, FT, WashPost).",
+    "A Druzsba-kőolajvezeték újraindítását Magyar, Zelenszkij és a Kreml háromoldalúan megerősítette, az energetikai pragmatizmus így közvetlenül összekapcsolódott az ukrajnai hitel feloldásával (Reuters, BBC, DW).",
+    "Magyar kormánya vállalta az ÁVH kommunista kori titkosrendőrség irattárainak megnyitását — a hét legegyértelműbb tranzicionális igazságtételi lépése (Reuters).",
+    "Az EUobserver szarkasztikus hangvételű cikkben bírálta Magyarország kísérletét, hogy felfüggessze a napi 1 millió eurós uniós menekültügyi bírságot, az EU-kompatibilitás szelektív értelmezését jelezve.",
+    "Az Electrolux bejelentette magyarországi gyárának bezárását 65 millió dolláros leírással — konkrét gazdasági ellen-jelzés a befektetői optimizmus közepette (WSJ)."
   ],
   "narrative_shifts_en": [
-    "The Druzhba-plus-loan combination has crystallized a 'pragmatic dealmaker' frame for Magyar: today's coverage treats energy realpolitik and EU alignment as complementary rather than contradictory — a softer read than last week's skepticism.",
-    "Politico Europe's 'Austro-Hungarian Empire' headline introduces the first sustained critical framing of Magyar's own foreign policy vision, shifting scrutiny from Orbán's legacy to Magyar's regional ambitions."
+    "The Ukraine loan story moved from 'anticipated' to 'confirmed and finalized' — coverage shifted from conditional to declarative, with outlets framing Magyar's reversal as historic rather than merely tactical.",
+    "Politico Europe's 'Austro-Hungarian Empire' headline introduces the first sustained Western skepticism of Magyar's regional ambitions, countering the predominantly positive EU-reintegration framing of prior days.",
+    "The asylum fine suspension drew the week's sharpest editorial pushback, crystallizing a 'selective compliance' counter-narrative that now sits alongside the dominant EU-alignment story."
   ],
   "narrative_shifts_hu": [
-    "A Barátság-vezeték és a hitel együttes megoldása megszilárdította Magyar 'pragmatikus tárgyalópartner' képét: a mai tudósítások az energetikai reálpolitikát és az EU-igazodást inkább kiegészítőként, mint ellentétként kezelik — finomabb értékelés, mint a múlt heti szkepticizmus.",
-    "A Politico Europe 'Osztrák-Magyar Birodalom' főcíme az első tartós kritikai keretezést vezeti be Magyar saját külpolitikai víziójával szemben, az Orbán-örökségről a figyelmet Magyar regionális ambícióira irányítva."
+    "Az ukrajna-hitel sztori 'várható'-ból 'megerősített és lezárt' státuszba lépett — a tudósítás feltételesből kijelentővé vált, Magyar lépését történelminek, nem csupán taktikainak értékelik.",
+    "A Politico Europe 'Osztrák–Magyar Birodalom' főcíme az első tartós nyugati szkepticizmust vezeti be Magyar regionális ambícióival szemben, ellensúlyozva a korábbi napok döntően pozitív EU-integrációs narratíváját.",
+    "A menekültügyi bírság felfüggesztése iránti kísérlet váltotta ki a hét legerőteljesebb szerkesztői kritikáját, megszilárdítva a 'szelektív megfelelés' ellen-narratívát az EU-igazodás domináns képe mellett."
   ],
   "quotes_en": [
     {
       "quote": "I told Orbán his LGBT law was homophobic.",
-      "speaker": "Xavier Bettel, Luxembourg PM"
+      "speaker": "Xavier Bettel, Prime Minister of Luxembourg (Euronews, Apr 22)"
     }
   ],
   "quotes_hu": [
     {
-      "quote": "Megmondtam Orbánnak, hogy az LMBT-törvénye homofób.",
-      "speaker": "Xavier Bettel, luxemburgi miniszterelnök"
+      "quote": "Megmondtam Orbánnak, hogy az LMBTQ-törvénye homofób.",
+      "speaker": "Xavier Bettel, Luxemburg miniszterelnöke (Euronews, 2026. április 22.)"
     }
   ],
   "what_to_watch_en": [
-    "Magyar's LGBTQ repeal timeline: the ECJ ruling is 24 hours old and the government has yet to announce any legislative response — the silence is becoming a story.",
-    "Asylum fine suspension outcome: whether the EU grants or rejects Hungary's request will define the credibility of Magyar's rule-of-law posture in Brussels.",
-    "Orbán-era prosecution signals: international pressure for accountability (The Times, Apr 18) has not yet produced any reported investigative steps — watch for movement."
+    "Magyar government's concrete response to the ECJ LGBTQ ruling — repeal timeline and legislative mechanism remain entirely absent from international coverage.",
+    "€16bn EU defence plan review outcome: Hungary's position will test whether EU alignment extends to security commitments or remains selective.",
+    "Asylum fine suspension bid — EU institutions' reaction will determine whether 'pragmatic compliance' becomes an accepted frame or a sustained flashpoint."
   ],
   "what_to_watch_hu": [
-    "Magyar LMBT-törvény visszavonásának ütemterve: az EUB döntése 24 órája született, a kormány még nem jelentett be jogalkotási választ — a csend önmagában is hírré válik.",
-    "Menekültügyi bírság felfüggesztésének kimenetele: az EU döntése meghatározza, mennyire hiteles Magyar jogállamisági elkötelezettsége Brüsszel szemében.",
-    "Az Orbán-korszak felelősségre vonásának jelzései: a nemzetközi nyomás ellenére nem érkezett hír konkrét nyomozati lépésekről — érdemes figyelni az első mozdulatokra."
+    "Magyar kormányának konkrét válasza az Európai Bíróság LMBTQ-ítéletére — a hatályon kívül helyezés menetrendje és jogalkotási mechanizmusa teljes mértékben hiányzik a nemzetközi tudósításból.",
+    "A 16 milliárd eurós uniós védelmi terv felülvizsgálatának eredménye: Magyarország álláspontja megmutatja, kiterjed-e az EU-igazodás a biztonsági kötelezettségvállalásokra, vagy szelektív marad.",
+    "A menekültügyi bírság felfüggesztése iránti kérelem — az uniós intézmények reakciója eldönti, hogy a 'pragmatikus megfelelés' elfogadott keretté válik-e, vagy tartós konfrontációs ponttá."
   ],
   "date": "2026-04-22",
-  "article_count": 26,
-  "generated_at": "2026-04-22T18:17:47.145973+00:00"
+  "article_count": 30,
+  "generated_at": "2026-04-22T22:16:45.390792+00:00"
 }
