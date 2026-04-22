@@ -1,5 +1,194 @@
 [
   {
+    "id": "72889479c9c4f3e8",
+    "source": "BBC",
+    "region": "uk",
+    "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QcUwxQVJRQkRGUFlpWFFTQ2pCX1h0QnYwdURnRElTa1Q5SzhzcTFfSTlLMzZsdnEwdGFxcjdodUNEUUNocmtFZ21YZ01mZlhuT2FkRVZ4V2ZvZw?oc=5",
+    "published_at": "2026-04-22T09:47:48+00:00",
+    "fetched_at": "2026-04-22T10:00:05.554043+00:00",
+    "topics": [
+      "EU funds",
+      "energy",
+      "geopolitics",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "EU institutions",
+      "Kremlin",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The EU approved a €90bn Ukraine loan after Hungary lifted its blocking veto under Péter Magyar's new government. This move represents a major geopolitical shift, as Magyar confirmed resumption of the Druzhba pipeline trilaterally with Ukraine and Russia. The decision marks Hungary's pivot toward EU alignment and away from Orbán-era obstruction of EU collective decisions.",
+    "title_hu": "Az EU 90 milliárd eurós Ukrajna-hitelről dönt a csatorna-válság vége után",
+    "summary_hu": "Az EU jóváhagyta a 90 milliárd eurós Ukrajna-hitelezést, miután Péter Magyar új kormánya felemelte a magyar vétót. Ez a lépés jelentős geopolitikai fordulat, mivel Magyar kormánya a Druzhba-csatorna trilaterális újraindítását is megerősítette Ukrajna és Oroszország partnerségével. A döntés Magyarország EU-s igazodásának fordulópontját jelenti, és véget vet az Orbán-korszak EU-s kollektív döntéseket blokkoló politikájára.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Ukraine",
+      "Russia"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "dcf6489918aaefb0",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Druzhba pipeline is set to restart oil flows to Europe, potentially unblocking EU's Ukraine loan - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONFk1NlVMVG0xaXNDdm04eTZiYUpCZW1aeFlNZXhXWTNuWmRkQUtCVnpJNDlUSElqUktCckpJLVd4OGpDc0diUmNlQThqM2pIZlFuRGEwckc5VEZ5QXk0U0hxQjVtLXVPd1l4RkE4TUhlcW1kU1ZlMzI1TVNrVHFsQkF5OEdKblBXcUpaMmhQQ2I3SkJfbE94VEZHOWp4U0dYUDY1ZDc1WjhDSFAxRzJINExJb2w4RDlzTnNWN29URnF1YURMeEE?oc=5",
+    "published_at": "2026-04-22T08:56:37+00:00",
+    "fetched_at": "2026-04-22T10:00:01.697424+00:00",
+    "topics": [
+      "energy",
+      "Russia deals",
+      "geopolitics",
+      "foreign policy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "EU institutions"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The Druzhba pipeline restart, confirmed trilaterally by Hungary, Ukraine, and Russia, marks Péter Magyar's first major energy-diplomacy initiative as prime minister. The agreement potentially unblocks the EU's €90bn Ukraine support loan, positioning Hungary as a diplomatic bridge in EU-Russia-Ukraine relations.",
+    "title_hu": "A Druzhba csatorna olajáramlást indít Európa felé, feloldva az EU Ukrajna-hitelét",
+    "summary_hu": "A Druzhba csatorna trilaterális újraindítása, amelyet Magyarország, Ukrajna és Oroszország megerősített, Péter Magyar első nagy energia-diplomáciai kezdeményezése. Az megállapodás feloldhatja az EU €90 milliárd eurós Ukrajna-támogatási hitelét, és Magyarországot az EU-Oroszország-Ukrajna kapcsolatok közvetítőjeként pozicionálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "16c1b1dfaaf1fab7",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Ukraine to restart Russian oil pipeline to Europe 'within a few hours' - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEtNYkEzdmtpZUpraURyR0Vyd00wQWZpWnBjMUkxRnRUS0p5WHVfb0VUNHVZTk1namtEbHhYeWxGYW1MYVhqdHBuRlA5bThYTVNjRGRmT2tqbGEydFVrQmVCMWhyMDRtUURtV1RmaW56SWhEdDFEVnJVa3I4UHd1VVhLSkotU2FYeGl1WXpEenBsSXZQMER2Ti1FTnNDcVFj?oc=5",
+    "published_at": "2026-04-22T08:42:30+00:00",
+    "fetched_at": "2026-04-22T10:00:27.433012+00:00",
+    "topics": [
+      "geopolitics",
+      "energy",
+      "Russia deals",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "Volodymyr Zelenskiy",
+      "Péter Magyar",
+      "Vladimir Putin"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine is restarting the Druzhba pipeline carrying Russian oil to Europe following a trilateral agreement with Péter Magyar's new Hungarian government and Russia. The decision marks a geopolitical recalibration for Hungary's repositioned foreign policy and energy diplomacy.",
+    "title_hu": "Ukrajna pár órán belül újraindítja az orosz olajvezeték Európa felé",
+    "summary_hu": "Ukrajna a Druzhba olajvezetéket pár órán belül újraindítja Péter Magyar új magyar kormányával és Oroszországgal kötött háromoldalú megállapodás alapján. A döntés Magyarország geopolitikai átpozicionálódásának és energia-diplomáciájának átrendezésének fontos jelzése.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Russia",
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "899469d56b2422b9",
+    "source": "Wall Street Journal",
+    "region": "us",
+    "title": "Electrolux to Close Hungary Factory, Flags $65 Million Charge - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWVGb1FmeTI4dlExeW1OM1FlQ2UzanMwSmFlOWlxV3E4VXl6Sno5d2FJN3lmVVZzdThVVjdvWUpETnFfaExkUjZNeEI1elZENHVQaHYxaEN5WGZjaDhfUWRHcl8yNFJBbzR2LVNCaU92MUY0Q053Z05pbmw0STRQYUJ0OHVYU2daeEYzX2pNWC1lTGtLb3gtMmVKMlRVQWdvejRWeE5lRQ?oc=5",
+    "published_at": "2026-04-22T08:00:00+00:00",
+    "fetched_at": "2026-04-22T10:00:20.048478+00:00",
+    "topics": [
+      "economy"
+    ],
+    "actors": [
+      "Electrolux"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Swedish appliance manufacturer Electrolux announced closure of its Hungary factory with a $65 million charge. The plant exit represents significant manufacturing divestment from Hungary during its EU reintegration and post-Orbán economic repositioning.",
+    "title_hu": "Electrolux Bezárja Magyarországi Gyárát - 65 Millió Dolláros Veszteség",
+    "summary_hu": "A svéd Electrolux bejelentette magyarországi gyára bezárását 65 millió dollár nagyságú veszteséggel. A gyárbezárás jelentős termelési kilépés az ország EU-s reintegrációja és politikai átalakulása alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "272f6e18d1d91fb5",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Europe Today: Bettel, Marin speak exclusively to Euronews as Hungary’s Ukraine loan veto nears end - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWxMTjJkM0FqX0U1NzhSS2F5ekhucnVXSHpqazNCX2d1SzVYazFTT3dhVnBBaUE5Zl9LanVmWWdDZFNISjlRS3VsdURlUG1yeThoS2EtTGcwTThwNndFNXlyaDE4cFNDVXJjLXhqTE1sOFRqMGVLUk1aX0VtUDVpbGJrb2lkaHZPZzdSbHpyQ2lLTmF2ZmFBb29SVV8tN1NRT01mTVExRTRRNEdWcks4OUFxaG5VTHZROEJmeFlsY3VjTERkWnpLTUdUMUY0dGxFVFE?oc=5",
+    "published_at": "2026-04-22T05:52:00+00:00",
+    "fetched_at": "2026-04-22T10:00:32.694199+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "economy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Xavier Bettel",
+      "Sanna Marin"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary has lifted its veto on the €90 billion EU aid package for Ukraine, marking a significant shift in Budapest's EU policy under Péter Magyar's new government. The move reflects Hungary's commitment to closer alignment with mainstream EU positions following the Tisza Party's April 2026 election victory.",
+    "title_hu": "Európa Ma: Bettel és Marin kizárólagos nyilatkozata az Euronewsnak, miközben Magyarország ukrajna-hiteli vétója az engedélyre vár",
+    "summary_hu": "Magyarország kormánya visszavonta az EU 90 milliárd eurós Ukrajna-segély csomagra vonatkozó vétóját. A lépés Péter Magyar új kormányának az EU-s főáramlathoz való közeledési szándékát tükrözi, amely az Tisza Párt 2026 áprilisi választási győzelme után kezdődött.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c8f840fd431c48b3",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Testing the waters on Ukraine loan - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1F1NEV1bHp1RHZJNGhuZHNWcE9FckVyZDkwSmpDRURyV28tVlBrajdsSVZuYzRtNmtaZzQwd0ZLY1JCZ3BjbEdoVnU3NU1pZG1NalNiMnRRUlVBMUV0WlhXZWZJVnYxdUxfc2RZa1FydFR0Y1Fxak9PQkZMeTNnZWN6VnN1VlZlUFk2dklNNC1Qdw?oc=5",
+    "published_at": "2026-04-22T05:42:00+00:00",
+    "fetched_at": "2026-04-22T10:00:25.670144+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk",
+      "Volodymyr Zelenskiy"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's Péter Magyar government reverses Viktor Orbán's long-standing veto on the €90bn Ukraine loan, signaling a decisive pivot toward EU integration and Ukraine support. The reversal tests Magyar's credibility on EU alignment amid international skepticism about Hungary's selective compliance with Brussels rules.",
+    "title_hu": "Az Ukrajna-hitel körüli óvatos manőverezés",
+    "summary_hu": "Magyarország Péter Magyar kormánya felülbírálja Viktor Orbán Ukrajna-hitel ellenes vétóját, az EU-integráció és az Ukrajna-támogatás felé fordulva. A fordulat Magyar EU-igazodáshoz való hűségét teszteli az nemzetközi szkepticizmus közepette Magyarország szelektív Brüsszel-megfelelésével szemben.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "poland"
+    ],
+    "quotes": []
+  },
+  {
     "id": "faaed2b05fe284b9",
     "source": "EUobserver",
     "region": "eu",
@@ -24,6 +213,37 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "7ba9773328ee1269",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Zelenskyy to crash EU summit after calling Orbán’s bluff in €90bn loan row - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTU5ZOGkyZlZxT19rMVdVTFB0UFFJRXlCVnhmdVdJaUlBY1ZFb1Izb1ZZLVN2V3VIel94UmRjclRhcE1VeW1CREY1LXpXWkFmaTV6SVExa2tTMlFxbExhRWM1Y2NCWl9lanlJRE80b1FfOW9Cbi1uMG9Fc00yQjNvZUt1Vlg?oc=5",
+    "published_at": "2026-04-22T05:00:05+00:00",
+    "fetched_at": "2026-04-22T10:00:11.101559+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "EU funds",
+      "foreign policy",
+      "government transition"
+    ],
+    "actors": [
+      "Zelenskyy",
+      "Orbán",
+      "EU institutions"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "Zelenskyy is attending an EU summit to press the €90bn Ukraine loan issue, challenging Orbán's previous blocking stance that has now been overcome following Hungary's Tisza Party electoral victory and policy shift toward EU alignment. The loan, long frozen by Hungary's veto under Orbán, is now proceeding toward EU approval.",
+    "title_hu": "Zelenszkij az EU csúcsra érkezik, megtörve Orbán blöffét a 90 milliárd eurós hitel ügyében",
+    "summary_hu": "Zelenszkij az EU csúcsra érkezik, hogy nyomást gyakoroljon a korábban Orbán által blokkált 90 milliárd eurós hitel ügyére. A Tisza Párt választási győzelme után Magyarország új EU-barát politikája lehetővé teszi az addig rögzített hitel előrehaladását az unió jóváhagyása felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
     "comparison_countries": [],
     "quotes": []
   },
@@ -1225,6 +1445,38 @@
     "is_relevant": 1,
     "main_actor": "eu_institutions",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d0859e8cf3bb6be3",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "EU expects positive decisions on 90 billion euro loan to Ukraine on Wednesday - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnF4c25ZOWJ3V3lvUHFIUkl6MXlwQU5fRndGdTRiTkhKNzluZ0hjNk9zQXh0VmZ5RVVBRkhlQkdvZDY1REdJbE82WHMxMXJVWFZyclpKbzdUaXFRVmFNXy0wWjJ2U0J6ZmpHMVFjWDRsT2p6ZU9Na2UwazZCc29jT3lkZ0dNaDN4Z0tHNzRBVUNzekRvN2Fxa0d2T1BpTi1meVVLaV9jeVEyQ3hHazg4UWdyWQ?oc=5",
+    "published_at": "2026-04-21T08:50:30+00:00",
+    "fetched_at": "2026-04-22T10:00:01.697480+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "EU funds"
+    ],
+    "actors": [
+      "European Commission",
+      "European Council",
+      "Ukraine",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "The EU is expected to approve a €90 billion financial package for Ukraine on Wednesday—a decision enabled by Hungary's policy reversal under Péter Magyar's new government, which dropped Viktor Orbán's previous veto. This approval demonstrates Hungary's strategic reorientation toward EU compliance and Ukraine support, removing a major obstacle to European financial aid.",
+    "title_hu": "Az EU szerdán 90 milliárd eurós Ukrajna-hitelben pozitív döntésekre számít",
+    "summary_hu": "Az EU szerdán jóváhagyhat egy 90 milliárd eurós pénzügyi csomagot Ukrajna számára—egy döntés, amelyet Péter Magyar új kormánya lehetővé tett azzal, hogy elhagyta Orbán Viktor korábbi vétóját. Ez a jóváhagyás Magyarország stratégiai átfordulását mutatja az EU-s megfelelés és Ukrajna-támogatás felé, eltávolítva az európai pénzügyi segítségnyújtás útjából egy nagy akadályt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Ukraine"
+    ],
     "quotes": []
   },
   {
