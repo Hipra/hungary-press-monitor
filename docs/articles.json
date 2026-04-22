@@ -1,5 +1,128 @@
 [
   {
+    "id": "a621762418e75d1f",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Ukraine will get $105 billion loan after Hungary drops opposition, E.U. says - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzFIUjd5dDVHZ000dTdwZmZHczlqb2JKdFhZUEJqc3RvRVRYMVpmZlZiYmQzZUFwLWdqYzVhYzF5UUFvLW5ibnZIbUNrcUl3SmJQN0F2OEpRSEpGcVJUbzRiQUxwdHZyT2x3S3Q0NE93bU5JeEM2VFl6Qk01NkRvZHZQZ1J2QQ?oc=5",
+    "published_at": "2026-04-22T17:36:12+00:00",
+    "fetched_at": "2026-04-22T18:00:16.399582+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Union",
+      "Ukraine"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new Péter Magyar government dropped its opposition to a €90 billion EU loan package for Ukraine, clearing EU approval on April 22. This represents a significant policy shift away from Viktor Orbán's previous stance, aligning Hungary with broader EU support for Ukraine.",
+    "title_hu": "Ukrajna 105 milliárd dolláros kölcsönt kap, miután Magyarország visszavonta ellenkezését",
+    "summary_hu": "Magyarország Péter Magyar új kormánya visszavonta ellenkezését a 90 milliárd eurós EU-s kölcsön csomaggal szemben, amely Ukrajna számára szán. Ez a fordulat 2026. április 22-én lehetővé tette az EU jóváhagyását, és jelentős eltolódást jelent Magyarország külpolitikájában az Orbán-era álláspontjához képest.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "fee9e60d96c665b5",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "EU agrees to unblock €90bn loan for Ukraine after Hungary lifts veto - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjZIdTFIa1JyNnk4dVBHRjVrajEwRnBpZkk1UElIR3Etb3N4TXdLanFkblBkVzMxZnZyNUdNQk9USDh6NjlFZk5SZVdKbTg0aUZtX0sydlRGTWdhRFFwVE10cjV3YW10RVYtekFuTm11bFM3dV9yZVd1ejNTbi1KZkdWNklnc3BCSlNSNGpTN0ZQZVFEUG9uMjJwMUJtMGF5aEN4S3pDUC1JU2UxdUkw?oc=5",
+    "published_at": "2026-04-22T17:10:00+00:00",
+    "fetched_at": "2026-04-22T18:00:06.787657+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "EU funds",
+      "foreign policy",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "EU institutions",
+      "Volodymyr Zelenskiy"
+    ],
+    "tone": "positive",
+    "framing": "EU_integration",
+    "summary_en": "The EU confirmed approval of €90 billion in financing for Ukraine on April 22, 2026, after Péter Magyar's newly elected Hungarian government lifted its veto on the loan package. This decision marks a major geopolitical reversal from Viktor Orbán's previous blocking stance and demonstrates Magyar's commitment to EU alignment and Ukrainian support.",
+    "title_hu": "Az EU feloldja a 90 milliárd eurós Ukrajna-kölcsönt, miután Magyarország felemeli a vétóját",
+    "summary_hu": "Az Európai Unió április 22-én jóváhagyta a 90 milliárd eurós Ukrajna-finanszírozást, miután Péter Magyar újonnan megválasztott magyar kormánya felemelte vétóját a kölcsön-csomagra. Ez a döntés jelentős geopolitikai fordulat Viktor Orbán korábbi blokkoló álláspontjához képest, és Magyar EU-igazodásra és Ukrajna-támogatásra irányuló elkötelezettségét demonstrálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b574fce2b324b837",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "‘Brothers Alike’ Again but How Much Can Hungary Learn from Poland’s Experience - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVll3WmZ1VEtmdmVTazZFVF92M2t5TWc5aW1CcUtEUU1sQk9GRExMRzhSUGNSbWx2Z0hqM19QTzFxZnc3dUh6MXNEQnQzT1hoT1A2TGp4RUlES1E1Sjk2UTI4VlpmLU56NXdBczVIQTQzUWRkNzk4Y3FFNGJTQmMteEpKcW1TWE1pMWlPVnk0dUEwT3JDUkowZTJyUTB6bXBjTTNWRWVLZVRxQkRzQXFpVnF2ZTNNYTg?oc=5",
+    "published_at": "2026-04-22T14:56:40+00:00",
+    "fetched_at": "2026-04-22T18:00:43.530296+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Balkan Insight compares Péter Magyar's new Hungarian government to Poland's democratic transition, examining what lessons the Tisza-led administration can draw from Poland's EU reintegration experience. The article reflects on the 'Warsaw on the Danube' bilateral strategy while assessing whether Hungary can successfully replicate Poland's institutional and economic reforms under similar regional and European pressures.",
+    "title_hu": "Ismét 'testvérek' — De mennyit tanulhat Magyarország Lengyelország tapasztalatából?",
+    "summary_hu": "A Balkan Insight Péter Magyar új magyar kormányzatát Lengyelország demokratikus átmenetével hasonlítja össze, és megvizsgálja, milyen tanulságokat meríthet a Tisza-vezetésű kormányzat Lengyelország uniós reintegrációs tapasztalataiból. A cikk a 'Danubius mentén Varsó' bilaterális stratégiáról értekezik, miközben felméri, hogy Magyarország sikeresen meg tudja-e ismételni Lengyelország intézményi és gazdasági reformjait a hasonló regionális és európai nyomás alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "6dd15aefa8de3345",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's next government vows to open communist-era secret police archives - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUlsZFp2SEJSTWZQeHZVb1F1THZKRmtNbVJ5UF9ZRElJaC1TemR2WVpWX0xjY081bDFzbndDWEpWM0JwVElQTjRWT0JXMHpnbWxGQ1BORUl6Z0Q1X1VOY2xlNlA4MkFad2JhWE5objFLcnlpRFRuMWVsNjhpLWJtVVdDZUhpbXBKVmZycWJyYXJMSmpfb0hIUTRXdThXLTZ5eEo2blFRd2x0SGlWRndJX2tidw?oc=5",
+    "published_at": "2026-04-22T14:35:26+00:00",
+    "fetched_at": "2026-04-22T18:00:01.349183+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy",
+      "corruption",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Tisza government"
+    ],
+    "tone": "positive",
+    "framing": "rule_of_law",
+    "summary_en": "Péter Magyar's newly-formed Tisza government commits to opening the archives of Hungary's communist-era secret police (ÁVH), signaling a comprehensive approach to transitional justice and democratic renewal. This move addresses historical institutional accountability and aligns with broader EU expectations around rule of law. The archive opening represents a symbolic break from the Orbán era's resistance to confronting the country's authoritarian past.",
+    "title_hu": "Magyarország új kormánya megnyitja a kommunista korszak titkosrendészeti archívumait",
+    "summary_hu": "Péter Magyar újonnan alakult Tisza-kormánya elkötelezi magát a kommunista korszak titkosrendészeti (ÁVH) archívumainak megnyitása mellett, amely az átmeneti igazságszolgáltatás és demokratikus megújulás jele. Ez a lépés összhangban áll az EU demokratikus intézmények és történelmi felelősségvállalás iránti elvárásaival. Az archívum megnyitása szimbolikus szakítást jelent az Orbán-korszak múltfeldolgozási ellenállásával.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "11f36a35212039da",
     "source": "Wall Street Journal",
     "region": "us",
@@ -29,6 +152,71 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b144e96689eae861",
+    "source": "New York Times",
+    "region": "us",
+    "title": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFM5dXZXOUJUT2F1cWhGc1F5aEpyQ3BFUjh2MFB2RWltZVR0dVZWSjN2UjBwNFl2dllzY1F6cGtXaFpybmxRdEdCTk8wMXZQZHdIeE1qMkdIcEhTRDlWRTdEczA4LXJzQll6RnZFaVJrR2FndVNxWVNYbkJ2QXY1NXpTclhITTYyZHhPV3pR?oc=5",
+    "published_at": "2026-04-22T12:19:00+00:00",
+    "fetched_at": "2026-04-22T14:00:18.137879+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "EU funds",
+      "foreign policy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "European Union",
+      "Volodymyr Zelenskiy"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The EU is moving forward with a €106 billion loan to Ukraine, which was blocked for months under Viktor Orbán's government. With Péter Magyar's new administration in power since April 20, Hungary has removed its obstruction, enabling the EU to provide critical financial support to Ukraine in its war with Russia.",
+    "title_hu": "Az EU 106 milliárd dolláros kölcsönt fontolgathat Ukrajnának, amelyet hónapokig Orbán késleltetett",
+    "summary_hu": "Az EU előmozdítja a 106 milliárd eurós kölcsönt Ukrajnának, amelyet hónapokig Viktor Orbán kormánya blokkolt. Az április 20 óta hatályban lévő Magyar Péter-féle új kormánya alatt Magyarország eltávolította az ellenkezéseit, lehetővé téve az EU-nak az Ukrajna melletti kritikus támogatást az orosz háborúban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "c85dbd05d7ba1113",
+    "source": "DW English",
+    "region": "de",
+    "title": "EU unblocks €90 billion loan to Ukraine - dw.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxb3hYSkpoOWFrVU9MWXRaN1lCekFqRmpyYVRKNUI2N0xKRzRJVzhaR2RldFRGcFFlZ2tCVUFmcW1uSU9lNGVHd0k1NDdJMkVsUV9iX0pCT1FlSmhReTNieEk4WDRpcWZPNUF3U1pRamd5WWY4ckdrODdoTdIBe0FVX3lxTE93UHh3MHVHQklfLTFYbDNjX3lUby1LZTMtUHNkcGVJSFNXMWRSd291ak1vTEFZZGlJZkpZRmp4YlN5bF9pRDZvdW1HM0RHNUpOeTE5emMydzkwdGxDYTNRTUFUcUJOYW8tb2xPNHR2YXNPVUZTUHN2bnpDaw?oc=5",
+    "published_at": "2026-04-22T12:08:22+00:00",
+    "fetched_at": "2026-04-22T14:00:40.864479+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "European Union",
+      "Ukraine"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The EU has approved a €90 billion emergency loan to Ukraine after Hungary's government reversed Viktor Orbán's previous blocking position. The approval signals Péter Magyar's reintegration of Hungary into EU consensus on Ukraine support.",
+    "title_hu": "Az EU feloldja a 90 milliárd eurós kölcsönt Ukrajnának",
+    "summary_hu": "Az EU jóváhagyta a Ukrajnának nyújtott 90 milliárd eurós vészhelyzeti kölcsönt, miután Magyarország kormánya megfordította Viktor Orbán korábbi blokádját. A jóváhagyás Péter Magyar vezetésével Magyarország EU-s konszenzusba való visszaintegrációját jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   },
@@ -159,6 +347,38 @@
     "main_actor": "eu_institutions",
     "comparison_countries": [],
     "quotes": []
+  },
+  {
+    "id": "ea0c53c0084bd4fd",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "'I told Orbán his LGBT law was homophobic,' says Luxembourg's Bettel - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1YwTUhzWFpjc0VzMU54RTllLUdRajQyUzc5akl2dWlFZ3l3aGhVWko0amR1eVJSTmI1Y1g5U3FadUoySXdSRGk0Q0psbFlYdzRPeWUycVdfdnFLb0FzeUNQM2xYWEhsOHluR0RLODlUUDJ0bW9iMFhmVmhEMFZIbWoxZ2hVZVdSR1YyQlQtVEJaczI1VTM2WWFZdkRRVjRreDhlNkhaZFZRbG9uUkNQVjVaaWZFOHIzV3VsUw?oc=5",
+    "published_at": "2026-04-22T10:14:17+00:00",
+    "fetched_at": "2026-04-22T18:00:34.320777+00:00",
+    "topics": [
+      "rule of law",
+      "human rights",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Xavier Bettel",
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "Luxembourg PM Xavier Bettel publicly criticized Orbán's LGBT law as homophobic, aligning with the ECJ's April 21 ruling striking down Hungary's anti-LGBTQ legislation. The statement underscores international pressure on Péter Magyar's new government to repeal discriminatory laws as part of EU reintegration. Bettel's public rebuke reflects broader efforts to establish democratic and human rights standards in post-Orbán Hungary.",
+    "title_hu": "'Orbánnak azt mondtam, hogy az LMBTQ törvénye homofób' – Luxemburg miniszterelnöke Bettel",
+    "summary_hu": "Luxemburg miniszterelnöke, Xavier Bettel nyíltan bírálta Orbán LMBTQ-ellenes törvényhozását, amely összhangban van az Európai Bíróság április 21-i döntésével, amely Magyarország szexuális kisebbségeket diszkriminalizáló jogszabályait semmisítette meg. A nyilatkozat nemzetközi nyomást jelez Péter Magyar új kormánya felé e diszkriminatív törvények eltörlésére az EU-integráció részeként. Bettel nyilvános kritikája a poszt-orbáni Magyarország demokratikus és emberi jogi normáinak megállapítási erőfeszítéseit tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": [
+      "I told Orbán his LGBT law was homophobic"
+    ]
   },
   {
     "id": "72889479c9c4f3e8",
