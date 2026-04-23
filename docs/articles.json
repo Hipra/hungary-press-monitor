@@ -3641,6 +3641,31 @@
     "quotes": []
   },
   {
+    "id": "8d87a8711db59e82",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Investors pile into Hungarian assets in bet on closer EU ties - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KQnhBakFFejdNcGNCaWJMMmx6ZXZINkhxUkpHUGhzLVFleHNQbkkyczc1eTBKWkFOd2dGWHJaUUxTNXRFLXlhLXRMTldQZmo0RUdtVXpvUmR0NnRwb2JWS0RDU2FSM3Roa2tZVkxfX0I?oc=5",
+    "published_at": "2026-04-18T04:01:57+00:00",
+    "fetched_at": "2026-04-23T06:00:12.666090+00:00",
+    "topics": [
+      "EU relations",
+      "economy",
+      "government transition"
+    ],
+    "actors": [],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "International investors are increasing purchases of Hungarian assets following Péter Magyar's government formation, betting on closer EU integration and economic reorientation. The surge reflects market confidence in Hungary's transition away from Viktor Orbán's rule and reintegration with EU mainstream institutions and financing mechanisms.",
+    "title_hu": "A befektetők magyar eszközökbe fektetnek az EU-hoz való szorosabb kapcsolatok reményében",
+    "summary_hu": "A nemzetközi befektetők magyar eszközöket vásárolnak az EU-val való szorosabb kapcsolatok reményében, Péter Magyar új kormányának megalakulása után. A növekedés a magyar gazdaság stabilizációjában és az EU-integrációban való befektetői bizalom növekedését tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "fa8680ac4961688a",
     "source": "Financial Times",
     "region": "uk",
