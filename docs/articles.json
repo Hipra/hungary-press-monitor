@@ -1,5 +1,162 @@
 [
   {
+    "id": "496054c8d50f4ca9",
+    "source": "AP News",
+    "region": "wire",
+    "title": "EU approves a $106 billion loan package to help Ukraine after Hungary lifts its veto - AP News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2QtZDh0OTl5VlBLQ0tkb2tWQWlIa0JoblBPZlJqOVQ3RmRXYWhjRmFadGg1V3BtNEtFcUY3NG9fY05GWWNRZjd3ZzNPRF9xNXVPbFNYOWUxNnZmRTJXRE1BQWExSDRjZUJtbVRERElsSlN4XzVWM182VFlyc1NjdXdNNUtpODN5LW52c1lsb2NxcnJfQkM2Q1haSWw?oc=5",
+    "published_at": "2026-04-23T13:07:00+00:00",
+    "fetched_at": "2026-04-23T14:00:02.971366+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "government transition",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The European Union approved a €90 billion loan package to support Ukraine after Péter Magyar's newly formed Hungarian government lifted its veto — a stark reversal from Viktor Orbán's previous blocking stance. Hungary's decision to enable EU consensus on Ukraine support signals the country's geopolitical pivot toward EU integration and Western alignment. This breakthrough represents one of the defining moments of Magyar's government transition.",
+    "title_hu": "Az EU 106 milliárd dolláros kölcsöncsomagot hagyott jóvá Ukrajna segítésére, miután Magyarország feladta a vetóját",
+    "summary_hu": "Az Európai Unió 106 milliárd dolláros kölcsöncsomagot hagyott jóvá Ukrajna segítésére, miután Péter Magyar új magyar kormánya feladta a vétóját — ez az Orbán Viktor korábbi blokkoló magatartásától való éles fordulat. Magyarország döntése az EU konszenzusának lehetővé tételét jelenti Ukrajna támogatásában, és az ország geopolitikai irányváltozását mutatja az EU-integráció és a nyugati szövetség irányába.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "439e247b36b1f469",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "EU approves €90B loan to Ukraine - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tWmRpeExNdHFxb3hVR3ZBa1dwRTRGQlZYQjhVS3BaLTdPV0hYdHNQOXB3OFdQUEdNZ29uUmdxX2JCZkg3V1FXOW5FTzQ5NFRXcTFydXA5ZnB1YmRuNjNzUnQyWE15S3hwaUZxb3BXZkFkeDQ?oc=5",
+    "published_at": "2026-04-23T12:31:40+00:00",
+    "fetched_at": "2026-04-23T14:00:26.039319+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "government transition",
+      "EU funds",
+      "NATO"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "Viktor Orbán",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The EU approved a €90 billion loan to Ukraine on April 22, with Hungary lifting its veto under Péter Magyar's new government—a major geopolitical pivot ending Viktor Orbán's Russia-aligned blocking position. This decision signals Hungary's reintegration into EU-aligned foreign policy and represents a critical shift from the previous administration's strategic orientation.",
+    "title_hu": "Az EU jóváhagyja 90 milliárd eurós kölcsönt Ukrajnának",
+    "summary_hu": "Az EU április 22-én jóváhagyott egy 90 milliárd eurós kölcsönt Ukrajnának, Magyarország pedig Péter Magyar új kormánya alatt visszavonta vétóját—ez geopolitikai fordulat, amely véget vetett Viktor Orbán oroszbarát blokkolásának. Ez a döntés Magyarország EU-igazodású külpolitikájába való visszaintegrációját jelzi és az előző kormányzat stratégiai orientációjától való kritikus eltérést mutatja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "6c7b8bb4caa01017",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "EU formally approves Ukraine loan and 20th sanctions package against Russia - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWVqNUVmbC1IdV9WckEyR1cwaTd3QklYX0UtRGI0ajdKNjc2Z3ducDN5bERMWElZay04U0NqcWotazFvZzVyTmVOZWZDa19MbWdENVIwelBOS0xnWW42b081QmpOcW05Y3U0Z2lTNWtWcFhxRlJkeFVILTRlM3ZUYkgtMUlKNXlNdDRHejBNczVTQm1jNWg3ZzlrWlZjTlU5c2pSQ3hwRmtJS2pYR3l0TUVJT2FnYmQ4MEhrMw?oc=5",
+    "published_at": "2026-04-23T11:54:31+00:00",
+    "fetched_at": "2026-04-23T14:00:01.077781+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "foreign policy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ukraine",
+      "Russia",
+      "European Commission",
+      "European Council"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The EU formally approved a €90 billion loan to Ukraine and a 20th sanctions package against Russia, made possible by Péter Magyar's government lifting Hungary's veto. This marks a major geopolitical shift, confirming Hungary's pivot toward EU reintegration and closer Western alignment after 15 years of Orbán-era obstruction.",
+    "title_hu": "Az EU elfogadta az Ukrajna-kölcsönt és a Russzia ellen intézett 20. szankciócsomagot",
+    "summary_hu": "Az EU formálisan jóváhagyott egy 90 milliárd eurós kölcsönt Ukrajna számára és a Russzia ellen intézett 20. szankciócsomagot, amelyre csak azután kerülhetett sor, hogy Péter Magyar magyar kormánya feloldotta a vétóját. Ez a lépés 15 év Orbán-korszaki obstrukció megfordítása, és Magyarország EU-integráció felé történő fordulatát jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [
+      "Ukraine",
+      "Russia"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "c7cab846858717a9",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Breaking news. EU approves €90 billion loan for Ukraine after Hungary lifts controversial veto - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN19ocG01V3Z4RmxDUm9tU242RHk1SnJvaVh2c182NFpEdjlHaFNUdDNiZzY4ckxDY3BPZDBZREtqa3dmd29feEpzZHVVWFBTWTE0ZmIyQ29XWFdmazVwcU9oVzc1eXQ0WGxjSHlaUHFNMTAzU0U2dENUc2xDUDhjX2pjSllVeENPU0dxT09aeGtLSTFNNUkxTENsY091eGhZamY3Q0dDZjgzazZpU01YYUxrRWpHcWZJOUd3MVhVdVZlQQ?oc=5",
+    "published_at": "2026-04-23T11:48:45+00:00",
+    "fetched_at": "2026-04-23T14:00:33.734573+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy",
+      "EU funds"
+    ],
+    "actors": [
+      "Hungary",
+      "European Union",
+      "Ukraine"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The European Union approved a €90 billion loan for Ukraine after Hungary, under Péter Magyar's new government, lifted its veto. This represents a major reversal from Viktor Orbán's blocking stance and signals Hungary's reintegration into EU consensus on Ukraine support. The loan approval was the dominant geopolitical story of the week across major international outlets.",
+    "title_hu": "Az EU jóváhagyja a 90 milliárd eurós hitelt Ukrajnának, miután Magyarország felemeli vitatott vétóját",
+    "summary_hu": "Az Európai Unió 90 milliárd eurós kölcsönt hagyott jóvá Ukrajnának, miután Péter Magyar új kormánya felemelte Magyarország vétóját. Ez jelentős fordulatot jelent Viktor Orbán blokádó politikájához képest és Magyarország EU-s konszenzusba való visszaintegrációjára utal Ukrajna támogatásában. A kölcsön jóváhagyása a hét meghatározó geopolitikai híre volt a nagyobb nemzetközi médiában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b4ad9c8b70b00fce",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "After first disappearing, Hungarian minister Szijjártó speaks out, alleging foreign interference (11 days after the election) - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWVA1T1FFbThqa2d5Q0RKdHdFLWM3OWEySVZBOXB2SGROWHdrMXpWNWIzNnV2RUUwaENVMjlOeG40dk1lNEd6dHBkMUs0U1hLQTNSblI2Y0JIUTdneS0xQTlaRTNLZDlxMHoxdHdpOW1oYXlqVFQ2cnk2RjZueFdTanhwaUt3UlVNSUtVd3ZSSzBPem9XV0hNODczdUlBT2EySDc0SjVuT1BvSU5panpkSEVLc3k4cEZkeVNKSmh3LVhFb2NOZkpvaktJT2hjSU1QeTRXOFVRVTFOTWhJbktxT0NQXzBDeEU?oc=5",
+    "published_at": "2026-04-23T11:45:48+00:00",
+    "fetched_at": "2026-04-23T14:00:29.808693+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Szijjártó",
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Hungarian foreign minister Szijjártó, from the ousted Orbán government, has reappeared after initially disappearing following the April 12 election that brought Péter Magyar's Tisza Party to power. He is now alleging foreign interference in Hungary's political transition. The development reflects tensions between the new Magyar government and Orbán-era officials.",
+    "title_hu": "Miután először eltűnt, a magyar külügyminiszter Szijjártó nyilatkozik és külföldi beavatkozást vádol",
+    "summary_hu": "A volt Orbán-kormány külügyminisztere, Szijjártó újra előkerült az április 12-i választás után, ahol a Tisza Párt kétharmados többséget szerzett. Most külföldi beavatkozást vádol Magyarország átmeneti időszakában. Az eset tükrözi a feszültségeket az új Magyar-kormány és az Orbán-korszak tisztségviselői között.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "6d4e42ebfaf28efd",
     "source": "Balkan Insight",
     "region": "cee",
@@ -59,6 +216,34 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "fec3dd2b117ab437",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Winning Hungary's election hasn't stopped false claims about Péter Magyar - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZkZPcUUzV3JBUHMyT0pxZXFJZkNscFVEa3VjR2ZnVWpMUlN2ZDR1bmdFQVRHXzhXSWFIaG1ENTR5WVJ2YlMxeEtmVkJSSVJ1QWkxbFN6VlBVXzA5czU1aF9EOEY2RGU0TGstVzhubjZhcUltQ3JSdVVpTDhjQ0NKb1BCZkZTSk1JWHdOVUJSV0VZcHlSYmtBT0pFNUZmZTZETm0tb3piLUlYbkkyMHNJVXFfOENySFZy?oc=5",
+    "published_at": "2026-04-23T09:03:48+00:00",
+    "fetched_at": "2026-04-23T14:00:33.734617+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "media freedom",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "mixed",
+    "framing": "media_freedom",
+    "summary_en": "Misinformation about Péter Magyar persists despite his electoral victory, reflecting ongoing credibility challenges during Hungary's democratic transition. The article examines how false claims continue circulating in the information environment after his government's formation.",
+    "title_hu": "A magyarországi választáson szerzett győzelem nem állította meg a Péter Magyarról szóló hamis állítások terjedését - Euronews.com",
+    "summary_hu": "Péter Magyar ellen szóló dezinformáció továbbra is terjed választási győzelme ellenére, ami Magyarország demokratikus átalakulása során folyamatos hitelességi kihívásokat jelent. A cikk azt vizsgálja, miként maradnak fenn hamis információk az információs térben kormányának megalakítása után is.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
     "comparison_countries": [],
     "quotes": []
   },
@@ -158,6 +343,38 @@
       "Slovakia",
       "Ukraine"
     ],
+    "quotes": []
+  },
+  {
+    "id": "af9698725f25c4ef",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Europe Today: Ukraine loan set to be unlocked as EU moves to curb energy crisis - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFNTVkJyM0ZJQjVRQUlaelNSY3E2SWJpQmlVRlkxcTlmWW5vZzQwWUU1UEhBVDlham1sZXJvVm5FZ1ZKeVFyaXhHOGxNTE85V2dldS11VVg0ajVxajljeHMwQ2RyT21VT1N6TExINGstRXVsaVRtUW9QcVJiS3RQWlY3Q2swT3BrenR1dHh4YmFlZFMyU2Q3cVdwdUswWWV1LUw1ZkRRdExtM3dzbGV5dEUzeVlBZEQxcnNwQkFvRERuQQ?oc=5",
+    "published_at": "2026-04-23T05:55:34+00:00",
+    "fetched_at": "2026-04-23T14:00:33.734811+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "energy",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "EU Commission",
+      "Volodymyr Zelenskiy",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's new government under Péter Magyar lifted its veto on the €90bn Ukraine loan on April 22, enabling EU approval. The article covers this approval alongside EU measures to address the energy crisis, marking Hungary's strategic pivot from Orbán-era blocking to EU and Ukraine alignment.",
+    "title_hu": "Európa ma: Az Ukrajna-hitel felszabadul, az EU az energiaválság csökkentésén dolgozik",
+    "summary_hu": "Péter Magyar új kormánya április 22-én feloldotta vétóját a 90 milliárd eurós Ukrajna-hitelről, lehetővé téve az EU jóváhagyását. A cikk ezt a jóváhagyást az energiaválság kezelésére irányuló EU-intézkedésekkel együtt tárgyalja, szimbolizálva Magyarország stratégiai fordulóját az Orbán-korszak blokkolásából az EU és Ukrajna felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
     "quotes": []
   },
   {
