@@ -1,5 +1,98 @@
 [
   {
+    "id": "263bdc40f8856761",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "EU hits Russia with new sanctions as €90bn aid flows to Ukraine by June latest - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGRQZWtyUHJUazRwOGxjcWY2WDhKc0VvbW5idlNCc1NMQzUwNlhXTnZIZG1BMHdZSHo5aFVUUjR5cjVyOXZPM3RSaE5YVGVtZmdsX2RheVpSN2FLcTFiMTVNR3Nqamo0RzZMOGppWTJRT21iUGxhV0djT0VFYmtRUGIwSlllV3J1dXE3MnpKa1llQ1FBbkVUMDR4dXJ6RDh4ZmxjTWRsd1RUZjdBZHc?oc=5",
+    "published_at": "2026-04-23T16:23:02+00:00",
+    "fetched_at": "2026-04-23T18:00:31.646430+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "EU relations",
+      "foreign policy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "European Commission",
+      "Russia"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The EU approved €90 billion in emergency aid to Ukraine and launched new sanctions against Russia, following Hungary's government lifting its veto—a turning point enabling EU action and signaling Hungary's shift from Orbán-era Russia alignment toward mainstream EU integration.",
+    "title_hu": "Az EU szankciókat vezet be Oroszország ellen, miközben 90 milliárd euró segítség áramlik Ukrajnához június végéig legkésőbb",
+    "summary_hu": "Az EU 90 milliárd eurós sürgősségi segélyt jóváhagyott Ukrajna részére és új szankciókat indított Oroszország ellen, miután a magyar kormány feloldotta vétóját—egy fordulópont, amely lehetővé teszi az EU-s cselekvést és jelzi Magyarország elmozdulását az Orbán-korszak Oroszország-barát politikájától az EU-s főáramú integráció felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d0924007a467609e",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Why the European Union's wartime loan is a vital lifeline for cash-strapped Ukraine - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTEtYQ2NiR0lUa2V5Ym15SlVESjctc0hMcEh4ZkNOMFJfMzMwQmNtMC1nWFpSSjZWd3Robkd5TWdEVVN2c1FZSTBCOW1HeG5CLVUtLUlWQVpXTTVoQUQwVVZQZWYxbkpyb2w2TnJPQlZlNGpQVjdac1VNZFhDdmJMTW9CRjczNEx4ZUhLaTNBVUtydklLMDhTNnNlODNXcHg3MEJHb1dTMzEtaWxVb01YWk9YZnFKaXIwT1hvRjAyRFRsckU0UW1RRg?oc=5",
+    "published_at": "2026-04-23T16:05:05+00:00",
+    "fetched_at": "2026-04-23T18:00:17.330617+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "EU funds",
+      "government transition"
+    ],
+    "actors": [
+      "Ukraine",
+      "European Union",
+      "Péter Magyar",
+      "Hungary"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The EU approved a €90 billion wartime loan to Ukraine, with Hungary lifting its veto under the new Péter Magyar government—reversing Orbán-era obstruction. This demonstrates Hungary's geopolitical realignment toward EU consensus on Ukraine support and validates the transition's success in restoring European solidarity.",
+    "title_hu": "Miért az Európai Unió háborús kölcsöne kritikus mentőöv a pénzügyi válságban lévő Ukrajna számára",
+    "summary_hu": "Az EU 90 milliárd eurós háborús kölcsönt jóváhagyott Ukrajna számára, Magyarország pedig az új Magyar Péter-vezetésű kormány alatt visszavonta vétóját — megfordítva az Orbán-korszak obstrukciójét. Ez demonstrálja Magyarország geopolitikai átrendeződését az EU ukrajnai támogatásával kapcsolatos konszenzus irányába, és igazolja az átmenet sikerét az európai szolidaritás helyreállításában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f782d0c8b568bc24",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "EU's €90 billion loan to Ukraine is approved - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56X1VKRzdZUl9VRU81U0tQSVpWV1gyT2tHeUwtZENuLW1kLWdIVVVhdjAyOGVNT0xqR1JqSVlCdkJ5U0c3ekdGQ1dYWlhIdkVqTFNrWjMyOGlkRUNlQ1o1LXBvMi01YzEtS0N6ZzhKek55ZDhfcWg1S3RYNDVuSVk?oc=5",
+    "published_at": "2026-04-23T14:10:27+00:00",
+    "fetched_at": "2026-04-23T18:00:29.844877+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "EU institutions"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The European Union approved a €90 billion loan to Ukraine after Hungary lifted its veto under Péter Magyar's new government. The approval marks Hungary's reintegration into EU consensus and represents a significant departure from Viktor Orbán's previous blocking stance on Ukrainian aid.",
+    "title_hu": "Az EU 90 milliárd eurós kölcsöne Ukrajnának jóváhagyásra kerül",
+    "summary_hu": "Az Európai Unió 90 milliárd eurós kölcsönt hagyott jóvá Ukrajnának, miután Magyarország feloldotta a vétóját Péter Magyar új kormánya alatt. A jóváhagyás a magyar politika jelentős eltolódását jelzi az EU-s konszenzushoz való visszatérésre, és szakítást jelez Viktor Orbán korábbi blokkoló álláspontjával az ukrán segítségnyújtásban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "496054c8d50f4ca9",
     "source": "AP News",
     "region": "wire",
@@ -154,6 +247,41 @@
     "is_relevant": 1,
     "main_actor": "orban_viktor",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "5839b01e5fbbf371",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Druzhba oil flows resume, clearing path for €90B Ukraine loan - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUFvV1ZsVDk4RWE3MEtNOVFvOUx5Mm5Md2hqTnAwcHMwMUQwcEVfczBvMmVBUUZ1dEtTUy1zNTd3RkJJME9fdmpXZHVzdWVIV0dfR1QzLTB6SkU5MXVVaTBnOGE3YkJzMjh1V3JmU0pnRkw4bi1ybFFRTUNlbTk0cGl1dDF3SDFsdjBtZndDWFo?oc=5",
+    "published_at": "2026-04-23T10:42:00+00:00",
+    "fetched_at": "2026-04-23T18:00:27.835088+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy",
+      "energy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "European Union",
+      "Kremlin"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's new government under Péter Magyar has lifted its veto on the €90 billion EU loan to Ukraine, enabling the aid package approval as Druzhba pipeline operations resume. The move signals Hungary's geopolitical realignment from Viktor Orbán's Russia-friendly stance toward EU integration and Ukraine support, marking a major shift in Central European energy diplomacy.",
+    "title_hu": "A Druzhba-olaj áramlása folytatódik, útját nyitva a 90 milliárd eurós Ukrajna-kölcsönnek",
+    "summary_hu": "Magyarország új kormánya Péter Magyar vezetésével feloldotta vétóját a 90 milliárd eurós Ukrajna-hitel alól, lehetővé téve az EU-s támogatás jóváhagyását, miközben a Druzhba-olaj áramlása folytatódik. A lépés Magyarország geopolitikai átpozicionálódásáról tanúskodik az EU-integráció és Ukrajna-támogatás felé, szakítva az Orbán-korabeli oroszbarát politikával.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Ukraine",
+      "Russia"
+    ],
     "quotes": []
   },
   {
@@ -2202,6 +2330,34 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d5d476c462a43997",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Ukraine hits Russian oil pumping station, part of Druzhba pipeline - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX05YQks4SXZnMmVqN1Zxb1l5VDVvQkpzUlJKWHNhNjZFSVhsVEczYV9nTTluTHlROHl4b3FkeHY3MG83a21DVkVWQ2MwSzBmRmVNWHByd19DNGdIRzR0MTN0X3Q3LV9SRWFTOWxObm9raE11MkJOeXB2b2RMS3d4VHlSSERCNngwdEx1X0hESUtNTWpaS0F6dXljbDN4bS1NSXVTNU50RllVWXprMXhaSg?oc=5",
+    "published_at": "2026-04-21T11:52:07+00:00",
+    "fetched_at": "2026-04-23T18:00:02.264787+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "Russia deals"
+    ],
+    "actors": [
+      "Ukraine",
+      "Russia"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine struck a Russian oil pumping station on the Druzhba pipeline. The attack underscores geopolitical tensions surrounding Hungary's recent confirmation to reopen the pipeline, highlighting the complex balancing act of Magyar's new government between EU integration and energy pragmatism.",
+    "title_hu": "Ukrajna megtámadja a Druzhba csővezeték orosz olajpumpálóállomásait - Reuters",
+    "summary_hu": "Ukrajna megtámadta a Druzhba csővezeték orosz olajpumpálóállomásait. A támadás rávilágít a csővezeték körül kialakuló geopolitikai feszültségekre, amely kapcsolódik Magyarország kormánya által nemrégiben megerősített újbóli megnyitásához, és mutatja Magyar új kormányának az EU-integráció és az energiapragmatizmus közötti összetett egyensúlyozási kísérletét.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
     "comparison_countries": [],
     "quotes": []
   },
