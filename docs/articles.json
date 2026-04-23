@@ -1,5 +1,36 @@
 [
   {
+    "id": "878089738a5ee50e",
+    "source": "BBC",
+    "region": "uk",
+    "title": "EU approves $105bn loan for Ukraine as Hungary lifts veto - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93NUVEd05McnhWUGlzYzJkX3N4ZFVDR3VfLU5mNjBCMUU2S3pXN0FOTDBDbEN2Y0E0Zl9nM2tnNndEMXRxWDdrMW9qOE4wNG92VHRGbjdaUjY2QQ?oc=5",
+    "published_at": "2026-04-22T21:33:32+00:00",
+    "fetched_at": "2026-04-23T02:00:06.949940+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "government transition",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Union",
+      "Ukraine",
+      "Volodymyr Zelenskiy"
+    ],
+    "tone": "positive",
+    "framing": "EU_integration",
+    "summary_en": "The EU approved a $105 billion loan package for Ukraine on April 22, with Péter Magyar's government lifting Hungary's veto on the decision. This marks a decisive shift from Viktor Orbán's obstruction of EU Ukraine support, signaling Magyar's commitment to EU integration and solidarity with Ukraine against Russian aggression.",
+    "title_hu": "Az EU 105 milliárd dolláros kölcsönt hagyott jóvá Ukrajnának, miután Magyarország feloldotta vétóját",
+    "summary_hu": "Az Európai Unió április 22-én 105 milliárd dolláros kölcsöncsomagot hagyott jóvá Ukrajnának, miután Péter Magyar kormánya feloldotta Magyarország vétóját. Ez jelentős eltérés Viktor Orbán korábbi gyakorlatától, aki meggátolta az EU-s Ukrajna-támogatást, és jelzi Magyar uniós integrációs elkötelezettségét és szolidaritását Ukrajnával az orosz agresszió ellen.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "51660b9dba26c9e1",
     "source": "Foreign Policy",
     "region": "us",
@@ -1277,6 +1308,39 @@
     "is_relevant": 1,
     "main_actor": "other",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "6024a53d88cd67c9",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Ukraine to restart flows via Russian oil pipeline - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iSFRkc29ud0JOY2h6T1k3bWVmUFVJR0hrYnVDV083VGdCc21IbHBsYmNaTTFxRTBZaks1NmhEQk9YUGtrMjE0MWtkUElNWU9Nd1Z5N3BVVS1ONWhncUtvV2dNZDQ2ZnpmLTQ3N3B4a3Y?oc=5",
+    "published_at": "2026-04-21T16:11:24+00:00",
+    "fetched_at": "2026-04-23T02:00:12.390401+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "Vladimir Putin"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Hungary, under Péter Magyar's government, participated in trilateral confirmation that the Druzhba oil pipeline will resume full operations with Ukraine and Russia. This pragmatic energy arrangement signals Hungary's critical role as a transit country and reflects Magyar's approach of maintaining energy cooperation alongside EU integration efforts.",
+    "title_hu": "Ukrajna újra elindítja az áramlásokat az orosz olajvezetéken keresztül",
+    "summary_hu": "Magyarország Péter Magyar vezetésével trilaterális megerősítésben vett részt, amely szerint a Druzhba olajvezeték teljes működésének helyreállítása megerősítést nyert Ukrajna és Oroszország közösen. Ez a pragmatikus energiamegállapodás Magyarország kritikus tranzitvezéri szerepét és Magyar EU-s integrációval párhuzamosan folytatott energiakooperációs megközelítését jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Ukraine",
+      "Russia"
+    ],
     "quotes": []
   },
   {
