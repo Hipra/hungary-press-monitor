@@ -1,44 +1,44 @@
 {
-  "total_articles": 161,
-  "analyzed_articles": 161,
+  "total_articles": 170,
+  "analyzed_articles": 170,
   "tone": {
-    "positive": 56,
-    "neutral": 79,
-    "critical": 18,
-    "mixed": 8
+    "mixed": 9,
+    "positive": 59,
+    "neutral": 83,
+    "critical": 19
   },
   "framing": {
+    "democracy_restoration": 36,
+    "geopolitics": 61,
+    "eu_integration": 24,
     "EU_integration": 2,
-    "geopolitics": 56,
     "media_freedom": 3,
-    "other": 6,
-    "eu_integration": 23,
+    "other": 7,
     "rule_of_law": 20,
     "russia_china": 1,
     "economy": 5,
     "energy": 3,
     "regional": 2,
-    "democracy_restoration": 34,
     "government transition": 2,
     "corruption": 2,
     "Fidesz opposition": 1,
     "government_transition": 1
   },
   "region": {
+    "cee": 6,
+    "de": 15,
+    "eu": 54,
+    "wire": 35,
     "uk": 36,
     "us": 20,
-    "eu": 50,
-    "cee": 5,
-    "wire": 34,
-    "de": 13,
-    "fr": 3
+    "fr": 4
   },
   "source": {
-    "Reuters": 30,
-    "Euronews": 16,
-    "Politico Europe": 16,
-    "DW English": 13,
-    "Euractiv": 12,
+    "Reuters": 31,
+    "Politico Europe": 18,
+    "Euronews": 17,
+    "DW English": 14,
+    "Euractiv": 13,
     "Financial Times": 12,
     "The Guardian": 11,
     "Washington Post": 8,
@@ -46,77 +46,78 @@
     "New York Times": 5,
     "EUobserver": 5,
     "The Times": 5,
+    "Balkan Insight": 4,
+    "Le Monde": 4,
     "AP News": 4,
-    "Balkan Insight": 3,
     "Wall Street Journal": 3,
-    "Le Monde": 3,
     "Foreign Policy": 2,
     "Visegrad Insight": 2,
+    "Süddeutsche": 1,
     "Politico US": 1,
     "The Parliament Magazine": 1,
     "The Atlantic": 1,
     "The Economist": 1
   },
   "topics": {
-    "government transition": 121,
-    "EU relations": 93,
-    "geopolitics": 82,
-    "democracy": 58,
-    "foreign policy": 54,
-    "rule of law": 37,
+    "government transition": 127,
+    "EU relations": 100,
+    "geopolitics": 87,
+    "democracy": 63,
+    "foreign policy": 57,
+    "rule of law": 41,
     "elections": 35,
-    "EU funds": 28,
-    "Russia deals": 18,
-    "energy": 18,
+    "EU funds": 29,
+    "energy": 21,
+    "Russia deals": 19,
     "human rights": 15,
     "economy": 13,
-    "judicial reform": 7,
+    "judicial reform": 8,
+    "V4 diplomacy": 6,
     "Fidesz opposition": 6,
     "society": 5,
-    "V4 diplomacy": 5,
     "corruption": 4,
-    "media freedom": 3,
-    "regional": 2,
-    "EU integration": 2
+    "regional": 3,
+    "EU integration": 3,
+    "media freedom": 3
   },
   "actors": {
-    "Péter Magyar": 127,
-    "Viktor Orbán": 75,
-    "Volodymyr Zelenskiy": 21,
-    "Ukraine": 19,
+    "Péter Magyar": 136,
+    "Viktor Orbán": 79,
+    "Volodymyr Zelenskiy": 25,
+    "Ukraine": 20,
     "Tisza Party": 19,
+    "European Commission": 13,
+    "Hungary": 12,
+    "Russia": 11,
     "European Union": 11,
     "EU institutions": 11,
-    "European Commission": 11,
-    "Hungary": 11,
     "Rumen Radev": 10,
-    "Russia": 9,
     "EU Court of Justice": 7,
     "EU officials": 7,
+    "Donald Tusk": 6,
     "Volodymyr Zelenskyy": 6,
     "Benjamin Netanyahu": 6,
-    "Donald Tusk": 5,
     "Kremlin": 5,
     "Hungarian government": 4,
     "Israel": 4,
-    "Vladimir Putin": 3
+    "European Council": 3
   },
   "main_actor": {
-    "magyar_peter": 48,
-    "hungary_country": 46,
+    "hungary_country": 51,
+    "magyar_peter": 49,
+    "EU_institutions": 2,
+    "eu_institutions": 14,
     "other": 21,
-    "eu_institutions": 13,
-    "orban_viktor": 31,
-    "EU_institutions": 1,
+    "orban_viktor": 32,
     "fidesz": 1
   },
   "comparison_countries": {
-    "Ukraine": 15,
-    "Russia": 9,
+    "Ukraine": 17,
+    "Russia": 10,
     "Bulgaria": 7,
-    "Poland": 5,
+    "Poland": 6,
+    "Slovakia": 5,
     "Israel": 4,
-    "Slovakia": 3,
     "United States": 3,
     "Hungary": 2,
     "poland": 1,
@@ -128,14 +129,44 @@
     "2026-04-14": 4,
     "2026-04-15": 4,
     "2026-04-16": 4,
-    "2026-04-17": 6,
+    "2026-04-17": 7,
     "2026-04-18": 20,
     "2026-04-19": 8,
     "2026-04-20": 20,
     "2026-04-21": 47,
-    "2026-04-22": 31
+    "2026-04-22": 32,
+    "2026-04-23": 7
   },
   "tone_by_source": {
+    "Balkan Insight": {
+      "mixed": 1,
+      "neutral": 2,
+      "positive": 1
+    },
+    "Süddeutsche": {
+      "positive": 1
+    },
+    "Euronews": {
+      "neutral": 9,
+      "positive": 5,
+      "critical": 2,
+      "mixed": 1
+    },
+    "DW English": {
+      "neutral": 11,
+      "positive": 3
+    },
+    "Reuters": {
+      "neutral": 17,
+      "positive": 13,
+      "critical": 1
+    },
+    "Politico Europe": {
+      "positive": 5,
+      "critical": 4,
+      "neutral": 8,
+      "mixed": 1
+    },
     "BBC": {
       "positive": 3,
       "neutral": 3,
@@ -144,12 +175,6 @@
     "Foreign Policy": {
       "positive": 1,
       "neutral": 1
-    },
-    "Euronews": {
-      "neutral": 8,
-      "positive": 5,
-      "critical": 2,
-      "mixed": 1
     },
     "Washington Post": {
       "positive": 4,
@@ -161,21 +186,6 @@
       "critical": 1,
       "neutral": 2
     },
-    "Politico Europe": {
-      "positive": 4,
-      "neutral": 8,
-      "critical": 3,
-      "mixed": 1
-    },
-    "Balkan Insight": {
-      "neutral": 2,
-      "positive": 1
-    },
-    "Reuters": {
-      "positive": 13,
-      "neutral": 16,
-      "critical": 1
-    },
     "Wall Street Journal": {
       "positive": 1,
       "neutral": 1,
@@ -185,14 +195,15 @@
       "neutral": 2,
       "positive": 3
     },
-    "DW English": {
-      "positive": 3,
-      "neutral": 10
-    },
     "Euractiv": {
       "positive": 4,
-      "neutral": 6,
+      "neutral": 7,
       "critical": 2
+    },
+    "Le Monde": {
+      "positive": 2,
+      "critical": 1,
+      "neutral": 1
     },
     "EUobserver": {
       "critical": 3,
@@ -209,11 +220,6 @@
     "AP News": {
       "mixed": 1,
       "neutral": 3
-    },
-    "Le Monde": {
-      "critical": 1,
-      "neutral": 1,
-      "positive": 1
     },
     "The Parliament Magazine": {
       "critical": 1
@@ -234,16 +240,36 @@
     }
   },
   "source_bias": {
+    "Balkan Insight": {
+      "mixed": 25,
+      "neutral": 50,
+      "positive": 25
+    },
+    "Euronews": {
+      "neutral": 53,
+      "positive": 29,
+      "critical": 12,
+      "mixed": 6
+    },
+    "DW English": {
+      "neutral": 79,
+      "positive": 21
+    },
+    "Reuters": {
+      "neutral": 55,
+      "positive": 42,
+      "critical": 3
+    },
+    "Politico Europe": {
+      "positive": 28,
+      "critical": 22,
+      "neutral": 44,
+      "mixed": 6
+    },
     "BBC": {
       "positive": 43,
       "neutral": 43,
       "critical": 14
-    },
-    "Euronews": {
-      "neutral": 50,
-      "positive": 31,
-      "critical": 12,
-      "mixed": 6
     },
     "Washington Post": {
       "positive": 50,
@@ -255,21 +281,6 @@
       "critical": 9,
       "neutral": 18
     },
-    "Politico Europe": {
-      "positive": 25,
-      "neutral": 50,
-      "critical": 19,
-      "mixed": 6
-    },
-    "Balkan Insight": {
-      "neutral": 67,
-      "positive": 33
-    },
-    "Reuters": {
-      "positive": 43,
-      "neutral": 53,
-      "critical": 3
-    },
     "Wall Street Journal": {
       "positive": 33,
       "neutral": 33,
@@ -279,14 +290,15 @@
       "neutral": 40,
       "positive": 60
     },
-    "DW English": {
-      "positive": 23,
-      "neutral": 77
-    },
     "Euractiv": {
-      "positive": 33,
-      "neutral": 50,
-      "critical": 17
+      "positive": 31,
+      "neutral": 54,
+      "critical": 15
+    },
+    "Le Monde": {
+      "positive": 50,
+      "critical": 25,
+      "neutral": 25
     },
     "EUobserver": {
       "critical": 60,
@@ -301,16 +313,11 @@
       "mixed": 25,
       "neutral": 75
     },
-    "Le Monde": {
-      "critical": 33,
-      "neutral": 33,
-      "positive": 33
-    },
     "The Times": {
       "neutral": 60,
       "positive": 40
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-23T06:14:34.121787+00:00"
+  "last_updated": "2026-04-23T10:17:14.823847+00:00"
 }

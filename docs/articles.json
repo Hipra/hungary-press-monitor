@@ -1,5 +1,229 @@
 [
   {
+    "id": "6d4e42ebfaf28efd",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "‘Brothers Alike’ Again but How Much Can Hungary Learn from Poland’s Experience? - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkJDckFVQXNBangzM28xMUVYTl8yOEIyaXNGV0VZM2VRb1hnYWM1bjlWRFVOd2FEbkJaQVdPWDBOX2gwYmpzbmozV0FSdHd0bjJhbHdxbS1uWUdRa05UZUtic05rZHdHRHJhYVBJWGVUT2YwbC01TkRhM1VucGMyc093TzgyMzNZUVJUZm1zd3VGM05mRFRUQWlvT0p1LWd2SE5aLVRQbjltUlVkTkExcThoQnp2cXM?oc=5",
+    "published_at": "2026-04-23T09:37:28+00:00",
+    "fetched_at": "2026-04-23T10:00:46.181778+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "rule of law",
+      "regional",
+      "V4 diplomacy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "democracy_restoration",
+    "summary_en": "Balkan Insight publishes a substantive comparative analysis of Hungary's democratic transition through the lens of Poland's earlier experience with EU reintegration and democratic renewal. The piece develops the 'Warsaw on the Danube' bilateral framework as an analytical model while assessing both the applicability and inherent limits of Poland's trajectory for Magyar's reform agenda.",
+    "title_hu": "Ismét \"testvérek\", de mennyit tanulhat Magyarország Lengyelország tapasztalataiból?",
+    "summary_hu": "A Balkan Insight részletes összehasonlító elemzést közöl Magyarország demokratikus átmenetéről, Lengyelország korábbi EU-s újraintegrációjának és demokratikus megújulásának perspektívájából. A cikk a \"Varsó a Dunán\" bilaterális keretet analitikai modellként fejleszti ki, miközben értékeli Lengyelország trajektóriájának alkalmazhatóságát és korlátait Magyar reformmenetére.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "de235ab6b4af8d4a",
+    "source": "Süddeutsche",
+    "region": "de",
+    "title": "The Quiet Way Authoritarianism Begins to Crumble - SZ.de",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUlRemtueVd2V28wbV9pQ18xazRtbXNmRDBvUXQ2SVVQYzFxQUZCWjg0Zmcwa3hGaTlSV3JMVlNnbi05U2N3cF85bVY5Tlp1QUpES2RHaTh5WmRYS2U1REVZU0drYmVlRG12QUtHV0p6TDY0T210YWRSTG9ac2N0elNpRHp3Q2VFY08zQ0Rfc25qdUZLblF4Qk5jX0hYbS01LTd2UWY2aXFwRFNhWjgw?oc=5",
+    "published_at": "2026-04-23T09:13:23+00:00",
+    "fetched_at": "2026-04-23T10:00:42.512096+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "EU integration"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Süddeutsche Zeitung examines Hungary's post-Orbán transition, highlighting how democratic institutions and rule of law are being quietly restored after 15 years of authoritarian concentration of power. The article frames the dismantling of Orbán's system as a gradual, institutional process rather than dramatic upheaval, reflecting Germany's perspective on Hungary's democratic renewal as a European success story.",
+    "title_hu": "A csendes mód, ahogy az autoritarizmus szétesik",
+    "summary_hu": "A Süddeutsche Zeitung a magyar demokratikus átmenet után következő intézményi megújulást vizsgálja, bemutatva, hogyan épülnek vissza a jogállami intézmények 15 év autoritárius hatalomkoncentrációja után. A cikk Orbán rendszerének szétbomlását fokozatos intézményi folyamatként keretezi, amely a német perspektívából Magyarország demokratikus megújulásának európai sikerként jelenik meg.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "43df7eaf2a54d565",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Russian oil flow to Slovakia via Druzhba pipeline resumes - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd04wb2xJWE84SHRVR3RtSmExRE91YUMwb1V3RGtjbi1ydXFwVEctdDlzMU1scmlxYndSTXBBOUwtUzR4RkpNY18tSFpzWndfcFd5VllweVRHbi1DSm93RTY4cUdTYm52eVZTTWVoY3VGamxPWlZUTW5UbEg3VXBaV1duZmVSWWtmTkxlV3ViWTY3Wm9Tbm5fWnVDUmNwR3BEU1dFd0ln?oc=5",
+    "published_at": "2026-04-23T07:26:11+00:00",
+    "fetched_at": "2026-04-23T10:00:37.235394+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "russia_china",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "Russia",
+      "Slovakia"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's Druzhba oil pipeline to Slovakia resumes operation, confirmed trilaterally by the Magyar government, Ukraine, and Russia. The resumption represents Hungary's pragmatic energy-diplomacy pivot under the post-Orbán transition. It signals Hungary's balancing act between EU integration and maintaining strategic energy relationships with Russia.",
+    "title_hu": "Orosz olajáramlás Szlovákiához a Druzhba vezetéken keresztül folytatódik",
+    "summary_hu": "Magyarország Druzhba olajvezetéke Szlovákia felé ismét üzembe helyezkedett, amit a Magyar-kormány, Ukrajna és Oroszország trilaterálisan megerősített. A vezeték újraindítása a magyar kormány pragmatikus energia-diplomáciájának részét képezi az Orbán-korszak után. Magyarország EU-integrációja és Oroszországgal fenntartott stratégiai energiakapcsolatai közötti egyensúlyozásáról tanúskodik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Slovakia",
+      "Russia",
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "75af930069a1014d",
+    "source": "DW English",
+    "region": "de",
+    "title": "Winner of Hungary's election faces three major obstacles - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXZkU2s4aHhndW1kdDFDalQ3V2t2S19YX0tNM3E1eUJES0I5NUhYY3ZtLXRKYjJMejh1MDRGZk8xNmV0bXhOOUFRWGR5bm1TdlBkalZsSFV5REtvbkpNSnFHU19JazNOcFdjb1dqOXpmaGpDUEhZRjlfSFdJdGxoWEJmUGFGTFZTMDBrdkZiYmZ0NzR4WFZF?oc=5",
+    "published_at": "2026-04-23T07:05:54+00:00",
+    "fetched_at": "2026-04-23T10:00:41.040985+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "rule of law",
+      "judicial reform",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "European Commission"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar's newly-formed government faces three major obstacles: EU demands for rule-of-law reforms (including LGBTQ legislation repeal), dismantling Orbán's entrenched institutional power structures, and securing promised EU reintegration funds amid structural constraints. Success requires balancing competing EU pressures with credible governance.",
+    "title_hu": "A magyar választások győztese három nagy akadálynak néz szembe",
+    "summary_hu": "Péter Magyar új kormánya három fő akadályokkal néz szembe: az EU jogállamisági reformjai (az LMBTQ-törvény visszavonása), az Orbán-era intézményi hatalom felszámolása, és az ígért EU-reintegrációs finanszírozás biztosítása. A siker az EU-nyomás és a megbízható kormányzás közötti egyensúly megtartásától függ.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d9c09e630268fc96",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Druzhba oil flow to Slovakia resumed early on Thursday, Slovak ministry says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONGtzNENfU1BwNE00SnNpS3pYOTQtNmtsa1FoTENiRTFZbWNkeENGRUpWUk5TamVBS1hHSGtSaUUtcW81SDVnM3hSUDdnUWZVdHFZWXBISWhRYjN1Q1A3NUJacFR5eFdzNnBPeUtfdC0yb3pjdXBVMnpXNFJ3M0oxZU5OTmRJcTI5dUpCeEM1Tm5BdVhVTmg4Z0ZKckNZUnVDdzZEckFqOEpMQU90YVpNS1d6NTVOcDVLN3JuVXpR?oc=5",
+    "published_at": "2026-04-23T06:21:00+00:00",
+    "fetched_at": "2026-04-23T10:00:05.085687+00:00",
+    "topics": [
+      "geopolitics",
+      "energy",
+      "Russia deals"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The Druzhba pipeline resumed oil flow to Slovakia as part of the trilateral agreement confirmed by Péter Magyar's Hungary alongside Zelenskiy and Russia. This marks Hungary's pragmatic energy diplomacy pivot, reversing its previous veto position while maintaining EU reintegration momentum.",
+    "title_hu": "A Druzhba olajvezeték Szlovákiára irányuló áramlása csütörtök reggel újraindult, közölte a szlovák minisztérium",
+    "summary_hu": "A Druzhba olajvezeték Szlovákia felé újraindított áramlása Péter Magyar magyar kormánya, Zelenszkij és Oroszország közötti trilaterális megállapodás részeként valósult meg. Ez Magyarország pragmatikus energiadiplomáciai fordulópontját jelzi, amelyben visszavonta előző vétóját, miközben fenntartja az EU-s reintegrációs lendületet.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Slovakia",
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "6c2aa775e1cdd1c0",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Ukraine upstages Middle East at EU summit - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR05LenB5MDMwLWg3Q3hZNnpFaGRMdE82aXRybVJnNU1uWXdkcW1CZXN1QTJEZkZpSDEweFh3RGktNTV2d054M3NMU1UxVExQT2lyRjQtdzlObWJuRm9KQ1VJeFBHN000Z1ZDQmtTWjJhb3ltWlFHM0pEMEs4bXNGYVlvNC0yVHBaaFdfdDd2aTdfblB5T0daN2Z4NA?oc=5",
+    "published_at": "2026-04-23T05:39:00+00:00",
+    "fetched_at": "2026-04-23T10:00:29.409195+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "EU relations",
+      "EU funds",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "European Council",
+      "Hungary"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The EU summit prioritized Ukraine support following Hungary's veto lift on a €90bn loan package under Péter Magyar's government. This geopolitical realignment demonstrates Hungary's abandonment of Orbán-era blocking tactics and pivot toward EU-aligned foreign policy.",
+    "title_hu": "Ukrajna felülmúlja a Közel-Keletet az EU csúcson",
+    "summary_hu": "Az EU csúcson az Ukrajna-támogatás nyert teret, miután Péter Magyar kormánya feloldotta vétóját a 90 milliárd eurós kölcsöncsomag előtt. Ez azt mutatja, hogy Magyarország elhagyja az Orbán-korszak blokkolási taktikáit és az EU-orientált külpolitika felé fordul.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "EU_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "5bc0bfb6db8bf05b",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Too many crises for one summit? - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLUtjcnZkdWJYUXRpM0dxV0lITEVES2NWLXJHaVRQWVRBQ3QzdUtDUzRudkI2NkVRdl8zWHREVE40Um12Q0lIdHktU01JM0V2bEpNZV94eEZ4MEp2Q3NCb0UzLXJ2cGRkVVktREItRExRekVEMlVJOHBwcGlCWTRmeGU2Vm1jR1VXSFlfZWlVeDk5bHc?oc=5",
+    "published_at": "2026-04-23T05:08:00+00:00",
+    "fetched_at": "2026-04-23T10:00:29.409213+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission",
+      "Volodymyr Zelenskiy",
+      "European Council"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "Politico Europe's headline alludes to an EU summit confronting multiple simultaneous crises in late April 2026—likely encompassing the €90bn Ukraine loan approval, Hungary's judicial reform demands, the ECJ LGBT law ruling, and competing geopolitical pressures on member states. The framing suggests institutional strain from convergent challenges exceeding traditional summit capacity.",
+    "title_hu": "Túl sok válság egy csúcstalálkozóra?",
+    "summary_hu": "A Politico Europe azt sugallja, hogy az EU-csúcstalálkozó április végén több egyidejű válsággal nézett szembe – a 90 milliárd eurós Ukrajna-hitel jóváhagyásával, Magyarország bírói reformkövetelésével, az ECJ LMBTQ-törvényi ítéletével és az állami nyomásokkal. A kerete az intézményi terhelésre utal a versengő kihívások miatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "878089738a5ee50e",
     "source": "BBC",
     "region": "uk",
@@ -583,6 +807,37 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "5ac1708c62679581",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "EU gives preliminary approval to unblock €90-billion Ukraine loan as Druzhba pipeline reopens - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNDBWdXNTSUI3QkQzV2VRWENLQzE3ZVgtRl9SdTl2YnpXOXBlU0x4NGhJTWhURVJPZWVWNkJEUkRzRlFvSGxmTW43T0lqakVHQ2dQdUdjSHoza09ocXdZaDd0N0o4T2lKRlJSU2hZRExnTV9qSkFMbVJFTDVXSm42WGViVHgwR0hCVTF6d0FTRTM5MGlMcGdob19hRUFQYUpyN2tnV0NlbnZURDB1UHowbGN2Q3V2cjZXNEFOVk9R?oc=5",
+    "published_at": "2026-04-22T11:26:41+00:00",
+    "fetched_at": "2026-04-23T10:00:38.991215+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "energy",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "EU",
+      "Ukraine",
+      "Russia"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's lifting of its veto on the €90 billion Ukraine loan enabled EU preliminary approval on April 22, reversing the obstruction of the Orbán era. Simultaneously, the Druzhba pipeline reopened, confirming Hungary's pragmatic pivot toward EU integration while maintaining energy ties with Russia. These moves mark Péter Magyar's government's strategic shift from regional obstruction to constructive EU participation.",
+    "title_hu": "Az EU előzetes jóváhagyást ad a 90 milliárd eurós Ukrajna-hitel feloldásához, miközben a Druzhba-vezeték újranyit",
+    "summary_hu": "Magyarország vétójának elhagyása lehetővé tette az EU számára, hogy 2026. április 22-én előzetes jóváhagyást adjon a 90 milliárd eurós Ukrajna-hitelprogramhoz, így visszafordította az Orbán-kori obstrukciót. Egyidejűleg a Druzhba-vezeték újranyitása megerősítette Magyarország pragmatikus fordulópontját az EU-integráció felé, miközben megőrzi energetikai kapcsolatait Oroszországgal. Ezek a lépések Péter Magyar kormányának a regionális obstrukciótól a konstruktív EU-részvétel felé történő stratégiai elfordulópontját jelzik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   },
@@ -3967,6 +4222,35 @@
     "summary_en": "DW examines the persistence of Viktor Orbán's structural influence in Hungarian politics despite his electoral defeat and the Tisza Party's two-thirds parliamentary majority. The analysis reflects a broader concern about whether Orbán's institutional entrenchment—rather than merely his political power—has truly been dismantled, questioning the depth of democratic renewal under Magyar's government.",
     "title_hu": "Mennyire van jelen még Orbán befolyása a magyar politikában?",
     "summary_hu": "A DW azt vizsgálja, hogy Viktor Orbán szervezeti befolyása mennyire marad meg a magyar politikában az ő választási veresége és a Tisza Párt kétharmados parlamenti többsége ellenére. Az elemzés a tágabb aggodalmat tükrözi: Orbán intézményi beágyazottsága — nem csupán politikai hatalmának — valóban felszámolódott-e, és ezáltal kérdéseket vet fel a demokratikus megújulás mélységéről Magyar kormánya alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "3656900535ac104d",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Viktor Orbán Archives | Page 149 of 150 - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ORkY2M2o3RGQxa0s2SUVxdDlJU1FQdDBENENseU56OUswMXY4a0ZpeDJQYXBFM3dKQ0pRYkZ1QUJDUGljWUhuT2thUG5jTzJLX2EzUFJYaGZvUzVTRFdUb19hZTNVa0hZTW1hZVh3?oc=5",
+    "published_at": "2026-04-17T02:10:25+00:00",
+    "fetched_at": "2026-04-22T10:00:27.433034+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This is an archive index page from Euractiv (page 149 of 150) cataloging its coverage of Viktor Orbán during Hungary's political transition. The archive reflects the outlet's substantive reporting on Orbán's exit from power and the early days of Magyar's government.",
+    "title_hu": "Viktor Orbán Archívum | 149. oldal a 150-ből - Euractiv",
+    "summary_hu": "Az Euractiv Viktor Orbánról készített cikkgyűjteménye (a 150 lap közül a 149. oldala) az Orbán bukásakor és Magyar kormányalakításakor készült újságírói munka katalógusa. A honlap a magyar politikai rendszerváltás lefedésének terjedelmét mutatja.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "orban_viktor",
