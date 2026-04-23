@@ -1,5 +1,40 @@
 [
   {
+    "id": "103b70637306503b",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "EU forges ahead with membership for Ukraine and Moldova after Orbán’s exit - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMU5PMkdpRjRkNEh1MjdVM1lnLWs1aldZR0ZKNnVicjRaVWhwbWFzOVdvT1BacWZYOUVYRkQ4aDNxMkhTelAtdXh1aXNTRXA3LWtjdm4ycmctU0NuOW85Um01V3VIS19XekItRkhuV0lRSVp0N3MzZXhVYy1tRTdCbW5YVXBBanRTWHJDOW5SMjY0LTRvajU4?oc=5",
+    "published_at": "2026-04-23T19:23:00+00:00",
+    "fetched_at": "2026-04-23T22:00:29.476459+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Ukraine",
+      "Moldova",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Orbán's exit from power has cleared Hungary's blocking of EU expansion: the Union can now advance membership negotiations for Ukraine and Moldova, which Orbán had vetoed. This marks Hungary's geopolitical shift from obstructing EU action to enabling it under the new Magyar government.",
+    "title_hu": "Az EU előrehalad Ukrajna és Moldávia csatlakozásával Orbán távozása után",
+    "summary_hu": "Orbán hatalomból való kimaradása elhárította Magyarország vétóját az EU bővítésről: az Unió most előrelépheti Ukrajna és Moldávia csatlakozási tárgyalásait, amelyeket Orbán korábban blokkolt. Ez Magyarország geopolitikai irányváltásáról tanúskodik az EU-cselekmények blokkolásáról az azokat lehetővé tevő új magyar kormányzat felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Ukraine",
+      "Moldova"
+    ],
+    "quotes": []
+  },
+  {
     "id": "263bdc40f8856761",
     "source": "EUobserver",
     "region": "eu",
@@ -25,6 +60,38 @@
     "summary_en": "The EU approved €90 billion in emergency aid to Ukraine and launched new sanctions against Russia, following Hungary's government lifting its veto—a turning point enabling EU action and signaling Hungary's shift from Orbán-era Russia alignment toward mainstream EU integration.",
     "title_hu": "Az EU szankciókat vezet be Oroszország ellen, miközben 90 milliárd euró segítség áramlik Ukrajnához június végéig legkésőbb",
     "summary_hu": "Az EU 90 milliárd eurós sürgősségi segélyt jóváhagyott Ukrajna részére és új szankciókat indított Oroszország ellen, miután a magyar kormány feloldotta vétóját—egy fordulópont, amely lehetővé teszi az EU-s cselekvést és jelzi Magyarország elmozdulását az Orbán-korszak Oroszország-barát politikájától az EU-s főáramú integráció felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "60c45e2d6cfcfa97",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "EU formally approves €90bn Ukraine loan and 20th sanctions package against Russia - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmlPS0p3N2xyV2UwMk42VnI4cVZtcV9qZ0o3U25QYVctZzFrOXV6M1ZIS3BURXVkUXpjaEpSU1lEWU9OX1JzS3lHclVUVU9wNVdkVU82TTlWcEFCeWpxdHhJYkpfeWZ2NzZQWWc2dWJKS0ZvTGMxVlhOT2JOQXZGbm1vMm5Pbmw0bjZrTjc0Rlo?oc=5",
+    "published_at": "2026-04-23T16:11:00+00:00",
+    "fetched_at": "2026-04-23T18:00:07.974894+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "government transition",
+      "foreign policy",
+      "EU funds"
+    ],
+    "actors": [
+      "European Union",
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The EU formally approved a €90 billion Ukraine loan and new sanctions against Russia on April 22-23, with Hungary under Péter Magyar's new government lifting its previous veto, marking Hungary's pivot from Orbán-era Russia alignment toward EU consensus on Ukraine support and Russia sanctions.",
+    "title_hu": "Az EU hivatalosan jóváhagyja a 90 milliárd eurós Ukrajna-hitelt és Oroszország elleni 20. szankciócsomag",
+    "summary_hu": "Az EU április 22-23-án hivatalosan jóváhagyott egy 90 milliárd eurós Ukrajna-hitelcsomagot és új szankciókat Oroszország ellen, miután Péter Magyar új kormánya feloldotta Orbán korábbi vétóját, jelezve Magyarország Orbán-korszak Oroszország-barát politikájából az EU-konszenzus irányába történő fordulóját az Ukrajna és szankciók kérdésében.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "eu_institutions",
@@ -59,6 +126,35 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "9ce4cd8186718b9d",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Orbán may be out, but Patriots aren’t changing course - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWFFRDBEUy1jUVVnQ29fb2RmakVqUzZ5dE5ZbW9EbHcyTWZNTkFibHJHSlZnWTg4MkJGYVBJY0xBWE1mM2ZGRFJDY2NtN0IzN2RWNDlVWk5YY1pyZHdBVGtXSHZMRV94dGFtcUtjMHBmXzFOQTgzOXlNcGlkbVFjQ2tTOHFnOThvTzEtTTZMWHN2OE05RHd4cjJINXdLZ1BGdnA2MmFWZmxoTXl6VEpOd0xaUm9jUm9uQXcteHZHS0FKVUVyOTNkanhWN2I?oc=5",
+    "published_at": "2026-04-23T15:18:00+00:00",
+    "fetched_at": "2026-04-23T18:00:27.835142+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "Fidesz opposition",
+      "V4 diplomacy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Patriots for Europe"
+    ],
+    "tone": "critical",
+    "framing": "eu_integration",
+    "summary_en": "Despite Viktor Orbán's electoral defeat and Hungary's democratic transition under Péter Magyar, the far-right Patriots for Europe grouping in the European Parliament continues its political course unchanged, highlighting the persistence of right-wing institutional influence at the EU level independent of domestic political shifts.",
+    "title_hu": "Orbán kívül esett, de a Hazafiak nem változtatnak a kurszon",
+    "summary_hu": "Viktor Orbán választási veresége és Magyarország Péter Magyar alatt zajló demokratikus átmenete ellenére az Európai Parlamentben a szélsőjobboldali Hazafiak csoportja politikai irányát változatlanul folytatja, amely az EU szintjén a szélsőjobboldali intézmények befolyásának továbbélésére mutat rá, függetlenül a belföldi politikai eltolódásoktól.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
     "comparison_countries": [],
     "quotes": []
   },
@@ -247,6 +343,40 @@
     "is_relevant": 1,
     "main_actor": "orban_viktor",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "5c6f14759e604b3d",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Last year the far-right looked strong in Europe. Now, the cracks are starting to show - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDJrem41YmRyMkd2YlEybkFvOWJUOWtBQS1UdGgzT1BxeC1nbnVkZHNOV09weWpDbW92U0lHRHNxdGF5b0w4eHFndDE5dk5oWTBEQmxFTUtQcG9rcnYxSThkeDBMMnMtOTBabDhWTlJueVlVaXJuRE1NREZURWloUnZLYXVZNURxZUJNV2ROQzNxSFpGUG11M3JrYUhlekpDb3B3N3hhaHNJbEYwcGNPcDJZb2U?oc=5",
+    "published_at": "2026-04-23T10:52:48+00:00",
+    "fetched_at": "2026-04-23T22:00:33.121409+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Fidesz party"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "EUobserver examines the weakening of far-right movements across Europe, with Hungary's recent transition from Viktor Orbán's 15-year rule to Péter Magyar's Tisza Party serving as a central case study. The piece frames Hungary's democratic election result as part of a broader European trend of voter rejection of authoritarian populism.",
+    "title_hu": "Tavaly az extremista jobboldal erősnek tűnt Európában. Most kezdenek megjelenni a repedések",
+    "summary_hu": "Az EUobserver az extremista jobboldal gyengüléseiről ír Európa szerte, és Magyarország Viktor Orbán 15 éves uralma után Péter Magyar Tisza Pártjára való választását e folyamat központi esettanulmányaként értelmezi. A cikk Magyarország demokratikus választási eredményét az autoritárius populizmus elleni európai szavazók szélesebb elutasításaként mutatja be.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [
+      "Poland",
+      "Italy",
+      "France"
+    ],
     "quotes": []
   },
   {

@@ -1,17 +1,17 @@
 {
-  "total_articles": 182,
-  "analyzed_articles": 182,
+  "total_articles": 186,
+  "analyzed_articles": 186,
   "tone": {
-    "neutral": 90,
-    "positive": 63,
-    "mixed": 10,
-    "critical": 19
+    "positive": 65,
+    "neutral": 91,
+    "critical": 20,
+    "mixed": 10
   },
   "framing": {
-    "geopolitics": 72,
-    "democracy_restoration": 36,
+    "eu_integration": 26,
+    "geopolitics": 73,
+    "democracy_restoration": 37,
     "media_freedom": 4,
-    "eu_integration": 24,
     "EU_integration": 2,
     "other": 7,
     "rule_of_law": 20,
@@ -25,24 +25,24 @@
     "government_transition": 1
   },
   "region": {
-    "eu": 62,
+    "eu": 65,
+    "uk": 37,
     "us": 21,
     "wire": 38,
     "cee": 6,
     "de": 15,
-    "uk": 36,
     "fr": 4
   },
   "source": {
     "Reuters": 33,
-    "Politico Europe": 20,
+    "Politico Europe": 22,
     "Euronews": 20,
     "Euractiv": 14,
     "DW English": 14,
+    "The Guardian": 12,
     "Financial Times": 12,
-    "The Guardian": 11,
     "Washington Post": 9,
-    "EUobserver": 7,
+    "EUobserver": 8,
     "BBC": 7,
     "AP News": 5,
     "New York Times": 5,
@@ -59,21 +59,21 @@
     "The Economist": 1
   },
   "topics": {
-    "government transition": 137,
-    "EU relations": 109,
-    "geopolitics": 98,
-    "democracy": 64,
-    "foreign policy": 63,
+    "government transition": 140,
+    "EU relations": 112,
+    "geopolitics": 101,
+    "foreign policy": 65,
+    "democracy": 65,
     "rule of law": 41,
-    "elections": 36,
-    "EU funds": 34,
+    "elections": 37,
+    "EU funds": 35,
     "energy": 24,
     "Russia deals": 20,
     "human rights": 15,
     "economy": 14,
+    "Fidesz opposition": 9,
     "judicial reform": 8,
-    "Fidesz opposition": 7,
-    "V4 diplomacy": 6,
+    "V4 diplomacy": 7,
     "society": 5,
     "media freedom": 4,
     "corruption": 4,
@@ -81,14 +81,14 @@
     "EU integration": 3
   },
   "actors": {
-    "Péter Magyar": 146,
-    "Viktor Orbán": 82,
-    "Volodymyr Zelenskiy": 31,
-    "Ukraine": 24,
+    "Péter Magyar": 149,
+    "Viktor Orbán": 86,
+    "Volodymyr Zelenskiy": 32,
+    "Ukraine": 25,
     "Tisza Party": 19,
-    "European Commission": 17,
+    "European Commission": 18,
+    "European Union": 15,
     "Russia": 14,
-    "European Union": 14,
     "Hungary": 14,
     "EU institutions": 12,
     "Rumen Radev": 10,
@@ -103,23 +103,26 @@
     "Israel": 4
   },
   "main_actor": {
-    "eu_institutions": 19,
-    "hungary_country": 55,
-    "orban_viktor": 33,
+    "hungary_country": 56,
+    "eu_institutions": 21,
+    "orban_viktor": 34,
     "magyar_peter": 50,
     "EU_institutions": 2,
     "other": 22,
     "fidesz": 1
   },
   "comparison_countries": {
-    "Ukraine": 19,
+    "Ukraine": 20,
     "Russia": 12,
+    "Poland": 7,
     "Bulgaria": 7,
-    "Poland": 6,
     "Slovakia": 5,
     "Israel": 4,
     "United States": 3,
     "Hungary": 2,
+    "Moldova": 1,
+    "Italy": 1,
+    "France": 1,
     "poland": 1,
     "Austria": 1
   },
@@ -135,12 +138,24 @@
     "2026-04-20": 20,
     "2026-04-21": 48,
     "2026-04-22": 32,
-    "2026-04-23": 18
+    "2026-04-23": 22
   },
   "tone_by_source": {
+    "Politico Europe": {
+      "positive": 7,
+      "critical": 5,
+      "neutral": 9,
+      "mixed": 1
+    },
     "EUobserver": {
       "neutral": 4,
+      "positive": 1,
       "critical": 3
+    },
+    "The Guardian": {
+      "neutral": 3,
+      "positive": 8,
+      "critical": 1
     },
     "Washington Post": {
       "positive": 5,
@@ -156,12 +171,6 @@
       "positive": 1,
       "mixed": 1,
       "neutral": 3
-    },
-    "Politico Europe": {
-      "positive": 6,
-      "neutral": 9,
-      "critical": 4,
-      "mixed": 1
     },
     "Reuters": {
       "neutral": 19,
@@ -194,11 +203,6 @@
     "Foreign Policy": {
       "positive": 1,
       "neutral": 1
-    },
-    "The Guardian": {
-      "positive": 8,
-      "critical": 1,
-      "neutral": 2
     },
     "Wall Street Journal": {
       "positive": 1,
@@ -241,9 +245,21 @@
     }
   },
   "source_bias": {
+    "Politico Europe": {
+      "positive": 32,
+      "critical": 23,
+      "neutral": 41,
+      "mixed": 5
+    },
     "EUobserver": {
-      "neutral": 57,
-      "critical": 43
+      "neutral": 50,
+      "positive": 12,
+      "critical": 38
+    },
+    "The Guardian": {
+      "neutral": 25,
+      "positive": 67,
+      "critical": 8
     },
     "Washington Post": {
       "positive": 56,
@@ -259,12 +275,6 @@
       "positive": 20,
       "mixed": 20,
       "neutral": 60
-    },
-    "Politico Europe": {
-      "positive": 30,
-      "neutral": 45,
-      "critical": 20,
-      "mixed": 5
     },
     "Reuters": {
       "neutral": 58,
@@ -291,11 +301,6 @@
       "neutral": 43,
       "critical": 14
     },
-    "The Guardian": {
-      "positive": 73,
-      "critical": 9,
-      "neutral": 18
-    },
     "Wall Street Journal": {
       "positive": 33,
       "neutral": 33,
@@ -321,5 +326,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-23T18:20:25.431451+00:00"
+  "last_updated": "2026-04-23T22:15:19.439412+00:00"
 }
