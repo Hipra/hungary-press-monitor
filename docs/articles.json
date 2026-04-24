@@ -1,5 +1,67 @@
 [
   {
+    "id": "ac16801fd3787c78",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "With its scapegoat gone, Europe is forced to finally get honest with itself - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWdvUkNiRnFtVUxlZ1RvTVduenNXanFRRVZXTE1YanBWWW9jYkpPSlBTX0NWdTdraUQwdVhBTlZSbWF6SFl3TXNLaWVWMHFlUG5YbnVXTXRWXzhyOWI0XzRGTXludl9Qd3k2SXI5MzFvMlRTRlUySzAwRk93ZjBjNlAxVzYxS2FueUFEaEtUdVVwanZ2dGJjUGY2UQ?oc=5",
+    "published_at": "2026-04-24T18:57:00+00:00",
+    "fetched_at": "2026-04-24T22:00:29.101690+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy",
+      "geopolitics"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "European Commission"
+    ],
+    "tone": "critical",
+    "framing": "eu_integration",
+    "summary_en": "Politico argues that with Orbán's departure, European capitals can no longer use Hungary as a convenient scapegoat for EU structural problems and must confront deeper systemic challenges. The piece reflects the shift from celebrating Orbán's electoral defeat to wrestling with harder institutional and competitiveness questions.",
+    "title_hu": "Bűnbakja nélkül, Európa végre őszinte lenni kénytelen önmagával",
+    "summary_hu": "Politico azt állítja, hogy Orbán eltávozásával az európai fővárosok már nem használhatják Magyarországot kényelmes közös bűnbakként, és végre szembe kell nézniük az EU mélyebb strukturális problémáival. Az írás tükrözi az Orbán vereségét ünneplő fázisból a kemény intézményi és versenyképességi kérdésekbe való átmenetet.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "71ffa0b7566bb2b5",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "13 things we learned at the EU summit in Cyprus - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1a18zQ0JmVGFtd3B5STFENGphZThuWXlfQkNnT1FXa1lnSS1fbzdBNlZHZjZiVFEzR1ZvNFFPeS1LcjNuN1hVVTA5X2JGS1NTdG1FenNrdVRVa1NQS0pjUmdscWNmNjhmR2gtU3Bja1FBTG9KV1YtM2xyMXR5Zw?oc=5",
+    "published_at": "2026-04-24T17:10:00+00:00",
+    "fetched_at": "2026-04-24T22:00:29.101657+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "government transition",
+      "EU funds",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk",
+      "Volodymyr Zelenskiy",
+      "European Commission"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "The April 24 EU summit in Cyprus addressed Hungary's reintegration into EU structures under the new Magyar government, alongside Ukraine aid decisions and strategic EU priorities. Key takeaways likely included Hungary's lifting of the €90bn Ukraine loan veto, the deepening Polish-Hungarian bilateral relationship, and EU capitals' shift from euphoria over Orbán's defeat to measured patience with reform pace.",
+    "title_hu": "13 tanulság az EU csúcstalálkozóról Ciprusban",
+    "summary_hu": "A cyprusi EU csúcstalálkozón (április 24.) Magyarország új kormányának uniós reintegrációja, Ukrajna segélyezése és a szélesebb uniós stratégiai kérdések voltak a központban. A fő tanulságok között szerepelt Magyarország szavazata a 90 milliárd eurós Ukrajna-támogatás mellett, a lengyel-magyar bilaterális kapcsolat elmélyítése, valamint az EU-fővárosok Orbán vereségét követő eufóriájáról az egyensúlyozottabb, óvatosabb párti reformtempóra való átcsapása.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "6af624210d57f5c5",
     "source": "Foreign Policy",
     "region": "us",
@@ -25,6 +87,33 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "efeb5c27de6c1f5b",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Michel: European Council should 'think carefully' if ending unanimity - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNlc0T2w3c0tpLTNobnlZQ3hUYll5Z1dHajRqVUp1SDJHRlZsYzBpVjNMMmowVW5NUmxSN2llRV9qZW5TWUxIUUNJcmpyM01yTkkxdEFLTDZ2a29lTm9yUnM0WGwzemdjQmNRbkxZTlBQOGVSS1phNVpodVJlWm83T1hHM2xDZ252azVLQWw4WW01eHlBNFJNRVBKUGFaZzhSMG9tdHBVemxxc09Sd2QzR1poRTk5a29jTTZPQTE5OHI?oc=5",
+    "published_at": "2026-04-24T14:37:40+00:00",
+    "fetched_at": "2026-04-24T22:00:36.581893+00:00",
+    "topics": [
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Charles Michel",
+      "European Council"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "EU Council President Charles Michel addresses procedural considerations regarding ending unanimity voting in the European Council. This institutional reform discussion is contextually significant given Hungary's recent government transition and its prior use of veto power to block EU decisions.",
+    "title_hu": "Michel: Az Európai Tanács 'gondosan megfontoljon' az egyhangúság végzésének kérdésén",
+    "summary_hu": "Charles Michel, az Európai Tanács elnöke procedurális megfontolásokat vet fel az egyhangúsági szavazás végzésével kapcsolatban az Európai Tanácsban. Ez az intézmény reformjának vitája Magyarország közelmúltbeli kormányzati átmenete és a vétóhatalommal való korábbi visszaélésének fényében jelentős.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
     "comparison_countries": [],
     "quotes": []
   },
