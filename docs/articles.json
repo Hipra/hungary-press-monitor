@@ -1,5 +1,96 @@
 [
   {
+    "id": "dcef5d51adedd88b",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary: Election victor faces hurdles - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPamUxS3VVaVl1c1lyS3NkWERUQzR3QVZvWXB0R2pPSXV3NnUyd1YwaTlBU3VGQkZvaFRtdzhqQXZUUEE1c0RiYVZ6MVpudzZlemNWeFl3blJRbjBBMUEtY1gwNGhUWjhGVFk2ZFZtWk5ac1NHQkdYWE1WMUxfZDg3SFpRUHFOZGc0VEJ2ZVl5aDE1dw?oc=5",
+    "published_at": "2026-04-24T09:13:00+00:00",
+    "fetched_at": "2026-04-24T10:00:41.246447+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "EU relations",
+      "judicial reform"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "mixed",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's newly victorious Tisza Party faces significant structural obstacles in consolidating democratic transition and EU reintegration. DW analysis examines the institutional, legal, and EU conditionality hurdles blocking the pace of democratic restoration.",
+    "title_hu": "Magyarország: Az választási győztes akadályokkal szembesül",
+    "summary_hu": "Péter Magyar újonnan győztes Tisza Pártja jelentős strukturális akadályokkal néz szembe a demokratikus átmenet és az EU-integráció konszolidálásában. A DW-elemzés az intézményi, jogi és EU-feltételi akadályokat vizsgálja, amelyek visszafogják a demokratikus helyreállítás ütemét.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "e8338994225e7d88",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "At first summit without Orbán, Zelenskyy rejects “symbolic” EU membership - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXhXOWZrY29uSHRUam41SW1NcC1RRU5iRWFuUUJ1VVItOHl3UnM5UE5PZXZDNG85aFlPRzhXRm1pdXdYcXVzaHZYTzByT0ZpYkJjRFlIVFpTVndDcTFoRzk3dmFHaGdOajQ3bEtnd29RLWwyel9EclJTNndnaHU3V3FKczRDZ0k0bEZINU9wRkFvYnBTYWZXRjFVTzI3bGxJSXFjN2ZhYV9scVF3V01TWjc1eENER1E?oc=5",
+    "published_at": "2026-04-24T06:46:32+00:00",
+    "fetched_at": "2026-04-24T10:00:37.685060+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "EU funds"
+    ],
+    "actors": [
+      "Volodymyr Zelenskyy",
+      "Péter Magyar",
+      "Viktor Orbán",
+      "EU Council",
+      "European Commission"
+    ],
+    "tone": "mixed",
+    "framing": "eu_integration",
+    "summary_en": "At the EU's first summit without Viktor Orbán, Ukrainian President Zelenskyy rejected 'symbolic' EU membership status, pressing for substantive integration. The summit exemplifies Hungary's geopolitical reorientation under Péter Magyar, whose government lifted the veto on Ukraine aid and EU enlargement negotiations. Zelenskyy's position reflects Ukraine's impatience with the EU's differentiation between secured €90bn emergency aid and stalled membership talks.",
+    "title_hu": "Az első uniós csúcstalálkozó Orbán nélkül – Zelenszkij elutasít a szimbolikus EU-tagságot",
+    "summary_hu": "Az EU első csúcstalálkozóján Orbán nélkül Zelenszkij elnök elutasította a szimbolikus EU-tagságot, valódi integrációt követelve. A csúcstalálkozó Magyarország geopolitikai átpozicionálódását tükrözi Péter Magyar kormánya alatt, amely feloldotta Ukrajna vétóját és az EU-bővítést blokkolóakat. Zelenszkij állásfoglalása azt jelenti, hogy Ukrajna türelmetlenül vár az EU-s tagsággal kapcsolatos döntésre, miközben a 90 milliárd eurós vészhelyzeti segélycsomagot már biztosította.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "6644fc213811ea2c",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Democracy Digest: Orban Ponders US Exile; Hungary Set to Open Communist-Era Archives - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVNLdnhKcXNrcWN5LUxuTGxOalhaMEZZTU94ajJWRjhEZFBLSmJ3TjNldk1JOFRoWFRxSlI0R0VDT01DMjgzS0NJVXN0WHJJX2xWUGxjNmpCd2VzdWgwTHlJWTN0Q2w5NDJtR0ZZd0dndURKT29RUTBWR2Z0WE9yV3l2Q1djN1ZpMzBxWW5jZmJRQXBycnZjQnEtd0lsMUlQU2ZOTDFPalg2aGNHMklESGJNcV9DQTY3X2V6N3JqV0o?oc=5",
+    "published_at": "2026-04-24T06:11:24+00:00",
+    "fetched_at": "2026-04-24T10:00:46.148755+00:00",
+    "topics": [
+      "corruption",
+      "democracy",
+      "rule of law",
+      "government transition",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "mixed",
+    "framing": "corruption",
+    "summary_en": "Viktor Orbán is reportedly considering exile to the United States as his transition to opposition status follows the Tisza Party's historic April 2026 electoral victory. Simultaneously, Hungary's new government under Péter Magyar is preparing to open Communist-era ÁVH archives as part of its democratic renewal and accountability agenda.",
+    "title_hu": "Demokrácia Digest: Orbán amerikai száműzetésre gondol; Magyarország megnyitja a kommunista-kori archívumokat",
+    "summary_hu": "Viktor Orbán az Egyesült Államokba való száműzetésen gondolkodik a Tisza Párt történelmi áprilisi választási győzelmét követően, amely kormányzati változást hozott. Péter Magyar új kormánya demokratikus megújulásának és elszámoltathatóságának részeként a kommunista-kori ÁVH archívumok megnyitására készül.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "079b42ac7d010e9a",
     "source": "Financial Times",
     "region": "uk",
@@ -30,6 +121,107 @@
     "quotes": [
       "EU must be 'very patient' with Hungary's Magyar"
     ]
+  },
+  {
+    "id": "7814b6f0535cc8e8",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "EU must be ‘very patient’ with Hungary’s Magyar, says Tusk - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjU2b0ozWjcwcVVCMEpobktxMnBDTkk0S1M5OGRqMEc4Und5UnVNX0owbm1MS3dpRTRnUVhCcjc1Y2ZONGcxdWFNaHh4ZzI0ZDhIaW1FWXpSZG5SYi1udzZOX0JEdHFoREVjYXdnMTRrTmRrTmhWZUZvT1VYUWpNS1ZWclg?oc=5",
+    "published_at": "2026-04-24T05:01:29+00:00",
+    "fetched_at": "2026-04-24T10:00:14.652509+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "eu_integration",
+    "summary_en": "Polish PM Donald Tusk calls for the EU to exercise patience with Péter Magyar's newly formed government, signaling cautious support while managing expectations about the pace of democratic reforms. The statement reflects a careful EU balance between endorsing Hungary's political transition and acknowledging institutional obstacles to structural change. Tusk's framing shifts EU discourse from celebration toward realistic expectations about the timeline for democratic restoration.",
+    "title_hu": "Az EU 'nagyon türelmesnek' kell lennie Magyar Péterrel — mondta Tusk",
+    "summary_hu": "Donald Tusk lengyel miniszterelnök arra szólít fel, hogy az EU türelmesen viszonyuljon Magyar Péter újonnan megalakított kormányához, óvatos támogatást jelezve az demokratikus reformok ütemezésére vonatkozó elvárások kezelése közben. Az állásfoglalás tükrözi az EU gondos egyensúlyozását a magyar politikai átmenet támogatása és az intézményi akadályok elismerése között. Tusk kerete az EU diskurzusát az ünneplésből a demokratikus helyreállítás időkeretével kapcsolatos realisztikus elvárások felé tolódik el.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "EU must be 'very patient' with Hungary's Magyar"
+    ]
+  },
+  {
+    "id": "c0f3469c7beefe6d",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Despite the warm sea breeze, icy winds blast Europe’s leaders - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFNBeXBBNEFETFhjVHhPWE1XNzFQTVFyY0M4VHJJekxZVEdRYUdIQ3Uwc280aXhaaXlUTW9QN0l2cHhwZWx5VEdpUjNqMldxWGRaTzRQbUt3cGRST1Ayd1piX3hrZ3BpYUE2RGdOZFpRaFJxZTAzdjYwbWY1VWp4ZGM0WjIwTWRqcjBmc3hfVWpJX09kd1d2N21GTnk0bTg2a3c?oc=5",
+    "published_at": "2026-04-24T01:12:00+00:00",
+    "fetched_at": "2026-04-24T10:00:30.684742+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk",
+      "Bart De Wever",
+      "Volodymyr Zelenskiy",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "Politico reports on tensions among European leaders responding to Hungary's democratic transition, with surface optimism about Orbán's defeat masking disagreements over reform pace and geopolitical priorities. Belgian PM De Wever's warning against overstating Hungary's institutional exit and Polish PM Tusk's call for patience signal measured scepticism from key EU capitals about the durability of structural change.",
+    "title_hu": "Meleg szellő ellenére hideg szél csapódik Európa vezetőire",
+    "summary_hu": "A Politico beszámol az európai vezetők közötti feszültségekről, akik Magyarország demokratikus átmenetére reagálnak: a felszíni optimizmus Orbán bukása miatt takarhatja az alapvető nézeteltéréseket a reform üteméről és geopolitikai prioritásokról. A belga miniszterelnök De Wever figyelmeztetése Magyarország intézményi kilépésének véglegesítésére és a lengyel miniszterelnök Tusk türelemre szólított felhívása az EU-s fővárosok visszafogott szkepticizmusát jelzik az intézményi változások tartósságával kapcsolatban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [
+      "Poland",
+      "Belgium",
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "efbb144107e1485e",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "After toasting €90B loan, EU leaders face up to the morning after - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTJnU2VhSzU0VTBzcmwxb1FxZHZ1dF85T3NMdkE4eEllcVV3dTZGb2hKekczYklHc0NYRS1pSzhMV1pjWmZKRDFfYXpNTllDRllDdUpPUGF0TUFxR1dOSWpvREpnd1VfZnoweGpxS1BrSE5NY2Z0NlpmZTdOdXVXOGNRM3RramdxRjVYMFZwSDY1bGNBNGF5Rks4UEx3R3ZEY21oWFMzV0JRYU1JaklmZ0VoTFBNZWF5?oc=5",
+    "published_at": "2026-04-24T00:55:00+00:00",
+    "fetched_at": "2026-04-24T06:00:26.158759+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "EU funds",
+      "government transition",
+      "foreign policy"
+    ],
+    "actors": [
+      "EU leaders",
+      "Péter Magyar",
+      "Viktor Orbán",
+      "European Commission"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "After celebrating the €90 billion Ukraine loan approval—secured after Hungary lifted its veto—EU leaders must now address the harder structural challenges: managing expectations about the pace of democratic reform under Péter Magyar's government, addressing persistent institutional legacies, and balancing EU fund disbursements with rule-of-law conditionality.",
+    "title_hu": "A 90 milliárd eurós kölcsön után, az EU vezetői szembenéznek a realitásokkal",
+    "summary_hu": "Miután az EU 90 milliárd eurós Ukrajna-kölcsön jóváhagyását ünnepelte—amelyet Magyarország vétójának visszavonása után biztosítottak—az EU vezetőinek most a nehezebb strukturális kihívásokkal kell szembenézniük: a Péter Magyar kormánya alatti demokratikus reform ütemét kezelniük, tartós intézményi örökséggel foglalkozniuk, és az EU-alapok kifizetéseit az államhatalom korlátozottságáról szóló feltételekhez igazítaniuk.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [
+      "Ukraine"
+    ],
+    "quotes": []
   },
   {
     "id": "7b5084c67f336c2f",
@@ -94,6 +286,36 @@
       "Ukraine",
       "Moldova"
     ],
+    "quotes": []
+  },
+  {
+    "id": "c86e8870c89f0cda",
+    "source": "DW English",
+    "region": "de",
+    "title": "EU leaders in Cyprus celebrate Ukraine loan approval - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzhRQmJYQmN6Q1RKVVc3blVJRlBTNUtUcXFfc0ZVYVlpY0tScU1PVC1GTnIwMS1BbFBlNTlRYzJiazNBVl9BaG9PWmh6WlBqcTAwaGZlWlBpZFpVV1BkRlBwWUZLb2ZFMGlodWw1UUZTOHNGSk9lMVV6UHZpeXVQN0xhTkJZTlFndU5LOEh5MA?oc=5",
+    "published_at": "2026-04-23T18:45:23+00:00",
+    "fetched_at": "2026-04-24T10:00:41.246559+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "EU funds",
+      "government transition"
+    ],
+    "actors": [
+      "EU leaders",
+      "Ukraine",
+      "Péter Magyar"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "EU leaders meeting in Cyprus celebrated formal approval of the €90 billion Ukraine loan, made possible after Hungary's new Péter Magyar government lifted its veto. The approval marks a significant geopolitical realignment, as Hungary ends its historic obstruction of EU-wide Ukraine support under the new government.",
+    "title_hu": "EU-vezetők Ciprusban ünneplik az Ukrajna-hitel jóváhagyását",
+    "summary_hu": "Az EU-vezetők Ciprusban ünnepelték a 90 milliárd eurós Ukrajna-hitel formális jóváhagyását, amely lehetségessé vált, miután az új Péter Magyar-kormány alá Magyarország visszavonta vétóját. A jóváhagyás jelentős geopolitikai váltást jelent, mivel Magyarország véglegesen felhagy az EU-szintű Ukrajna-támogatás történelmi blokkolásával.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
     "quotes": []
   },
   {
@@ -1562,6 +1784,32 @@
     "summary_en": "Swedish appliance manufacturer Electrolux announced closure of its Hungary factory with a $65 million charge. The plant exit represents significant manufacturing divestment from Hungary during its EU reintegration and post-Orbán economic repositioning.",
     "title_hu": "Electrolux Bezárja Magyarországi Gyárát - 65 Millió Dolláros Veszteség",
     "summary_hu": "A svéd Electrolux bejelentette magyarországi gyára bezárását 65 millió dollár nagyságú veszteséggel. A gyárbezárás jelentős termelési kilépés az ország EU-s reintegrációja és politikai átalakulása alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "00cabfcc47d5b086",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Appliance maker Electrolux to close Hungary plant, affecting 600 jobs - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDQxTjVwUEx1aUg3V3V6NTk3V25uYm5YY0pFbkI3eTh4TTdob3VKMDNzcjk5c0dVR0MxZ292V0V2LV85MkRVRVVobGk3UHE3VlZOZjdaSFVXcFBrTDdDOHVEZ2Vla2lUbDdWVW9FaWlSQVdVQm14ZWdWbVZ1ckM0ZnJ6NjVTTWRDa05abldVLWp0Q29XTFBkN3Jpc3k?oc=5",
+    "published_at": "2026-04-22T06:40:00+00:00",
+    "fetched_at": "2026-04-24T10:00:04.840755+00:00",
+    "topics": [
+      "economy",
+      "government transition"
+    ],
+    "actors": [
+      "Electrolux"
+    ],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "Swedish appliance maker Electrolux announced closure of its Hungarian manufacturing plant on April 22, affecting 600 jobs and a €65 million loss. The closure signals potential investor caution about Hungary's manufacturing sector during the political transition, despite international expectations of closer EU integration and economic rebound under the new Tisza government.",
+    "title_hu": "Az Electrolux bezárja magyarországi gyárát, 600 munkahely szűnik meg",
+    "summary_hu": "A svéd háztartási gépgyártó Electrolux április 22-én bejelentette magyarországi gyára bezárását, amely 600 munkahely szűnésével és 65 millió eurós veszteséggel jár. A gyárbezárás potenciális befektetői aggodalmakat jelent Magyarország feldolgozóiparában a politikai átmenet idején, annak ellenére, hogy a nemzetközi közösség az új Tisza-kormány alatt szorosabb EU-integrációt és gazdasági fellendülést vár.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
