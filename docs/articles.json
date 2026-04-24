@@ -1,5 +1,67 @@
 [
   {
+    "id": "079b42ac7d010e9a",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "EU must be ‘very patient’ with Hungary’s Magyar, says Tusk - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzTi1uY1ROWjc1cVh4Y2w3UTk5Sm1EVUpaZnhmRDlDMnF3MHlXcXpqWlB2OFpZN0ZIUVpUOThKbkRqbDZqMTktdmxtZHVoYmgwT0duMXB2U3c3NHVTdTl4dGtOVGxGWW83WmRfTFZMcG4?oc=5",
+    "published_at": "2026-04-24T05:01:29+00:00",
+    "fetched_at": "2026-04-24T06:00:11.210142+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Donald Tusk, Poland's prime minister, called for the EU to exercise patience with Péter Magyar's new Hungarian government, signaling cautious European support for Hungary's democratic transition. The statement reflects the deepening bilateral 'Warsaw on the Danube' partnership, with Tusk positioning himself as Magyar's key EU re-entry partner.",
+    "title_hu": "Az EU-nak 'nagyon türelmesnek' kell lennie Magyarországgal - Tusk szerint",
+    "summary_hu": "Donald Tusk, Lengyelország miniszterelnöke arra szólított fel, hogy az EU legyen türelmes Magyarország Magyar Péter-féle új kormányával, jelezve a Magyarország demokratikus átmenetét támogató óvatos európai hozzáállást. A kijelentés tükrözi a 'Duna menti Varsó' bilaterális partnerség elmélyülését, Tusk pedig a Magyarország EU-ba való visszatérésének kulcsfigurájának pozicionálja magát.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": [
+      "EU must be 'very patient' with Hungary's Magyar"
+    ]
+  },
+  {
+    "id": "7b5084c67f336c2f",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Don’t overstate Orbán’s exit, De Wever warns - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HTjBYX3dTZVhCX3o1bDJHMkdMTlFaOWJrQ1JTd1Uzam9rdGw4T3lHQ0g5ckR2WW1xSUtxS05rU3AzOFZKRVVWN2F0a0hGRUljVjdWeldJeFRQcWpkdVhWWnI1S2lRck9aeFRRVFZvTmJuWlJEbVZ1QzNYaHU?oc=5",
+    "published_at": "2026-04-23T19:34:53+00:00",
+    "fetched_at": "2026-04-24T06:00:28.045693+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Bart De Wever"
+    ],
+    "tone": "mixed",
+    "framing": "democracy_restoration",
+    "summary_en": "Belgian PM Bart De Wever cautions against overstating the finality of Orbán's political exit, suggesting institutional residues and opposition influence may persist despite Tisza's electoral victory. The warning reflects broader international skepticism about the speed and completeness of Hungary's democratic restoration. De Wever's intervention signals EU capitals' measured assessment of whether structural power imbalances have genuinely shifted.",
+    "title_hu": "Ne túlozzuk meg Orbán kilépésének jelentőségét, figyelmeztet De Wever",
+    "summary_hu": "Bart De Wever belga miniszterelnök óva int attól, hogy túlozzuk meg Orbán politikai kilépésének végleges jellegét, utalva arra, hogy intézményi maradványok és ellenzéki befolyás továbbra is fennmaradhat a Tisza választási győzelme ellenére. A figyelmeztetés tükrözi a nemzetközi szkepticizmust a magyarországi demokratikus helyreállítás sebességét és teljességét illetően. De Wever beavatkozása az EU-s fővárosok mérsékelt értékelésére utal az strukturális hatalomeloszlás valódi átrendeződésével kapcsolatban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "103b70637306503b",
     "source": "Politico Europe",
     "region": "eu",
@@ -692,6 +754,38 @@
     "summary_en": "Politico Europe's headline alludes to an EU summit confronting multiple simultaneous crises in late April 2026—likely encompassing the €90bn Ukraine loan approval, Hungary's judicial reform demands, the ECJ LGBT law ruling, and competing geopolitical pressures on member states. The framing suggests institutional strain from convergent challenges exceeding traditional summit capacity.",
     "title_hu": "Túl sok válság egy csúcstalálkozóra?",
     "summary_hu": "A Politico Europe azt sugallja, hogy az EU-csúcstalálkozó április végén több egyidejű válsággal nézett szembe – a 90 milliárd eurós Ukrajna-hitel jóváhagyásával, Magyarország bírói reformkövetelésével, az ECJ LMBTQ-törvényi ítéletével és az állami nyomásokkal. A kerete az intézményi terhelésre utal a versengő kihívások miatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "991df5bca063c674",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Ukraine wins the cash - but EU membership stalls - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYmFsLUpTWW1JX1dMc0dmWGRmVDNqaG1acUwyTFBkZ3J5N2haMDRBOE1QcmRHM3QwaWlqbWlIcXJuaEtPME1QcEZIOEZjUUVqQlR3OEx2Q1E4U0hldTRCMmp5YzE4ZmJ2X2lna0IzV29lMXdCR3NWWTNDbm1FZ0FwZS0xSQ?oc=5",
+    "published_at": "2026-04-23T04:01:14+00:00",
+    "fetched_at": "2026-04-24T06:00:28.045674+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "geopolitics",
+      "government transition",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "European Commission",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "eu_integration",
+    "summary_en": "Ukraine secured €90bn in EU financial support after Hungary lifted its blocking veto, marking a significant shift in Budapest's EU stance under Péter Magyar's government. However, the article signals that Ukraine and Moldova's broader EU membership negotiations remain stalled or face unresolved obstacles despite the loan's approval.",
+    "title_hu": "Ukrajna megnyeri a pénzt – de az EU-tagság stagnál",
+    "summary_hu": "Ukrajna 90 milliárd eurós uniós pénzügyi támogatást szerzett meg, miután Magyarország feloldotta vétóját, amely jelentős fordulat Orbán uniós politikájához képest. Az új magyar kormány alatt azonban Ukrajna és Moldova EU-tagságának tárgyalásai továbbra is akadoznak vagy bizonytalan helyzetben vannak.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "eu_institutions",
@@ -4730,6 +4824,34 @@
     "main_actor": "orban_viktor",
     "comparison_countries": [],
     "quotes": []
+  },
+  {
+    "id": "f14d80d9624c8ec3",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Orbán speaks of his ‘pain and emptiness’ - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MaHpONm1jMlNmQVY2Qi1WaENBVTFZYk1nZEF3VWxPYjltbHNNUHAzVDYteUZFZjVmWUtLYmQwNWlpMk91b0JMZnFMR3dSZ0FuMkdGb3Y5NlFpdDkzUlBuYmZnUmc5T2RFeTN6bFVfeG9xUDh6blo1bQ?oc=5",
+    "published_at": "2026-04-17T08:19:38+00:00",
+    "fetched_at": "2026-04-24T06:00:28.045722+00:00",
+    "topics": [
+      "government transition",
+      "elections"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Viktor Orbán reflects on his emotional response to the electoral defeat, expressing feelings of pain and emptiness as he moves into opposition after 15 years in power. The statement captures the former leader's personal reaction to Hungary's historic democratic transition.",
+    "title_hu": "Orbán a \"fájdalmáról és ürességéről\" beszél - Euractiv",
+    "summary_hu": "Orbán az választási vereség utáni érzelmi állapotáról beszél, fájdalom és üresség érzeteit fejezi ki, miután 15 év után az ellenzékbe kerül. Az állítás az egykori vezetô személyes válaszát mutatja meg az ország történelmi demokratikus átalakulásának közepette.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": [
+      "pain and emptiness"
+    ]
   },
   {
     "id": "3656900535ac104d",
