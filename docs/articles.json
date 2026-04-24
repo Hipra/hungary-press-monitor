@@ -1,5 +1,98 @@
 [
   {
+    "id": "f399fa1f45210373",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Tusk celebrates ‘no Russians in the room’ at EU summit — then winks at Fico - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkpDSDNScURjMnZFMlJXUWR4SFFGWDRwRXA0YkUtSWdHQ0JSN3BQV0VyNHNPaVZrMzJfcTNQZHBjelZ0ZGwzakJNbnBmWTl5bk1mU3F3WVpHelgxcU5Sb2FkZW5GMjRjbHRIVkw4QkJ4WUpGRExzSHVvR3otbUNiNF9KdEJOb0R6UklHT1hERy0?oc=5",
+    "published_at": "2026-04-24T10:35:45+00:00",
+    "fetched_at": "2026-04-24T14:00:27.100456+00:00",
+    "topics": [
+      "geopolitics",
+      "V4 diplomacy",
+      "EU relations",
+      "regional"
+    ],
+    "actors": [
+      "Donald Tusk",
+      "Robert Fico",
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "Polish PM Tusk celebrates EU summit unity on excluding Russian influence, but his sardonic gesture toward Slovakia reveals the fragility of European cohesion — positioning Hungary's geopolitical pivot from Orbán's Moscow alignments toward EU mainstream integration as central to the new continental order.",
+    "title_hu": "Tusk az EU-csúcson ünnepli az 'orosz nélküli szobát' — majd Ficónak kacsint",
+    "summary_hu": "Az EU-csúcson Tusk az orosz befolyás kizárásáról győzedelmeskedik, de Szlovákiához való szarkasztikus megjegyzése az EU kohéziójának korlátait jelzi. Magyarország geopolitikai újrapozicionálása az Orbán-kori moszkvai szövetségektől az EU-integráció felé ebben az átrendeződésben központi szerepet játszik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Slovakia",
+      "Poland",
+      "Bulgaria"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "afb7523ac6df7197",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary's election victor Peter Magyar faces major hurdles - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE80MmdYMHppNDVZS0VVZ2Z1Z1RZUEpxaVNkRGJIUTlsNmFBTU9wT25maVRHdnp2WHJiWExVQlluVE9jeVczZ1dNN2V1dmlINXRfeTg2WnNIMFpLcmZ5ZmtmU0VQZGZQVjhUSTVUTUR6N01jVjRSQ0toYkQ2QWhRdTM5Q0tjXzY2cTlCSmRmREhSYlpzd2ctZ1hB?oc=5",
+    "published_at": "2026-04-24T10:03:02+00:00",
+    "fetched_at": "2026-04-24T14:00:38.397938+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar, victor of Hungary's April 2026 election ending Viktor Orbán's 15-year rule, faces significant structural obstacles as he attempts democratic reforms and EU reintegration. The new Tisza Party government must navigate entrenched Orbán-era institutions, EU legal requirements on LGBTQ rights, and EU fund conditionality while consolidating democratic legitimacy.",
+    "title_hu": "A magyar választások győztese, Péter Magyar nagy kihívásokkal néz szembe",
+    "summary_hu": "Péter Magyar, aki véget vetett Viktor Orbán 15 éves uralomnak a 2026. áprilisi választásokon, jelentős strukturális akadályokkal szembesül demokratikus reformjainak megvalósításában és az EU-hoz való reintegrációban. Az új Tisza Párt-kormánynak az Orbán-korszak mélyen gyökerezett intézményeivel, az EU jogszabályaival az LMBTQ-jogokkal kapcsolatban, valamint a finanszírozási feltételekével kell szembenéznie, miközben demokratikus legitimitást építenek.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "df456d7c3e3b7052",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary: Election victor faces hurdles - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEVNMVVzclRiT1VhOFpsdDh6REpydXJjVzFoSGxreGM3ZHVOQWt6c2V1TExxaVBKZDR6T1JuNmJJSlF3VVJDUkltbERNUV94cmc1S1hzdjNwMDFJcmh3SzdUaklzVkVmNVZoQUFucUdGNU5FNVJ2djFRZzMxb1ZOVjBUcXBlM0ptLVl1d0k2dTYtZw?oc=5",
+    "published_at": "2026-04-24T09:13:01+00:00",
+    "fetched_at": "2026-04-24T14:00:38.397906+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's newly elected Tisza Party government faces significant hurdles in consolidating power and reforming Hungarian institutions after Viktor Orbán's 15-year rule. Key obstacles include pressure to remove Orbán-era judges, EU rule-of-law conditions for fund release, and international scrutiny of the pace and scope of democratic renewal.",
+    "title_hu": "Magyarország: Az választási győztes akadályokkal szembenéz",
+    "summary_hu": "Péter Magyar újonnan megválasztott Tisza Párti kormánya jelentős akadályokkal szembenéz Viktor Orbán 15 éves uralma után az intézmények konszolidálásában és reformjában. Legfőbb gátok az Orbán-era bírók eltávolítására irányuló nyomás, az EU jogállami feltételei az alapok felszabadításához, valamint a demokratikus megújulás ütemezésére és terjedelmére irányuló nemzetközi felülvizsgálat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "dcef5d51adedd88b",
     "source": "DW English",
     "region": "de",
@@ -3350,6 +3443,35 @@
     "is_relevant": 1,
     "main_actor": "hungary_country",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "35c3e276a709f86b",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Russian Despatch: Looking for a New Orban in the Balkans - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGVoNkV4emhtTFRqLWtEWHdYN1NMZy01MTZnOVhFdy1zRklJWDhRazM1RmtldzVrbnlyYldoeWFMMkNnU01PbE94NDFVTjg0amY5R21UQWFEZjl6Rmd1TmpuMEtOalAwSzhaS295eWQ3U3dvMy1JU3o5UDJhMkVLX0FyQVk1NG1rUnhQakFkOFhhU3dtd0UzTXFRUTQ?oc=5",
+    "published_at": "2026-04-21T06:04:19+00:00",
+    "fetched_at": "2026-04-24T14:00:43.828131+00:00",
+    "topics": [
+      "geopolitics",
+      "Russia deals",
+      "government transition"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "russia_china",
+    "summary_en": "Following Viktor Orbán's electoral defeat in April 2026, the article examines Russia's strategic challenge in maintaining influence in the Balkans without its longtime Hungarian ally. The piece analyzes which regional leaders Russia might cultivate as replacements for Orbán's Russia-friendly stance.",
+    "title_hu": "Oroszországi tudósítás: Új Orbánt keresnek a Balkánon",
+    "summary_hu": "Orbán Viktor április 2026-os választási vereségét követően a cikk az Oroszország stratégiai kihívásait vizsgálja a Balkánban hosszú évek óta támogatott magyar szövetsége elvesztése után. Az írás elemzi, mely regionális vezetőket próbálhatna meg az Oroszország új szövetségesként megnyerni az Orbánhoz hasonló oroszbarát magatartás fenntartásához.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [
+      "Bulgaria"
+    ],
     "quotes": []
   },
   {
