@@ -1,5 +1,93 @@
 [
   {
+    "id": "6af624210d57f5c5",
+    "source": "Foreign Policy",
+    "region": "us",
+    "title": "How to Rebuild Hungarian Democracy - Foreign Policy",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMzhVUUM1X3VtblNOanlzX09FYk8xclhyZmJ3RUxvZXRycVFmdWVleDBKQ1hHZmNuT0VHQmNXc1Q1UlFsb1NScVFVOG4zN2x3aXZmWWhRUW5GYVk0T0RURW5hRDRJT2h3NXJLSTA3Tm5rYlBVdkFLSklleWlZeU9IMUZ3ZnprT0JqUURzNXNSOVlpcVpzQ254a1ZGNjU1T2FWQ1ZER05PbUgwZVd1X2NTTUJuMlJFUVZZUGg3OWFBeHZVckxESHI0?oc=5",
+    "published_at": "2026-04-24T14:55:59+00:00",
+    "fetched_at": "2026-04-24T18:00:20.106042+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Following Péter Magyar's electoral victory over Orbán, Foreign Policy examines institutional and strategic pathways for rebuilding Hungarian democracy, including judicial reform, rule of law restoration, and EU reintegration challenges facing the new government.",
+    "title_hu": "Hogyan lehet újjáépíteni a magyar demokráciát",
+    "summary_hu": "Péter Magyar Orbán feletti választási győzelme után a Foreign Policy a magyar demokrácia újjáépítésének intézményi és stratégiai megközelítéseit vizsgálja, beleértve a bírósági reformot, a jogállamiság helyreállítását és az EU-integráció előtt álló kihívásokat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "e478271d3801cf76",
+    "source": "The Parliament Magazine",
+    "region": "eu",
+    "title": "Op-ed: European liberal forces should exploit growing far-right discord - The Parliament Magazine",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSzVjeXBJZ3NhMTBKUzd2ZmJHcUxfSk1Qa21FeWY4cGRHWjNIcWFxWGRWWUZuaVR5MXEtR1RzbExPeGJhbEVRMmdHWEVRWGJGa0VpTllVSTVnb2dJMFhIYUJSN2hkRjRabHVYMy03VjJNNmFtM1BfY1dQUmhYckJ0YVRERmg2bFltS1l3Qm5PODc2a0tZaml2MTVfRjBBOVV3ejVkajlVUG8zaXY3R0dmTXdxM3ozU3M2bGh4U1RBOA?oc=5",
+    "published_at": "2026-04-24T14:24:50+00:00",
+    "fetched_at": "2026-04-24T18:00:33.737662+00:00",
+    "topics": [
+      "democracy",
+      "government transition",
+      "EU relations",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Donald Tusk",
+      "European liberal leaders"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "An op-ed from The Parliament Magazine argues that European liberal political forces should exploit internal discord and weakness within far-right movements. This reflects the broader European context of far-right fragmentation, particularly following Hungary's democratic transition from Orbán's Fidesz to Péter Magyar's Tisza Party. The piece frames this as a strategic opportunity for EU-aligned liberal coalitions to advance democratic renewal across Europe.",
+    "title_hu": "Vélemény: Az európai liberális erőknek a szélsőjobboldal megosztottságát kellene kihasználniuk",
+    "summary_hu": "A Parlament Magazin közöl egy véleménycikket, amely azt javasolja, hogy az európai liberális politikai erők használják ki a szélsőjobboldali mozgalmak belső megosztottságát és gyengeségét. Ez tükrözi az európai szélsőjobboldal fragmentálódását, különösen Magyarország demokratikus átmenetét követően, ahol Viktor Orbán Fidesz-pártja helyét Péter Magyar Tisza-pártja vette át.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "2526da12cac018ce",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "‘No kompromat’ - the man who ousted Orbán reveals his secret - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUDYyNU1TeFhlaldrMVVYZzhjUlg0UjNNT0k4blRsVC0zTElDT0dtNnIxekZHZHVMRFpIV2ViMHNkX2c3QWd3RkNNdFdpLVQ2N3Q0bnNYc2h0STNaSm1kZEdnX1RpVWdGZmJBNTlfV0ZLYUJGVnctazJtaDZPYmNCbHROX3RoQ051NDVRQ1lZSzk?oc=5",
+    "published_at": "2026-04-24T12:36:14+00:00",
+    "fetched_at": "2026-04-24T18:00:29.874990+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar reveals his strategy for positioning himself outside of Orbán-era compromising material (kompromat). The new Hungarian PM discusses how he avoided intelligence entrapment and the strategic secrets behind his political success in ousting the former regime.",
+    "title_hu": "'Nincs kompromát' - az Orbánt legyőző férfi felfedi a titkát",
+    "summary_hu": "Péter Magyar feltárja azt a stratégiáját, amellyel az Orbán-korszak kompromittáló anyagai elől védekezett. Az új magyar miniszterelnök felfedi, hogyan kerülte el a hírszerzési csapdákat és politikai sikere mögött rejlő titkokat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "f399fa1f45210373",
     "source": "Politico Europe",
     "region": "eu",
@@ -35,6 +123,37 @@
     "quotes": []
   },
   {
+    "id": "78e59052895b622f",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary's election victor Peter Magyar faces major hurdles - dw.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnNKb0ZQVFFpSUpRYWhVTEFHdXBmanJnNi10UE9nZGRRMUVTZE9iVU14OExkNG9WQlhuVzFDdlRTSXVweGE2QXNGRE5FVVlKN2tRemF1eGtnZnpUWEYwSDJwTG9FTUJ4cTNjWjItLUhKLXB2eWNKbjE3NzItQ3E2UGhqSDFuX2JDYmxvSE9nSF8yYnJuYzNvVm13?oc=5",
+    "published_at": "2026-04-24T10:07:27+00:00",
+    "fetched_at": "2026-04-24T18:00:39.505964+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "EU relations",
+      "judicial reform",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "European Commission"
+    ],
+    "tone": "mixed",
+    "framing": "rule_of_law",
+    "summary_en": "Péter Magyar, Hungary's newly elected Prime Minister, confronts major structural obstacles to his reform agenda. DW identifies three critical hurdles: the European Court of Justice's LGBTQ ruling requiring legislative change, deeply entrenched Orbán-era institutions resisting dismantling, and EU fund conditionality tied to rule-of-law benchmarks. Early credibility gaps on agricultural appointments and judicial pressures underscore the complexity of reversing 15 years of concentrated executive power.",
+    "title_hu": "Magyarország választási győztese, Péter Magyar nagy akadályokkal néz szembe",
+    "summary_hu": "Péter Magyar, Magyarország újonnan megválasztott miniszterelnöke jelentős strukturális akadályokkal szembesül reformprogramjában. A DW három kritikus kihívást azonosít: az Európai Bíróság LMBTQ-döntése, az Orbán-korszak mélyen gyökerezett intézményei, valamint az EU-s pénzügyi feltételek a jogállamisági reformokhoz. Az agrárpolitikai kinevezések körüli korai hitelességi hiányosságok és a bírósági megújítás iránti nyomás az erős végrehajtó hatalom 15 éves felszámolásának összetettségét jelzik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "afb7523ac6df7197",
     "source": "DW English",
     "region": "de",
@@ -60,6 +179,34 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "6a203c55295742bd",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "The political left is disappearing across Central Europe, despite Orban's defeat in Hungary - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNV9rYUgyc1MyZVFZMlhEa2JfTGUxNnA4UXVEbHowQkZSejBCR1JrOVl3YVFVTWozVUxaX2RWV1NINUJ5RURYSU40a3NrTmRCQm9sRl9hY2p2MnMxR3NKbVBsSWVTT0tQX0E1ODB1VEYxUlYtRnB2SmxJNjd5cUh1bTZBSU42MFdVVDRhUzA5TVFJSHFSY0Nldlh6cnNjSWlKaXBQdlZFVXRfMThpbXVCX1JUb1cwRFB5X3A2VEFHWXFUckhoS0VXbHJta1Y5eE1SZ0pHTjg4U0x3NnJ2aEYwRjU4b2Q1V1BEZFA1c2ZscEFjbXB3YnNR?oc=5",
+    "published_at": "2026-04-24T09:26:56+00:00",
+    "fetched_at": "2026-04-24T18:00:37.543476+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "regional",
+    "summary_en": "Le Monde analyzes the paradox of the political left declining across Central Europe even as Viktor Orbán's right-wing government lost power in Hungary, suggesting a deeper ideological realignment in the region beyond Hungary's electoral upset.",
+    "title_hu": "A bal oldali politika eltűnik Közép-Európa szerte, az Orbán magyarországi veresége ellenére",
+    "summary_hu": "A Le Monde a politikai bal oldal paradox hanyatlását vizsgálja Közép-Európa-szerte, még akkor is, amikor Viktor Orbán jobboldali kormánya veszített a magyarországi választásokon. A cikk arra utal, hogy a régióban egy mélyebb ideológiai átrendeződés zajlik, amely túlmutat a magyarországi választási eredményen.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
     "comparison_countries": [],
     "quotes": []
   },
