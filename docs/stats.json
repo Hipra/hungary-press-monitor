@@ -1,15 +1,15 @@
 {
-  "total_articles": 214,
-  "analyzed_articles": 214,
+  "total_articles": 215,
+  "analyzed_articles": 215,
   "tone": {
     "critical": 23,
-    "neutral": 101,
+    "neutral": 102,
     "positive": 68,
     "mixed": 22
   },
   "framing": {
     "eu_integration": 34,
-    "democracy_restoration": 45,
+    "democracy_restoration": 46,
     "geopolitics": 79,
     "rule_of_law": 21,
     "regional": 3,
@@ -27,7 +27,7 @@
   "region": {
     "eu": 78,
     "us": 22,
-    "de": 21,
+    "de": 22,
     "fr": 6,
     "cee": 8,
     "uk": 39,
@@ -37,7 +37,7 @@
     "Reuters": 35,
     "Politico Europe": 27,
     "Euronews": 23,
-    "DW English": 20,
+    "DW English": 21,
     "Euractiv": 18,
     "Financial Times": 14,
     "The Guardian": 12,
@@ -59,12 +59,12 @@
     "The Economist": 1
   },
   "topics": {
-    "government transition": 165,
-    "EU relations": 133,
+    "government transition": 166,
+    "EU relations": 134,
     "geopolitics": 112,
-    "democracy": 81,
+    "democracy": 82,
     "foreign policy": 68,
-    "rule of law": 51,
+    "rule of law": 52,
     "EU funds": 42,
     "elections": 39,
     "energy": 24,
@@ -72,7 +72,7 @@
     "economy": 17,
     "human rights": 15,
     "Fidesz opposition": 12,
-    "judicial reform": 10,
+    "judicial reform": 11,
     "V4 diplomacy": 8,
     "corruption": 5,
     "society": 5,
@@ -81,11 +81,11 @@
     "EU integration": 3
   },
   "actors": {
-    "Péter Magyar": 172,
-    "Viktor Orbán": 107,
+    "Péter Magyar": 173,
+    "Viktor Orbán": 108,
     "Volodymyr Zelenskiy": 37,
+    "European Commission": 26,
     "Ukraine": 26,
-    "European Commission": 25,
     "Tisza Party": 19,
     "European Union": 15,
     "Russia": 14,
@@ -107,7 +107,7 @@
     "hungary_country": 59,
     "eu_institutions": 29,
     "other": 25,
-    "magyar_peter": 57,
+    "magyar_peter": 58,
     "EU_institutions": 2,
     "fidesz": 1
   },
@@ -140,7 +140,7 @@
     "2026-04-21": 49,
     "2026-04-22": 34,
     "2026-04-23": 27,
-    "2026-04-24": 19
+    "2026-04-24": 20
   },
   "tone_by_source": {
     "Politico Europe": {
@@ -171,7 +171,7 @@
     },
     "DW English": {
       "mixed": 3,
-      "neutral": 13,
+      "neutral": 14,
       "positive": 4
     },
     "Le Monde": {
@@ -273,9 +273,9 @@
       "critical": 11
     },
     "DW English": {
-      "mixed": 15,
-      "neutral": 65,
-      "positive": 20
+      "mixed": 14,
+      "neutral": 67,
+      "positive": 19
     },
     "Le Monde": {
       "neutral": 33,
@@ -337,5 +337,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-25T06:05:57.467715+00:00"
+  "last_updated": "2026-04-25T10:08:38.520441+00:00"
 }

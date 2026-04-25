@@ -389,6 +389,38 @@
     "quotes": []
   },
   {
+    "id": "996b19b7d7ff380b",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary's election victor Peter Magyar faces major hurdles - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDNnN3d5MVBhS0Rjc1BWMGJvNl8xa2FocUJWYUpGRkhnTUVzd2x2Z3ZoTERENVd6YWNmLWEtNlVTa1FmS1RwNU9tdXo5S19BY2pjbHp0by1ZSWUzd3RsVjBYS1pUZXdyTmsxcWNnOVFzNUEwTjAwbkwybXE5blRYVGpManhwR1N6WXhEem53?oc=5",
+    "published_at": "2026-04-24T09:13:00+00:00",
+    "fetched_at": "2026-04-25T10:00:37.383793+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "EU relations",
+      "judicial reform"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "European Commission",
+      "Hungarian judges"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's electoral victory faces significant structural hurdles: dismantling Orbán-era judicial systems while avoiding authoritarian power concentration, implementing EU-mandated legal reforms including LGBTQ legislation, and securing EU fund releases conditional on rule-of-law improvements. Magyar must navigate entrenched institutional resistance and rising EU skepticism about Hungary's transition pace.",
+    "title_hu": "Magyarország választási győztese, Péter Magyar jelentős akadályokkal néz szembe",
+    "summary_hu": "Péter Magyar választási győzelme jelentős strukturális akadályokkal szembesül: a Fideszhez kötődő bírósági rendszer felszámolása az antidemokratikus hatalom-koncentráció elkerülésével párhuzamosan, az EU által előírt jogalkotási reformok, köztük az LGBTQ-jogok terén, valamint az EU-s alapok felszabadítása a jogállamisági feltételek teljesítéséhez kötötten. Magyarnak az intézményi ellenállás és az EU-s szkepticizmus között kell egyensúlyoznia.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "e8338994225e7d88",
     "source": "Euronews",
     "region": "eu",
