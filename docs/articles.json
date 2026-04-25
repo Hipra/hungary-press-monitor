@@ -177,6 +177,37 @@
     "quotes": []
   },
   {
+    "id": "838bc89522ca6a6c",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Orbán-style vetoes undermine EU democracy, Kaja Kallas tells Euronews hoping for reset - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWVlYkNfcThlVUkyVF9JSkwzSExWUnJHeS15ekhsRlNGNkd2cTZ1dWlQYTN0UXVpLXRvTVRCWTFldVB3aFIwOU40MUpGWVVrRVRyczFZQXNpUGZyaEw4SUMtWU1fZXlrWlVpYkp2aXZrb09uZEs4SnZ3OWh4cy1zS1Q2VHQ1aHBuQTBKZzd3VXpoMWFndWNXSVhNR19EdWROWHFrN0ZkV0k5X1RjemdVZkl4LS1HbHlNQlJNMzdpdGJ4dUpiRklJWU9DMA?oc=5",
+    "published_at": "2026-04-24T12:00:42+00:00",
+    "fetched_at": "2026-04-25T02:00:38.032489+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Kaja Kallas",
+      "Viktor Orbán",
+      "Péter Magyar",
+      "EU Council"
+    ],
+    "tone": "mixed",
+    "framing": "eu_integration",
+    "summary_en": "EU High Representative Kaja Kallas warns that Orbán-era veto practices undermined EU democracy, expressing hope for institutional reset under the new Magyar government. The statement reflects EU concerns about unanimity voting procedures and optimism regarding Hungary's EU reintegration.",
+    "title_hu": "Orbán-stílusú vétók aláássa az EU demokráciáját, Kaja Kallas az Euronewsnak a visszaállítás reményében",
+    "summary_hu": "Az EU külügyi képviselője, Kaja Kallas az Euronewsnak nyilatkozva figyelmezteti, hogy az Orbán-kori vétó-gyakorlat aláásta az EU demokráciáját, és reményt ad a Magyar Péter vezette új kormány alatt az EU-s intézmények helyreállítására. A nyilatkozat tükrözi az EU-s intézmények aggodalmát az egyhangúsági szavazási eljárások miatt és optimizmusát Magyarország EU-ba való visszaintegrációjával kapcsolatban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "f399fa1f45210373",
     "source": "Politico Europe",
     "region": "eu",
@@ -553,6 +584,38 @@
     "quotes": []
   },
   {
+    "id": "eae002f1579f1dca",
+    "source": "DW English",
+    "region": "de",
+    "title": "EU leaders in Cyprus celebrate Ukraine loan approval - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPalJ5X0N4RTMtUEZNb0xyd0hyUFo5RGpDODBMV2tUM3BSM1pacW9fRFFTSU8wNFNtc1BEc29VN2p5dzUtY2JlOFFOZlhqc0trdUZmMXE4c0tsLUpWR2VkMW5aSG1tY0FybllqdTFiRUdXVHl5SGV4VGNncDlWSnhtMnIyX2lRVWhxNE1MX0J2WC1ubVk?oc=5",
+    "published_at": "2026-04-23T20:45:25+00:00",
+    "fetched_at": "2026-04-25T02:00:41.833909+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "EU funds",
+      "government transition",
+      "foreign policy"
+    ],
+    "actors": [
+      "EU leaders",
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "Charles Michel"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "EU leaders meeting in Cyprus formally celebrated approval of a €90 billion loan for Ukraine, a milestone enabled by Péter Magyar's Hungarian government reversing Viktor Orbán's blocking veto. The approval represents a historic institutional reset in Hungary's EU posture and signals Magyar's departure from Orbán-era obstruction on Ukraine support.",
+    "title_hu": "EU-vezetők Ciprusban ünneplik az Ukrajna-kölcsön jóváhagyását",
+    "summary_hu": "Az EU vezetői Ciprusban ünnepelték a 90 milliárd eurós Ukrajna-kölcsön jóváhagyását, amely Péter Magyar kormányának Viktor Orbán vetójának feloldásával valósult meg. A jóváhagyás Magyarország EU-politikájának történelmi fordulatát jelzi, valamint Magyar távolodását az Orbán-era blokkálási politikáról.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "7b5084c67f336c2f",
     "source": "Euractiv",
     "region": "eu",
@@ -828,6 +891,37 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c5ea9404c5ea401c",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "EU gives final approval to €90-billion loan for Ukraine - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSDdvc01qUUdTVjlGR1Q3N3V6THU4R2F5aFFXNHlWVnJyalNjUm5vX1B6bWt6V25ObjJ4SUI0aEVfTG43bVlkUy1WRVFJWmEydV8yM0ZVazhxZWQzNF9JZWVWSWVjLXFlZXZNc3ZZYTdFbmloY1gzSFlWRHZPcU4wU1JESnI2b0RoUlo3eTgybzF5Z29wUEpOUEVwckY4RHFoLU5DbEprUDlLNjVQRnlEbFY4SU5vYjFEeFh0SHdFZjMxS1k4WEc0?oc=5",
+    "published_at": "2026-04-23T12:37:17+00:00",
+    "fetched_at": "2026-04-24T22:00:38.299519+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "EU funds"
+    ],
+    "actors": [
+      "European Commission",
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "Charles Michel",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The European Union formally approved €90 billion in financial aid for Ukraine after Hungary lifted its veto under the new Péter Magyar government, ending obstruction from Viktor Orbán's tenure. This approval signals Hungary's realignment toward EU consensus on supporting Ukraine and strengthens broader EU unity on the geopolitical challenge. The loan proceeded in tandem with the launch of the EU's 20th Russia sanctions package.",
+    "title_hu": "Az EU véglegesen jóváhagyja a 90 milliárd eurós kölcsönt Ukrajna számára",
+    "summary_hu": "Az Európai Unió véglegesen jóváhagyotta a 90 milliárd eurós segélycsomag-ot Ukrajnának, miután Magyarország új kormánya visszavonta korábbi vétóját és véget vetett Viktor Orbán obstrukciójának. A jóváhagyás jelzi Magyarország realignmentjét az Ukrajna-támogatás uniós konszenzusa felé és erősíti az EU szélesebb körű egységét a geopolitikai kihívások terén. A kölcsön jóváhagyása párhuzamosan zajlott az EU 20. Oroszország-szankciós csomag bevezetésével.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
     "comparison_countries": [],
     "quotes": []
   },
@@ -2027,6 +2121,35 @@
       "Ukraine",
       "Russia"
     ],
+    "quotes": []
+  },
+  {
+    "id": "d43ac9f4de92b463",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "US investors crave predictability after Orban's overnight law changes - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmsxVXl3OVBvaGEweC1HWjE0QUpPUy15OXMzR0xieW0wMEhuUVZvYzFpLXpNSk1MYTBiODE3c2NZc2d1eTBtbkFzeTBPcEw3OG9nSGtCaHN2VVZGY3h1ZS11NFdUQzlZZGVwMWloYnlMdU83ZEowc3I4bmVuajhuanFwZnpYMWkxWnZOR0RXYzMzWkRtdzgwWkRxWmlfRy0wWW5UMUpTNW9jb0pZdVpn?oc=5",
+    "published_at": "2026-04-22T09:39:07+00:00",
+    "fetched_at": "2026-04-25T02:00:04.753385+00:00",
+    "topics": [
+      "economy",
+      "rule of law",
+      "government transition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "US investors"
+    ],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "US investors are concerned about the unpredictability and sudden legal changes that characterized the Orbán era in Hungary. Following the April 2026 government transition to Péter Magyar's administration, investors are evaluating whether the new government will restore regulatory stability and predictable legal frameworks. The concern reflects broader international business community anxiety about Hungary's rule of law and investment climate.",
+    "title_hu": "Amerikai befektetők a stabilitást keresik az Orbán-korszak gyors törvénymódosításai után",
+    "summary_hu": "Amerikai befektetők aggodalommal szemlélik az Orbán-korszak előrejelezhetetlen és hirtelen törvénymódosításait. Az áprilisban lezajlott kormányváltást követően az üzleti közösség vizsgálja, hogy az új magyar vezetés helyreállítja-e a szabályozási stabilitást és a jogbiztonságot. A történet tükrözi a nemzetközi befektetői közösség aggodalomát Magyarország jogállamiságáról és befektetési klímájáról.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
     "quotes": []
   },
   {
