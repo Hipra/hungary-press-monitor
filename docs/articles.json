@@ -1,5 +1,177 @@
 [
   {
+    "id": "287d9c0552222322",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Orbán steps back after a landslide loss, vowing to rebuild Hungary’s 'national side' - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVlISlFFYU02WmlPMVBKZm5lbUNhWDZtZGNLV1E2dVdyZFlMS1JXblktb21GRWFQeXpKNUYyQkRPZ2lBLXRUM2FBbHJFeHA5YnRIaUlBUlBWRVZiRlh4OEcwSzZRdmhUSUMtMVlNQWVPWUpKQU1OV3Iyb3VXVkpYT1FkN1IyWEF2UEZWb0YxaUFWSmxQU0RNaWFKVUVNZmJfb1lSaUFuUGZaamhvbThBc2Y3TVVYaG9uMEdXZ1VTUGM5eFY2b2ZmZWF0YjR5a00?oc=5",
+    "published_at": "2026-04-25T21:32:38+00:00",
+    "fetched_at": "2026-04-25T22:00:20.435853+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Viktor Orbán has stepped back from power after suffering a landslide electoral loss to Péter Magyar's Tisza Party, marking the end of his 15-year tenure. Orbán vows to rebuild his political position, characterizing his comeback efforts around Hungary's 'national side,' signaling his transition to opposition leadership. This repositioning reflects Hungary's broader democratic transition and shift away from Orbán-era politics.",
+    "title_hu": "Orbán visszalép a döntő választási vereség után, Magyarország 'nemzeti oldal'-ának újjáépítésén dolgozva",
+    "summary_hu": "Viktor Orbán visszalépett a hatalomból a Péter Magyar vezette Tisza Párt döntő választási győzelme után, amely 15 éves uralma végét jelenti. Válaszul Orbán megígéri politikai pozíciójának felépítését, Magyarország 'nemzeti oldal'-ára hivatkozva, ami az ellenzéki vezetésre való átmenetét jelzi. Ez az átpozícionálás Magyarország tágabb demokratikus átmenetét és az Orbán-korszak politikájától való eltávolodást tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "7e351380e1de5fe1",
+    "source": "New York Times",
+    "region": "us",
+    "title": "Crushed at the Polls, Hungary’s Former Ruling Party Licks Its Wounds - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5bFJVejdjYzNXRGpkUlBoMmU2aV9QMGdRXzIwQnh4X2J2RmRJTmh1SmZPdmRWeTZFWjZ2SENMZ0lHMFUxRUhsQnNPUXJIZTFpR0luWkxHYlc0c0hScGt5NTJQLXN4S0xyVEhWZWdmbmxidXFKTTZ1QS1hVkw?oc=5",
+    "published_at": "2026-04-25T21:06:27+00:00",
+    "fetched_at": "2026-04-25T22:00:18.647708+00:00",
+    "topics": [
+      "elections",
+      "government transition",
+      "Fidesz opposition",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Fidesz party"
+    ],
+    "tone": "mixed",
+    "framing": "Fidesz opposition",
+    "summary_en": "Hungary's Fidesz party, which governed for 15 years under Viktor Orbán, suffered a historic electoral defeat in April 2026, losing to Péter Magyar's Tisza Party. The article examines how Fidesz is responding to its displacement from power as the former ruling party faces institutional collapse and leadership uncertainty. With Orbán reportedly considering US exile, the opposition party confronts significant restructuring and organizational decline.",
+    "title_hu": "Szavazásokon szétszóratva, Magyarország korábbi kormányzó pártja feldolgozza sebeit",
+    "summary_hu": "Magyarország Fidesz pártja, amely 15 éven keresztül kormányzott Orbán Viktor alatt, 2026 áprilisában történelmi vereséget szenvedett Péter Magyar Tisza Pártja előtt. A cikk azt vizsgálja, hogyan reagál a Fidesz hatalmából való kiesésére, mivel a korábbi kormányzó párt szerkezeti összeomlással és vezetési bizonytalansággal szembesül. Az ellenzéki párt jelentős átszervezési kihívásokkal és szervezeti hanyatlással néz szembe.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "fidesz",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "0fa5addee1d82a08",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Orbán relinquishes seat in Hungary’s parliament - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGMxcFdOS0stckl3aGI5SWlkZVoySmtka2t6ODY0NFBrZTB3UXc0ZzV4c2JibzlGUDZxMWw0cnNMb2xVRC1QUkVfakRUNWN5VUlzdDdIRzZUeDJac3M5OF9rdzlKYTBmV3p0WGFiY1BNLV9aQTJGYzBYQXlHZ3RwdWxEM01iQQ?oc=5",
+    "published_at": "2026-04-25T19:37:53+00:00",
+    "fetched_at": "2026-04-25T22:00:29.890748+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Viktor Orbán relinquishes his parliamentary seat following the Tisza Party's two-thirds majority victory, marking a symbolic moment in his retreat from Hungary's political stage after 15 years in power. The move reflects the broader institutional collapse of Orbán's political infrastructure documented in recent coverage. This development advances Péter Magyar's democratic renewal and judicial reform agenda.",
+    "title_hu": "Orbán lemond parlamenti mandátumáról",
+    "summary_hu": "Viktor Orbán lemond parlamenti mandátumáról a Tisza Párt kétharmados választási győzelme után, amely szimbolikus mozzanata 15 éves hatalomnak a politikai porondról való visszavonulásának. A lépés az Orbán-korszak politikai infrastruktúrájának szélesebb körű összeomlásával párhuzamosan történik. Ez előmozdítja Péter Magyar demokratikus megújítási és igazságszolgáltatási reformprogramját.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d0066c49486e5af0",
+    "source": "BBC",
+    "region": "uk",
+    "title": "Orbán steps down from Hungarian parliament after landslide defeat - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mLS02OTF0Qk9uOHA5ZndwNmlNc3B6b3RVR0loRVotVzBpTWQzdlpjYkFLOFg0NlVjZ01QdEFmekVZam1sR1JQc3NGV3h0UzlCTFNlby1Nd2trdw?oc=5",
+    "published_at": "2026-04-25T19:22:31+00:00",
+    "fetched_at": "2026-04-25T22:00:09.482922+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "elections",
+    "summary_en": "Viktor Orbán stepped down from his parliamentary position following his party's landslide electoral defeat in April 2026, formally ending his 15-year dominance over Hungarian politics. This marks a symbolic conclusion to his parliamentary presence as democratic transition consolidates under Péter Magyar's Tisza Party government. The resignation underscores the historic nature of Hungary's 2026 electoral realignment.",
+    "title_hu": "Orbán kilép a magyar parlamentből a landslid vereség után",
+    "summary_hu": "Viktor Orbán kilépett a magyar parlamentből pártjának landslid szerű választási vereségét követően 2026 áprilisában, formálisan véget vetve 15 éves domináns szerepének a magyar politikában. Ez szimbolikus lezárást jelent parlamentből való jelenlétének, miközben a demokratikus átmenet Péter Magyar Tisza Pártja kormánya alatt konszolidálódik. A lemondás kiemeli Magyarország 2026-os választási átrendeződésének történelmi jellegét.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "93b8dcaa9f066951",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Orbán steps back after a landslide loss, vowing to rebuild Hungary’s ‘national side’ - AP News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGVUOUtkRWtRUi1maERSejNmaXN6c0JwNjJoRW5DRzYxblNDOHl2dDR4N0RUaHhSSGFuNVpUTUNUZDc2ckh6VDM3Zmp4X3pFRDlKQ0NzTllYaF84Sk1XY0pTMkN6aDdCNHVSUFFMQXE3czBPSUhldGx6QWVJRDdLeTdvTDdFQ1QzSDhKbkFOZnp3UHdmRU5WOTNITFU3YWs?oc=5",
+    "published_at": "2026-04-25T18:28:00+00:00",
+    "fetched_at": "2026-04-25T22:00:07.672267+00:00",
+    "topics": [
+      "elections",
+      "government transition",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Fidesz"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Viktor Orbán has stepped back following his historic electoral defeat and is vowing to rebuild Hungary's 'national side' as opposition leader. His Tisza Party rival Péter Magyar secured a two-thirds majority in the recent election, ending Orbán's 15-year rule. The report captures Orbán's positioning for opposition reorganization amid broader institutional decline.",
+    "title_hu": "Orbán háttérbe vonul döntő vereség után, Magyarország 'nemzeti oldala' újjáépítésére ígérve - AP News",
+    "summary_hu": "Viktor Orbán háttérbe vonult választási vereségét követően, és ígérte Magyarország 'nemzeti oldala' újjáépítését az ellenzékben. Péter Magyar Tisza Pártja kétharmados többséget szerzett a közelmúltban lezajlott választásokon, véget vetve Orbán 15 éves kormányzásának. A jelentés Orbán ellenzéki pozícióba helyezkedésének szándékát mutatja be a széles körű intézményi leépülés közepette.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "445842dcdc0b04d1",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "Hungary's Orban will not sit in parliament after election defeat - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVXRxYzdtWndzajF3SlVySVhZU0VGaFh3Q2VMNUtSSTA4ZGZtSkdYMGllYzBmdzhQREp5N2tzeS1DcnRzZVUtaXlnajZ1UXV2bDhPU1gxaldkZHJ4cDV6UUFWSzZtRnRkMFQyX3dMWWwzLU52M3ZvYnNuRU83X3VNT1BaRjhfTXhhbnF5cnQwV0hSXy13bnhNOEpBa2ZMSVFGbGJRTjdMenkwMXhaMEt3YXViMnM2a25CdnY2a0lYQTkyTkhJYXJTRVRnNzluVFJocG9Hag?oc=5",
+    "published_at": "2026-04-25T15:51:41+00:00",
+    "fetched_at": "2026-04-25T22:00:38.864926+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "democracy",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Tisza Party",
+      "Fidesz"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Viktor Orbán announced he will not take a parliamentary seat following his electoral defeat to Péter Magyar's Tisza Party on April 20, 2026, ending his 15-year rule. The decision signals Orbán's complete withdrawal from active Hungarian politics. Reports indicate he may be considering US exile as he exits the political stage.",
+    "title_hu": "Orbán nem fog ülni a parlamentben az választási vereség után",
+    "summary_hu": "Viktor Orbán bejelentette, hogy nem fog ülni a parlamentben az április 20-i választási vereség után, amely 15 éves uralma végét jelenti. A döntés azt sugallja, hogy Orbán teljesen kivonul az aktív magyar politikából. Jelentések szerint az Amerikai Egyesült Államokba való emigrálást fontolgat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "0271f61d0b2cc779",
     "source": "Euractiv",
     "region": "eu",
