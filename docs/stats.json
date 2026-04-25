@@ -1,16 +1,16 @@
 {
-  "total_articles": 215,
-  "analyzed_articles": 215,
+  "total_articles": 218,
+  "analyzed_articles": 218,
   "tone": {
+    "neutral": 104,
     "critical": 23,
-    "neutral": 102,
-    "positive": 68,
+    "positive": 69,
     "mixed": 22
   },
   "framing": {
+    "democracy_restoration": 47,
     "eu_integration": 34,
-    "democracy_restoration": 46,
-    "geopolitics": 79,
+    "geopolitics": 81,
     "rule_of_law": 21,
     "regional": 3,
     "corruption": 3,
@@ -25,20 +25,20 @@
     "government_transition": 1
   },
   "region": {
-    "eu": 78,
+    "eu": 79,
     "us": 22,
-    "de": 22,
+    "de": 23,
     "fr": 6,
     "cee": 8,
     "uk": 39,
-    "wire": 40
+    "wire": 41
   },
   "source": {
     "Reuters": 35,
     "Politico Europe": 27,
     "Euronews": 23,
-    "DW English": 21,
-    "Euractiv": 18,
+    "DW English": 22,
+    "Euractiv": 19,
     "Financial Times": 14,
     "The Guardian": 12,
     "Washington Post": 9,
@@ -46,7 +46,7 @@
     "BBC": 7,
     "Le Monde": 6,
     "Balkan Insight": 6,
-    "AP News": 5,
+    "AP News": 6,
     "New York Times": 5,
     "The Times": 5,
     "Foreign Policy": 3,
@@ -59,19 +59,19 @@
     "The Economist": 1
   },
   "topics": {
-    "government transition": 166,
-    "EU relations": 134,
-    "geopolitics": 112,
-    "democracy": 82,
+    "government transition": 169,
+    "EU relations": 136,
+    "geopolitics": 114,
+    "democracy": 83,
     "foreign policy": 68,
     "rule of law": 52,
-    "EU funds": 42,
+    "EU funds": 44,
     "elections": 39,
     "energy": 24,
     "Russia deals": 21,
     "economy": 17,
     "human rights": 15,
-    "Fidesz opposition": 12,
+    "Fidesz opposition": 13,
     "judicial reform": 11,
     "V4 diplomacy": 8,
     "corruption": 5,
@@ -81,11 +81,11 @@
     "EU integration": 3
   },
   "actors": {
-    "Péter Magyar": 173,
-    "Viktor Orbán": 108,
-    "Volodymyr Zelenskiy": 37,
+    "Péter Magyar": 176,
+    "Viktor Orbán": 110,
+    "Volodymyr Zelenskiy": 38,
+    "Ukraine": 27,
     "European Commission": 26,
-    "Ukraine": 26,
     "Tisza Party": 19,
     "European Union": 15,
     "Russia": 14,
@@ -100,12 +100,12 @@
     "Benjamin Netanyahu": 6,
     "European Council": 5,
     "EU leaders": 5,
-    "Hungarian government": 4
+    "Hungarian government": 5
   },
   "main_actor": {
-    "orban_viktor": 41,
-    "hungary_country": 59,
-    "eu_institutions": 29,
+    "orban_viktor": 42,
+    "hungary_country": 60,
+    "eu_institutions": 30,
     "other": 25,
     "magyar_peter": 58,
     "EU_institutions": 2,
@@ -137,12 +137,19 @@
     "2026-04-18": 20,
     "2026-04-19": 8,
     "2026-04-20": 20,
-    "2026-04-21": 49,
+    "2026-04-21": 50,
     "2026-04-22": 34,
-    "2026-04-23": 27,
-    "2026-04-24": 20
+    "2026-04-23": 28,
+    "2026-04-24": 20,
+    "2026-04-25": 1
   },
   "tone_by_source": {
+    "Euractiv": {
+      "neutral": 11,
+      "mixed": 2,
+      "positive": 4,
+      "critical": 2
+    },
     "Politico Europe": {
       "critical": 6,
       "neutral": 10,
@@ -163,16 +170,10 @@
       "positive": 1,
       "critical": 1
     },
-    "Euractiv": {
-      "neutral": 10,
-      "mixed": 2,
-      "positive": 4,
-      "critical": 2
-    },
     "DW English": {
       "mixed": 3,
       "neutral": 14,
-      "positive": 4
+      "positive": 5
     },
     "Le Monde": {
       "neutral": 2,
@@ -206,8 +207,8 @@
     },
     "AP News": {
       "positive": 1,
-      "mixed": 1,
-      "neutral": 3
+      "neutral": 4,
+      "mixed": 1
     },
     "Reuters": {
       "neutral": 19,
@@ -250,6 +251,12 @@
     }
   },
   "source_bias": {
+    "Euractiv": {
+      "neutral": 58,
+      "mixed": 11,
+      "positive": 21,
+      "critical": 11
+    },
     "Politico Europe": {
       "critical": 22,
       "neutral": 37,
@@ -266,16 +273,10 @@
       "positive": 26,
       "critical": 9
     },
-    "Euractiv": {
-      "neutral": 56,
-      "mixed": 11,
-      "positive": 22,
-      "critical": 11
-    },
     "DW English": {
       "mixed": 14,
-      "neutral": 67,
-      "positive": 19
+      "neutral": 64,
+      "positive": 23
     },
     "Le Monde": {
       "neutral": 33,
@@ -308,9 +309,9 @@
       "critical": 11
     },
     "AP News": {
-      "positive": 20,
-      "mixed": 20,
-      "neutral": 60
+      "positive": 17,
+      "neutral": 67,
+      "mixed": 17
     },
     "Reuters": {
       "neutral": 54,
@@ -337,5 +338,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-25T10:08:38.520441+00:00"
+  "last_updated": "2026-04-25T14:08:23.610756+00:00"
 }

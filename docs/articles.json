@@ -1,5 +1,34 @@
 [
   {
+    "id": "0271f61d0b2cc779",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Orbán's think-tank falls apart without state backing, says CEU rector - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlN1Q2czV2dKWGxRWGs5VVg4V2hQZE1uUWViQmZZRW9BbTVFR2NpSEEtQ3dxcmlhTlVCUllsWVgwdWhHNFlqcHcyNWRQbzVXUkZXd1J4NnZVdXVRdktxSzF1ZjFKbjEzY3BGeVp5WHVQR1YyUDFVdGk4RkhaVzQzYmtxWG44Q0I1Ym9MVnJBZUtNVnc2TTlqdy1obFd5NUE?oc=5",
+    "published_at": "2026-04-25T04:01:20+00:00",
+    "fetched_at": "2026-04-25T14:00:30.037064+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "CEU rector",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Viktor Orbán's think tank is collapsing without state financial backing, according to the Central European University rector. The institution's decline illustrates how Orbán-era patronage structures are unraveling under Péter Magyar's new government. The think tank's dependency on state support reveals that Orbán's political infrastructure relied on institutional capture rather than independent organizational strength.",
+    "title_hu": "Orbán gondolkodó műhelye az állami támogatás nélkül szétesik, mondja a CEU rektora",
+    "summary_hu": "Orbán Viktornak a gondolkodó műhelye az állami finanszírozás nélkül összeomlik, mondja a Közép-európai Egyetem rektora. Az intézmény hanyatlása azt mutatja, hogy Orbán-korszakának patronázs struktúrái Péter Magyar új kormánya alatt felbomlanak. A gondolkodó műhely állami támogatástól való függése azt jelzi, hogy Orbán politikai infrastruktúrája intézményi elfoglalásra, nem pedig független szervezeti erőre alapult.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "ac16801fd3787c78",
     "source": "Politico Europe",
     "region": "eu",
@@ -641,6 +670,37 @@
     "summary_en": "EU leaders meeting in Cyprus formally celebrated approval of a €90 billion loan for Ukraine, a milestone enabled by Péter Magyar's Hungarian government reversing Viktor Orbán's blocking veto. The approval represents a historic institutional reset in Hungary's EU posture and signals Magyar's departure from Orbán-era obstruction on Ukraine support.",
     "title_hu": "EU-vezetők Ciprusban ünneplik az Ukrajna-kölcsön jóváhagyását",
     "summary_hu": "Az EU vezetői Ciprusban ünnepelték a 90 milliárd eurós Ukrajna-kölcsön jóváhagyását, amely Péter Magyar kormányának Viktor Orbán vetójának feloldásával valósult meg. A jóváhagyás Magyarország EU-politikájának történelmi fordulatát jelzi, valamint Magyar távolodását az Orbán-era blokkálási politikáról.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "86541b26227bbc97",
+    "source": "DW English",
+    "region": "de",
+    "title": "EU leaders in Cyprus celebrate Ukraine loan approval - dw.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS3VpTm1sNGdOc2ZabDFhdzA5b2xIcUVWblNOMHZGUjdBTGpjelhpVmN0Z0Q5Qm1vbVZNbWUwek1BWFBkY2VoQ25wUmJMUlRRQ3VsRzRfcUNXMkhaYm1yMHVYX1JjSjBjWlNrRU9pNVVuLWVNbnpzellBYVdhSXI5Z2MzSGk3U0tjY0U4YjhuVXctRGc?oc=5",
+    "published_at": "2026-04-23T20:45:23+00:00",
+    "fetched_at": "2026-04-25T14:00:39.569149+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "government transition",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy",
+      "EU leadership",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "EU leaders celebrated the formal approval of a €90 billion loan to Ukraine at a Cyprus summit on April 23, made possible by Hungary's new Péter Magyar government lifting its predecessor's blocking veto. This reversal marks a significant geopolitical realignment in Hungarian foreign policy away from Orbán's Russia-aligned stance toward EU consensus.",
+    "title_hu": "EU vezetők Cipruson ünneplik az Ukrajna-hitel jóváhagyását",
+    "summary_hu": "Az EU vezetői Ciprus csúcstalálkozóján ünnepelték a 90 milliárd eurós Ukrajna-kölcsön végleges jóváhagyását április 23-án, amelyet Magyarország új Péter Magyar-vezetésű kormánya tett lehetővé az előző veto felemelésével. Ez a fordulat jelentős geopolitikai átrendezést jelent a magyar külpolitikában, eltávolodva Orbán oroszbarát álláspontjától az EU konszenzus felé.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "eu_institutions",
@@ -2641,6 +2701,37 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "40a622bb2c72c57c",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Ukraine completes Druzhba pipeline repairs, hoping to unlock blocked EU loan - AP News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTF5cnltRUxfb3luaGwzZzZ1MDVaajhIWlFYVkNnYnM3THJhSmJRWGNyQUk2LUpGZWlobzNJZGpObUd3WG1FNm1DWlBSQ0dIejdJWUdMMHI5LW8zVHk3R2ZfWld3azRZWDdPcVB5SzBxdHhvYnR3N2pQOE01Mk90VUhvOG1peW9aTGYtTQ?oc=5",
+    "published_at": "2026-04-21T18:34:00+00:00",
+    "fetched_at": "2026-04-25T10:00:03.599278+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "EU funds",
+      "government transition"
+    ],
+    "actors": [
+      "Ukraine",
+      "Péter Magyar",
+      "Hungarian government",
+      "European institutions"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine completes Druzhba pipeline repairs, a key condition for the €90bn EU loan previously blocked by Orbán's government. Péter Magyar's new administration has lifted Hungary's veto, enabling EU approval and signaling Hungary's realignment toward EU-Ukraine cooperation.",
+    "title_hu": "Ukrajna befejezi a Druzhba-vezeték javítási munkáit, az EU-kölcsön feloldásában reménykedik",
+    "summary_hu": "Ukrajna befejezi a Druzhba-vezeték javítási munkáit, amely az Orbán-kormányzat által korábban blokkolt 90 milliárd eurós EU-kölcsön feltétele volt. Magyar Péter új kormánya feloldotta a vétót, lehetővé téve az EU-s jóváhagyást és jelezve Magyarország EU-Ukrajna együttműködés irányába történő átcsoportosítását.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   },
