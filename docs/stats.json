@@ -1,18 +1,18 @@
 {
-  "total_articles": 224,
-  "analyzed_articles": 224,
+  "total_articles": 225,
+  "analyzed_articles": 225,
   "tone": {
-    "neutral": 109,
+    "neutral": 110,
     "mixed": 23,
     "critical": 23,
     "positive": 69
   },
   "framing": {
+    "eu_integration": 35,
     "other": 9,
     "Fidesz opposition": 2,
     "democracy_restoration": 49,
     "elections": 1,
-    "eu_integration": 34,
     "geopolitics": 81,
     "rule_of_law": 21,
     "regional": 3,
@@ -26,16 +26,16 @@
     "government_transition": 1
   },
   "region": {
+    "wire": 43,
     "us": 24,
     "eu": 80,
     "uk": 40,
-    "wire": 42,
     "fr": 7,
     "de": 23,
     "cee": 8
   },
   "source": {
-    "Reuters": 35,
+    "Reuters": 36,
     "Politico Europe": 28,
     "Euronews": 23,
     "DW English": 22,
@@ -60,18 +60,18 @@
     "The Economist": 1
   },
   "topics": {
-    "government transition": 175,
-    "EU relations": 136,
+    "government transition": 176,
+    "EU relations": 137,
     "geopolitics": 114,
     "democracy": 88,
     "foreign policy": 68,
     "rule of law": 52,
+    "EU funds": 45,
     "elections": 45,
-    "EU funds": 44,
     "energy": 24,
     "Russia deals": 21,
+    "economy": 18,
     "Fidesz opposition": 17,
-    "economy": 17,
     "human rights": 15,
     "judicial reform": 11,
     "V4 diplomacy": 8,
@@ -82,7 +82,7 @@
     "EU integration": 3
   },
   "actors": {
-    "Péter Magyar": 179,
+    "Péter Magyar": 180,
     "Viktor Orbán": 116,
     "Volodymyr Zelenskiy": 38,
     "Ukraine": 27,
@@ -104,12 +104,12 @@
     "Hungarian government": 5
   },
   "main_actor": {
+    "magyar_peter": 59,
     "orban_viktor": 47,
     "fidesz": 2,
     "hungary_country": 60,
     "eu_institutions": 30,
     "other": 25,
-    "magyar_peter": 58,
     "EU_institutions": 2
   },
   "comparison_countries": {
@@ -142,9 +142,15 @@
     "2026-04-22": 34,
     "2026-04-23": 28,
     "2026-04-24": 20,
-    "2026-04-25": 7
+    "2026-04-25": 7,
+    "2026-04-26": 1
   },
   "tone_by_source": {
+    "Reuters": {
+      "neutral": 20,
+      "positive": 13,
+      "critical": 3
+    },
     "Washington Post": {
       "neutral": 4,
       "positive": 5,
@@ -221,11 +227,6 @@
       "positive": 8,
       "critical": 1
     },
-    "Reuters": {
-      "neutral": 19,
-      "positive": 13,
-      "critical": 3
-    },
     "Süddeutsche": {
       "positive": 1
     },
@@ -253,6 +254,11 @@
     }
   },
   "source_bias": {
+    "Reuters": {
+      "neutral": 56,
+      "positive": 36,
+      "critical": 8
+    },
     "Washington Post": {
       "neutral": 40,
       "positive": 50,
@@ -325,11 +331,6 @@
       "positive": 67,
       "critical": 8
     },
-    "Reuters": {
-      "neutral": 54,
-      "positive": 37,
-      "critical": 9
-    },
     "Wall Street Journal": {
       "positive": 33,
       "neutral": 33,
@@ -341,5 +342,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-26T10:04:39.254593+00:00"
+  "last_updated": "2026-04-26T14:10:30.127225+00:00"
 }

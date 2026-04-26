@@ -1,5 +1,34 @@
 [
   {
+    "id": "83a475b0b6b20ef4",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's Magyar to meet EU's von der ​Leyen for talks on EU funds this week - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTVYS083S1JBc0dsNC1COTVoa1ZXaE4wMEtCTnZ6M2ZpOFZzLXRjSEZXQmw0R1Mzd2IxNVYxOXFHOUFvUXhFUkR3Rnh3R0tuS0ZqMlNHUUdVbUdISTY1RHpTYVo1U2pYVFljcEZpU1hLNDZmNkd0OFFBSDFBYTVSUFpydUFBUFJtWmowZ3FTd1ZROFRrWEY0Y3NETzJGbkZ3Wm44WUZjMDA?oc=5",
+    "published_at": "2026-04-26T10:42:30+00:00",
+    "fetched_at": "2026-04-26T14:00:01.284664+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar's new Hungarian government is meeting with EU Commission President von der Leyen to negotiate EU fund access and disbursement. This high-level diplomatic engagement reflects the EU's structured approach to reintegrating Hungary into Brussels mainstream following the Orbán transition.",
+    "title_hu": "Magyar Péter az EU von der Leyenével találkozik az uniós alapok tárgyalásáról ezen a héten",
+    "summary_hu": "Péter Magyar új magyar kormánya az Európai Bizottság elnökével tárgyal az uniós alapok felhasználásáról. Ez a magas szintű diplomáciai megbeszélés az Unió strukturált megközelítését tükrözi Magyarország brüsszeli reintegrációjában az Orbán-korszak után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "287d9c0552222322",
     "source": "Washington Post",
     "region": "us",
