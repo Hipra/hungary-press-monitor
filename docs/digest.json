@@ -1,51 +1,39 @@
 {
-  "top_story_en": "Viktor Orbán formally relinquished his parliamentary seat on April 25, completing his symbolic withdrawal from Hungarian politics after 15 years in power and positioning himself as opposition leader vowing to rebuild what he calls Hungary's 'national side.'",
-  "top_story_hu": "Orbán Viktor 2026. április 25-én lemondott parlamenti mandátumáról, ezzel szimbolikusan lezárva 15 éves politikai dominanciáját, és az ellenzék élére állva bejelentette: újjáépíti Magyarország 'nemzeti oldalát.'",
+  "top_story_en": "Viktor Orbán formally relinquished his parliamentary seat on April 25, completing his symbolic withdrawal from Hungarian politics after 15 years in power and positioning himself as opposition leader with a pledge to rebuild the 'national side.'",
+  "top_story_hu": "Orbán Viktor április 25-én formálisan lemondott parlamenti mandátumáról, lezárva 15 éves hatalmi jelenlétét, és ellenzéki vezetőként a 'nemzeti oldal' újjáépítését ígérte.",
   "key_developments_en": [
-    "Orbán resigned his parliamentary seat, confirmed by WaPo, BBC, AP, NYT, Politico, and Le Monde — the day's single convergent story across all monitored outlets.",
-    "Orbán vowed to rebuild Fidesz as an opposition force, framing his retreat not as defeat but as the start of a political reconstruction project.",
-    "NYT focused on Fidesz as an institution in crisis, examining organisational decline and leadership uncertainty beyond Orbán personally.",
-    "Multiple outlets cited unconfirmed reports that Orbán is considering US exile as he exits formal parliamentary life.",
-    "No new developments reported today on Magyar government policy, EU affairs, or geopolitics — today's cycle was dominated entirely by the Orbán exit story."
+    "Orbán vacated his parliamentary seat following the Tisza Party's two-thirds majority victory, signalling his full retreat from the legislative arena.",
+    "Orbán vowed to rebuild Hungary's 'national side' from opposition — framing his defeat as a temporary setback rather than a permanent exit from politics.",
+    "NYT reporting focuses on Fidesz as an institution facing leadership vacuum and organisational collapse, shifting focus beyond Orbán personally.",
+    "Le Monde and Balkan Insight note reports that Orbán is considering US exile as a contingency as his domestic political infrastructure dissolves."
   ],
   "key_developments_hu": [
-    "Orbán parlamenti mandátumáról való lemondását a WaPo, BBC, AP, NYT, Politico és Le Monde egyöntetűen megerősítette — a nap egyetlen meghatározó sztorija.",
-    "Orbán bejelentette, hogy ellenzékből építi újjá a Fideszt, visszalépését nem vereségként, hanem politikai újjáépítés kezdeteként keretezi.",
-    "Az NYT a Fideszt mint válságban lévő intézményt elemezte: szervezeti hanyatlás és vezetési bizonytalanság Orbán személyén túl.",
-    "Több forrás megerősítetlen értesülésekre hivatkozott, miszerint Orbán az Egyesült Államokba való emigrációt fontolgatja.",
-    "A Magyar-kormány politikájáról, EU-ügyekről vagy geopolitikáról ma nem érkezett új fejlemény — a hírciklust teljes egészében az Orbán-kivonulás uralta."
+    "Orbán elhagyta parlamenti helyét a Tisza Párt kétharmados győzelmét követően, végleg kivonulva a törvényhozásból.",
+    "Orbán az ellenzékből ígérte a 'nemzeti oldal' újjáépítését — vereségét átmeneti visszalépésként, nem politikai végként értelmezi.",
+    "Az NYT a Fidesz mint intézmény válságára fókuszál: vezető nélkül maradt, szervezeti összeomlás fenyegeti a pártot.",
+    "A Le Monde és a Balkan Insight szerint Orbán amerikai emigrációt fontolgat, miközben hazai politikai infrastruktúrája szétesik."
   ],
   "narrative_shifts_en": [
-    "Coverage has shifted from transition-in-progress to transition-concluded: the parliamentary resignation is treated as a symbolic full stop, not an ongoing negotiation.",
-    "The institutional focus is expanding — NYT's Fidesz piece signals that international editors are beginning to cover the post-Orbán party as a story in its own right, separate from Orbán himself."
+    "Coverage has shifted from Orbán's resignation as a symbolic political moment to a structural autopsy of Fidesz — outlets now examining the party's organisational future, not just its leader's exit.",
+    "The 'US exile' thread, previously speculative, is gaining traction across multiple outlet tiers, normalising it as a credible scenario rather than fringe reporting."
   ],
   "narrative_shifts_hu": [
-    "A tudósítások hangneme megváltozott: az átmenet már nem folyamatban lévő, hanem lezárt eseményként jelenik meg — a parlamenti lemondás szimbolikus pontot tesz a korszak végére.",
-    "Az intézményi fókusz szélesedik: az NYT Fidesz-cikke jelzi, hogy a nemzetközi szerkesztőségek az Orbán utáni pártot önálló, Orbántól független történetként kezdik kezelni."
+    "A tudósítások hangsúlya Orbán lemondásának szimbolikus pillanatáról a Fidesz strukturális válságának elemzésére tolódott — a figyelem a párt jövőjére, nem csak a vezető távozására irányul.",
+    "Az amerikai emigráció korábban spekulatívnak tűnő forgatókönyve több jelentős médiumban is megjelenik, egyre inkább valós lehetőségként kezelve azt."
   ],
-  "quotes_en": [
-    {
-      "quote": "I will rebuild Hungary's national side.",
-      "speaker": "Viktor Orbán, following his parliamentary resignation (reported across AP, WaPo)"
-    }
-  ],
-  "quotes_hu": [
-    {
-      "quote": "Újjáépítem Magyarország nemzeti oldalát.",
-      "speaker": "Orbán Viktor, parlamenti mandátumáról való lemondása után (AP, WaPo)"
-    }
-  ],
+  "quotes_en": [],
+  "quotes_hu": [],
   "what_to_watch_en": [
-    "Fidesz leadership succession: no credible successor has emerged publicly — watch for internal party signals over the coming week.",
-    "Orbán's base and opposition strategy: his 'national side' framing suggests an attempt to retain the rural-conservative coalition; coverage of his first opposition moves will reveal organisational capacity.",
-    "US exile reports: unconfirmed but repeated across outlets — any official statement or travel confirmation would mark a significant escalation in Hungary's transition story."
+    "Whether Fidesz convenes a formal leadership contest or fractures into competing factions without Orbán as an anchor figure.",
+    "Any confirmation or denial of Orbán's reported US exile plans — and whether Trump-aligned figures signal any reception.",
+    "Magyar government's response to the ECJ LGBTQ ruling remains entirely absent from coverage; a timeline or legislative signal is overdue."
   ],
   "what_to_watch_hu": [
-    "Fidesz-utódlás: nyilvánosan még nem jelent meg hiteles jelölt — az elkövetkező napokban érdemes figyelni a párton belüli jelzésekre.",
-    "Orbán ellenzéki stratégiája: a 'nemzeti oldal' keretezés a vidéki-konzervatív bázis megtartására irányuló kísérletet sejtet — első ellenzéki lépései megmutatják, mekkora szervezeti kapacitás maradt.",
-    "Az emigrációs hírek: megerősítetlen, de több forrásban visszatérő elem — bármilyen hivatalos nyilatkozat vagy utazás megerősítése az átmenet történetének új fejezetét nyitná meg."
+    "Összehív-e a Fidesz formális vezérválasztást, vagy Orbán nélkül rivalizáló frakciókra bomlik a párt.",
+    "Megerősítik vagy cáfolják-e az amerikai emigráció híreit — és jeleznek-e fogadókészséget Trump-közeliek.",
+    "A Magyar-kormány válasza az Európai Bíróság LMBTQ-ítéletére továbbra is hiányzik a sajtóból; törvényhozási ütemtervet kellene bejelenteni."
   ],
   "date": "2026-04-26",
   "article_count": 6,
-  "generated_at": "2026-04-26T06:05:03.872393+00:00"
+  "generated_at": "2026-04-26T10:04:39.111759+00:00"
 }
