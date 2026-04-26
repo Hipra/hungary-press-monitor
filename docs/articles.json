@@ -1,5 +1,62 @@
 [
   {
+    "id": "e1ff048f08931a0d",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Orbán associates rush to move wealth out of Hungary after election defeat - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGZscmJ3U1l6R1Z1cDhZZ2xzQTRaWlVVejdOMkJlMjdBVTktRlVrcDdjZ29ZWkZrejRydFktOG9NdlRRdVo0UXpyeW8yWjZNSkphUVp5eWtOeTU3eVRIMkIxMFp0UUVWVmgxTVVvMWp2UEl4NW92akRTRnNlWFh3YktuSDNncmItbUFHY3ZPSXFlM3BtSnVsQQ?oc=5",
+    "published_at": "2026-04-26T17:06:00+00:00",
+    "fetched_at": "2026-04-26T18:00:09.558575+00:00",
+    "topics": [
+      "government transition",
+      "corruption",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "corruption",
+    "summary_en": "Following his electoral defeat and resignation of his parliamentary seat, Orbán and associates are reportedly moving assets out of Hungary. The wealth transfers reflect concerns about potential legal accountability and asset recovery under Péter Magyar's new government.",
+    "title_hu": "Orbán szövetségesei gyorsan menekítik vagyonukat Magyarországból választási vereségét követően",
+    "summary_hu": "Választási vereségét és parlamenti mandátumának lemondása után Orbán és szövetségesei nagyobb vagyont vizennek ki Magyarországból. A vagyon-átutalások az új Magyar kormány alatt lehetséges jogi felelősségvonás és vagyon-visszaszerzés körüli aggodalmakat tükrözik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d75de72fd7ee6d8a",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Hungary’s Magyar heading to Brussels for talks on unlocking EU funds - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVFYckM3M2Y5Y3dOdWNoekQ2MDNqa1BoazNhYlE0WVNreEZMNUNLR3lYdVkxMkNLd3k4ejRrMi05UGswaWtOcVBYTElLLUVkd3J5bjJNSGd1YmFVZkYtZjRtWldJQ2tPdklQWmxDNnZvY3A1UXVJbWo4U1N3bDFqbGdkY2wtcDd1YzJVdkRZUU01M21rU0VzS1BzRzY3UQ?oc=5",
+    "published_at": "2026-04-26T14:44:00+00:00",
+    "fetched_at": "2026-04-26T18:00:28.630064+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "government transition",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "European Commission"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Hungarian Prime Minister Péter Magyar is traveling to Brussels to negotiate with EU Commission President Ursula von der Leyen on unlocking frozen EU funds. The meeting represents a pivotal moment in Hungary's reintegration into EU mainstream relations after Viktor Orbán's 15-year rule.",
+    "title_hu": "Magyar Péter Brüsszelbe utazik az EU-s alapok feloldásáról folytatott tárgyalásokra",
+    "summary_hu": "A magyar miniszterelnök Péter Magyar Brüsszelbe utazik, hogy Ursula von der Leyen uniós bizottsági elnökkel tárgyaljon a befagyott EU-s alapok felszabadításáról. Az egyeztetés kulcsfontosságú pillanat Magyarország EU-s integrációjában az Orbán Viktor 15 éves uralma után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "83a475b0b6b20ef4",
     "source": "Reuters",
     "region": "wire",
@@ -257,6 +314,40 @@
     "is_relevant": 1,
     "main_actor": "orban_viktor",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "ed72d2d9fd59eea9",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "29 leaders gathered in Cyprus. As usual, the summit was about one who didn’t. - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR2lVdnpUUTV1dmZ0Vk4yZ2pRbVczdlpUeUxuX0NLWlkwdTUzRFBnOTVOT3NZaVF5TW5xQXU2ZjNYc0RkOHZTeHRvRHM0YmVsdTlRSFFETlpqMmhRTFdCc3owWG5TOC1nWEx2WlFLVzEyRkE4ajFUbmd6Sl8tS1llS3VybmpyTWd4eV96bFFtLVVma2p4YUhr?oc=5",
+    "published_at": "2026-04-24T18:15:00+00:00",
+    "fetched_at": "2026-04-26T18:00:28.630142+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Volodymyr Zelenskyy",
+      "Donald Tusk",
+      "Ursula von der Leyen"
+    ],
+    "tone": "neutral",
+    "framing": "EU_integration",
+    "summary_en": "At the April 24 Cyprus EU summit, despite 29 EU leaders gathering, Hungary's political realignment dominated the narrative. The article uses the summit to illustrate how European capitals are confronting structural competitiveness challenges and how Hungary's transition from Orbán's obstruction to Magyar's EU reintegration has reshaped EU dynamics.",
+    "title_hu": "29 vezető Cipruson. Mint szokásosan, az emlékezetes téma egy hiányzó személyről szólt.",
+    "summary_hu": "A ciprusi EU-csúcson április 24-én, annak ellenére hogy 29 vezető jelen volt, Magyarország politikai realignációja uralta az eseményt. A cikk a csúcsot arra használja, hogy megmutassa, hogyan szembesülnek az európai fővárosok szerkezeti versenyképességi kihívásokkal, és hogy Magyarország átmenete Orbán obstrukcióstól Magyar EU-reintegrációs programjára hogyan változtatta meg az EU-dinamikát.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Ukraine",
+      "Poland"
+    ],
     "quotes": []
   },
   {
