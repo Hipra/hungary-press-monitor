@@ -1,5 +1,94 @@
 [
   {
+    "id": "1b44f7e1641bf30f",
+    "source": "DW English",
+    "region": "de",
+    "title": "After Orban, Hungary's Romani community hopes for change - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWxrekRWckk3ejNNVFNualNSVFpNVTI3ZDVuc0oxX0lMN1RZZktOd01Jbi0wSlB3ZDg3MWlYdFBHTjhzUG5aNG5IMVo0ZTlMbWYwUDVIOENKOGVMaDk2UG4yQVZjSEhuc3M4Ry16UHE1WDQ4V3A5MXBCX1J5SUl2OXU5MTI4bm5hVWhPU3BYMkNnSFpsS3c?oc=5",
+    "published_at": "2026-04-27T09:05:40+00:00",
+    "fetched_at": "2026-04-27T10:00:37.434418+00:00",
+    "topics": [
+      "government transition",
+      "human rights",
+      "rule of law",
+      "democracy",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Romani community",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "rule_of_law",
+    "summary_en": "The article examines how Hungary's Romani community views the post-Orbán political transition under Péter Magyar, expressing hopes for improved rights and institutional reform. With the Tisza Party's governance shift, minority communities anticipate reversal of marginalizing policies and restoration of rule-of-law protections during the Orbán era.",
+    "title_hu": "Orbán után: Magyarország roma közössége a változásban reménykedik",
+    "summary_hu": "A cikk azt vizsgálja, hogy Magyarország roma közössége hogyan tekint az Orbán utáni politikai átmenetre Péter Magyar vezetésével, és reményt fejez ki javított jogi helyzetben és intézményi reformban. Az új Tisza Párti kormánnyzattal a kisebbségi közösségek az Orbán-era alatt marginalizáló politikák felszámolásában és a jogállamiság helyreállításában reménykednek.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "a63bd67e6a48e1f7",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary's Romani community hopes for change - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkZScDYyZzdHZTUxVmR4ZG5FNFZONGhlamJMcjVrNTd0dHRxeHR6SVd4dnZiekE0ekZkV2RFZlpCQ3MzMEZCejZMQzdTci1TcU9GSnRaejhmYUFjSEhLakFzMVVXbURidTF2YVZSTjN0dl9lNTF5Tl9RbGtlbWh1NVBQcUFhSldiYVhxWlIzTEtBVVo2OVZpQjdB?oc=5",
+    "published_at": "2026-04-27T08:23:15+00:00",
+    "fetched_at": "2026-04-27T10:00:37.434397+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "human rights",
+      "rule of law",
+      "society"
+    ],
+    "actors": [
+      "Romani community",
+      "Péter Magyar government"
+    ],
+    "tone": "hopeful",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's Romani minority expresses optimism about potential improvements under the new Magyar government, signaling broader expectations for strengthened minority protections and anti-discrimination measures following the end of Orbán's 15-year rule. The transition represents a potential turning point for historically marginalized communities seeking stronger rule of law guarantees and equal treatment under reformed democratic institutions.",
+    "title_hu": "Magyarország roma közössége remélykedik a változásban",
+    "summary_hu": "Magyarország roma kisebbsége optimizmust fejez ki a Magyar új kormányzat alatt tapasztalható lehetséges javulások kapcsán, jelezve az erősödött kisebbségi védelem és a diszkriminációellenes intézkedések javulásáról szóló tágabb elvárásokat az Orbán 15 éves uralma után. Az átmenet fordulópontot jelent a történelmileg marginalizált közösségek számára, akik erősebb jogállami garanciákat és egyenlő bánásmódot keresnek egy reformált demokratikus rendszerben.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "0d213b591973a94a",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Patriots for Europe secretary-general under new scrutiny for alleged EU funds misuse - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWY0V2xZX3hGNmJlUU9wZUNsNmxCeEE3R25uZi1weXg0V3Vpb3phSDY3TFRGVEk2YlJJMVBZeXNsWmNiYjhwM251S2VvYVhKS0VldHk0RW00cF9MeUxoWE04VlpuRDlMaDdHbDdBUlc4VFpTRndidXFPX3RJRDZvdTAtWWdWMWFtZGxobXVlRldoMHVfbEtZTFlVcXhwTzl0aDBaUGp0MlRtenpqaXFoU0o4NkhjUQ?oc=5",
+    "published_at": "2026-04-26T21:59:00+00:00",
+    "fetched_at": "2026-04-27T10:00:29.756065+00:00",
+    "topics": [
+      "corruption",
+      "EU relations",
+      "rule of law"
+    ],
+    "actors": [
+      "Patriots for Europe",
+      "Orbán Viktor"
+    ],
+    "tone": "critical",
+    "framing": "corruption",
+    "summary_en": "The secretary-general of Patriots for Europe, an EU Parliament grouping aligned with Viktor Orbán's political network, faces scrutiny over alleged misuse of EU funds. The report reflects expanding EU institutional accountability regarding Orbán-era political infrastructure following Hungary's democratic transition.",
+    "title_hu": "A Patrióták Európáért titkára az EU-s alapok feltételezett visszaéléseiért vizsgálat alá kerül",
+    "summary_hu": "A Patrióták Evropáért EP-frakció titkárát az EU-s alapok feltételezett visszaéléseiért vizsgálják. A fejlemény az Orbán-korszak politikai infrastruktúrájára irányuló EU-s intézményi elszámoltatás erősödésére utal Magyarország demokratikus átmenete után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "e1ff048f08931a0d",
     "source": "The Guardian",
     "region": "uk",
