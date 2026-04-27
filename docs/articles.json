@@ -1,5 +1,32 @@
 [
   {
+    "id": "e082147c67dc8626",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's MOL says talks on NIS acquisition 'ongoing' - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXhFSFN0dzdVdUhfTi14XzlQRm82cXd1aFlFYmtQbGNzZDlDRkdyT2JjVmlzU285bER3ZHM4d19XUHlweWlMTEU1SXhpMnNEQVFOTEw0N0haRVotNHJUQ0F5bzJfSXpYZVBRRmRTMXpRZ3I0TURhdmZLeVN5cWpGcTd3VV9jR016dHRqVDkxMEZpWkRlU3IyVDNYdzBJcXJN?oc=5",
+    "published_at": "2026-04-27T14:00:47+00:00",
+    "fetched_at": "2026-04-27T18:00:01.065279+00:00",
+    "topics": [
+      "economy",
+      "energy"
+    ],
+    "actors": [
+      "MOL",
+      "NIS"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Hungary's state oil company MOL is pursuing ongoing acquisition talks with Serbia's NIS, signaling the new government's focus on regional energy partnerships and economic integration in the Balkans.",
+    "title_hu": "A magyarországi MOL szerint az NIS-felvásárlási tárgyalások 'folyamatban' vannak - Reuters",
+    "summary_hu": "Magyarország MOL vállalata az NIS szerb olajvállalat felvásárlásáról folytat tárgyalásokat, az új kormány regionális energiapartnerség-fókusza alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "62903f9f1d70d01c",
     "source": "Reuters",
     "region": "wire",

@@ -1,14 +1,15 @@
 {
-  "total_articles": 235,
-  "analyzed_articles": 235,
+  "total_articles": 236,
+  "analyzed_articles": 236,
   "tone": {
-    "neutral": 113,
+    "neutral": 114,
     "mixed": 24,
     "positive": 72,
     "hopeful": 1,
     "critical": 25
   },
   "framing": {
+    "economy": 8,
     "eu_integration": 37,
     "geopolitics": 82,
     "rule_of_law": 24,
@@ -21,13 +22,12 @@
     "regional": 3,
     "media_freedom": 4,
     "russia_china": 2,
-    "economy": 7,
     "energy": 3,
     "government transition": 2,
     "government_transition": 1
   },
   "region": {
-    "wire": 44,
+    "wire": 45,
     "eu": 84,
     "de": 27,
     "uk": 41,
@@ -36,7 +36,7 @@
     "cee": 8
   },
   "source": {
-    "Reuters": 37,
+    "Reuters": 38,
     "Politico Europe": 30,
     "DW English": 26,
     "Euronews": 23,
@@ -69,9 +69,9 @@
     "rule of law": 56,
     "EU funds": 47,
     "elections": 45,
-    "energy": 24,
+    "energy": 25,
+    "economy": 21,
     "Russia deals": 21,
-    "economy": 20,
     "human rights": 19,
     "Fidesz opposition": 18,
     "judicial reform": 11,
@@ -105,8 +105,8 @@
     "EU leaders": 5
   },
   "main_actor": {
+    "hungary_country": 67,
     "magyar_peter": 61,
-    "hungary_country": 66,
     "other": 26,
     "orban_viktor": 48,
     "fidesz": 2,
@@ -145,11 +145,11 @@
     "2026-04-24": 21,
     "2026-04-25": 7,
     "2026-04-26": 4,
-    "2026-04-27": 6
+    "2026-04-27": 7
   },
   "tone_by_source": {
     "Reuters": {
-      "neutral": 21,
+      "neutral": 22,
       "positive": 13,
       "critical": 3
     },
@@ -258,8 +258,8 @@
   },
   "source_bias": {
     "Reuters": {
-      "neutral": 57,
-      "positive": 35,
+      "neutral": 58,
+      "positive": 34,
       "critical": 8
     },
     "Euractiv": {
@@ -346,5 +346,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-27T14:15:52.640597+00:00"
+  "last_updated": "2026-04-27T18:13:26.080276+00:00"
 }
