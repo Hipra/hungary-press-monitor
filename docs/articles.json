@@ -1,5 +1,100 @@
 [
   {
+    "id": "62903f9f1d70d01c",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary and EU to discuss terms of release for billions in blocked funds - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXFvSjZDYlhDZTY2bTExVmxIXzQ2WWNDYXpXVXVtOXVtb0hZVTBCX3k5ZHFralBkWXh4TnV4VFB6NmhxbDFNeTRHNzQ2NU04a2J0Uy0wMkZpVHd5aFQ0RWNoV0NoM2tub3Y2c2RoQnU4OWJOM3NHZ09SaElEajZCYlBOSmpnbkxRcHhMSTB4dkZqaUVhanJOT1NLdHBoUQ?oc=5",
+    "published_at": "2026-04-27T13:04:52+00:00",
+    "fetched_at": "2026-04-27T14:00:01.082244+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "economy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "European Commission"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new government under Péter Magyar is negotiating with the EU on terms for releasing billions in frozen development funds. This marks the first active bilateral engagement between the Magyar administration and EU leadership since the April 2026 transition, signaling Hungary's shift toward EU reintegration after years of conflict under Orbán.",
+    "title_hu": "Magyarország és az EU megtárgyalni fogják a blokírozott milliárdok felszabadítási feltételeit - Reuters",
+    "summary_hu": "A Péter Magyar vezette új magyar kormány tárgyalásokat folytat az EU-val a befagyasztott fejlesztési milliárdok felszabadítási feltételeiről. Ez az első aktív bilaterális megbeszélést jelenti a Magyar-adminisztráció és az EU vezetése között az április 2026-os kormányváltás óta, jelezve Magyarország EU-val való reintegrálódás felé fordulását az Orbán-korszak éveinek konfliktusai után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "758523b767eaccb8",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Europe’s post-Orbán holiday delivers Ukraine reality check - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1QxTzZSNVRnZjVtenlkV3c3THdoU2R4SkVKVEFqWFFkenlpdTk0TVdFTGJkSXlFZkkzOE8xY2lBcDJlN2FoSHZmNVd1bkJ5N2FSYWQ4YnI2TFUzSjVPekxSR2JlUEo3XzU1NGNiTGliVjlpd1ZQRHVfb0dLUzJqbEdod0dsS0tIdzREeERxOTVNZw?oc=5",
+    "published_at": "2026-04-27T10:29:23+00:00",
+    "fetched_at": "2026-04-27T14:00:42.291742+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "Ukraine"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "Volodymyr Zelenskyy",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's post-Orbán government discovers that lifting Ukraine aid vetoes and rejoining EU consensus comes with persistent geopolitical constraints and structural challenges. While the transition removes a major blockage to EU support for Ukraine, deeper realities of EU competitiveness pressures and regional tensions limit transformative change.",
+    "title_hu": "Az Orbán utáni európai ünnep valóságvizsgálatot hoz Ukrajna kérdésében",
+    "summary_hu": "Magyarország Orbán utáni kormánya azt tapasztalja, hogy az Ukrajna-politika vétóinak feloldása és az EU-s konszenzushoz való visszatérés tartós geopolitikai korlátokkal és szerkezeti kihívásokkal jár. Bár az átmenet eltávolítja az EU Ukrajna-támogatásának fő akadályát, az EU versenyképességi nyomása és regionális feszültségei korlátozzák az átalakulást.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Ukraine",
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "4c1bf0f35ad7db20",
+    "source": "DW English",
+    "region": "de",
+    "title": "After Orban, Hungary's Romani community hopes for change - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVFmMXNXRXFIT3ZvWlFVbHhMc3pzeEJuYm5hSWRXdVJGNElmMGx0WUlBSTc1SWp3WVRPRmhjeXNZeVpuM3RrUGVhZXB4MEtNSTVzX0J6dlZqY1BDMlBpRHNWcTRxMmVER0c2SldzNVo1UEN0UnhERDRtSTVFRVptZmdYQlZQUU8zRHZETTA5dGg5T3VmOUE?oc=5",
+    "published_at": "2026-04-27T09:13:44+00:00",
+    "fetched_at": "2026-04-27T14:00:52.082263+00:00",
+    "topics": [
+      "government transition",
+      "human rights",
+      "democracy",
+      "rule of law",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Romani community",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "rule_of_law",
+    "summary_en": "The Romani community has expressed cautious optimism about improved minority protections under Péter Magyar's government following Viktor Orbán's departure. This represents the first substantial civil society voice in international coverage of Hungary's democratic transition, signaling potential for addressing long-standing minority rights concerns in the new political environment.",
+    "title_hu": "Orbán után a magyar roma közösség változásban reménykedik",
+    "summary_hu": "A roma közösség óvatos optimizmust fejezett ki a Péter Magyar kormánya alatt megvalósulható kisebbségi jogok javulásáról, Orbán távozása után. Ez az első jelentős civil társadalmi hang a nemzetközi sajtóban a magyar demokrácia átalakulásáról, és jelzi az új politikai környezetben a hosszú ideje fennálló kisebbségi jogokkal kapcsolatos aggodalmak megoldásának lehetőségét.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "1b44f7e1641bf30f",
     "source": "DW English",
     "region": "de",
@@ -24,6 +119,35 @@
     "summary_en": "The article examines how Hungary's Romani community views the post-Orbán political transition under Péter Magyar, expressing hopes for improved rights and institutional reform. With the Tisza Party's governance shift, minority communities anticipate reversal of marginalizing policies and restoration of rule-of-law protections during the Orbán era.",
     "title_hu": "Orbán után: Magyarország roma közössége a változásban reménykedik",
     "summary_hu": "A cikk azt vizsgálja, hogy Magyarország roma közössége hogyan tekint az Orbán utáni politikai átmenetre Péter Magyar vezetésével, és reményt fejez ki javított jogi helyzetben és intézményi reformban. Az új Tisza Párti kormánnyzattal a kisebbségi közösségek az Orbán-era alatt marginalizáló politikák felszámolásában és a jogállamiság helyreállításában reménykednek.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "e262a38e346e5f1a",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary's Romani community hopes for change - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelpFTnhaT1RfenVIdU14YXg2YUI5eVR5eW9xck5WRTRicGc1UzczOS1NbFhIeDVnRWlzSkdEWGFNeVJOR2toUXhwd0xaQnhMU2F2NGxDV1EzcTlwSENCaGhkYzhCQ09CVl9hYUtLajFqZFZia0pERDZKUTJWTTA5UFhXaFcyWFJYbDNMSDFpVURwUFZfR3VXUFB3?oc=5",
+    "published_at": "2026-04-27T08:38:16+00:00",
+    "fetched_at": "2026-04-27T14:00:52.082242+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "human rights",
+      "society"
+    ],
+    "actors": [
+      "Hungarian Romani community",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "rule_of_law",
+    "summary_en": "The Romani community in Hungary is expressing cautious optimism about potential improvements to minority protections under the new Péter Magyar government following the transition from Viktor Orbán's 15-year rule. This represents the first substantive civil society voice in international media coverage of Hungary's democratic transition.",
+    "title_hu": "Magyarország roma közössége változásban reménykedik",
+    "summary_hu": "A magyarországi roma közösség vigyázatos optimizmussal szemléli a Péter Magyar új kormánya alatti kisebbségi jogok védelmének lehetséges javulását. Az Orbán uralma után bekövetkezett átmenetben ez az első jelenős civil társadalmi hang a nemzetközi médiában.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
