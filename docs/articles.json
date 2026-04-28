@@ -1,5 +1,34 @@
 [
   {
+    "id": "1841e28e2e980e69",
+    "source": "DW English",
+    "region": "de",
+    "title": "After Orban, Hungary's Roma hope for change - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGZRNHJwTENtdnVXM3JEcHB2bnB6cEtVR2NubE40NHo4YjB5Z3RNNjVyNkJ2LWprYXlQRUpDS2xyZ3hJLUxoV0ZLeUY2WlA1Ny1GdjRUY2pKQlE3YUJzSjlTcTJDcEtSOU9DbTlsNEt2eElqOVh2b2cyT0pCU2VmYTVEOC0?oc=5",
+    "published_at": "2026-04-28T06:05:03+00:00",
+    "fetched_at": "2026-04-28T10:00:39.932067+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "human rights",
+      "society"
+    ],
+    "actors": [
+      "Roma/Romani community",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's Roma community expresses cautious optimism following Viktor Orbán's departure, hoping for improved minority protections and social inclusion under Péter Magyar's new government. This article represents the first substantive civil society voice in international coverage of Hungary's democratic transition.",
+    "title_hu": "Orbán után: a magyarországi romák változást várnak",
+    "summary_hu": "Magyarország roma közössége óvatos optimizmust fejez ki Viktor Orbán kormánya elhozatala után, az új Magyar Péter-vezette kormányzat alatt javított kisebbségi védelemre és társadalmi inklúzióra reménykedik. A cikk az első szubsztanciális civil társadalmi hang a magyarországi demokratikus átmenet nemzetközi sajtóviszonylatában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "4438e5d27edf5a73",
     "source": "Financial Times",
     "region": "uk",
@@ -26,6 +55,37 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c230412ea3ea1390",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Hungary’s business elite pivots away from Viktor Orbán - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGxKb2c2MmVoMWhFZHdJaXFicEtyQ0NNSE1BXzBpWk91dEp0ZmtMc0FWd2hYbms2cUZaOUpkdEpCZnJydUE0R3NaM3ZqZDA0TFhBN09lOGEwVTdaQ2t3SkgyVUNlZTVQMXhBdTVwSGtIWTdaNDF0Mkl1djRrZ1FnSDZSZGc?oc=5",
+    "published_at": "2026-04-28T04:01:24+00:00",
+    "fetched_at": "2026-04-28T10:00:13.400719+00:00",
+    "topics": [
+      "government transition",
+      "economy",
+      "EU relations",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Hungary's business elite",
+      "Ursula von der Leyen"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Hungary's business elite are shifting allegiance away from Viktor Orbán toward Péter Magyar's EU-reintegration agenda, reflecting confidence in the new government's Brussels negotiations for frozen EU fund disbursement. The pivot signals business community recognition of the historic April 2026 transition and repositioning for EU economic reengagement.",
+    "title_hu": "A magyar üzleti elit eltávolodik Viktor Orbántól",
+    "summary_hu": "Magyarország üzleti elitje eltávolodik Viktor Orbántól és Péter Magyar EU-integrációs agendája felé fordít, ami az új kormány brüsszeli tárgyalásaira és a befagyasztott EU-s alapok feloldására vonatkozó bizalmat mutat. A fordulat az üzleti közösség számára a 2026 áprilisi történelmi átmenet felismerése és az EU-s gazdasági visszaintegrációra való pozicionálást jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   },

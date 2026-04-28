@@ -1,19 +1,19 @@
 {
-  "total_articles": 237,
-  "analyzed_articles": 237,
+  "total_articles": 239,
+  "analyzed_articles": 239,
   "tone": {
-    "neutral": 115,
+    "positive": 73,
+    "neutral": 116,
     "mixed": 24,
-    "positive": 72,
     "hopeful": 1,
     "critical": 25
   },
   "framing": {
-    "economy": 9,
+    "democracy_restoration": 51,
+    "economy": 10,
     "eu_integration": 37,
     "geopolitics": 82,
     "rule_of_law": 24,
-    "democracy_restoration": 50,
     "corruption": 5,
     "other": 9,
     "Fidesz opposition": 2,
@@ -27,10 +27,10 @@
     "government_transition": 1
   },
   "region": {
-    "uk": 42,
+    "de": 28,
+    "uk": 43,
     "wire": 45,
     "eu": 84,
-    "de": 27,
     "us": 24,
     "fr": 7,
     "cee": 8
@@ -38,10 +38,10 @@
   "source": {
     "Reuters": 38,
     "Politico Europe": 30,
-    "DW English": 26,
+    "DW English": 27,
     "Euronews": 23,
     "Euractiv": 20,
-    "Financial Times": 15,
+    "Financial Times": 16,
     "The Guardian": 13,
     "Washington Post": 10,
     "EUobserver": 9,
@@ -61,21 +61,21 @@
     "The Economist": 1
   },
   "topics": {
-    "government transition": 186,
-    "EU relations": 143,
+    "government transition": 188,
+    "EU relations": 144,
     "geopolitics": 116,
-    "democracy": 92,
+    "democracy": 93,
     "foreign policy": 68,
     "rule of law": 56,
-    "EU funds": 47,
+    "EU funds": 48,
     "elections": 45,
     "energy": 25,
-    "economy": 22,
+    "economy": 23,
     "Russia deals": 21,
-    "human rights": 19,
+    "human rights": 20,
     "Fidesz opposition": 18,
     "judicial reform": 11,
-    "society": 9,
+    "society": 10,
     "corruption": 8,
     "V4 diplomacy": 8,
     "regional": 4,
@@ -83,8 +83,8 @@
     "EU integration": 3
   },
   "actors": {
-    "Péter Magyar": 188,
-    "Viktor Orbán": 122,
+    "Péter Magyar": 190,
+    "Viktor Orbán": 123,
     "Volodymyr Zelenskiy": 38,
     "European Commission": 28,
     "Ukraine": 27,
@@ -96,17 +96,17 @@
     "EU institutions": 12,
     "Rumen Radev": 10,
     "Volodymyr Zelenskyy": 9,
+    "Ursula von der Leyen": 7,
     "EU Court of Justice": 7,
     "EU officials": 7,
-    "Ursula von der Leyen": 6,
     "Kremlin": 6,
     "Benjamin Netanyahu": 6,
     "European Council": 5,
     "EU leaders": 5
   },
   "main_actor": {
+    "hungary_country": 69,
     "orban_viktor": 49,
-    "hungary_country": 67,
     "magyar_peter": 61,
     "other": 26,
     "fidesz": 2,
@@ -146,11 +146,17 @@
     "2026-04-25": 7,
     "2026-04-26": 4,
     "2026-04-27": 7,
-    "2026-04-28": 1
+    "2026-04-28": 3
   },
   "tone_by_source": {
+    "DW English": {
+      "positive": 9,
+      "hopeful": 1,
+      "mixed": 3,
+      "neutral": 14
+    },
     "Financial Times": {
-      "neutral": 8,
+      "neutral": 9,
       "mixed": 4,
       "positive": 3
     },
@@ -164,12 +170,6 @@
       "neutral": 11,
       "positive": 4,
       "critical": 2
-    },
-    "DW English": {
-      "positive": 8,
-      "hopeful": 1,
-      "mixed": 3,
-      "neutral": 14
     },
     "EUobserver": {
       "critical": 4,
@@ -258,10 +258,16 @@
     }
   },
   "source_bias": {
+    "DW English": {
+      "positive": 33,
+      "hopeful": 4,
+      "mixed": 11,
+      "neutral": 52
+    },
     "Financial Times": {
-      "neutral": 53,
-      "mixed": 27,
-      "positive": 20
+      "neutral": 56,
+      "mixed": 25,
+      "positive": 19
     },
     "Reuters": {
       "neutral": 58,
@@ -273,12 +279,6 @@
       "neutral": 55,
       "positive": 20,
       "critical": 10
-    },
-    "DW English": {
-      "positive": 31,
-      "hopeful": 4,
-      "mixed": 12,
-      "neutral": 54
     },
     "EUobserver": {
       "critical": 44,
@@ -347,5 +347,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-04-28T06:09:20.504709+00:00"
+  "last_updated": "2026-04-28T10:11:20.666891+00:00"
 }
