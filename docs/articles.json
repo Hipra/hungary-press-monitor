@@ -1,5 +1,65 @@
 [
   {
+    "id": "31e6bf5b3c2aecbb",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "Hungary's PM-elect Magyar offers to meet Ukraine's Zelensky in June - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2tZd3lyRHY3VFFtcGR1bDlkMjI4RnR2eDZHLXVDa2oyZ3lvUlJjdl9yclp5cVpvRWs0T2FYejhnWTllVDFKeHotVTI4WHk5VWljOW1SN1BUaEtQdENQMXVMRXc1OXI1eklucmhGZGFnelZOZU5OU3ZkejN1bkc0QTJUUjdWei1KczliTFlSVG9Yb3dBeEpmbkw3bHpVLTlLdGwycTN1S1hNREU1bTVXclNXdjVtTkVCRHdtZUlZSDQ3NExsY2Iybl9iTzdVWXFLZ2Vz?oc=5",
+    "published_at": "2026-04-28T18:13:44+00:00",
+    "fetched_at": "2026-04-28T22:00:36.129459+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy",
+      "EU relations",
+      "human rights"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Péter Magyar, Hungary's newly formed PM, has proposed a June bilateral meeting with Ukrainian President Volodymyr Zelenskyy to discuss minority rights and normalize relations. This diplomatic overture marks a sharp departure from the Orbán era and reinforces Hungary's commitment to EU reintegration and regional stabilization.",
+    "title_hu": "Magyar Péter miniszterelnök javasol magyarukrán diplomáciai tárgyalásokat júniusban",
+    "summary_hu": "Magyar Péter, Magyarország újonnan alakított miniszterelnöke javasolt egy június havi bilaterális találkozót az ukrán elnökkel, Volodimir Zelenszkijjel a kisebbségi jogok és a kétoldalú kapcsolatok normalizálása érdekében. Ez a diplomáciai gesztus jelentős eltolódást jelent az Orbán-korszakhoz képest, és megerősíti Magyarország EU-s reintegrációs és regionális stabilizációs elkötelezettségét.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "29a89f71c4173184",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Orbán could end up with an EU Parliament seat for immunity - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTnM3R2dVUjFHYVVDVnBBbnZFWkxtYjAwdlFLVkdjNmhIcHVQVFBISmJsQm9EWUI5UGxxdXJlZk44c1BGa3oxNW5PaWlRUGlPbDBfRE9UeTVsU21Oajh5Vzg3Uk5rWnkzVC13Y2VuQUVhYnc4enlhU1JSYkQwdUc1ekJqdmloUE5SUzZ0aUtUMzV0WUU?oc=5",
+    "published_at": "2026-04-28T18:00:00+00:00",
+    "fetched_at": "2026-04-28T22:00:30.495666+00:00",
+    "topics": [
+      "government transition",
+      "corruption",
+      "rule of law",
+      "EU relations",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "EU Parliament"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "EUobserver reports that Orbán could seek an EU Parliament seat as a legal shield against Hungarian accountability efforts. The story illustrates post-transition challenges to establishing rule of law, with Orbán potentially exploiting EU institutional mechanisms to evade prosecution.",
+    "title_hu": "Orbán az EU Parlamentben szerzett mandátummal szerezhetne immunitást",
+    "summary_hu": "Az EUobserver szerint Orbán az EU Parlamentban szerzett mandátum révén potenciálisan kihasználhatja az immunitási mechanizmusokat, hogy védelmet nyerjen az európai felelősségvonás elől. A cikk a demokratikus átmenet után megjelenő jogállamiság-kihívásokat világítja meg, illetve azt, hogy Orbán hogyan használhatja az EU intézményi rendszerét a büntetõeljárás elkerülésére.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "84a964f5abc05398",
     "source": "Euronews",
     "region": "eu",
@@ -50,6 +110,34 @@
     "summary_en": "Hungary's new PM Péter Magyar has proposed a bilateral meeting with Ukrainian President Zelenskiy to address minority rights. The proposal represents diplomatic normalization between Budapest and Kyiv after years of strained relations under Orbán. It signals Magyar's EU-aligned regional engagement strategy.",
     "title_hu": "Magyar Péter találkozót javasol Zelenszkijjal a kisebbségi jogokról",
     "summary_hu": "Magyarország új kormányfője, Magyar Péter javasolt egy bilaterális találkozót az ukrán Zelenszkij elnökkel a kisebbségi jogok tárgyalásáról. A javaslat a diplomáciai normalizációt jelenti Budapest és Kijev között az Orbán-időszak után. Ez Magyar EU-orientált, regionális diplomáciájára utal.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "a0d2ca36d9752332",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "People linked to top Orban aide were blocked trying to send funds abroad, Hungary's Magyar says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXNmMm42S2dYYU80RThkZzZHWng4YlBIUUtGcWIxcEVTU2Y3VDJvWEVJU2Fadlk5ZXh1WC1wbUQxZnhVSjB5VmJ5ZTNrZ3ZCejZFWE42WEtuNHp0Tnp0dEhVeUV2YlQ4Mi1XTjdQbTA3UWlGLW9pTkxNWVFJU1h4LXltcGY4dDJVVnIwOEROZWhQS3BKZDNwRFc1Yk02WEFUX041bGc2NmhLVFUyOHdlVjFPekJYcFJTdVJIdElqZUpSSUVRNW1z?oc=5",
+    "published_at": "2026-04-28T16:00:35+00:00",
+    "fetched_at": "2026-04-28T22:00:02.203775+00:00",
+    "topics": [
+      "government transition",
+      "corruption",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "corruption",
+    "summary_en": "Hungary's new PM Péter Magyar announced his government blocked people linked to an Orbán aide from transferring funds abroad, marking the first concrete enforcement action against Orbán-era figures. The move signals early anti-corruption efforts but raises power-consolidation concerns given simultaneous reporting of controversial Magyar appointments.",
+    "title_hu": "Magyar szerint Orbán-közeli segédhez kötődő személyek meg voltak akadályozva pénz külföldi küldésében",
+    "summary_hu": "A magyar miniszterelnök, Péter Magyar bejelentette, hogy kormánya megakadályozta az Orbán egy tanácsadójához kapcsolódó személyeket pénz külföldi átutalásában, az Orbán-korszak szereplőivel szembeni első konkrét lépést. Az intézkedés korai korrupcióellenes erőfeszítéseket jelez, de hatalomkoncentrációs aggodalmakat vet fel az egyidejűleg jelentett vitatott kinevezések közepette.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",

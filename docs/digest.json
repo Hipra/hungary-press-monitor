@@ -1,53 +1,41 @@
 {
-  "top_story_en": "Euractiv's report that PM Péter Magyar has appointed a close adviser to an 'enforcer role' marks the first substantive internal governance critique of the new administration, introducing a power-consolidation counter-narrative that could define the next phase of Hungary's transition coverage.",
-  "top_story_hu": "Az Euractiv jelentése szerint Magyar Péter miniszterelnök egy közeli tanácsadóját 'végrehajtói szerepkörbe' nevezte ki — ez az új kormány első érdemi belső kritikája, amely a hatalomkoncentráció narratíváját vetíti előre a demokratikus átmenet következő szakaszában.",
+  "top_story_en": "Two competing narratives crystallised on April 28: Magyar's government took its first concrete anti-corruption enforcement action by blocking asset transfers linked to an Orbán aide, while Euractiv simultaneously reported an 'enforcer role' appointment that raises power-consolidation concerns — setting the central tension of the transition period.",
+  "top_story_hu": "Április 28-án két versengő narratíva sűrűsödött össze: Magyar kormánya első konkrét korrupcióellenes lépésként blokkolta egy Orbán-közeli tanácsadóhoz kötött személyek külföldi utalásait, miközben az Euractiv egyszerre számolt be egy 'végrehajtói szerepkör' betöltéséről — ez jelöli ki az átmeneti időszak legfőbb feszültségvonalát.",
   "key_developments_en": [
-    "Magyar appointed a close adviser to an enforcer role in his government, prompting Euractiv to raise institutional-constraint concerns (Apr 28).",
-    "The Financial Times frames Hungary's business elite as a deliberate collective actor pivoting toward Magyar's EU reintegration agenda — a first in transition coverage.",
-    "Hungary's Roma community expressed cautious optimism about minority protections under Magyar, the first substantive civil-society voice to enter international reporting.",
-    "EUobserver warns that Orbán's electoral defeat leaves intact the broader European far-right think-tank and financing infrastructure.",
-    "Le Monde sharpens its central paradox question: can Hungary restore rule of law without temporarily suspending the very democratic principles it seeks to recover?"
+    "Magyar proposed a June bilateral meeting with Zelenskyy focused on minority rights, confirmed by Le Monde, Euronews, and Reuters — the clearest diplomatic normalisation signal yet.",
+    "Viktor Orbán offered to resign as Fidesz party chief, deepening organisational collapse after his April 25 parliamentary resignation.",
+    "EUobserver reports Orbán may seek an EU Parliament seat to gain legal immunity from Hungarian accountability proceedings.",
+    "Hungary's business elite is collectively pivoting toward Magyar's EU-reintegration agenda, with Moody's assessment positive, per the Financial Times.",
+    "DW offered the first substantive civil society voice of the transition: Hungary's Roma community expresses cautious optimism under Magyar."
   ],
   "key_developments_hu": [
-    "Magyar egy közeli tanácsadóját 'végrehajtói szerepkörbe' nevezte ki; az Euractiv intézményi aggályokat fogalmazott meg ezzel kapcsolatban (ápr. 28.).",
-    "A Financial Times Magyarország üzleti elitjét tudatos kollektív szereplőként ábrázolja, amely Magyar EU-reintegrációs programja mellé áll — ilyen keretezés eddig nem jelent meg a tranzíciós tudósításokban.",
-    "Magyarország roma közössége óvatos optimizmussal tekint a kisebbségi jogok javulásának lehetőségére — ez az első érdemi civil hang a nemzetközi tudósításban.",
-    "Az EUobserver figyelmeztet: Orbán veresége nem számolja fel az európai szélsőjobboldali think-tankek és finanszírozási hálózatok infrastruktúráját.",
-    "A Le Monde élesíti a tranzíció alapkérdését: visszaállítható-e a jogállamiság anélkül, hogy az átmenet során maga is csorbát szenvedjen?"
+    "Magyar júniusi kétoldalú találkozót javasolt Zelenszkijnek a kisebbségi jogok témájában — ezt a Le Monde, az Euronews és a Reuters is megerősítette; ez az eddigi legegyértelműbb diplomáciai normalizációs lépés.",
+    "Orbán Viktor felajánlotta, hogy lemond a Fidesz elnöki tisztéről, tovább mélyítve a párt szervezeti válságát az április 25-i mandátumáról való lemondást követően.",
+    "Az EUobserver szerint Orbán EP-képviselői mandátumot kereshet, hogy védelmet kapjon a magyar felelősségre vonási eljárásokkal szemben.",
+    "Magyarország üzleti elitje a Financial Times szerint kollektívan Magyar EU-reintegrációs programja felé fordul, a Moody's pedig pozitívan értékeli a Tisza-kormányt.",
+    "A DW közölte az átmenet első érdemi civil társadalmi hangját: a magyarországi roma közösség óvatos reménnyel tekint Magyar kormányára."
   ],
   "narrative_shifts_en": [
-    "The enforcer-role story breaks the unanimous democratic-restoration framing that has dominated coverage since April 20 — critical scrutiny is now directed at Magyar himself, not only at Orbán's legacy.",
-    "Business-elite coverage shifts from transactional risk-reassessment to sociological framing (FT), elevating the transition narrative from politics into structural economic realignment.",
-    "Civil society enters the story for the first time (Roma, DW), broadening the lens beyond elite-level politics and institutions."
+    "The uncritical 'democratic spring' framing has fractured: Euractiv's enforcer-role story introduces a sustained power-consolidation counter-narrative for the first time, running in parallel with anti-corruption praise.",
+    "Orbán coverage has shifted from passive retreat to active legal maneuvering — the EU Parliament immunity angle reframes him as a strategic actor, not simply a defeated one."
   ],
   "narrative_shifts_hu": [
-    "A 'végrehajtói szerepkör' híre megtöri az április 20. óta domináns demokratikus restauráció-narratívát: a kritikus figyelem immár Magyar Péterre is irányul, nem csupán az orbáni örökségre.",
-    "Az üzleti elit megítélése a tranzakcionális kockázatértékelésből szociológiai keretbe kerül (FT), a tranzíció narratíváját politikából strukturális gazdasági átrendeződéssé emelve.",
-    "A civil társadalom első ízben jelenik meg a nemzetközi tudósításban (romák, DW), tágítva a nézőpontot az elit szintű politikán és intézményeken túlra."
+    "A kritikátlan 'demokratikus tavasz' narratíva megtört: az Euractiv végrehajtói szerepkörről szóló cikke először vezet be tartós hatalomkoncentrációs ellentörténetet, párhuzamosan a korrupcióellenes intézkedések dicséretével.",
+    "Orbán megítélése a passzív visszavonulástól az aktív jogi manőverezés felé tolódott — az EP-mentelmi szög stratégiai szereplőként, nem csupán vesztes politikusként mutatja be."
   ],
-  "quotes_en": [
-    {
-      "quote": "After 16 years under an illiberal regime, can the rule of law be restored if it's set aside, even briefly?",
-      "speaker": "Le Monde (editorial framing)"
-    }
-  ],
-  "quotes_hu": [
-    {
-      "quote": "16 évnyi illiberális rezsim után visszaállítható-e a jogállamiság, ha azt — akár csak átmenetileg — félre is teszik?",
-      "speaker": "Le Monde (szerkesztőségi felvetés)"
-    }
-  ],
+  "quotes_en": [],
+  "quotes_hu": [],
   "what_to_watch_en": [
-    "Whether Magyar publicly responds to or walks back the enforcer-role appointment — his handling will signal how the government manages internal accountability pressure.",
-    "EU frozen fund disbursement timeline following the Apr 26–27 von der Leyen meeting; Moody's positive signal adds pressure for a concrete announcement.",
-    "Any government statement on the ECJ LGBTQ ruling and judicial reform mechanisms — the most consequential domestic gap in current international coverage."
+    "Will Fidesz hold a formal leadership vote following Orbán's resignation offer, and which internal figures emerge as succession candidates?",
+    "Will Magyar's June Zelenskyy meeting produce a concrete minority-rights framework, or remain a symbolic gesture under EU scrutiny?",
+    "Does the 'enforcer role' story develop further — and how does Budapest respond to the power-consolidation framing before it hardens into received wisdom?"
   ],
   "what_to_watch_hu": [
-    "Magyar nyilvánosan reagál-e a 'végrehajtói szerepkör' kinevezésére, vagy visszakozik — a kezelési mód jelzi, hogyan kezeli a kormány a belső elszámoltathatósági nyomást.",
-    "Az EU befagyasztott forrásainak folyósítási ütemterve az április 26–27-i von der Leyen-találkozó után; a Moody's pozitív jelzése konkrét bejelentés iránti nyomást kelt.",
-    "Kormányzati állásfoglalás az Európai Bíróság LMBT-ítéletéről és a bírósági reform mechanizmusairól — a jelenlegi nemzetközi tudósítás legsúlyosabb belpolitikai hiányossága."
+    "Tart-e a Fidesz formális elnökválasztást Orbán lemondási ajánlata nyomán, és kik kerülnek előtérbe lehetséges utódokként?",
+    "Magyar júniusi Zelenszkij-találkozója konkrét kisebbségvédelmi keretet eredményez-e, vagy csupán szimbolikus gesztus marad az EU szemében?",
+    "Tovább fejlődik-e a 'végrehajtói szerepkör' sztori — és hogyan reagál Budapest a hatalomkoncentrációs narratívára, mielőtt az közmegegyezéssé szilárdulna?"
   ],
   "date": "2026-04-28",
-  "article_count": 6,
-  "generated_at": "2026-04-28T14:15:07.271143+00:00"
+  "article_count": 11,
+  "generated_at": "2026-04-28T22:14:47.713230+00:00"
 }
