@@ -1,5 +1,58 @@
 [
   {
+    "id": "1a0ccc31888f1dbb",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Ruff stuff: Magyar appoints close adviser to enforcer role - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNG9EZXVrSUhnTTlCTndHUnNVNWxGS25uOVdCMjB6Yi1CLTAxLVMteDVoSzV6eG5ZTmVFMm01SGMtaWtZXzBuem91aVZEX1VsdE53cXl2X0xtNHp4U2tnZ2RYYlpteDh1LUdTaFBnZUVQUGdDaHY3OFdGYVRwejg2Q2FDSFY2dGEzRUl3ZmNsbU5BUQ?oc=5",
+    "published_at": "2026-04-28T13:52:04+00:00",
+    "fetched_at": "2026-04-28T14:00:34.807480+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "government_transition",
+    "summary_en": "Péter Magyar appoints a close adviser to an 'enforcer role' in his new government, signalling potential power consolidation concerns within the Tisza administration. The appointment raises questions about institutional constraints amid Hungary's democratic transition, months after Magyar's cabinet formation.",
+    "title_hu": "Kemény játék: Magyar kinevez bizalmi tanácsadót végrehajtó szerepbe",
+    "summary_hu": "Péter Magyar egy közeli tanácsadót nevez ki 'végrehajtó szerepbe' az új kormányban, amely aggodalmat kelthet a Tisza-adminisztráció hatalmának koncentrációjáról. A kinevezés kérdéseket vet fel az intézményi ellenőrzésekről a magyar demokratikus átmenet során.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "8e07ad8c4a7aa6d6",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Orbán’s fall does not mean the end for Europe’s far-right think-tanks and financing - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVY0ZVVLcXNCNnFYRFJycFFGZk43TTM5c0FablNUS09fLWV1MkN0aFQtOXUtRHp5cnhtZm0zdDZwcGVYRjNYVVU5YkZ2cFZrXzJ2c0Q5dlY2djFFVEZLTTB0QmY1VG9ORHllcmpHV1FIZmNoNTZDWjltcGpXT0g5UmNqaGhha3l3U24yd0t3RGtZNWhWQ2tSRGhuS2twaTN6OGIzX2F2eGQtSXhiNVpldUJR?oc=5",
+    "published_at": "2026-04-28T10:13:16+00:00",
+    "fetched_at": "2026-04-28T14:00:36.757466+00:00",
+    "topics": [
+      "government transition",
+      "corruption",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "corruption",
+    "summary_en": "EUobserver reports that Viktor Orbán's electoral defeat does not eliminate the broader European far-right ecosystem of think-tanks and financial networks that sustained his regime. These institutional and financing structures persist beyond the political transition, representing ongoing challenges to European democratic recovery.",
+    "title_hu": "Orbán bukása nem jelenti az európai szélsőjobboldali gondolkodástankoknak és finanszírozásnak a végét",
+    "summary_hu": "Az EUobserver szerint Viktor Orbán választási veresége nem szünteteti meg az őt fenntartó szélesebb európai szélsőjobboldali gondolkodástankoknak és pénzügyi hálózatoknak az ökoszisztémáját. Ezek az intézmények és finanszírozási szerkezetek túlélik a politikai átmenetet, és az európai demokratikus felépítésre gyakorolt kihívások továbbra is fennmaradnak.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "1841e28e2e980e69",
     "source": "DW English",
     "region": "de",
@@ -83,6 +136,35 @@
     "summary_en": "Hungary's business elite are shifting allegiance away from Viktor Orbán toward Péter Magyar's EU-reintegration agenda, reflecting confidence in the new government's Brussels negotiations for frozen EU fund disbursement. The pivot signals business community recognition of the historic April 2026 transition and repositioning for EU economic reengagement.",
     "title_hu": "A magyar üzleti elit eltávolodik Viktor Orbántól",
     "summary_hu": "Magyarország üzleti elitje eltávolodik Viktor Orbántól és Péter Magyar EU-integrációs agendája felé fordít, ami az új kormány brüsszeli tárgyalásaira és a befagyasztott EU-s alapok feloldására vonatkozó bizalmat mutat. A fordulat az üzleti közösség számára a 2026 áprilisi történelmi átmenet felismerése és az EU-s gazdasági visszaintegrációra való pozicionálást jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "9ffb60dbcd0d88e7",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "Hungary: 'After 16 years under an illiberal regime, can the rule of law be restored if it's set aside, even briefly?' - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSDNtNWtJWEw3eC10Y21DT1phNmxvamdwMVdEdThIckMyTW9fQXFCODRJa0VFcFZLSUJIMFV3ZkdXam5JV1hWdDdjRDlKV3dwR1V5NjUzazJzZTgwbFFSQ0FXbTFlZlZyYW1OR3JrNXNpVFplVmZOUGo0RWhCWHM3b3VIQWhDU0t5cEpDX2lGTHZyUlA5QW9Vc092aHVMTWd4X1QtMVFkcWhodXp2cFVfUlBRbmZyT1FQYWZtckJxTmhVdS0tY3dJYlNYWlJ4TWpmdldxN3FPNHBnYXozWGxTdjd5ZjRwYjdjUmVTSC1iUUJlWVR2UzBSU2d6U0FsNWh4RE1EYU90TzlTT3lB?oc=5",
+    "published_at": "2026-04-27T14:53:52+00:00",
+    "fetched_at": "2026-04-28T14:00:42.571002+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy",
+      "judicial reform"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "Le Monde questions whether Hungary can successfully restore rule of law after Viktor Orbán's 16-year illiberal regime, expressing skepticism about whether democratic restoration is possible if democratic principles are compromised during the transition. The article reflects concerns about the structural paradox of dismantling authoritarianism without repeating its methods.",
+    "title_hu": "Magyarország: 'Helyreállítható a jogállamiság a 16 éves illiberális rendszer után, ha azt ideiglenesen félretesszük?' - Le Monde.fr",
+    "summary_hu": "Le Monde azt a kérdést veti fel, hogy képes-e Magyarország helyreállítani a jogállamiságot az Orbán 16 éves illiberális rendszere után, ha az átmenet során maga a demokrácia is sérül. A cikk az autoritarizmus lebontásának és egyidejű kialakulásának szerkezeti paradoxonára való aggodalmát tükrözi.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",

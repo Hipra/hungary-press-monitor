@@ -1,43 +1,53 @@
 {
-  "top_story_en": "The Financial Times frames Hungary's business elite as a deliberate collective actor pivoting toward Péter Magyar's EU reintegration agenda — the first time international coverage extends the democratic transition beyond politics into economic sociology.",
-  "top_story_hu": "A Financial Times Magyarország üzleti elitjét tudatos kollektív szereplőként ábrázolja, amely Magyar Péter EU-reintegrációs iránya felé fordul — ez az első alkalom, hogy a nemzetközi sajtó a demokratikus átmenetet a politikán túl gazdaságszociológiai keretbe helyezi.",
+  "top_story_en": "Euractiv's report that PM Péter Magyar has appointed a close adviser to an 'enforcer role' marks the first substantive internal governance critique of the new administration, introducing a power-consolidation counter-narrative that could define the next phase of Hungary's transition coverage.",
+  "top_story_hu": "Az Euractiv jelentése szerint Magyar Péter miniszterelnök egy közeli tanácsadóját 'végrehajtói szerepkörbe' nevezte ki — ez az új kormány első érdemi belső kritikája, amely a hatalomkoncentráció narratíváját vetíti előre a demokratikus átmenet következő szakaszában.",
   "key_developments_en": [
-    "Hungary's business community is actively realigning toward Magyar's Brussels agenda, signalling confidence in the new government's EU fund negotiation, per FT.",
-    "Hungary and the EU are negotiating the conditions for releasing billions in frozen development funds, marking the first active bilateral engagement since the April transition (Reuters).",
-    "State oil company MOL confirms acquisition talks with Serbia's NIS are 'ongoing', indicating continued regional energy strategy under the new government (Reuters).",
-    "Euractiv warns that post-Orbán Hungary faces persistent geopolitical constraints — lifted vetoes have not resolved EU competitiveness pressures or structural tensions.",
-    "Hungary's Roma community voices cautious optimism over minority protections under Magyar, the first substantive civil-society perspective in international transition coverage (DW)."
+    "Magyar appointed a close adviser to an enforcer role in his government, prompting Euractiv to raise institutional-constraint concerns (Apr 28).",
+    "The Financial Times frames Hungary's business elite as a deliberate collective actor pivoting toward Magyar's EU reintegration agenda — a first in transition coverage.",
+    "Hungary's Roma community expressed cautious optimism about minority protections under Magyar, the first substantive civil-society voice to enter international reporting.",
+    "EUobserver warns that Orbán's electoral defeat leaves intact the broader European far-right think-tank and financing infrastructure.",
+    "Le Monde sharpens its central paradox question: can Hungary restore rule of law without temporarily suspending the very democratic principles it seeks to recover?"
   ],
   "key_developments_hu": [
-    "Magyarország üzleti körei aktívan átorientálódnak Magyar Péter brüsszeli menetrendje felé, jelezve a befagyasztott EU-alapok tárgyalásába vetett bizalmat (FT).",
-    "Magyarország és az EU tárgyalásokat folytat a milliárdos befagyasztott fejlesztési alapok felszabadításának feltételeiről — ez az első aktív kétoldalú egyeztetés az április eleji átmenet óta (Reuters).",
-    "A MOL állami olajvállalat megerősítette, hogy a szerb NIS felvásárlásáról folytatott tárgyalások 'folyamatban vannak' (Reuters).",
-    "Az Euractiv szerint a poszt-Orbán Magyarország tartós geopolitikai korlátokkal néz szembe: a vétók feloldása nem oldotta meg az EU versenyképességi nyomást.",
-    "Magyarország roma közössége óvatos optimizmussal tekint a kisebbségvédelem lehetséges javulására Magyar kormánya alatt — ez az első érdemi civil társadalmi hang a nemzetközi átmenet-tudósításokban (DW)."
+    "Magyar egy közeli tanácsadóját 'végrehajtói szerepkörbe' nevezte ki; az Euractiv intézményi aggályokat fogalmazott meg ezzel kapcsolatban (ápr. 28.).",
+    "A Financial Times Magyarország üzleti elitjét tudatos kollektív szereplőként ábrázolja, amely Magyar EU-reintegrációs programja mellé áll — ilyen keretezés eddig nem jelent meg a tranzíciós tudósításokban.",
+    "Magyarország roma közössége óvatos optimizmussal tekint a kisebbségi jogok javulásának lehetőségére — ez az első érdemi civil hang a nemzetközi tudósításban.",
+    "Az EUobserver figyelmeztet: Orbán veresége nem számolja fel az európai szélsőjobboldali think-tankek és finanszírozási hálózatok infrastruktúráját.",
+    "A Le Monde élesíti a tranzíció alapkérdését: visszaállítható-e a jogállamiság anélkül, hogy az átmenet során maga is csorbát szenvedjen?"
   ],
   "narrative_shifts_en": [
-    "Coverage broadens from political actors to economic ones: FT introduces Hungary's business elite as a collective sociological subject, not merely a backdrop to political events.",
-    "Post-euphoria realism consolidates: Euractiv's 'reality check' framing reinforces a structural-constraint narrative that now runs alongside transition optimism.",
-    "Civil society enters the frame: DW's Roma report signals that international editors are beginning to widen sourcing beyond government and think-tank voices."
+    "The enforcer-role story breaks the unanimous democratic-restoration framing that has dominated coverage since April 20 — critical scrutiny is now directed at Magyar himself, not only at Orbán's legacy.",
+    "Business-elite coverage shifts from transactional risk-reassessment to sociological framing (FT), elevating the transition narrative from politics into structural economic realignment.",
+    "Civil society enters the story for the first time (Roma, DW), broadening the lens beyond elite-level politics and institutions."
   ],
   "narrative_shifts_hu": [
-    "A tudósítás politikai szereplőkről gazdasági aktorokra terjeszkedik: az FT az üzleti elitet önálló szociológiai alanyként, nem csupán politikai háttérként ábrázolja.",
-    "A poszt-eufória realizmus megszilárdul: az Euractiv 'valóságellenőrző' kerete strukturális korlát-narratívát erősít az átmeneti optimizmus mellett.",
-    "A civil társadalom megjelenik a képben: a DW roma riportja jelzi, hogy a nemzetközi szerkesztők megkezdik a forrásbővítést a kormányzati és agytröszt-körökön túlra."
+    "A 'végrehajtói szerepkör' híre megtöri az április 20. óta domináns demokratikus restauráció-narratívát: a kritikus figyelem immár Magyar Péterre is irányul, nem csupán az orbáni örökségre.",
+    "Az üzleti elit megítélése a tranzakcionális kockázatértékelésből szociológiai keretbe kerül (FT), a tranzíció narratíváját politikából strukturális gazdasági átrendeződéssé emelve.",
+    "A civil társadalom első ízben jelenik meg a nemzetközi tudósításban (romák, DW), tágítva a nézőpontot az elit szintű politikán és intézményeken túlra."
   ],
-  "quotes_en": [],
-  "quotes_hu": [],
+  "quotes_en": [
+    {
+      "quote": "After 16 years under an illiberal regime, can the rule of law be restored if it's set aside, even briefly?",
+      "speaker": "Le Monde (editorial framing)"
+    }
+  ],
+  "quotes_hu": [
+    {
+      "quote": "16 évnyi illiberális rezsim után visszaállítható-e a jogállamiság, ha azt — akár csak átmenetileg — félre is teszik?",
+      "speaker": "Le Monde (szerkesztőségi felvetés)"
+    }
+  ],
   "what_to_watch_en": [
-    "Concrete terms emerging from the Magyar–EU frozen fund negotiations — any conditionality attached will reveal the real cost of Hungary's EU reintegration.",
-    "Whether the business elite pivot translates into measurable investment commitments or remains symbolic repositioning ahead of EU fund flows.",
-    "MOL–NIS acquisition outcome: a deal would be the new government's first significant foreign economic footprint and a test of Balkan energy policy continuity."
+    "Whether Magyar publicly responds to or walks back the enforcer-role appointment — his handling will signal how the government manages internal accountability pressure.",
+    "EU frozen fund disbursement timeline following the Apr 26–27 von der Leyen meeting; Moody's positive signal adds pressure for a concrete announcement.",
+    "Any government statement on the ECJ LGBTQ ruling and judicial reform mechanisms — the most consequential domestic gap in current international coverage."
   ],
   "what_to_watch_hu": [
-    "A Magyar–EU befagyasztott alap tárgyalások konkrét feltételei — az esetleges kondíciók megmutatják a reintegráció valódi árát.",
-    "Az üzleti elit átorientálódása mérhetővé válik-e befektetési kötelezettségvállalásokban, vagy puszta szimbolikus repositioning marad az EU-pénzek megérkezéséig.",
-    "A MOL–NIS felvásárlás kimenetele: egy esetleges üzlet az új kormány első jelentős külföldi gazdasági lábnyoma és a balkáni energiapolitikai folyamatosság próbája lenne."
+    "Magyar nyilvánosan reagál-e a 'végrehajtói szerepkör' kinevezésére, vagy visszakozik — a kezelési mód jelzi, hogyan kezeli a kormány a belső elszámoltathatósági nyomást.",
+    "Az EU befagyasztott forrásainak folyósítási ütemterve az április 26–27-i von der Leyen-találkozó után; a Moody's pozitív jelzése konkrét bejelentés iránti nyomást kelt.",
+    "Kormányzati állásfoglalás az Európai Bíróság LMBT-ítéletéről és a bírósági reform mechanizmusairól — a jelenlegi nemzetközi tudósítás legsúlyosabb belpolitikai hiányossága."
   ],
   "date": "2026-04-28",
   "article_count": 6,
-  "generated_at": "2026-04-28T10:11:20.547540+00:00"
+  "generated_at": "2026-04-28T14:15:07.271143+00:00"
 }
