@@ -1,5 +1,89 @@
 [
   {
+    "id": "84a964f5abc05398",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Hungary's incoming PM Péter Magyar offers to meet Ukraine's president in June - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkQtMTJ6NlhFeXRjTkNqWjNIanJwYjcwTlE3NzhpVzJTdU93TUxEZm9vV29SbkhCdzBOWnZNeGtvaFk1UXhhdGJZWmFnOVlWTl9TQUo2b01xQ2dJbUpLUEY1NG5VSmZWandMMlgxRzJLS3o3QzRzZngzd2syNjh0eXFtUzdJaDlzNlZoOFJ1ZTBLQ2N5LWRSNGtTYm1rNXJ4VHN6cFpTa3J1cXpsVW9TTkZLZDV6a0hRNjh1cEtB?oc=5",
+    "published_at": "2026-04-28T17:28:54+00:00",
+    "fetched_at": "2026-04-28T18:00:36.692010+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "EU relations",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Zelenskyy"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's Prime Minister Péter Magyar has proposed a June meeting with Ukraine's president, signaling continued Hungarian diplomatic engagement on Ukraine support. This aligns with Magyar's active foreign policy role since taking office April 20 and his broader EU reintegration agenda.",
+    "title_hu": "Magyarország miniszterelnöke, Péter Magyar június hónapra felajánlja találkozóját Ukrajna elnökével",
+    "summary_hu": "Magyarország miniszterelnöke Péter Magyar június hónapban találkozót ajánlott fel Ukrajna elnökével, jelezve Magyarország folyamatos diplomáciai szerepét Ukrajna támogatásában. Ez összhangban áll Magyar EU-reintegrációs agendájával és április 20-a óta megfigyelhető diplomáciai aktivitásával.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "ca61ffea18f43853",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's Magyar proposes meeting with Zelenskiy on minority rights - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSXA5TEU5eVVTMnhVNnVqY1Y3OXFVV2lfcjBUVFg1WG1sZW9Ia2cxNUZDR1NJVHllT3BXYjR1NlJhUlMtcUItUlZ2M3c5VnlvS3M0dXd2VFNOckxiVVhlWnpxQkRaNW4zaE9mcW5mdE9sV2x4aFhrQ1NETHhhWV9qc0hxMzNGMFlhTDkwRVJIOTY3akg2bzJqbF92eXhER1J5am5TSFdlWjg?oc=5",
+    "published_at": "2026-04-28T16:51:43+00:00",
+    "fetched_at": "2026-04-28T18:00:03.984557+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "human rights"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskiy"
+    ],
+    "tone": "neutral",
+    "framing": "regional",
+    "summary_en": "Hungary's new PM Péter Magyar has proposed a bilateral meeting with Ukrainian President Zelenskiy to address minority rights. The proposal represents diplomatic normalization between Budapest and Kyiv after years of strained relations under Orbán. It signals Magyar's EU-aligned regional engagement strategy.",
+    "title_hu": "Magyar Péter találkozót javasol Zelenszkijjal a kisebbségi jogokról",
+    "summary_hu": "Magyarország új kormányfője, Magyar Péter javasolt egy bilaterális találkozót az ukrán Zelenszkij elnökkel a kisebbségi jogok tárgyalásáról. A javaslat a diplomáciai normalizációt jelenti Budapest és Kijev között az Orbán-időszak után. Ez Magyar EU-orientált, regionális diplomáciájára utal.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "a009486615ee124a",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's outgoing PM Orban offers to quit as Fidesz party chief, local media say - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM1pnX2NkYTlaQ1ZhTktmcW5KN2p6TXVNWU9QR21CZU1FS3EwV3QyTnVXQ3MwbWhSU1czbHdsUTlGVHZid1VLWFBJVmRLc2s3aWd0a1FHYXdUTTJwWTh0eUxmaHNDaF8zWVUwOTR6Y0YyYkdqWEtQdFFGTUM2b0hUWHZ3MzNOTWxwRko4NDMxUVBtenhNTzdMeERWbFNzM201a3pWcjZFbHd1UVVlMWFHSGx6d0VpQQ?oc=5",
+    "published_at": "2026-04-28T15:38:52+00:00",
+    "fetched_at": "2026-04-28T18:00:03.984049+00:00",
+    "topics": [
+      "government transition",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Fidesz"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Viktor Orbán, Hungary's former prime minister, has offered to step down as Fidesz party chief following the Tisza Party's electoral victory and his own resignation from parliament on April 25. The move signals his intention to rebuild opposition forces from outside party leadership while distancing Fidesz from his 15-year tenure. This reflects deepening organizational collapse within Fidesz and uncertainty over the party's post-defeat direction.",
+    "title_hu": "Orbán megválna a Fidesz párt vezetésétől – magyar média szerint",
+    "summary_hu": "Viktor Orbán, Magyarország korábbi miniszterelnöke, felajánlotta, hogy lemond a Fidesz párt vezetéséről a Tisza Párt választási győzelme után és áprilisban parlamenti mandátumáról. A lépés azt mutatja, hogy az ellenzéket a párt vezetésén kívülről kívánja újjáépíteni, miközben a Fideszt eltávolítja a 15 éves kormányzásától. Ez tükrözi a Fidesz szervezeti összeomlását és bizonytalanságot a párt jövőjéről.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "1a0ccc31888f1dbb",
     "source": "Euractiv",
     "region": "eu",
