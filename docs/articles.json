@@ -1,5 +1,35 @@
 [
   {
+    "id": "4438e5d27edf5a73",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Hungary’s business elite pivots away from Viktor Orbán - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Jck9pM0h0VzlJX05rQzBzY0gyXzNyb0JYa2pYSEpLS3Ixcm5fUkdoLVBMeFp5R2VJaURWRGVFOEtDSWRoWkNhSmNMSkc2UFhiNjdjaGpTdzl0ckV1eXV6aG9jT1ptdG80R0ZxSXQtejI?oc=5",
+    "published_at": "2026-04-28T04:01:24+00:00",
+    "fetched_at": "2026-04-28T06:00:12.321332+00:00",
+    "topics": [
+      "government transition",
+      "economy",
+      "EU relations",
+      "corruption"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "business elite"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Hungary's business elite are reorienting away from Viktor Orbán following the democratic transition and formation of Péter Magyar's Tisza-led government. The shift reflects business sector reassessment of political risk, regulatory uncertainty, and alignment with Hungary's EU reintegration agenda.",
+    "title_hu": "Magyarország üzleti elitje Orbán Viktortól elfordul",
+    "summary_hu": "Magyarország üzleti vezetése az Orbán-korszak vége után politikai orientációját megváltoztatja. Az üzleti szereplők Péter Magyar Tisza-vezette új kormánya felé fordulnak, amely az EU-s reintegrációs napirend támogatásának jele.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "e082147c67dc8626",
     "source": "Reuters",
     "region": "wire",
