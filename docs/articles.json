@@ -1,5 +1,152 @@
 [
   {
+    "id": "31e6379522eb2180",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary's Magyar meets EU chief in key Brussels visit - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbTFleW1MWmp2c0hVN2c1djBBLWo0ZnYtN0JUeWdUT0FsWTlCMnBDUHp2MWNkMXJlRVV1Qlo2TG4zdDVWanhRTVVXTWVaQlZSVkNtdGFaWDNqbFlKZ1N4QkNfOWp5bFA3MExuZFprdWpCNjlwWkoza0NtenFfVTB1cm10bF9paHMtWFduWU9jdHNEVFNINnhNcWZSVDZRd2YwWlNTd9IBpAFBVV95cUxObE5LWGl5ajk4blZndG1VRXBiamlxRk9jY2JLZGRTOFR2VnluSFRuR01mWDVvS1dkQTI5dnV2Y3ZsNlpmQlBUSUdqbWQ4eTZpZ1ZTTl9xcjlvWnhZYXFtZXM0ejhoMW1HWDlDQVVaMHIwWWNYQWFzLWl5OGlQWEZ4QU9WRzZ0TmZ3NTBiSHZ6aU1fa05MRmJyVUw3ZFdMV0ZLdVlONg?oc=5",
+    "published_at": "2026-04-29T09:19:29+00:00",
+    "fetched_at": "2026-04-29T10:00:39.844300+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar, Hungary's new PM heading the Tisza Party government, meets with EU Commission President Ursula von der Leyen in Brussels. This marks a critical moment in negotiations over frozen EU funds and Hungary's reintegration into the EU mainstream following 15 years of Orbán rule. The visit signals Magyar's commitment to EU realignment, though Brussels maintains a cautious conditionality stance regarding fund disbursement.",
+    "title_hu": "Magyar Péter találkozik az EU vezetőjével Brüsszelben - kulcsfontosságú látogatás",
+    "summary_hu": "Magyar Péter, a Tisza Párt új kormánya élén álló magyar miniszterelnök találkozik az Európai Bizottság Ursulája von der Leyennel Brüsszelben. Ez kulcsfontosságú pillanat a befagyasztott uniós alapok tárgyalásaiban és Magyarország EU-fő­áramúsításában 15 év Orbán-éra után. A találkozó Magyar EU felé irányuló elkötelezettségét jelzi, noha Brüsszel óvatos feltételességet követel.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "a95bd9ba4cbf99f6",
+    "source": "Visegrad Insight",
+    "region": "cee",
+    "title": "The V4 Economies Weather Off Hormuz Blockade - Visegrad Insight",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS09FdmpLLXZ0cnQ5bWZLZkFGSlhLOXFUSHRGRktKZ0dLUEpKOGpMSS1CUjdiNllkcW5NaEJlNDc4TFBLMlZsMDV2MFZfZFVhVThiWnJ3ZHFEU2drTkpHWlpCOXpTalkyalA1ekZ3VUNVZzJoQ2hQckg1X3V0bU10QWln?oc=5",
+    "published_at": "2026-04-29T08:51:19+00:00",
+    "fetched_at": "2026-04-29T10:00:43.184017+00:00",
+    "topics": [
+      "economy",
+      "geopolitics",
+      "energy",
+      "V4 diplomacy"
+    ],
+    "actors": [],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "The V4 economies, including Hungary, demonstrate resilience amid geopolitical disruptions related to the Hormuz Strait blockade. The article examines how the Visegrad Group is managing energy security and supply chain challenges stemming from regional tensions affecting global oil flows.",
+    "title_hu": "A V4 gazdaságok megállják a helyüket a Hormuz-szoros blokádja közepette",
+    "summary_hu": "A V4 gazdaságok, köztük Magyarország is, bizonyítják ellenálló képességüket a Hormuz-szoros blokádja miatti geopolitikai zavarnak. A cikk azt vizsgálja, hogy a Visegrádi Négyek hogyan kezeli az energiabiztonságot és az ellátási lánc kihívásait, amelyek a globális olajáramlást érintő regionális feszültségekből erednek.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland",
+      "Czech Republic",
+      "Slovakia"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "77dfc20b81f20f9c",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Magyar starts his Brussels honeymoon - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLXlDUm9UMWRja3I3N2QxSGpsc3ItLVh3MFU4ZnFYOWVaX3g4NFFsWmJjQXlrcEpac185Zzdvbm1TUGJzYm9yaTBIbE5VY2piRkhtRU9BeXdhV3lQQXo2WG1GNWlSQXVRbU51bFNrUURWakdHYWtfakpqUTBwQ3VxYXBobEI4UWJ3elBSX244a3hkX0ho?oc=5",
+    "published_at": "2026-04-29T05:59:00+00:00",
+    "fetched_at": "2026-04-29T10:00:28.388635+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "European Commission"
+    ],
+    "tone": "mixed",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar, Hungary's new prime minister, initiates Brussels negotiations to secure frozen EU funds. While the meeting is initially framed positively as a 'honeymoon,' the European Commission maintains cautious conditions regarding Hungary's democratic reforms.",
+    "title_hu": "Magyar megkezdi brüsszeli szerelmi évét",
+    "summary_hu": "Péter Magyar, Magyarország új miniszterelnöke, brüsszeli tárgyalásokat kezd a lefagyasztott uniós alapok felszabadítása érdekében. Bár a találkozó kezdetben pozitívnak tűnik, az Európai Bizottság körültekintő feltételeket támaszt a magyar demokratikus reformokkal kapcsolatban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "26b3313201a00ab8",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Magyar visits Brussels and Commissioner Mînzatu speaks to Euronews - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORU1iRjRlN3V6MDRNTmhVWVRDdFB6SVhoUFdUbVdtenRvZW1tREhUR2hmMXUxcmJQajl0Y1pGSmJ2UHd2Ums0eV9uejdEaUZzZDhKUldHaWRQSlRFOFNFM2JQUnFHc2ZSQnNZdEFEN240dXNyaUNKcEczTVlOZUxrdXk3b1IwcDZsNDFqRWNtbnRwSnlQV3doUldhSlpsZzdOZm5IWXVZLTNkT3k3RFlDUmJ5S296X0plZ0g0YmhxNFRZZnVQQWlYaVR1UkZiSnVRLUE?oc=5",
+    "published_at": "2026-04-29T05:48:14+00:00",
+    "fetched_at": "2026-04-29T10:00:36.013644+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Roxana Mînzatu",
+      "Euronews"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar, Hungary's new Prime Minister, visits Brussels for engagement with EU officials, including Commissioner Roxana Mînzatu. The visit continues momentum from the Apr 26–27 negotiations on frozen EU funds and signals active EU reintegration diplomacy nine days into the Tisza Party government.",
+    "title_hu": "Magyar Brüsszelben jár, és Mînzatu biztos beszél az Euronewsnak",
+    "summary_hu": "Péter Magyar, Magyarország új miniszterelnöke Brüsszelben járt az EU vezetőivel, többek között Roxana Mînzatu biztossal folytatott megbeszélésekre. A látogatás a fagyott uniós alapokra vonatkozó tárgyalásokat folytatja, és a Tisza Párt kormányának kilenc napja után az aktív uniós reintegrációs diplomáciáról tanúskodik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "481d740623a47c44",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Magyar to meet von der Leyen as Hungary races to access cash - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFY4OGhUNVlXMDZiNC1KYWlYSnJMRWwwMGRyQVV4aERFQUFtTlctbXhWQk1nZlA1Q1ZfdzNZbnhrWF84M3dZeTI1c2lSVEZkUXo3c0Rkcko1Q2IybklENXRqWXU1cmRDY3lJSmlVUXlLQWVVNW9lalA1SzgtREhJYXlVUnlMV2dfV054Y0l3dUt0ZkczRkRNSmYwWFlIVnp2cWFEcGRxT2cxalZxelE?oc=5",
+    "published_at": "2026-04-29T05:40:52+00:00",
+    "fetched_at": "2026-04-29T10:00:36.013608+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "European Commission"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar met with European Commission President Ursula von der Leyen to negotiate Hungary's access to frozen EU funds. The meeting represents a pivotal moment in Magyar's government's bid to reintegrate Hungary into the EU mainstream after 15 years of Orbán governance. Brussels is maintaining careful conditionality around fund disbursement pending further rule-of-law reforms.",
+    "title_hu": "Magyar von der Leyennel tárgyal, miközben Magyarország az EU-s pénzekhez igyekszik hozzáférni",
+    "summary_hu": "Péter Magyar az Európai Bizottság elnökével tárgyalt a fagyott uniós alapokhoz való hozzáférésről. A tárgyalások az Orbán-korból való EU-reintegráció kulcsmozzanata a Magyar-kormány számára. Brüsszel körültekintően kezelni az alapok felszabadítása feltételeit.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "fd2b04322752f2d3",
     "source": "Financial Times",
     "region": "uk",
@@ -118,6 +265,36 @@
     "quotes": []
   },
   {
+    "id": "c900096ac092df6a",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "EU in talks with Hungary’s Péter Magyar on workaround for frozen funds - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzlqZ2EyQXJvVWFHdlV6Q0lfVHd4LU93UGdwYzdjUzJneWRlcVBEbVRFQ0w5VGJoNmVpNUNyZXZFNXZEXzhfSVF0R3gyc1NwY1Z2OVVtUVlpVTRFQ0d0MFJLaU9uTXNsSFhoQ0N3NjB3eENUaW82alY3TXhLa2lpVXozem8?oc=5",
+    "published_at": "2026-04-29T04:00:27+00:00",
+    "fetched_at": "2026-04-29T10:00:12.353652+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "government transition",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission",
+      "Ursula von der Leyen"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "The European Commission is negotiating with Hungary's new Prime Minister Péter Magyar on potential solutions to unfreeze EU funds previously frozen during Orbán's rule. This follows Magyar's government formation on April 20 and demonstrates Brussels' cautious willingness to engage with his EU reintegration agenda, though conditionality remains firm. The talks represent a critical test of whether Magyar can unlock essential EU funding for Hungary's post-Orbán democratic transition.",
+    "title_hu": "Az EU tárgyalásokat folytat Péter Magyarral a fagyasztott EU-alapok feloldásáról",
+    "summary_hu": "Az Európai Bizottság tárgyalásokat folytat Magyarország új miniszterelnökével, Péter Magyarral az Orbán-era alatt lefagyasztott EU-alapok feloldásáról. Ez április 20-ai kormányformálás után történik, és Brüsszel óvatos nyitottságát mutatja az EU-s újraintegráció irányában, bár az feltételekhez kötöttség továbbra is marad. A tárgyalások kritikus próbája annak, hogy Magyar fel tudja-e oldani a magyar demokratikus átmenethez szükséges EU-finanszírozást.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "2948a5e059ac88e5",
     "source": "Politico Europe",
     "region": "eu",
@@ -169,6 +346,39 @@
     "is_relevant": 1,
     "main_actor": "other",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "6ad2c09fcea69a50",
+    "source": "The Economist",
+    "region": "uk",
+    "title": "To fight Russia, Europe needs Ukraine - The Economist",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUljeXV5ZzN5dEw5QlczOWNSQUhBTGEyR0xqUVpkY1VMRUNMdnJFZXlSelJ5TFFXSlRPOXlYRjEyOHA1VTR5MUgxZThEbUFLcDZKX1VLVUhyeGV5UjhOQTczcmpaVlgwa1lBTEQ0NG9xMzBtZHA5RHd5eVktdnN6T1hIeFRQLUc3RHdQbjFjMU8?oc=5",
+    "published_at": "2026-04-28T20:24:49+00:00",
+    "fetched_at": "2026-04-29T10:00:10.167340+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "EU relations",
+      "NATO"
+    ],
+    "actors": [
+      "Ursula von der Leyen",
+      "Donald Tusk",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "The Economist argues that Europe's strategic defense against Russian aggression requires deep integration with and sustained support for Ukraine. Hungary's new Magyar-led government, having recently lifted its veto on Ukraine aid and EU enlargement, is implicitly relevant to this EU-wide reorientation toward Ukrainian partnership.",
+    "title_hu": "Az Oroszország elleni küzdelem érdekében Európának szüksége van Ukrajnára",
+    "summary_hu": "Az Economist szerint Európa orosz agresszióval szembeni stratégiai védelme szoros integrációt és fenntartott támogatást igényel Ukrajna felé. Magyar új kormánya, amely nemrég feloldotta Ukrajna segélyezésére és az EU-bővítésre vonatkozó vétóját, implicit módon kapcsolódik ehhez az EU-szintű ukrajnai partnerség irányú átorientálódáshoz.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [
+      "Russia",
+      "Ukraine"
+    ],
     "quotes": []
   },
   {
