@@ -1,5 +1,268 @@
 [
   {
+    "id": "e666f65a71ce1e43",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Péter Magyar defends appointing brother-in-law as justice minister - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQjZsR3BmLWFERklwU0hCQzBodThBbklaODRVOEVmX2ZWM3BFRHpUMkVKdl83NG9fajFhalRaa0VzanlOTE5LaDZZUjlQQ1pjVVl5b2FxTU9DZnVwdHZrTGpaU2RZMlVJbWpldUkzTEdwQ3hMbDdLV1VxMnFFWGFVZzRTOVVQckZ3QlpBbG9KdUQ0bjRMU3JPcXJjWHRYRUptSkt3N2xKZFNoX0RKMHppZElTM3NydTl5SVBTMHlGam1oZVJSVnNoQS1n?oc=5",
+    "published_at": "2026-05-01T17:56:27+00:00",
+    "fetched_at": "2026-05-01T18:00:36.336449+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "corruption",
+      "democracy",
+      "judicial reform"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "Péter Magyar's new government faces early scrutiny as he defends appointing his brother-in-law as justice minister. The appointment raises concerns about nepotism and potential power consolidation just nine days into the government's tenure. The incident highlights tensions between the administration's democratic reform pledges and allegations of authoritarian-style executive appointments.",
+    "title_hu": "Magyar Péter sógora igazságügyi miniszteri kinevezésének védelme",
+    "summary_hu": "Magyar Péter új kormánya korai szakaszában kritikával szembesül, mivel sógoráról, az igazságügyi miniszterről szóló kinevezésről szóló védekezésbe kezdett. A kinevezés nepotizmus és hatalomkoncentráció miatti aggályokat vet fel, mindössze kilenc nappal a kormány megalakulása után. Az eset a demokráciamegújítási ígéretek és az autoritárius típusú végrehajtási kinevezések közötti feszültséget emeli ki.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "8b29acfc6bfa2d47",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Magyar defends appointing brother-in-law as justice minister - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkZEYlkyOGl0UGxHTVlQeEJyeVhjLTFkYU9OWmNZR1FuaDk5ZzhTa29nRG1zRV9iN0xITlF0LV9paWV6djQtUU5Uc0RtYkd1RGVyWTBrY0Y2N2dLR0k2MmRxRmpQam84ZV9LRjcwbGFKSXRhVk42X1I1N1hLUEFCbGdQZHBQSDhHNy02eTY4YlFvUUg1endZNm9pSzJINnRuQ0ZyQjlGTQ?oc=5",
+    "published_at": "2026-05-01T15:17:24+00:00",
+    "fetched_at": "2026-05-01T18:00:28.690226+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "judicial reform",
+      "corruption"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "Péter Magyar defended appointing his brother-in-law as justice minister, a decision raising nepotism concerns amid scrutiny of power consolidation. The appointment tests the government's rule-of-law commitments weeks after ending Orbán's 15-year rule.",
+    "title_hu": "Magyar megvédi sógora igazságügyi miniszterként való kinevezésének döntését",
+    "summary_hu": "Péter Magyar védte sógora igazságügyi miniszterként való kinevezésének döntését, amely nepotizmus miatt aggályokat vet fel. A kinevezés a kormány jogállamiság-ügyleti elkötelezettségét teszteli, Orbán 15 éves uralma után néhány héttel.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "558e27b02ecd6479",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Democracy Digest: Hungary’s Incoming PM Paves Way for Unfreezing of EU funds - far-rightmap.balkaninsight.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTlzZ0I4SzVrdDFrQXRRZnFiWElFT1lodV9jckIyaVcxenJPUUZRQlczNjFlRk84LS1JUEJ2MUtXRS0zZTZhMnJ0Ynk4Nkx4blhQU21sZXU1OS1lRWpQVXZMOHI5cnRLV0tvU2M0SlJJemxCX0VXU2trR2Zsc095bFdjQWdCYWozMDQ1c1FJUjZWQ25QMTltOWZibHZRRkxUUVYtajZDcXhlaU8zUXVkYTlKV1dkRmQ0RkduWTlTRDNEemZpcUZj?oc=5",
+    "published_at": "2026-05-01T08:44:05+00:00",
+    "fetched_at": "2026-05-01T18:00:45.152233+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new PM Péter Magyar is advancing negotiations to unfreeze EU funds previously withheld under the Orbán government. The Tisza Party's diplomatic efforts signal progress in Brussels relations and Hungary's reintegration into the EU mainstream.",
+    "title_hu": "Demokráciai Naplók: Az Új Miniszterelnök Utat Nyit az EU-Alapok Feloldásához",
+    "summary_hu": "Magyarország új miniszterelnöke, Péter Magyar lépéseket tesz az EU-alapok feloldásáért, amelyeket az Orbán-kormány alatt visszatartottak. A Tisza Párt diplomáciai erőfeszítései a brüsszeli tárgyalások előrehaladását és Magyarország EU-integráció felé vezető útját jelzik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b7284a6101b8ff42",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Democracy Digest: Hungary’s Incoming PM Paves Way for Unfreezing of EU funds - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDVZMnpyWTdkWi16ZUFGb0dDWVpUTGo4TEZmTkRtazkySGk0NFM5NEFvc1M3MUczQzVrRGwwMTFROWFuSnJCbk1pd2Fzak5sc28yd3VlV0VxZEJFdnRNYXBIMGVjd0FzbGo4bTZmVkxQbnVZV3RuQlRqblFKM0EwMFVZS2Q1b3FMWmpTMGlVYkxva3N3TzJKSjF0Mi1HSGo0QmZ4X0lQdzE2LUZ4bF9ncjlTNmVhUQ?oc=5",
+    "published_at": "2026-05-01T07:29:45+00:00",
+    "fetched_at": "2026-05-01T18:00:45.152192+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds",
+      "economy",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new Prime Minister Péter Magyar is making progress in negotiations to unfreeze EU funds suspended during the Orbán era. The article reflects the EU's support for Hungary's democratic transition and reintegration, with optimism about Magyar's ability to secure financial support for economic recovery.",
+    "title_hu": "Demokrácia Összefoglaló: Magyarország Új Miniszterelnöke Utat Nyit az EU-támogatások Feloldásához",
+    "summary_hu": "Magyarország új miniszterelnöke, Péter Magyar az Orbán-era alatt befagyasztott EU-támogatások feloldásáról tárgyal az Európai Bizottsággal, jelezve az unió támogatottságát az ország demokratikus átmenete és EU-s reintegrációja iránt. A cikk optimizmust tükröz a magyarországi gazdasági helyreállítás és az unióval való normalizált kapcsolatok kiépítésének perspektívájában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "40570574f5278b73",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary: What will become of Orban and his system? - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQams1bGp4RXpPZVV0NFlQN1lsckdZMUZjX1l3UTR1eUg1WGFibWFXRUkzR3Bjci13ZVg4Tzd1XzFweGt3eTFLNXdiT29ZV01CSDdXYnVMZHJ1RnJnQTczU3M1T2NwSXl2cVJMbUdSZGdlWXF4Y3ZtOUxMS01vUnlNd3VKa3BiZk9H0gGIAUFVX3lxTE42dlh2ZzVidURCcXBiM2kySEhNQk9LcnF2Q2FoTDluSzFsQWlsY2hhWW91TVo2M2JQQ2hWb3VYSVMyd2JtQTQ1aHVSUUdyeFc0aEZGaXdwem9PQlpfTm56LWxZZ0dOa0h3emlBWXVtckJYVnhFZlJGcmFLUVo4MU1PQjVnd3NqZEI?oc=5",
+    "published_at": "2026-05-01T06:52:53+00:00",
+    "fetched_at": "2026-05-01T18:00:40.054702+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "corruption",
+      "democracy",
+      "judicial reform"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "DW examines Viktor Orbán's personal and political fate following his loss of power to Péter Magyar's Tisza Party. The article investigates the future of Orbán's 15-year institutional system and questions of accountability in Hungary's democratic transition.",
+    "title_hu": "Magyarország: Mi lesz Orbán és rendszere sorsa?",
+    "summary_hu": "A DW vizsgálja Viktor Orbán személyes és politikai sorsát, miután elvesztette hatalmát a Tisza Párt előtt. A cikk Orbán 15 éves rendszerének jövőjét és a felelősségre vonás kérdéseit vizsgálja Magyarország demokratikus átmenete során.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "53033e16c4c445db",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "After Orbán's defeat, the EU faces tough questions about Ukraine's accession - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnYzWks2MDRrLVZlNjg3bFlhTDFTR2s2WXNaSllYMTZPTFJkQVVGcVB6R0FaektuaFdZbzhnVEFpaVJvd3pmRnhyX0lPQmEybGtSQ2swaEhQTjRwY2NVcktBNzZUdEFiaWZGdzRqZXNjZlFsdFV6Slc0YmpoaFYzWGRLelVwWWxiQUNCSmhjVmlERFNYN3VKRzhpN245dUpTdVlKSFBzUmlJTjE4N3N1aTIxQUIwZUllR1Vj?oc=5",
+    "published_at": "2026-05-01T06:30:43+00:00",
+    "fetched_at": "2026-05-01T18:00:36.336126+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "European Commission",
+      "Ukraine"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Orbán's defeat removes Hungary's veto on Ukraine's EU accession, eliminating the primary obstacle to EU enlargement action. This geopolitical shift raises questions about how the EU will now handle Ukraine's membership process under Hungary's new government.",
+    "title_hu": "Orbán veresége után az EU kemény kérdésekkel néz szembe Ukrajna csatlakozásával kapcsolatban",
+    "summary_hu": "Orbán veresége eltávolítja Magyarország vétóját az Ukrajna EU-csatlakozásával szemben, így feloldódik az EU-bővítés útjában álló fő akadály. Ez geopolitikai változást hoz az EU dinamikájában, és kérdéseket vet fel arról, hogyan alakul az Ukrajna csatlakozási folyamata az új magyar kormányzat alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "2873e0cca63eb804",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Volodymyr Zelenskyy’s push for EU membership strains ties with allies - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWhuLUhXc01jOTY3bDNPVlV2MEpiN2l3Z01BbDBIRFdmakRlTjRQWDBtenBoOXZmNDBSel9TTzV4cE5CMnBOSmNMODRGUmpDdVhTU2FCdVM4d3ZFZjVZVnpPVzR6R3dLRzB6ejRqd0VqR01WbEVielFIVWR4Ukk2MjRKVDU?oc=5",
+    "published_at": "2026-05-01T04:00:18+00:00",
+    "fetched_at": "2026-05-01T18:00:13.605509+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Volodymyr Zelenskyy",
+      "Péter Magyar",
+      "EU member states"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Zelenskyy's demand for full EU membership rather than symbolic status is straining relations with some allies in ongoing enlargement negotiations. Hungary, which just lifted its veto under the new Magyar government 9 days ago, is repositioning its diplomatic stance toward Ukraine and EU integration.",
+    "title_hu": "Volodimir Zelenszkij EU-tagsági sürgetése feszültséget okoz a szövetségesek között",
+    "summary_hu": "Zelenszkij teljes EU-tagsági követelése szimbolikus státusz helyett feszültséget okoz néhány szövetségessel az uniós bővítési tárgyalások közepette. Magyarország, amely az új Magyar-kormány alatt nemrég feloldotta hosszú ideig tartó vétóját, átpozicionálja diplomáciai megközelítését Ukrajna és az EU-integráció irányában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f35d937f5d08e19a",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Greece, Cyprus and Hungary worst offenders on press freedoms in EU - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjlCY0FET0xRbVFSVHFwX0xTMHMtRFBKaFNFdjg1WnBnZXZDWnA2S0dLOEZSdTVydWktRFFadHRkVnpfb1NiV2dWeEcxbG5sVmlIWmhFVGFYUjBjUWZjamoxTkJRZTZkZTVBNUJramRkVEhPV3ZKSGtVZ296WlBOclpHU0JDLVlfN2RYSHpLMVFoUE82cjhfU2trNEk?oc=5",
+    "published_at": "2026-04-30T15:26:00+00:00",
+    "fetched_at": "2026-05-01T18:00:32.657648+00:00",
+    "topics": [
+      "media freedom",
+      "democracy"
+    ],
+    "actors": [],
+    "tone": "critical",
+    "framing": "media_freedom",
+    "summary_en": "EUobserver ranks Hungary among the EU's worst performers on press freedom, alongside Greece and Cyprus. The designation highlights structural media weaknesses from the Orbán era that persist despite the April 2026 government transition. Magyar's announced state broadcaster restructuring remains incomplete regarding editorial independence.",
+    "title_hu": "Görögország, Ciprus és Magyarország az EU-ban a sajtórszabadság legrosszabb megsértői - EUobserver",
+    "summary_hu": "Az EUobserver Magyarországot az EU-ban a sajtórszabadság terén a legrosszabb teljesítmények közé sorolja, Görögország és Ciprus mellett. A minősítés az Orbán-era szerkezeti médiasérülékenységeit mutatja, amelyek megmaradnak az áprilisi kormányváltás után is. Magyar kezdeti közszolgálati médiaátalakítása szerkesztői függetlenség tekintetében továbbra is hiányos marad.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Greece",
+      "Cyprus"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "4628e4f056f7da75",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Hungarian voters are clear – corruption was main cause of fall of Orbán’s regime (18 days after the election) - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaFRobzYzSUhRaW5RQTZkVXYzbEpWUnNUam41QXpIc2xiQnEtU19LMWhNOU4wV2cxa2VVd2RTQWI0U1ZoS0ZDa3Z5dmZadTJ5a3V0aGg4NXRPQ3lXNGNQNWE3UDZHYmVjbUw5WEFLWEE2dGMwWmFmczktSUYxWGI2VUJmMDk1bnpfWGZXaDRDVmtDWU42ZnJmbktCV3oyVmhxTFVtSXlvOVJmWGlUcjVDcHhOSnAyN0FJLVhWT0dCSnkxN2ZhUmhwUG5LUDA5dFRq?oc=5",
+    "published_at": "2026-04-30T12:57:57+00:00",
+    "fetched_at": "2026-05-01T18:00:32.657700+00:00",
+    "topics": [
+      "government transition",
+      "corruption",
+      "elections",
+      "democracy"
+    ],
+    "actors": [
+      "Hungarian voters",
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "corruption",
+    "summary_en": "Eighteen days after the April 2026 election that ended Viktor Orbán's 15-year rule, EUobserver reports that Hungarian voters identified corruption as the primary driver of his regime's downfall. The analysis reflects public consensus on systemic accountability and validates the democratic rejection of Orbán's governance model. This assessment frames Hungary's political transition as a principled, values-based rejection of institutional corruption rather than routine partisan realignment.",
+    "title_hu": "A magyar választók álláspontja egyértelmű – a korrupció volt Orbán rendszerének bukásának fő oka",
+    "summary_hu": "A választás után 18 nappal az EUobserver arról számol be, hogy a magyar választók a korrupciót azonosították Orbán 15 éves uralma végének elsődleges okaként. Az elemzés a közösségi konszenzust tükrözi a rendszerszintű elszámoltatásról, és validálja Orbán rendszerének demokratikus elutasítását. Ez az értékelés Magyarország politikai átmenetét értékalapú korrupció-ellenes elutasításként mutatja be, nem csupán szokványos pártpolitikai váltásként.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "31e6379522eb2180",
     "source": "DW English",
     "region": "de",
