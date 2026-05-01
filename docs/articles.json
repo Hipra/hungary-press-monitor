@@ -263,6 +263,212 @@
     "quotes": []
   },
   {
+    "id": "6eefedfd094ec06f",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Slovakia may lose EU funds like Hungary. MEPs warned Fico not to follow Orbán’s path - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZDY2UG9oQkVaRTlLSmFuam1iVlB5RkFmejh1OXd2SVEwaGw2MjFUNkdJODYtaHBXYWRocjhoNzR3RGt4bmw3d0swS29OaWhwa0NhT2J6eW9yaktlbmQtUW1LMk0yWU1MWVdEUHY2SFhRODBiVkxiT0RnRUpFUFQ5cWNjb3h5UkVNVEhoazNRM1k2WVg5Zmo5UVQ4ekRXX29sdXozZHJtNFZIT1JfVDVWcTNIUQ?oc=5",
+    "published_at": "2026-04-30T10:45:00+00:00",
+    "fetched_at": "2026-05-01T18:00:32.657628+00:00",
+    "topics": [
+      "EU funds",
+      "rule of law",
+      "EU relations"
+    ],
+    "actors": [
+      "Robert Fico",
+      "MEPs",
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "eu_integration",
+    "summary_en": "MEPs warned Slovakia's PM Fico that his government risks losing EU funds if it follows Viktor Orbán's path, citing Hungary's experience of fund freezes due to rule-of-law concerns. Hungary's EU funding situation is presented as a cautionary example for Slovakia's governance choices.",
+    "title_hu": "Szlovákia Magyarország módjára veszíthet EU-s alapokat. Az EP-képviselők arra figyelmeztették Ficót, hogy ne kövesse Orbán nyomdokain",
+    "summary_hu": "Az EP-képviselők arra figyelmeztették Szlovákia miniszterelnökét, Ficót, hogy kormánya az EU-s alapok elvesztésének kockázatát vállal, ha Viktor Orbán útját követi, meghivatkozva Magyarország jogállamisághoz kapcsolódó aggályok miatt bejelentett alapfagyasztásának tapasztalatait. Magyarország EU-s finanszírozási helyzete figyelmeztetésül szolgál Szlovákia kormányzati döntéseihez.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Slovakia"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "2202d5b9881b8b34",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Europe Today: Péter Magyar first visit to Brussels and China-EU tensions rising - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSndpc2lKTXNzNU5admdPUnVlTXBEQklVQnB4bzNIYklVeWdncFNqUk5QWGpQZm9wRGtuWGVLcEdveEU4Y21HYXRJUjMxMXRBNUpCSXpYejA5ak5Rbmt4Q0wwTmZ5enFJWkFZVnczYk5KQUU1UFc4d0s2Q2FfTWNfZmpjLUFSZVVUUS1RYWF6MnFlM1ZpX2dtaWk5cGcweGthVHBoMUZzWXk2RzRlV3NzdlVtSS1ob0RvOGxYaVduY2ZLUQ?oc=5",
+    "published_at": "2026-04-30T06:01:34+00:00",
+    "fetched_at": "2026-05-01T18:00:36.336224+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar made his first official visit to Brussels as Hungary's new prime minister, signaling the country's reintegration with EU institutions after the Orbán era. The visit underscores Hungary's geopolitical realignment as China-EU tensions rise.",
+    "title_hu": "Európa Ma: Péter Magyar első brüsszelei látogatása és a Kína-EU közötti feszültség nő",
+    "summary_hu": "Péter Magyar új magyar miniszterelnökként először látogatott Brüsszelbe, jelezve az ország integrálódását az EU intézményeibe az Orbán-korszak után. A látogatás Magyarország geopolitikai átcsoportosulását hangsúlyozza, miközben a Kína-EU közötti feszültség nő.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f01b833de6683c93",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "After the Fall: Orban’s System Unravels as Fidesz Faces Existential Crisis - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3dMYnBIXzFxMllRQkZtMWZ2bTVMVlBLbU1fSzlpTmplOXVrbDNjOWRvNmoyaXZyOGpXeTNZejRBTkRnS2gwRnVMNjgyNDFaazlLM0wzWmtma0lTd28yQi1xLTEtaFp5eXR6aFBxQ2RlY0YtRFA2MEh5VFp6S0l6dTA5Wi1NMzRxbEU1V1BRM1pBd0l6Vi1meGxrWmtnTWRfVUZ6bWd4dldOOG1EVl9CN3hrUQ?oc=5",
+    "published_at": "2026-04-30T05:52:14+00:00",
+    "fetched_at": "2026-05-01T18:00:45.152256+00:00",
+    "topics": [
+      "government transition",
+      "Fidesz opposition",
+      "corruption",
+      "rule of law",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Fidesz",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "corruption",
+    "summary_en": "Orbán's political system faces institutional collapse following his electoral defeat, with the Fidesz party confronting organizational crisis and the unraveling of 15-year-old power structures. The article documents how Magyar's government is actively unwinding Orbán-era systems, including blocking asset transfers by Orbán-linked individuals.",
+    "title_hu": "Az esés után: Orbán rendszere széthull, a Fidesz létezésbeli válsággal küzd",
+    "summary_hu": "Orbán választási veresége után rendszere intézményi összeomlással küzd, a Fidesz párt pedig szervezeti válsággal és Orbán-kori struktúrák szétzüllésével szembesül. A cikk azt dokumentálja, hogyan bomlanak fel 15 év koncentrált hatalmára épített intézmények, ahogy Magyar kormánya átveszi az irányítást és blokkolja az Orbán-hoz kötődő személyek vagyonátruházásait.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "fidesz",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "5862869d95c36730",
+    "source": "BBC",
+    "region": "uk",
+    "title": "Hungary's next PM hails EU talks and vows frozen funds will be paid out soon - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuc0V3MHRlel9lX2lhXzZqZkFFT1BGdlRMbWlVcWZ1aXNYcDZGMmVVNmR3YWpQQm5oemc5UTlnN1N1NTZWbFFMZHg4R2JRTWY0SEM1TnA1cnd4QQ?oc=5",
+    "published_at": "2026-04-29T19:51:54+00:00",
+    "fetched_at": "2026-05-01T18:00:07.981839+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new Prime Minister Péter Magyar has hailed EU negotiations and pledged that frozen EU funds will be disbursed soon. The statement reflects his government's priority on EU reintegration and securing financial support following April's Brussels talks with EU leadership. This optimistic framing signals Magyar's commitment to rapidly unlocking EU resources previously stalled under the prior administration.",
+    "title_hu": "Magyarország új miniszterelnöke üdvözli az EU-tárgyalásokat és ígéri, hogy a befagyasztott alapok hamarosan kifizetésre kerülnek",
+    "summary_hu": "Magyarország új miniszterelnöke, Péter Magyar üdvözölte az EU-tárgyalások eredményeit és ígérte, hogy a befagyasztott uniós alapok hamarosan kifizetésre kerülnek. Az állítás az új kormány EU-reintegrációs és gazdasági helyreállítási prioritásait tükrözi. Ez az áprilusi brüsszeli tárgyalások után történt, amelyekben a magyar vezetés az EU-vezetőséggel az elakadt finanszírozás feloldásáról tárgyalt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "4fe19c1434ae8639",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Magyar targets May deal to unlock €10B of EU funds for Hungary - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFZIZ0M0QXgwS3J4NWZMNXIwWER3UG96NGN4VzZfNEc0VVZHS205dkVqSjRSdDdhcVpjRlRzVkRqVXBIYVJhRGt1bkZDTXE1RkVBbVdRSVFYNE1OVW45M0pLbXNoNFVJY0VPWjhsZXJib2lXaWp4Y3pSc3pEQnhZNDBfbjE5OHRqVUI1c3hZUWk5ZFJqZGc?oc=5",
+    "published_at": "2026-04-29T18:45:00+00:00",
+    "fetched_at": "2026-05-01T18:00:28.690251+00:00",
+    "topics": [
+      "EU funds",
+      "EU relations",
+      "economy",
+      "government transition",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar's new Hungarian government is targeting a May deadline to unlock approximately €10 billion in frozen EU funds through negotiations with Brussels. The deal represents a cornerstone of Magyar's EU reintegration agenda following Viktor Orbán's 15-year rule.",
+    "title_hu": "Magyar célja: május végéig megállapodás az EU 10 milliárd eurós alapjainak felszabadítására",
+    "summary_hu": "Péter Magyar új kormánya az EU-val tárgyalva május végéig szeretne megállapodást elérni körülbelül 10 milliárd euró felszabadítása érdekében. Az egyezség Magyar EU-s visszaintegrációs programjának sarokköve Viktor Orbán 15 éves uralma után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "341a6f21f4a05c64",
+    "source": "The Times",
+    "region": "uk",
+    "title": "Hungary ‘practically rejoining EU’ as new PM seeks closer ties - The Times",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVhQNV9BRDN3aFlMNHlKVnBFWE1tYzItNks3SjIyLWNEQXl5NE5ISWN6LUM5U2hkTm9kb2JqanlNeHh5Z1ROLV9DZ0d3T1ZUaGl5SnhFM0pqdktvNkgzUkV6UmlTbE5wdWVTNnNTcHlxMjBtalFFQWREVXJuaE80Q0R1azRCWWozWTFWcjE4bmRjZGk2cmc?oc=5",
+    "published_at": "2026-04-29T18:30:36+00:00",
+    "fetched_at": "2026-05-01T18:00:15.566412+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new Prime Minister Péter Magyar is signalling a decisive pivot toward European Union reintegration, describing the country as 'practically rejoining' EU structures. The shift marks a dramatic reversal from Viktor Orbán's confrontational approach to Brussels and aligns with Magyar's April 26–29 negotiations with EU leadership.",
+    "title_hu": "Magyarország 'gyakorlatilag visszatérne az EU-hoz', az új miniszterelnök szorosabb kapcsolatot keres",
+    "summary_hu": "Magyarország új miniszterelnöke, Péter Magyar határozottan jelzi az Európai Unióval való újraintegráció felé fordulást, és azt mondja, az ország 'gyakorlatilag visszatérne' az EU-szerkezetekbe. Az elmozdulás drasztikus fordulatot jelent Viktor Orbán brüsszelli konfrontációs megközelítésétől, és összhangban áll Magyar április 26–29-i tárgyalásaival az EU vezetésével.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "327b92ebc22e3268",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Magyar says EU money to arrive in Hungary 'soon' after Brussels trip - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZlBaUmU1Yjg4U1lTUld0UEZ4bjBXNEdINjg4azEwWE1YVnZYMHNYd2ltTjQ1dUhFR0tta3RDaGRDdUJ3bkttS3FpTDdOemJLVmE3LUdDYmVpLTR2S1g0a1FiWUctUzZSZ044UHZJLTI2UGxCOV9kWG4xbGtvLXRha1FZT0pyeHJjMG9VNzZtaUwydHAyaXlaMWtrNzhuSGp3NV8yUlE2LVhjMlVWQjN4LVF3?oc=5",
+    "published_at": "2026-04-29T17:25:15+00:00",
+    "fetched_at": "2026-05-01T18:00:36.336078+00:00",
+    "topics": [
+      "EU funds",
+      "EU relations",
+      "economy",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar announced after Brussels negotiations that EU funds will arrive in Hungary soon, signaling progress on unlocking frozen EU support contingent on rule-of-law and governance reforms. The statement reflects Magyar's intensive late-April talks with the European Commission to address structural economic and judicial conditionality.",
+    "title_hu": "Magyar azt mondja, hogy az EU pénz hamarosan érkezik Magyarországra brüsszeli út után",
+    "summary_hu": "Péter Magyar brüsszeli tárgyalásai után azt jelentette be, hogy az EU-s pénzek hamarosan érkeznek Magyarországra, jelezve az előrehaladást a jogállamisági és irányítási reformokhoz kötött befagyasztott EU-s támogatás feloldásában. Az állítás magyar kormányfő intenzív április végi tárgyalásait tükrözi az Európai Bizottsággal a szerkezeti gazdasági és bírósági kondicionálitás kezeléséről.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "EU money to arrive in Hungary 'soon'"
+    ]
+  },
+  {
     "id": "31e6379522eb2180",
     "source": "DW English",
     "region": "de",
