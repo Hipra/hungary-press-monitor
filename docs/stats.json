@@ -1,16 +1,16 @@
 {
-  "total_articles": 289,
-  "analyzed_articles": 289,
+  "total_articles": 290,
+  "analyzed_articles": 290,
   "tone": {
     "critical": 37,
     "positive": 85,
     "neutral": 138,
-    "mixed": 28,
+    "mixed": 29,
     "hopeful": 1
   },
   "framing": {
     "rule_of_law": 32,
-    "eu_integration": 54,
+    "eu_integration": 55,
     "geopolitics": 87,
     "media_freedom": 5,
     "corruption": 10,
@@ -27,7 +27,7 @@
     "government transition": 2
   },
   "region": {
-    "eu": 106,
+    "eu": 107,
     "cee": 12,
     "de": 34,
     "uk": 54,
@@ -37,7 +37,7 @@
   },
   "source": {
     "Reuters": 42,
-    "Politico Europe": 35,
+    "Politico Europe": 36,
     "DW English": 33,
     "Euronews": 30,
     "Euractiv": 24,
@@ -61,13 +61,13 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 229,
-    "EU relations": 174,
+    "government transition": 230,
+    "EU relations": 175,
     "geopolitics": 125,
     "democracy": 111,
     "foreign policy": 75,
-    "rule of law": 72,
-    "EU funds": 66,
+    "rule of law": 73,
+    "EU funds": 67,
     "elections": 49,
     "economy": 37,
     "energy": 26,
@@ -83,7 +83,7 @@
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 226,
+    "Péter Magyar": 227,
     "Viktor Orbán": 141,
     "European Commission": 40,
     "Volodymyr Zelenskiy": 39,
@@ -105,7 +105,7 @@
     "European Council": 5
   },
   "main_actor": {
-    "magyar_peter": 87,
+    "magyar_peter": 88,
     "orban_viktor": 57,
     "hungary_country": 81,
     "other": 28,
@@ -147,7 +147,7 @@
     "2026-04-25": 7,
     "2026-04-26": 4,
     "2026-04-27": 8,
-    "2026-04-28": 15,
+    "2026-04-28": 16,
     "2026-04-29": 24,
     "2026-04-30": 5,
     "2026-05-01": 8
@@ -162,7 +162,7 @@
     "Politico Europe": {
       "critical": 7,
       "neutral": 15,
-      "mixed": 5,
+      "mixed": 6,
       "positive": 8
     },
     "Balkan Insight": {
@@ -275,10 +275,10 @@
       "mixed": 13
     },
     "Politico Europe": {
-      "critical": 20,
-      "neutral": 43,
-      "mixed": 14,
-      "positive": 23
+      "critical": 19,
+      "neutral": 42,
+      "mixed": 17,
+      "positive": 22
     },
     "Balkan Insight": {
       "positive": 33,
@@ -370,5 +370,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-02T06:15:14.381200+00:00"
+  "last_updated": "2026-05-02T10:09:55.076498+00:00"
 }

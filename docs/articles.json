@@ -1216,6 +1216,36 @@
     "quotes": []
   },
   {
+    "id": "627ab2b7f6fcec21",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Várhelyi faces stinging rebuke from MEPs as Magyar visits Brussels - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0tRRlExbU1KeHUxMGhuY2Y5Zks4M00zZVBfc0xDYkdpM2xYeURZbklHS3VfWXdaTzBJS1pQcWpxSXRYVTFIN0JxRkF6alFoVnFoLWg3QWJTdFdXYUJtTVFCeUE5Vmd1V1o5MW5ERE9HNFNZQjJjYVJoa0RhOUt0LWp6RWJVMWVZQ3ZlNWRsQlpHWmRPYUpqb3RXQzlReVlrdlNZVDRsZlZOWUN3Q1BpM0hScU9Vd0I0ZnZ1aQ?oc=5",
+    "published_at": "2026-04-28T17:21:00+00:00",
+    "fetched_at": "2026-05-01T18:00:28.690275+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "rule of law",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Olivér Várhelyi",
+      "MEPs"
+    ],
+    "tone": "mixed",
+    "framing": "eu_integration",
+    "summary_en": "During Péter Magyar's Brussels visit for EU funds negotiations, European Parliament members delivered a stinging rebuke to Olivér Várhelyi, Orbán-era commissioner. The criticism underscores EU accountability expectations as the new Hungarian government seeks rule-of-law reset and institutional reconstruction.",
+    "title_hu": "Várhelyi éles kritikát kapott az MEP-ektől Magyar brüsszeli látogatása alatt",
+    "summary_hu": "Péter Magyar brüsszeli látogatása során, ahol EU-s forrásokért tárgyalt, az Európai Parlament képviselői éles kritikát mértek Orbán-korszak biztosára, Olivér Várhely[i]re. A kritika az EU elszámoltatási igényeit mutatja, mivel az új magyar kormány az igazságszolgáltatási függetlenség helyreállítása felé halad.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "295e86b0098d5c2f",
     "source": "The Economist",
     "region": "uk",
