@@ -469,6 +469,189 @@
     ]
   },
   {
+    "id": "bb77842645d17225",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's Magyar says he had 'successful' talks on funds with EU's von der Leyen - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSFNoTHJzMHlCemVQc1Z4RmJUR3p1ZkRNTHlWMWpnR0RIbHRrbTIxUXhaMDFUN3h0TEJIeC01VzNRMGJWMlRQdjZ3UmtmcDFKRFRvcko3Yk0zVXZja2RvMWpfcTB5U050alRWbFRJRDU4bG5MQ0szOVFFazJJaUVuaUdoNDIwbjhVc1RyTHpGalhfa3hSQnZOYzBzQmJWMVdZSTZ1Q3hVWWc5V2ZHMGI5cXZZWHFZUQ?oc=5",
+    "published_at": "2026-04-29T16:28:19+00:00",
+    "fetched_at": "2026-05-01T18:00:04.450231+00:00",
+    "topics": [
+      "EU relations",
+      "economy",
+      "EU funds",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Péter Magyar claims successful EU fund negotiations with Commission President von der Leyen on April 29, aiming to unlock approximately €10 billion in frozen EU support. The talks represent the culmination of Brussels negotiations (April 26–29); context indicates Brussels maintained firm conditionality despite Magyar's optimistic framing. This marks a critical moment in Hungary's EU reintegration and fund access.",
+    "title_hu": "Magyar: sikeresek voltak az uniós alapokról szóló tárgyalások von der Leyennel",
+    "summary_hu": "Péter Magyar sikeresnek nevezte az Európai Bizottság elnökével, von der Leyennel folytatott, körülbelül 10 milliárd eurót feloldó uniós alapokkal kapcsolatos tárgyalásait 2026. április 29-én. A beszélgetések a brüsszeli tárgyalások (április 26–29) csúcspontját képezik; a háttérinformációk szerint Brüsszel szigorú feltételeket tartott, függetlenül Magyar optimista keretezésétől. Ez kritikus mozzanat a magyarország EU-integrációjában és az alapokhoz való hozzáférésben.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "successful talks on funds"
+    ]
+  },
+  {
+    "id": "e510339ef9264e29",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "EU warns Hungary and Slovakia on fuel price discrimination - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTdsd1JFQ0o5MktVWEZtRktOZkZLcHAyUk1ieEJqMW83OEFDNFB5TzFRWjVsVVhhYXZLS3BwTE5ZNi02aF9WS2ZMTy1pRjB0X1M1cjNNYjhnOThMSk9zUEEyNVppemotdkJKaGVoNWVWem9hcDFpalAxSWRYc2cxUXBSWk8?oc=5",
+    "published_at": "2026-04-29T14:42:10+00:00",
+    "fetched_at": "2026-05-01T18:00:13.605462+00:00",
+    "topics": [
+      "economy",
+      "EU relations"
+    ],
+    "actors": [
+      "EU Commission",
+      "Hungary",
+      "Slovakia"
+    ],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "The EU has warned Hungary and Slovakia about potentially discriminatory fuel pricing practices. This represents an economic compliance issue for Hungary's new government as it seeks to unlock frozen EU funds and rebuild relations with Brussels.",
+    "title_hu": "Az EU figyelmeztet Magyarországot és Szlovákiát az üzemanyag-ár diszkriminációra",
+    "summary_hu": "Az EU figyelmeztetést adott ki Magyarország és Szlovákia számára az üzemanyag-árak potenciálisan diszkriminatív gyakorlata miatt. Ez gazdasági megfelelőségi kérdést jelent az új magyar kormány számára, amely igyekszik feloldani a befagyasztott EU-forrásokat és helyreállítani a brüsszeli kapcsolatokat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Slovakia"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "d7ac6cb3e1474baf",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Brussels takes Hungary to court over supermarket tax - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbXdCem95VHRGd0JSQjJIZ0tGT2s5SXl4eDlXVlhIbGdlMVVfSHhjUTlpdDB4SzQycUtuZ09SWl9mVkVjU0IyelJza0NzVUNNWERfNmVZN0VOMS00a0RGQUZwRkExU1BDd1k2dzR0VWpsRW5oUVNjWFFURzJQN2hhVFluWlZTbzR2LWQ0?oc=5",
+    "published_at": "2026-04-29T13:17:36+00:00",
+    "fetched_at": "2026-05-02T02:00:31.070265+00:00",
+    "topics": [
+      "EU relations",
+      "economy",
+      "rule of law",
+      "EU funds"
+    ],
+    "actors": [
+      "European Commission",
+      "Hungary"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "The European Commission is taking legal action against Hungary over a supermarket tax implemented during the Orbán era. The lawsuit establishes that institutional fiscal liabilities remain with the Hungarian state regardless of political transition. This signals that EU enforcement against legacy Orbán-era policies will continue independently of the new Magyar government's reform agenda.",
+    "title_hu": "Brüsszel bíróság elé viszi Magyarországot az élelmiszer adó miatt",
+    "summary_hu": "Az Európai Bizottság jogi eljárást indít Magyarország ellen az Orbán-korszakban bevezetett szupermarketi adó miatt. A per azt jelzi, hogy az intézmények felelőssége az államot követi, függetlenül a politikai váltástól. Az EU az Orbán-kori öröklött politikák ellen továbbra is érvényesíteni fogja a jogállamiság követelményeit, az új magyar kormányzat reformtörekvéseitől függetlenül.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "6f01d10b2c4c6758",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary inspires Israeli opposition bid to defeat Netanyahu - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0tnNWd4Y2lyZWM2QXRXNXY4Q3hkUDNObGpsODFPalFKN0dhTVNoMm9EeURGNWUtTlVPLXZZSnA3Q29XblRqRzk3SFFjODJMek1qUkJEUUdrWk81aG9PTzJGY29LT0h6Y1pCbjZUWmxvakxMQkhOb2YtNkE0Ry1QTHN1bWZUc2tNREJ1SGRHLUQ4a0lCQ2RF0gGXAUFVX3lxTE5HS2c1Z3hjaXJlYzZBdFc1djhDeGRQM05samw4MU9qUUo3R2FNU2gyb0R5REY1ZS1OVU8tdllKcDdDb1duVGpHOTdIUWM4Mkx6TWpSQkRRR2taTzVob09PMkZjb0tPSHpjWkJuNlRabG9qTExCSE5vZi02QTRHLVBMc3VtZlRza01EQnVIZEctRDhrSUJDZEU?oc=5",
+    "published_at": "2026-04-29T12:18:00+00:00",
+    "fetched_at": "2026-05-01T18:00:40.054972+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections"
+    ],
+    "actors": [
+      "Israeli opposition",
+      "Benjamin Netanyahu",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's democratic transition, where Péter Magyar's Tisza Party defeated Viktor Orbán's 15-year authoritarian rule, is inspiring Israeli opposition figures attempting similar coalition strategies to unseat Prime Minister Benjamin Netanyahu.",
+    "title_hu": "Magyarország ihleti az izraeli ellenzék Netanyahu legyőzésére irányuló kísérletét",
+    "summary_hu": "Magyarország demokratikus átmenete, ahol Magyar Péter Tisza Pártja legyőzte Orbán Viktor 15 éves autokrata uralmát, inspirálja az izraeli ellenzéket, amely hasonló koalíciós stratégiákat próbál meg alkalmazni Benjamin Netanjahu miniszterelnök megdöntésére.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Israel"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "80db6bbf0b23a50d",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary inspires Israeli opposition bid to defeat Netanyahu - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjR4Nm1vU1AyVHdYaUlhc1VlRjVGLVZTTGk1WllzanowemhzbzNnYnJPQUpfZkZ2OVlEaURDQk84dmFaTjdKMDlrM0NrbkIwemRBd3ptSlRyYTFuSlZ0bllUaEt3RndRd1RvVWRjVGpPS1VZM2VabWpMZGdpWVFWQlNWd01vREZzQzkzZElLeXZuVnNSU0RF0gGXAUFVX3lxTE5HS2c1Z3hjaXJlYzZBdFc1djhDeGRQM05samw4MU9qUUo3R2FNU2gyb0R5REY1ZS1OVU8tdllKcDdDb1duVGpHOTdIUWM4Mkx6TWpSQkRRR2taTzVob09PMkZjb0tPSHpjWkJuNlRabG9qTExCSE5vZi02QTRHLVBMc3VtZlRza01EQnVIZEctRDhrSUJDZEU?oc=5",
+    "published_at": "2026-04-29T12:18:00+00:00",
+    "fetched_at": "2026-05-01T22:00:37.206723+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections"
+    ],
+    "actors": [
+      "Netanyahu",
+      "Péter Magyar",
+      "Israeli opposition"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's successful democratic transition in April 2026, where Péter Magyar's Tisza Party ended Viktor Orbán's 15-year authoritarian rule with a two-thirds majority, is reportedly inspiring Israeli opposition efforts to defeat Netanyahu. The parallel illustrates successful democratic change as a strategic model for opposition movements against authoritarian rule.",
+    "title_hu": "Magyarország inspirálja az izraeli ellenzéket Netanjahu ellen",
+    "summary_hu": "Magyarország sikeres demokratikus átmenete 2026 áprilisában, amikor Péter Magyar Tisza Pártja kétharmados többséggel véget vetett Viktor Orbán 15 éves autoritárius uralmának, állítólag inspirálja az izraeli ellenzék Netanjahu legyőzésére irányuló erőfeszítéseit. A párhuzam azt mutatja, hogy a sikeres demokratikus változás modellként szolgálhat az ellenzéki mozgalmaknak az autoritárius vezetés ellen.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Israel"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "b6a2f384325a2cdc",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Orbán’s culture war comes to Brussels – courtesy of Balázs not Viktor - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUZnQi1uWXFkY1pFcGhfUDIzWlRVSW9xR1lsNTNQLTNWYXh6YlRGeWF5aVlLQXEzdm1CYnh0c2llT3k1OElSLUgzOVRhN2VuODgweVJlU0QyLXV5Y0wxVjBJYUZ6eXdacTNsOUZWNnpiTkFiMjZGUktvN3VrUHhKdFRBbWFGUm9GTVlWSHF0US03N2locEZnaWVZeE01Zw?oc=5",
+    "published_at": "2026-04-29T10:19:31+00:00",
+    "fetched_at": "2026-05-01T18:00:30.473918+00:00",
+    "topics": [
+      "rule of law",
+      "EU relations",
+      "Fidesz opposition",
+      "democracy",
+      "media freedom"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Balázs Orbán",
+      "European institutions"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "A key figure from Viktor Orbán's political circle is advancing the former PM's conservative 'culture war' agenda within Brussels institutions, demonstrating the persistence of Orbán-era ideological positions in EU forums despite his electoral defeat and the Magyar government's EU reintegration strategy.",
+    "title_hu": "Orbán kultúrháborúja Brüsszelbe érkezik – Balázs közvetítésével, nem Viktorként",
+    "summary_hu": "Viktor Orbán korábbi körének egy kulcsfigurája a volt kormányfő konzervatív 'kultúrháborús' programját terjeszti a brüsszeli intézmények között, demonstrálva az Orbán-korszak ideológiai pozícióinak fennmaradását az uniós fórumokon annak ellenére, hogy Orbán szavazáson vereséget szenvedett és a Magyar-kormány az EU-val való újraintegráció útján halad.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "31e6379522eb2180",
     "source": "DW English",
     "region": "de",
@@ -638,6 +821,35 @@
     "summary_en": "The European Commission is taking Hungary to court over a retail tax policy from the Orbán era. The legal action occurs as Péter Magyar's government seeks EU reintegration and marks a potential complication to the new government's reform agenda. It underscores how legacy Orbán-era policies remain subject to EU enforcement mechanisms independent of political transitions.",
     "title_hu": "Az EU bíróságra viszi Magyarországot az Orbán-korszak kiskereskedelmi adó miatt",
     "summary_hu": "Az Európai Bizottság bíróságra viszi Magyarországot az Orbán-korszak kiskereskedelmi adótörvénye miatt. A jogi eljárás Péter Magyar kormányának az EU-val való reintegrációs törekvésével egyidejűleg indul, és potenciálisan bonyolítja az új kormány reformterveit. Ez rávilágít arra, hogy az Orbán-korszak öröksége továbbra is az EU-s jogérvényesítés tárgya marad az átmenet után is.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "7751627e4163a170",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "EU to take Hungary to court over Orbán-era retail tax - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0Q4VlBYY1djeC1iZ3Q5TWxDNEtwNU5nZ21CTnI3TnJzSnZYNE9LWUhqTW1vWG9VQi1ENmVkbU52RWk4Mm9keXJmRl92ZlZreVFpV2poRXhCSUY4b2hKdzdockJvdzZ1VGIzRDhGZEV1N0VKQ3lIZVdTV19FdHFmTEhIWV8?oc=5",
+    "published_at": "2026-04-29T05:01:40+00:00",
+    "fetched_at": "2026-05-01T18:00:13.605828+00:00",
+    "topics": [
+      "rule of law",
+      "EU relations",
+      "economy"
+    ],
+    "actors": [
+      "European Union",
+      "Hungary",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "The EU is taking legal action against Hungary over a retail tax policy from the Orbán era. This action establishes that legacy state policies remain subject to EU enforcement and legal accountability, regardless of the recent political transition.",
+    "title_hu": "Az EU bíróságra akar vinni Magyarországot az Orbán-érás kiskereskedelmi adó miatt",
+    "summary_hu": "Az EU bírósági eljárást indít Magyarország ellen az Orbán-korszak kiskereskedelmi adópolitikája miatt. A lépés azt mutatja, hogy az örökölt állami politikák továbbra is az EU jogérvényesítésének és jogi felelősségre vonásnak vannak kitéve, függetlenül a közelmúltbeli politikai váltástól.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
