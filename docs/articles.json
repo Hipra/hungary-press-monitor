@@ -1913,6 +1913,36 @@
     "quotes": []
   },
   {
+    "id": "c72e045ebaf41267",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "With Orbán gone, now is time for EU to sanction Russia’s Patriarch Kirill - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEFPcU5WdzJkakU5VDdONGVNS3FsRmo5TmhRUXZNS2N1X09hcjVzNk03NHRnQzZHRHlKV3NpWmUxU0c3Z0dLbVFWY2hpY0dCS3JPTFBhTGJlR1RSd0gtd2FNSzZkTktURUpjRVVVMHh6S2M4RjNrNW45N3VoTEM3TE1ZencxQWJKYVlVNENVUmpFRVFIcjVGQmFIMjNJVG1UZmpVbg?oc=5",
+    "published_at": "2026-04-26T09:00:00+00:00",
+    "fetched_at": "2026-05-02T18:00:33.443841+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "EU relations",
+      "Russia deals"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Patriarch Kirill",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "EUobserver argues that Viktor Orbán's departure removes a major obstacle to EU sanctions against Russia's Patriarch Kirill. With Péter Magyar's government in place, the EU can now pursue Russia-related measures without Hungarian vetoes blocking consensus decisions.",
+    "title_hu": "Orbán után itt az idő az EU-nak szankciókat bevezetni Oroszország Patriarchája ellen",
+    "summary_hu": "Az EUobserver szerint Orbán eltávozásával az EU végre meghozhatja azokat a döntéseket, amelyeket eddig a magyar veto megakadályozott, beleértve szankciókat az orosz ortodox egyház vezetője, Kirill pátriárka ellen. Péter Magyar új kormánya nyitottabb az oroszországi nyomásra, és eltávolít egy kulcsfontosságú akadályt az EU-s Oroszország-ellenes intézkedések elől.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "287d9c0552222322",
     "source": "Washington Post",
     "region": "us",
