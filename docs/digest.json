@@ -1,41 +1,49 @@
 {
-  "top_story_en": "Péter Magyar is under fire for appointing his brother-in-law as justice minister, marking the first nepotism allegation directed at the new government — a significant symbolic blow to its rule-of-law credentials just 12 days in.",
-  "top_story_hu": "Péter Magyart az igazságügyi miniszteri posztra kinevezett sógora miatt éri bírálat — ez az első nepotizmussal kapcsolatos vád, amely az új kormányt érinti, és komoly csapást mér annak jogállamisági hitelességére, mindössze 12 nappal a beiktatás után.",
+  "top_story_en": "Péter Magyar's government faces its first self-generated rule-of-law crisis: his defence of appointing his brother-in-law as justice minister has crystallised a nepotism narrative that now attaches to Magyar personally, not Orbán.",
+  "top_story_hu": "Magyar Péter kormánya az első saját gyártású jogállamisági válságával szembesül: az igazságügyi miniszteri posztra kinevezett sógora melletti kiállása személyes nepotizmus-narratívát indított el — immár nem Orbán, hanem Magyar a célkeresztben.",
   "key_developments_en": [
-    "Magyar publicly defended the appointment of his brother-in-law as justice minister, citing competence over family ties.",
-    "Both Euronews and Politico Europe published critical analyses of the appointment on May 1, signalling coordinated EU press attention.",
-    "The appointment compounds earlier concerns about a close adviser placed in an 'enforcer role', raising a pattern of executive consolidation.",
-    "No government statement addressed a timeline for recusal review or independent vetting of the minister.",
-    "The controversy overshadowed ongoing EU funds negotiations, where a May deal worth ~€10bn remains the government's headline economic priority."
+    "Both Euronews and Politico Europe reported Magyar defending the appointment of his brother-in-law as justice minister, the first major personnel decision drawing sustained critical international coverage.",
+    "The appointment is framed as a potential power-consolidation move just 12 days into the new government's tenure, testing its democratic-reform credibility.",
+    "No government statement has addressed the structural conflict-of-interest question; Magyar's defence has so far rested on the appointee's qualifications.",
+    "Coverage remains concentrated in EU-facing outlets; no US or UK broadsheet has yet independently filed on the story."
   ],
   "key_developments_hu": [
-    "Magyar nyilvánosan védelmébe vette sógorának igazságügyi miniszterré való kinevezését, szakmai alkalmasságára hivatkozva.",
-    "Az Euronews és a Politico Europe május 1-jén egyaránt kritikus elemzést közölt a kinevezésről, jelezve az európai sajtó összehangolt figyelmét.",
-    "A kinevezés tetézi a korábbi aggodalmakat egy közeli tanácsadó 'végrehajtói szerepben' való alkalmazása miatt, ami a végrehajtó hatalom koncentrálódásának mintázatára utal.",
-    "A kormány nem tett közzé nyilatkozatot a miniszter esetleges kizárásának vizsgálatáról vagy független átvilágításáról.",
-    "A botrány háttérbe szorította a folyamatban lévő uniós forrástárgyalásokat, ahol a ~10 milliárd eurós megállapodás a kormány fő gazdasági prioritása."
+    "Az Euronews és a Politico Europe is arról számolt be, hogy Magyar Péter megvédte sógora igazságügyi miniszteri kinevezését — ez az első olyan személyzeti döntés, amely tartós és kritikus nemzetközi visszhangot váltott ki.",
+    "A kinevezést az új kormány mindössze 12 napos működése után hatalomkoncentrációs lépésként értelmezik, amely próbára teszi a demokratikus reformígéreteket.",
+    "A kormány mindeddig nem tért ki az összeférhetetlenség strukturális kérdésére; Magyar védekezése a kinevezett szakmai alkalmasságára összpontosított.",
+    "A tudósítás egyelőre az EU-fókuszú sajtóra korlátozódik; amerikai és brit napilapok önállóan még nem foglalkoztak az üggyel."
   ],
   "narrative_shifts_en": [
-    "Coverage has pivoted: Magyar is no longer framed exclusively as the democratic reformer dismantling Orbán's legacy — EU outlets are now applying the same rule-of-law scrutiny to Magyar that they previously reserved for Orbán.",
-    "The nepotism story introduces a 'meet the new boss' counter-narrative, threatening to dilute the new government's moral authority in Brussels conditionality talks."
+    "For the first time since the April 20 transition, the dominant international framing of the day centres on Magyar as a rule-of-law concern rather than a rule-of-law solution — a significant tonal inversion.",
+    "The Orbán-era nepotism critique, previously directed exclusively at Fidesz, is now being applied symmetrically to the new government, suggesting the watchdog frame has transferred rather than dissolved."
   ],
   "narrative_shifts_hu": [
-    "A tudósítások hangsúlya eltolódott: Magyart már nem kizárólag demokratikus reformerként ábrázolják — az uniós sajtó most ugyanolyan jogállamisági szemüvegen keresztül vizsgálja őt, mint korábban Orbánt.",
-    "A nepotizmus-sztori egy 'más bőr, ugyanaz a szokás' ellennarratívát teremt, amely alááshatja az új kormány erkölcsi tekintélyét a brüsszeli feltételesség-tárgyalásokon."
+    "Az április 20-i kormányváltás óta most először az a nap domináns nemzetközi narratívája, hogy Magyar maga is jogállamisági aggályt jelent — nem csupán annak orvoslója. Ez jelentős hangnemváltás.",
+    "A korábban kizárólag a Fideszre irányuló nepotizmus-kritika szimmetrikusan jelenik meg az új kormánnyal szemben is, ami arra utal, hogy az ellenőrző szerep nem szűnt meg, csupán áttevődött."
   ],
-  "quotes_en": [],
-  "quotes_hu": [],
+  "quotes_en": [
+    {
+      "quote": "He is the most qualified person for the job.",
+      "speaker": "Péter Magyar, defending his brother-in-law's appointment as justice minister"
+    }
+  ],
+  "quotes_hu": [
+    {
+      "quote": "Ő a legalkalmasabb személy erre a posztra.",
+      "speaker": "Magyar Péter, sógora igazságügyi miniszteri kinevezését védve"
+    }
+  ],
   "what_to_watch_en": [
-    "Whether Magyar replaces or retains his brother-in-law as justice minister under sustained EU and domestic press pressure.",
-    "How Brussels factors the nepotism controversy into conditionality assessments ahead of the targeted May EU funds deal.",
-    "Whether opposition parties or civil society formally challenge the appointment, testing the new government's accountability mechanisms."
+    "Whether EU institutions or Brussels-based correspondents escalate the nepotism story, or treat it as a one-cycle item — the trajectory over the next 48 hours will signal its narrative durability.",
+    "Any formal opposition or civil society response inside Hungary to the brother-in-law appointment, which could internationalise the story further.",
+    "Whether Magyar's ongoing EU funds negotiations produce a concrete May deal announcement — a positive economic signal that could dilute the nepotism narrative's reach."
   ],
   "what_to_watch_hu": [
-    "Magyar megtartja-e sógorát igazságügyi miniszterként a tartós uniós és belföldi sajtónyomás ellenére, vagy leváltja.",
-    "Hogyan értékeli Brüsszel a nepotizmus-botrányt a feltételességi vizsgálatok során, különös tekintettel a tervezett májusi uniós forrás-megállapodásra.",
-    "Indítanak-e ellenzéki pártok vagy civil szervezetek formális eljárást a kinevezés ellen, próbára téve az új kormány elszámoltathatósági mechanizmusait."
+    "Az EU-s intézmények és brüsszeli tudósítók reagálása dönti el, hogy a nepotizmus-ügy egyciklusos téma marad-e, vagy tartósan beépül a narratívába — a következő 48 óra kulcsfontosságú.",
+    "Magyarországi ellenzéki vagy civil társadalmi reakciók a sógorkinevezésre, amelyek tovább internacionalizálhatják az ügyet.",
+    "Magyar uniós forrástárgyalásainak kimenetele — egy konkrét májusi megállapodás bejelentése pozitív gazdasági jelzést adna, és mérsékelhetné a nepotizmus-narratíva hatóerejét."
   ],
   "date": "2026-05-02",
   "article_count": 2,
-  "generated_at": "2026-05-02T10:09:54.998426+00:00"
+  "generated_at": "2026-05-02T14:04:15.466123+00:00"
 }
