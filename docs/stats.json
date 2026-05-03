@@ -1,53 +1,53 @@
 {
-  "total_articles": 291,
-  "analyzed_articles": 291,
+  "total_articles": 294,
+  "analyzed_articles": 294,
   "tone": {
     "critical": 37,
-    "positive": 86,
-    "neutral": 138,
+    "positive": 88,
+    "neutral": 139,
     "mixed": 29,
     "hopeful": 1
   },
   "framing": {
     "rule_of_law": 32,
     "eu_integration": 55,
-    "geopolitics": 88,
+    "geopolitics": 89,
     "media_freedom": 5,
     "corruption": 10,
+    "EU_integration": 4,
     "economy": 15,
     "democracy_restoration": 56,
     "regional": 5,
     "other": 10,
     "government_transition": 2,
+    "russia_china": 3,
     "Fidesz opposition": 2,
     "elections": 1,
-    "EU_integration": 3,
-    "russia_china": 2,
     "energy": 3,
     "government transition": 2
   },
   "region": {
     "eu": 108,
     "cee": 12,
-    "de": 34,
+    "de": 36,
     "uk": 54,
     "wire": 49,
     "us": 25,
-    "fr": 9
+    "fr": 10
   },
   "source": {
     "Reuters": 42,
     "Politico Europe": 36,
-    "DW English": 33,
+    "DW English": 35,
     "Euronews": 30,
     "Euractiv": 24,
     "Financial Times": 22,
     "EUobserver": 16,
     "The Guardian": 14,
+    "Le Monde": 10,
     "Washington Post": 10,
     "Balkan Insight": 9,
     "BBC": 9,
-    "Le Monde": 9,
     "AP News": 7,
     "The Times": 6,
     "New York Times": 6,
@@ -61,19 +61,19 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 231,
-    "EU relations": 176,
-    "geopolitics": 126,
+    "government transition": 232,
+    "EU relations": 178,
+    "geopolitics": 128,
     "democracy": 111,
-    "foreign policy": 75,
+    "foreign policy": 76,
     "rule of law": 73,
-    "EU funds": 67,
+    "EU funds": 68,
     "elections": 49,
-    "economy": 37,
-    "energy": 26,
+    "economy": 38,
+    "energy": 27,
     "Fidesz opposition": 25,
+    "Russia deals": 23,
     "human rights": 23,
-    "Russia deals": 22,
     "corruption": 18,
     "judicial reform": 15,
     "society": 10,
@@ -83,17 +83,17 @@
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 227,
-    "Viktor Orbán": 142,
-    "European Commission": 41,
+    "Péter Magyar": 230,
+    "Viktor Orbán": 143,
+    "European Commission": 42,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 28,
     "Tisza Party": 20,
-    "Ursula von der Leyen": 18,
+    "Ursula von der Leyen": 19,
     "Hungary": 18,
     "European Union": 16,
     "Donald Tusk": 15,
-    "Russia": 14,
+    "Russia": 15,
     "Volodymyr Zelenskyy": 12,
     "EU institutions": 12,
     "Rumen Radev": 10,
@@ -106,8 +106,8 @@
   },
   "main_actor": {
     "magyar_peter": 88,
-    "orban_viktor": 58,
-    "hungary_country": 81,
+    "orban_viktor": 59,
+    "hungary_country": 83,
     "other": 28,
     "fidesz": 3,
     "eu_institutions": 31,
@@ -147,9 +147,9 @@
     "2026-04-25": 7,
     "2026-04-26": 5,
     "2026-04-27": 8,
-    "2026-04-28": 16,
-    "2026-04-29": 24,
-    "2026-04-30": 5,
+    "2026-04-28": 17,
+    "2026-04-29": 25,
+    "2026-04-30": 6,
     "2026-05-01": 8
   },
   "tone_by_source": {
@@ -171,9 +171,9 @@
       "mixed": 2
     },
     "DW English": {
-      "neutral": 16,
+      "neutral": 17,
       "critical": 1,
-      "positive": 12,
+      "positive": 13,
       "hopeful": 1,
       "mixed": 3
     },
@@ -223,15 +223,15 @@
       "neutral": 3,
       "positive": 8
     },
+    "Le Monde": {
+      "positive": 5,
+      "critical": 2,
+      "neutral": 3
+    },
     "The Economist": {
       "neutral": 1,
       "critical": 1,
       "mixed": 1
-    },
-    "Le Monde": {
-      "positive": 4,
-      "critical": 2,
-      "neutral": 3
     },
     "Washington Post": {
       "neutral": 4,
@@ -286,9 +286,9 @@
       "mixed": 22
     },
     "DW English": {
-      "neutral": 48,
+      "neutral": 49,
       "critical": 3,
-      "positive": 36,
+      "positive": 37,
       "hopeful": 3,
       "mixed": 9
     },
@@ -338,15 +338,15 @@
       "neutral": 21,
       "positive": 57
     },
+    "Le Monde": {
+      "positive": 50,
+      "critical": 20,
+      "neutral": 30
+    },
     "The Economist": {
       "neutral": 33,
       "critical": 33,
       "mixed": 33
-    },
-    "Le Monde": {
-      "positive": 44,
-      "critical": 22,
-      "neutral": 33
     },
     "Washington Post": {
       "neutral": 40,
@@ -370,5 +370,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-02T22:03:27.322756+00:00"
+  "last_updated": "2026-05-03T02:06:33.568844+00:00"
 }

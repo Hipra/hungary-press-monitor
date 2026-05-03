@@ -382,6 +382,33 @@
     "quotes": []
   },
   {
+    "id": "19607104ed7eba8c",
+    "source": "DW English",
+    "region": "de",
+    "title": "What are the sticking points for the EU's new budget? - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNXzY0cjNKU2JHcE1UYjZVbmVfWXFhU0k1VkNEVnJZQlFqLUc3OG1pQ01DZmNzMnI5Rk1kQzl4TFhXajZ5SFMwNlBSTFVVc3dQVkh6Y2NUT3dhRXhzNWRzTnB4OTRBcmFuNWdublVCMmQ0cTNZMXhlU3hocFdiV08xeTBhYWpLTWt1U0I5NtIBjAFBVV95cUxOM2FUd1lXeFQ4X1lKVmRsbGI2cXJHTFJ3Y2haa2ZUdElkU0NJczV2RzQzX1FZQTdqUUhkNHVJRjZSMmFFc1A0TTRBWWFaZW5rYkJKbG9kb3VBeFVGdFJCT0JueVFKbTBTc3BWTmtVMmNRcmxxYm5xSWdJdHZrVGJRa0hzaUVLbXFVQkZEVw?oc=5",
+    "published_at": "2026-04-30T03:32:31+00:00",
+    "fetched_at": "2026-05-03T02:00:37.370877+00:00",
+    "topics": [
+      "EU funds",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen"
+    ],
+    "tone": "neutral",
+    "framing": "EU_integration",
+    "summary_en": "The article examines sticking points in EU budget negotiations, likely including Hungary's frozen EU funds and compliance conditions following its government transition.",
+    "title_hu": "Mik az EU új költségvetésének nyitott kérdései?",
+    "summary_hu": "A cikk az EU költségvetési tárgyalások nyitott kérdéseit vizsgálja, feltehetően Magyarország befagyasztott EU alapjait és a kormányzati átmenet utáni megfelelőségi feltételeket beleértve.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "5862869d95c36730",
     "source": "BBC",
     "region": "uk",
@@ -1094,6 +1121,39 @@
     "quotes": []
   },
   {
+    "id": "0537ab7848870274",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "Marlène Laruelle: 'Orban's defeat is a particularly strategic loss for Russia' - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb2cwQU1JOXg3U1FyeFI5Z01hSlpXZXh3NEFlSGVxbEEzamh1bWFlYnNLN09GWm12NHg5cjlNWVZGa2dWdEdwU0YxNjJHbTdhRGdNMHNIMG5EQUg4bVZ2LVBlWUhBWmtzSmpZYUZXZ3hFUU9UdExzcVVfX1djUDd3eWFyUG5kU0ZzUVpUT1pUM3RjOWVObUt5YTlmNmdxNlJEMU5SdFcwQkhwVWIxQldlYzdkb1FLdmxONThTZlByX2lBWWVfc255NHdGRUhkdG1fSXFjZjZVc1kwMDkx?oc=5",
+    "published_at": "2026-04-29T01:12:16+00:00",
+    "fetched_at": "2026-05-03T02:00:35.436270+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy",
+      "Russia deals"
+    ],
+    "actors": [
+      "Marlène Laruelle",
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Russia"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Geopolitical analyst Marlène Laruelle assesses Orbán's historic defeat as a strategic setback for Russia, which loses its primary EU ally. Hungary's shift toward the Western-aligned Tisza Party under Péter Magyar signals a fundamental realignment of Hungarian foreign policy away from Kremlin interests.",
+    "title_hu": "Marlène Laruelle: 'Orbán veresége különösen stratégiai veszteség az Oroszország számára'",
+    "summary_hu": "A geopolitikai szakértő Marlène Laruelle Orbán történelmi vereségét az Oroszország számára stratégiai veszteségként értékeli, amely az ország EU-beli első számú szövetségesét veszíti el. Magyarország elmozdulása a Péter Magyar vezette Tisza Párt, a nyugatbarát erők felé az Oroszország irányába fordított külpolitikától való alapvető eltávolodást és Moszkva befolyásának csökkenését jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": [
+      "Orban's defeat is a particularly strategic loss for Russia"
+    ]
+  },
+  {
     "id": "6ad2c09fcea69a50",
     "source": "The Economist",
     "region": "uk",
@@ -1436,6 +1496,36 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c9ca9e533d4c19bc",
+    "source": "DW English",
+    "region": "de",
+    "title": "The country that's turning to solar during war - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjNNd1I3VjVXWVkweGFhaHcteDFfQWc4bnBLTUxOYXh0QkV6aVp3a3dybVhFMFVYNElCVnV1TExtc1M5R2Y3amtHS0NYWkJRWnE1eDBxWVZNVXRPbnNrZkY2VGRteVVOVXJGYWNIUjN2b3gyejFUYVlkZ3FyTEE2X2FkNFjSAYQBQVVfeXFMTTNfanB2RnlfT2MtNkJ5NW15QzJEU2hBLVlYNElOMGI4S0tQWl9ZREdmTFhFeXJQOTlyT0F0V3M5QXFxOTNEQnk5Y3NkSE1xTVVRWmpmWTNkdE9nVll2TVlWbmRGY0p2YlFxQkhhWXR2MUpjd3ZQZFpQNkFaY1JhR192V2F2?oc=5",
+    "published_at": "2026-04-28T07:06:43+00:00",
+    "fetched_at": "2026-05-03T02:00:37.370978+00:00",
+    "topics": [
+      "energy",
+      "geopolitics",
+      "EU relations",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission",
+      "Hungary energy sector"
+    ],
+    "tone": "positive",
+    "framing": "russia_china",
+    "summary_en": "Hungary is pivoting toward solar energy expansion amid its post-transition EU reintegration and the energy security pressures created by conflict in neighboring Ukraine. The renewable energy shift reflects the Magyar government's strategic break from Russian energy dependence and alignment with EU climate and strategic autonomy goals.",
+    "title_hu": "Az ország, amely a háború alatt a napenergiára fordul",
+    "summary_hu": "Magyarország napelemek felé fordul átmeneti kormányzati EU-integrációja és az Ukrajna szomszédságában előforduló konfliktus által teremtett energiabiztonság-kihívások közepette. A megújuló energiára való váltás a Magyar-kormány stratégiai szakítását tükrözi az orosz energiafüggőségtől és az EU klíma- és stratégiai autonómiájával való összhangot.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   },
