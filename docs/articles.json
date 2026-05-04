@@ -1,5 +1,39 @@
 [
   {
+    "id": "77d56effbe5bdd7d",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Central Europe is a laboratory for political trends | Letters - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcURaa1lyQ2V3WTl2TEx0dkFfSDdkZFRScmVpOVYyXzZjcUF1a1FhZTlJX243d3RUNWZEOXl4ZTU2T3l6Mkp5VWVOY2p6aFJOeHFydFJFZzNWbUp5S3lYTlYxdXlvUUVkVXhzdEdleHZFR3k2NXM0YVROWW40NUtXd0Njb25PT1dBQ3pJN28wOWZUNTl3QVRySGFVV2Y4UQ?oc=5",
+    "published_at": "2026-05-04T16:13:00+00:00",
+    "fetched_at": "2026-05-04T18:00:12.412190+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "geopolitics",
+      "regional"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "regional",
+    "summary_en": "This letters-section piece frames Central Europe—including Hungary's historic transition from Orbán's 15-year rule to Magyar's Tisza Party government—as a political laboratory testing democratic reversals and restorations across the region. The commentary likely examines Hungary alongside Poland and Slovakia as cases illustrating broader European trends in democratic contestation and geopolitical realignment.",
+    "title_hu": "Közép-Európa politikai trendek laboratóriuma | Levelek - The Guardian",
+    "summary_hu": "Ez a levelezési rovatbeli írás Közép-Európát—beleértve Magyarország történelmi átmenete Orbán 15 éves uralma után a Magyar Péter Tisza Pártjára—politikai laboratóriumként ábrázolja, amely a demokrácia visszafordulásait és helyreállítását teszteli a régió szerte. A kommentár valószínűleg Magyarországot Lengyelország és Szlovákia mellett vizsgálja a szélesebb európai demokratikus verseny és geopolitikai realignment trendjeit szemlélő esetként.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland",
+      "Slovakia",
+      "Czech Republic"
+    ],
+    "quotes": []
+  },
+  {
     "id": "ea63729670173a14",
     "source": "Balkan Insight",
     "region": "cee",
