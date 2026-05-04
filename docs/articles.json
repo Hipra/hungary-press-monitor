@@ -1,5 +1,65 @@
 [
   {
+    "id": "ea63729670173a14",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Tisza’s Victory Offers Historic Opportunity for Media Freedom Reform in Hungary - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY214QUJKOWRvSFBtMnJOSXh1aWl4NWRVMFpIS0hRY2lrb25LMzR0MG5fUGt2ZlVQS19sYk5BWkREMVk4Uk85RGdXMjEtWUZ0dVdDdzhyeXRaTmZEMHlUaFM1WGFjRWg2M2w2XzZqRlpVZS1feUIyLTdPejd4cWhtbXJJbUhXSU01andFMi1xakJtTGZQUHh4WWQzQmVzT0tCd3l2dzVLdjZQTGZGM0tManFqcUxrNHJ1bXdn?oc=5",
+    "published_at": "2026-05-04T05:56:19+00:00",
+    "fetched_at": "2026-05-04T06:00:48.474585+00:00",
+    "topics": [
+      "government transition",
+      "media freedom",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "media_freedom",
+    "summary_en": "Balkan Insight examines how Péter Magyar's Tisza Party victory creates an opportunity to reform Hungary's media landscape. Given Hungary's poor international press freedom rankings and concerns about state broadcaster independence under Orbán, this represents a pivotal moment for democratic restoration. The article likely explores the structural reforms needed to restore editorial independence and address media polarization.",
+    "title_hu": "A Tisza győzelme történelmi lehetőséget kínál a médiaszabadság reformjához Magyarországon",
+    "summary_hu": "A Balkan Insight megvizsgálja, hogyan kínál Péter Magyar Tisza Pártjának győzelme lehetőséget Magyarország médiatájékoztatási rendszerének reformjára. Magyarország gyenge nemzetközi sajtószabadság-rangsorolása és az Orbán-korszak alatt az állami műsorszórás függetlenségéről szóló aggályok figyelembevételével ez egy kritikus momentum a demokrácia helyreállítása számára. A cikk valószínűleg a szükséges strukturális reformokat és a médiapolarizáció kezelésének kérdéseit vizsgálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "72ad3325c9dc3c5a",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Europe’s nagging fear: Putin’s ‘window of opportunity’ is now - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX2RCSVJKREhTR01BMV9QSm1kTDFUNkhKUjNLZm91VS1yTktYc1htdGtNUFl1c2F1S0h5MlpIdlFmeWZVYjNpY0JscXV0T2lwRmF3RlZaN1g0dWlTVU9NUjRNTmg1UDVOZC1MLXA2N2hWMWEwVi1DT0FnN29VWWdXaXNtVEs4MGZaMHlwdEtKSFFWZjQ?oc=5",
+    "published_at": "2026-05-03T17:55:00+00:00",
+    "fetched_at": "2026-05-04T06:00:31.925461+00:00",
+    "topics": [
+      "geopolitics",
+      "Russia deals",
+      "EU relations",
+      "government transition"
+    ],
+    "actors": [
+      "Putin",
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "Europe"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "Politico examines Putin's perceived strategic opportunities in Europe following recent geopolitical realignments, including the removal of Viktor Orbán's Russia-aligned government in Hungary. The article frames Europe's vulnerability to Russian strategy amid Hungary's democratic transition and policy reorientation toward EU integration.",
+    "title_hu": "Európa aggódása: Putyin 'lehetősége' most van",
+    "summary_hu": "A Politico elemzi Putyin stratégiai lehetőségeit Európában a geopolitikai átrendeződés közepette, különösen Magyarország kormányváltása után. A cikk Európa sebezhetőségét vizsgálja az orosz stratégiával szemben, mivel Magyarország demokratikus átalakulása új politikai dinamikát hoz létre.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "e666f65a71ce1e43",
     "source": "Euronews",
     "region": "eu",

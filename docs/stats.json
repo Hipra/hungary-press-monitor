@@ -1,18 +1,18 @@
 {
-  "total_articles": 294,
-  "analyzed_articles": 294,
+  "total_articles": 296,
+  "analyzed_articles": 296,
   "tone": {
-    "critical": 37,
-    "positive": 88,
+    "positive": 89,
+    "critical": 38,
     "neutral": 139,
     "mixed": 29,
     "hopeful": 1
   },
   "framing": {
+    "media_freedom": 6,
+    "geopolitics": 90,
     "rule_of_law": 32,
     "eu_integration": 55,
-    "geopolitics": 89,
-    "media_freedom": 5,
     "corruption": 10,
     "EU_integration": 4,
     "economy": 15,
@@ -27,8 +27,8 @@
     "government transition": 2
   },
   "region": {
-    "eu": 108,
-    "cee": 12,
+    "cee": 13,
+    "eu": 109,
     "de": 36,
     "uk": 54,
     "wire": 49,
@@ -37,16 +37,16 @@
   },
   "source": {
     "Reuters": 42,
-    "Politico Europe": 36,
+    "Politico Europe": 37,
     "DW English": 35,
     "Euronews": 30,
     "Euractiv": 24,
     "Financial Times": 22,
     "EUobserver": 16,
     "The Guardian": 14,
+    "Balkan Insight": 10,
     "Le Monde": 10,
     "Washington Post": 10,
-    "Balkan Insight": 9,
     "BBC": 9,
     "AP News": 7,
     "The Times": 6,
@@ -61,35 +61,35 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 232,
-    "EU relations": 178,
-    "geopolitics": 128,
-    "democracy": 111,
+    "government transition": 234,
+    "EU relations": 179,
+    "geopolitics": 129,
+    "democracy": 112,
     "foreign policy": 76,
-    "rule of law": 73,
+    "rule of law": 74,
     "EU funds": 68,
     "elections": 49,
     "economy": 38,
     "energy": 27,
     "Fidesz opposition": 25,
-    "Russia deals": 23,
+    "Russia deals": 24,
     "human rights": 23,
     "corruption": 18,
     "judicial reform": 15,
     "society": 10,
     "V4 diplomacy": 9,
-    "media freedom": 6,
+    "media freedom": 7,
     "regional": 4,
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 230,
+    "Péter Magyar": 232,
     "Viktor Orbán": 143,
     "European Commission": 42,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 28,
-    "Tisza Party": 20,
-    "Ursula von der Leyen": 19,
+    "Tisza Party": 21,
+    "Ursula von der Leyen": 20,
     "Hungary": 18,
     "European Union": 16,
     "Donald Tusk": 15,
@@ -105,10 +105,10 @@
     "European Council": 5
   },
   "main_actor": {
-    "magyar_peter": 88,
+    "magyar_peter": 89,
+    "other": 29,
     "orban_viktor": 59,
     "hungary_country": 83,
-    "other": 28,
     "fidesz": 3,
     "eu_institutions": 31,
     "EU_institutions": 2
@@ -150,25 +150,27 @@
     "2026-04-28": 17,
     "2026-04-29": 25,
     "2026-04-30": 6,
-    "2026-05-01": 8
+    "2026-05-01": 8,
+    "2026-05-03": 1,
+    "2026-05-04": 1
   },
   "tone_by_source": {
+    "Balkan Insight": {
+      "positive": 4,
+      "neutral": 4,
+      "mixed": 2
+    },
+    "Politico Europe": {
+      "critical": 8,
+      "neutral": 15,
+      "mixed": 6,
+      "positive": 8
+    },
     "Euronews": {
       "critical": 3,
       "neutral": 16,
       "positive": 7,
       "mixed": 4
-    },
-    "Politico Europe": {
-      "critical": 7,
-      "neutral": 15,
-      "mixed": 6,
-      "positive": 8
-    },
-    "Balkan Insight": {
-      "positive": 3,
-      "neutral": 4,
-      "mixed": 2
     },
     "DW English": {
       "neutral": 17,
@@ -268,22 +270,22 @@
     }
   },
   "source_bias": {
+    "Balkan Insight": {
+      "positive": 40,
+      "neutral": 40,
+      "mixed": 20
+    },
+    "Politico Europe": {
+      "critical": 22,
+      "neutral": 41,
+      "mixed": 16,
+      "positive": 22
+    },
     "Euronews": {
       "critical": 10,
       "neutral": 53,
       "positive": 23,
       "mixed": 13
-    },
-    "Politico Europe": {
-      "critical": 19,
-      "neutral": 42,
-      "mixed": 17,
-      "positive": 22
-    },
-    "Balkan Insight": {
-      "positive": 33,
-      "neutral": 44,
-      "mixed": 22
     },
     "DW English": {
       "neutral": 49,
@@ -370,5 +372,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-04T02:02:44.796632+00:00"
+  "last_updated": "2026-05-04T06:04:38.146404+00:00"
 }
