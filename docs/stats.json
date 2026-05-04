@@ -1,18 +1,18 @@
 {
-  "total_articles": 297,
-  "analyzed_articles": 297,
+  "total_articles": 298,
+  "analyzed_articles": 298,
   "tone": {
+    "mixed": 30,
     "neutral": 140,
     "positive": 89,
     "critical": 38,
-    "mixed": 29,
     "hopeful": 1
   },
   "framing": {
+    "rule_of_law": 33,
     "regional": 6,
     "media_freedom": 6,
     "geopolitics": 90,
-    "rule_of_law": 32,
     "eu_integration": 55,
     "corruption": 10,
     "EU_integration": 4,
@@ -27,12 +27,12 @@
     "government transition": 2
   },
   "region": {
+    "us": 26,
     "uk": 55,
     "cee": 13,
     "eu": 109,
     "de": 36,
     "wire": 49,
-    "us": 25,
     "fr": 10
   },
   "source": {
@@ -55,18 +55,18 @@
     "Visegrad Insight": 3,
     "The Economist": 3,
     "Wall Street Journal": 3,
+    "Politico US": 2,
     "The Parliament Magazine": 2,
     "Süddeutsche": 1,
-    "Politico US": 1,
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 235,
-    "EU relations": 179,
+    "government transition": 236,
+    "EU relations": 180,
     "geopolitics": 130,
-    "democracy": 113,
+    "democracy": 114,
     "foreign policy": 76,
-    "rule of law": 74,
+    "rule of law": 75,
     "EU funds": 68,
     "elections": 49,
     "economy": 38,
@@ -83,13 +83,13 @@
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 233,
+    "Péter Magyar": 234,
     "Viktor Orbán": 144,
-    "European Commission": 42,
+    "European Commission": 43,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 28,
+    "Ursula von der Leyen": 21,
     "Tisza Party": 21,
-    "Ursula von der Leyen": 20,
     "Hungary": 18,
     "Donald Tusk": 16,
     "European Union": 16,
@@ -105,8 +105,8 @@
     "European Council": 5
   },
   "main_actor": {
+    "magyar_peter": 90,
     "hungary_country": 84,
-    "magyar_peter": 89,
     "other": 29,
     "orban_viktor": 59,
     "fidesz": 3,
@@ -115,9 +115,9 @@
   },
   "comparison_countries": {
     "Ukraine": 25,
-    "Poland": 15,
+    "Poland": 16,
     "Russia": 13,
-    "Slovakia": 11,
+    "Slovakia": 12,
     "Bulgaria": 9,
     "Israel": 6,
     "United States": 3,
@@ -152,9 +152,13 @@
     "2026-04-30": 6,
     "2026-05-01": 8,
     "2026-05-03": 1,
-    "2026-05-04": 2
+    "2026-05-04": 3
   },
   "tone_by_source": {
+    "Politico US": {
+      "mixed": 1,
+      "neutral": 1
+    },
     "The Guardian": {
       "neutral": 4,
       "mixed": 1,
@@ -261,9 +265,6 @@
       "positive": 1,
       "neutral": 1,
       "critical": 1
-    },
-    "Politico US": {
-      "neutral": 1
     },
     "The Atlantic": {
       "mixed": 1
@@ -372,5 +373,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-04T18:06:31.184345+00:00"
+  "last_updated": "2026-05-04T22:04:52.574098+00:00"
 }

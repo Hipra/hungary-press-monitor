@@ -1,5 +1,38 @@
 [
   {
+    "id": "14953f878fa65b79",
+    "source": "Politico US",
+    "region": "us",
+    "title": "What Europe is missing about Magyar - Politico",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1Y1MUtVbjRHejVoZjNWZEFtbXNvT215R2J6TlN0LWFpU0UwZ2FZN2VaQ3VnVVd2ck9TelZWV1BkOUNZRjlxbml3ck41QkhDVFJYamdSR0hYM0hzWUpfNmxmOGdlTnpnRnRZblBpNUdYTjhjNmp0dmhDdHVkci1uVXpLYndWdTJfTFJTbHlFY3lxSk85MTd5Rk9DVlhaMVNTdUNF?oc=5",
+    "published_at": "2026-05-04T20:30:00+00:00",
+    "fetched_at": "2026-05-04T22:00:27.215672+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "rule of law",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "European Commission"
+    ],
+    "tone": "mixed",
+    "framing": "rule_of_law",
+    "summary_en": "Politico examines blind spots in European assessment of Péter Magyar's new government, addressing what international observers may be overlooking regarding Hungary's democratic transition amid emerging tensions between reform commitments and early consolidation patterns.",
+    "title_hu": "Mit nem vesz észre Európa Magyarról",
+    "summary_hu": "A Politico azt elemzi, hogy az európai elemzők mely aspektusokat hanyagolhatják el Péter Magyar új kormányával kapcsolatban, miközben Magyarország demokráciájának helyreállítása és korai hatalomkoncentrációs jelek között mozog.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland",
+      "Slovakia"
+    ],
+    "quotes": []
+  },
+  {
     "id": "77d56effbe5bdd7d",
     "source": "The Guardian",
     "region": "uk",
