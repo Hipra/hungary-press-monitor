@@ -1,5 +1,65 @@
 [
   {
+    "id": "d988382628fabaec",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's banks call for level playing field under new government - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3N2V0NHMGhyeHBlRXNoT2wyTTZabVg2akhlOU9Vd0lsS0N4UkFzQThnWVlXdVIwWlhMc1ZvZDlsTUh2YkVyQ3ZVRzVmQmlUa0RjVEdFd0t4eFVyR0Y4c25UUkhiS2R3dEJ6ek8wakh2SndibDZQOUlwZlNnME9YcHhoNmZ1OFhzWlk4Qk05UW1IemdiWkNtN1JMMnlHcVAtQlRvdGZxUjhUZmVtU1c5bVB0RQ?oc=5",
+    "published_at": "2026-05-05T09:22:42+00:00",
+    "fetched_at": "2026-05-05T10:00:05.808566+00:00",
+    "topics": [
+      "government transition",
+      "economy",
+      "EU relations"
+    ],
+    "actors": [
+      "Hungary's banks",
+      "Péter Magyar",
+      "Hungarian government"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Hungary's banking sector is calling for competitive fairness from Péter Magyar's new government, reflecting broader business sector engagement with the democratic transition. The appeal suggests banks expect more equitable regulatory treatment under the new administration compared to the Orbán era, aligning with the business elite's pivot toward EU reintegration and rule-of-law restoration.",
+    "title_hu": "Magyar bankok az új kormány alatt egyenlő versenyfeltételeket követelnek",
+    "summary_hu": "Magyarország banksektora az új kormány egyenlő versenyfeltételeit követeli, amely a szélesebb üzleti szféra demokratikus átalakulásba való bekapcsolódásáról tanúskodik. A felhívás azt sugallja, hogy a bankok az új adminisztráció alatt igazságosabb szabályozási bánásmódra számítanak az Orbán-era előzményeihez képest, összhangban az üzleti elit EU-s reintegrációs fordulatával és a jogállamiság helyreállításával.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f7789f373157648f",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary media mogul who designed Orban's campaigns offers his firms to the state - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLVZnZFR6aVhiYjRpX3ZCN1FqZ0FGOUtQemxGVXM2UUlxYm5nQlRpMnM1QWhNTmZwVXZ3enJVNG15VG5BdFpaMmJiLVo1ekFuNDU1bzRnRGQ2ZmRSbWEwRFNjX0wxU3V6Q0M1V3FuQnppY2dQY0IyWVIyY2p1SmRzYWxnc2JhQ3h4MEpBaDdQaXp0RERkWjlvdTZGSHFoOTZSdGo1WG5xT1FPczBXbDkycUNzYk1fS3JRdTBVWk5Qc1hjR0ZWWTF3d2Fvdw?oc=5",
+    "published_at": "2026-05-05T08:35:07+00:00",
+    "fetched_at": "2026-05-05T10:00:05.808586+00:00",
+    "topics": [
+      "media freedom",
+      "government transition",
+      "rule of law",
+      "corruption",
+      "democracy"
+    ],
+    "actors": [
+      "Hungarian media mogul",
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "media_freedom",
+    "summary_en": "A Hungarian media mogul who designed Viktor Orbán's election campaigns has offered his media firms to the state under the new Magyar government. The move reflects the broader dismantling of Orbán-era power structures during the political transition. The transaction's implications for media independence remain unclear.",
+    "title_hu": "Orbán kampányait tervező médiamogul az államnak felajánlja cégeit",
+    "summary_hu": "Egy magyar médiamogul, aki Viktor Orbán választási kampányait tervezte, az államnak felajánlja médiacégeit az új Magyar-kormány alatt. A lépés az Orbán-korszak hatalmi struktúráinak szétszóródásának részét képezi a politikai átmenet során. A tranzakció médiaszabadságra gyakorolt hatása egyelőre bizonytalan.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "dd695ef64e81b8c7",
     "source": "Euractiv",
     "region": "eu",
