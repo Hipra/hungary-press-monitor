@@ -1,5 +1,33 @@
 [
   {
+    "id": "dd695ef64e81b8c7",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "INTERVIEW: Beating communism was 'much easier' than ousting Orbán, says veteran of '89 - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbGlMUGQ3NWRTdzFUbEw1NDVZRERkOVVNU2MwQmpQNE9iQ3pCNXJ4b2tsUUwwQjN3c0h1SnFEcGtsWHRYYWlFallZdmlWa05nN0RIYXpxdFcteUZaR1V5U3ZhQ2NxVkNZc1FmcWRzS2FKWnI5eUlBdVZzUmtGSXV5eVEzWkpzYkxuV2VkWWRzQzE3UjV2UC10QW1GR2VCR2lNaU1oM1JtZlpGSlFHMjgyY2NB?oc=5",
+    "published_at": "2026-05-05T04:01:07+00:00",
+    "fetched_at": "2026-05-05T06:00:28.790984+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "democracy_restoration",
+    "summary_en": "A veteran of Hungary's 1989 democratic transition reflects on the recent ousting of Viktor Orbán, arguing that overcoming his 15-year authoritarian rule proved harder than defeating communism. The observation highlights the unprecedented entrenchment and complexity of Orbán's system compared to the fall of the Soviet bloc.",
+    "title_hu": "INTERJÚ: A kommunizmus legyőzése sokkal könnyebb volt, mint Orbán megbuktatása, mondja a '89-es veterán",
+    "summary_hu": "A '89-es demokratikus átmenet egy veteránja az Orbán-rezsim nemrég történt megbuktatásáról szólal meg, azt hangsúlyozva, hogy a 15 éves tekintélyuralmi hatalom megdöntése még nehezebb bizonyult, mint a kommunizmus legyőzése. Az észrevétel rámutat Orbán rendszerének a szovjet blokk bukásához képest példa nélküli mély gyökerezettségére.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": [
+      "Beating communism was 'much easier' than ousting Orbán"
+    ]
+  },
+  {
     "id": "14953f878fa65b79",
     "source": "Politico US",
     "region": "us",

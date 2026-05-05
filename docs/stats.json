@@ -1,14 +1,15 @@
 {
-  "total_articles": 298,
-  "analyzed_articles": 298,
+  "total_articles": 299,
+  "analyzed_articles": 299,
   "tone": {
-    "mixed": 30,
+    "mixed": 31,
     "neutral": 140,
     "positive": 89,
     "critical": 38,
     "hopeful": 1
   },
   "framing": {
+    "democracy_restoration": 57,
     "rule_of_law": 33,
     "regional": 6,
     "media_freedom": 6,
@@ -17,7 +18,6 @@
     "corruption": 10,
     "EU_integration": 4,
     "economy": 15,
-    "democracy_restoration": 56,
     "other": 10,
     "government_transition": 2,
     "russia_china": 3,
@@ -27,10 +27,10 @@
     "government transition": 2
   },
   "region": {
+    "eu": 110,
     "us": 26,
     "uk": 55,
     "cee": 13,
-    "eu": 109,
     "de": 36,
     "wire": 49,
     "fr": 10
@@ -40,7 +40,7 @@
     "Politico Europe": 37,
     "DW English": 35,
     "Euronews": 30,
-    "Euractiv": 24,
+    "Euractiv": 25,
     "Financial Times": 22,
     "EUobserver": 16,
     "The Guardian": 15,
@@ -61,10 +61,10 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 236,
+    "government transition": 237,
     "EU relations": 180,
     "geopolitics": 130,
-    "democracy": 114,
+    "democracy": 115,
     "foreign policy": 76,
     "rule of law": 75,
     "EU funds": 68,
@@ -84,7 +84,7 @@
   },
   "actors": {
     "Péter Magyar": 234,
-    "Viktor Orbán": 144,
+    "Viktor Orbán": 145,
     "European Commission": 43,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 28,
@@ -105,10 +105,10 @@
     "European Council": 5
   },
   "main_actor": {
+    "orban_viktor": 60,
     "magyar_peter": 90,
     "hungary_country": 84,
     "other": 29,
-    "orban_viktor": 59,
     "fidesz": 3,
     "eu_institutions": 31,
     "EU_institutions": 2
@@ -152,9 +152,16 @@
     "2026-04-30": 6,
     "2026-05-01": 8,
     "2026-05-03": 1,
-    "2026-05-04": 3
+    "2026-05-04": 3,
+    "2026-05-05": 1
   },
   "tone_by_source": {
+    "Euractiv": {
+      "mixed": 5,
+      "neutral": 12,
+      "critical": 4,
+      "positive": 4
+    },
     "Politico US": {
       "mixed": 1,
       "neutral": 1
@@ -215,12 +222,6 @@
       "positive": 14,
       "critical": 3
     },
-    "Euractiv": {
-      "neutral": 12,
-      "critical": 4,
-      "mixed": 4,
-      "positive": 4
-    },
     "Visegrad Insight": {
       "neutral": 2,
       "critical": 1
@@ -271,6 +272,12 @@
     }
   },
   "source_bias": {
+    "Euractiv": {
+      "mixed": 20,
+      "neutral": 48,
+      "critical": 16,
+      "positive": 16
+    },
     "The Guardian": {
       "neutral": 27,
       "mixed": 7,
@@ -327,12 +334,6 @@
       "positive": 33,
       "critical": 7
     },
-    "Euractiv": {
-      "neutral": 50,
-      "critical": 17,
-      "mixed": 17,
-      "positive": 17
-    },
     "Visegrad Insight": {
       "neutral": 67,
       "critical": 33
@@ -373,5 +374,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-05T02:05:27.372488+00:00"
+  "last_updated": "2026-05-05T06:04:55.683668+00:00"
 }
