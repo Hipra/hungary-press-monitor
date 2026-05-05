@@ -1,49 +1,49 @@
 {
-  "top_story_en": "The democratic transition's credibility is now under dual stress: a media mogul's offer to hand Orbán-era firms to the state marks the first concrete ownership dismantling, while Politico's analysis signals growing European unease about Magyar's consolidation patterns at just 15 days in power.",
-  "top_story_hu": "A demokratikus átmenet hitelessége kettős nyomás alá kerül: egy médiamogul felajánlotta Orbán-kori cégeit az államnak — ez az első konkrét tulajdonosi lépés —, miközben a Politico elemzése azt jelzi, hogy Európában növekszik az aggodalom Magyar hatalomgyakorlási mintái miatt, mindössze 15 nappal a kormányalakítás után.",
+  "top_story_en": "Politico's analysis warns European observers are systematically underestimating rule-of-law and consolidation risks in Magyar's 15-day-old government — the sharpest Western editorial challenge yet to the democratic transition narrative.",
+  "top_story_hu": "A Politico elemzése szerint az európai megfigyelők szisztematikusan alábecsülik a jogállamisági kockázatokat és a hatalomkoncentráció jeleit Magyar 15 napos kormányában — ez a legerőteljesebb nyugati szerkesztőségi kihívás az eddigi demokratikus átmenet-narratívával szemben.",
   "key_developments_en": [
-    "A media mogul who engineered Orbán's election campaigns has offered his firms to the Hungarian state — the first concrete Orbán-era media ownership transfer, though editorial independence mechanics remain unresolved.",
-    "Hungary's banking sector publicly called for regulatory fairness from the Magyar government, marking the financial sector's first direct policy engagement with the new administration.",
-    "A 1989 transition veteran told Euractiv that ousting Orbán proved harder than defeating communism, underscoring the unprecedented depth of systemic entrenchment.",
-    "The Guardian's letters page framed Central Europe — including Hungary — as a live political laboratory for democratic reversal and restoration, signalling the transition's growing resonance in mainstream Western commentary."
+    "Hungary's banking sector publicly called on PM Magyar for competitive regulatory fairness, signalling the business community's active expectations from the new government.",
+    "An Orbán-era media mogul who designed his election campaigns offered his firms to the Hungarian state — the first concrete ownership transfer in the media sector since the transition.",
+    "A veteran of Hungary's 1989 democratic transition told Euractiv that ousting Orbán proved harder than defeating communism, citing 15 years of systemic entrenchment.",
+    "Politico published a dual-edition analysis identifying blind spots in European assessments of Magyar, specifically flagging nepotism appointments and early consolidation patterns."
   ],
   "key_developments_hu": [
-    "Az Orbán-kampányokat tervező médiamogul felajánlotta cégeit az államnak — ez az első konkrét orbáni médiavagyon-átruházás, de a szerkesztői függetlenség mechanizmusa egyelőre tisztázatlan.",
-    "A magyar bankszektör nyilvánosan szólította fel a Magyar-kormányt szabályozási egyenlő bánásmódra — ez a pénzügyi szektor első közvetlen szakpolitikai fellépése az új kabinettel szemben.",
-    "Egy 1989-es rendszerváltó veterán azt mondta az Euractiv-nak: Orbán leváltása nehezebbnek bizonyult, mint a kommunizmus legyőzése.",
-    "A The Guardian levelezési rovata Közép-Európát — köztük Magyarországot — a demokratikus visszaesés és helyreállítás élő politikai laboratóriumaként ábrázolta."
+    "A magyar bankszektort nyilvánosan szólította fel Magyar Péter miniszterelnököt versenyképes és egyenlő szabályozási feltételekre — jelezve az üzleti világ aktív elvárásait az új kormánnyal szemben.",
+    "Az Orbán-korszak egyik médiamogula, aki az egykori választási kampányokat tervezte, felajánlotta cégeit a magyar államnak — ez az első konkrét tulajdonosi átadás a médiaszektorban az átmenet óta.",
+    "Egy 1989-es demokratikus átmenet veteránja az Euractiv-nak azt nyilatkozta, hogy Orbán megbuktatása nehezebb volt, mint a kommunizmus legyőzése, a 15 éves rendszerszintű beágyazottságra hivatkozva.",
+    "A Politico kétféle kiadásban közölt elemzést, amely feltárja az európai értékelések vakvezető pontjait Magyar kapcsán, különösen a nepotizmus-kinevezésekre és a korai hatalomkoncentrációs mintákra fókuszálva."
   ],
   "narrative_shifts_en": [
-    "For the first time, a major US outlet (Politico) is explicitly questioning what Europe is 'missing' about Magyar — moving beyond the celebratory democratic-restoration frame toward cautious scrutiny.",
-    "The media ownership story shifts coverage from abstract 'dismantling Orbán structures' to a concrete transaction, but immediately opens a new accountability question: transfer ≠ independence."
+    "Coverage is bifurcating more sharply: Reuters remains neutral on economic/media stories while Politico pivots to sustained critical scrutiny of Magyar — a tonal split between wire and opinion journalism that was absent last week.",
+    "The media mogul ownership offer introduces a concrete structural data point into what has been an abstract rule-of-law debate, potentially shifting coverage from questions to observable outcomes."
   ],
   "narrative_shifts_hu": [
-    "Először fordult elő, hogy egy jelentős amerikai lap (Politico) nyíltan azt kérdezi, mit nem lát Európa Magyarral kapcsolatban — a korábbi ünnepi demokratizálódás-narratíva helyett kritikus hangú vizsgálódás jelenik meg.",
-    "A médiatulajdon-átruházás híre elvont 'orbáni struktúra-lebontásból' konkrét tranzakcióvá teszi a folyamatot, de azonnal új elszámoltathatósági kérdést nyit: az átruházás nem egyenlő a függetlenséggel."
+    "A tudósítás markánsabban kettéválik: a Reuters semleges marad a gazdasági és médiahírekben, míg a Politico tartós kritikus vizsgálatba fordul Magyar irányában — ez a hangnem-megosztottság a hírügynökségi és véleményjournalizmus között múlt héten még nem volt érzékelhető.",
+    "A médiamogul tulajdonátadási ajánlata egy konkrét strukturális adatpontot vezet be egy eddig elvont jogállamisági vitába, és potenciálisan a kérdések szintjéről a megfigyelhető eredmények szintjére tolja a tudósítást."
   ],
   "quotes_en": [
     {
       "quote": "Beating communism was 'much easier' than ousting Orbán",
-      "speaker": "Hungarian veteran of the 1989 democratic transition (Euractiv)"
+      "speaker": "Unnamed veteran of Hungary's 1989 democratic transition (Euractiv)"
     }
   ],
   "quotes_hu": [
     {
-      "quote": "A kommunizmus legyőzése 'sokkal könnyebb' volt, mint Orbán eltávolítása",
-      "speaker": "Az 1989-es rendszerváltás egyik veteránja (Euractiv)"
+      "quote": "A kommunizmus legyőzése 'sokkal könnyebb' volt, mint Orbán megbuktatása",
+      "speaker": "Magyarország 1989-es demokratikus átmenetének névtelen veteránja (Euractiv)"
     }
   ],
   "what_to_watch_en": [
-    "Whether the media mogul's ownership transfer leads to concrete legislation guaranteeing editorial independence — or remains a symbolic gesture without structural safeguards.",
-    "How European capitals respond to Politico's 'blind spots' framing: if the nepotism/consolidation counter-narrative gains traction in Brussels, it could complicate the EU funds conditionality negotiations.",
-    "Banking sector demands: whether Magyar's government moves toward regulatory reform or defers — the first litmus test of its economic policy posture beyond EU reintegration rhetoric."
+    "Whether the media mogul's ownership offer translates into concrete legislation guaranteeing editorial independence — the deal's terms remain publicly undefined.",
+    "How European institutions respond to Politico's blind-spot framing: if the analysis gains traction, it could complicate the EU funds conditionality negotiations with Magyar.",
+    "Banking sector demands for regulatory fairness: Magyar's response will be an early signal of whether his government breaks from Orbán-era selective enforcement patterns."
   ],
   "what_to_watch_hu": [
-    "Vezet-e a médiatulajdon-átruházás konkrét szerkesztői függetlenséget garantáló jogszabályhoz, vagy szimbolikus gesztus marad szerkezeti garanciák nélkül.",
-    "Hogyan reagálnak az európai fővárosok a Politico 'vak foltok' értékelésére: ha a nepotizmus- és hatalomkoncentráció-narratíva Brüsszelben is teret nyer, az megnehezítheti az uniós forrásokról szóló tárgyalásokat.",
-    "Bankszektori követelések: lép-e Magyar a szabályozási reform felé, vagy halogatja — ez az első érdemi próba az EU-reintegrációs retorikán túl a kormány gazdaságpolitikai irányáról."
+    "A médiamogul tulajdonátadási ajánlata konkrét jogszabállyá válik-e, amely garantálja a szerkesztői függetlenséget — az üzlet feltételei egyelőre nyilvánosan nem ismertek.",
+    "Hogyan reagálnak az európai intézmények a Politico vakvezető pont-keretezésére: ha az elemzés teret nyer, bonyolíthatja az uniós alapok feltételességi tárgyalásait Magyarral.",
+    "A bankszektori egyenlő feltételek iránti igény: Magyar válasza korai jelzés lehet arra, hogy kormánya szakít-e az Orbán-korszak szelektív jogalkalmazási mintáival."
   ],
   "date": "2026-05-05",
   "article_count": 5,
-  "generated_at": "2026-05-05T10:13:53.158792+00:00"
+  "generated_at": "2026-05-05T18:13:27.868986+00:00"
 }

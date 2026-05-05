@@ -88,6 +88,36 @@
     ]
   },
   {
+    "id": "cee30a36e620eb25",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "What Europe is missing about Magyar - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1RkeGFyRU1RejZ2WkV6UEZRZ1FiRHpnTVFPU0tNNUgxREdyRFM1aDFvdnJOVEM2LWExcDJKV0VKWlFtVXduZXVIRHdSSHkxLTVmUkFhWG9VNmdjWG4zX3M0WVRPcnFXS3hQVkNxTGRwM0FKOUNZZVZfVy1IdUstbmpYSWpuc3M?oc=5",
+    "published_at": "2026-05-04T21:31:00+00:00",
+    "fetched_at": "2026-05-05T18:00:26.720653+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission",
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "Politico analysis identifies blind spots in European assessment of Péter Magyar's early consolidation patterns, warning that observers may be underestimating rule-of-law and nepotism risks in his administration despite enthusiasm over the democratic transition.",
+    "title_hu": "Mit hiányol Európa Magyarról",
+    "summary_hu": "Politico-elemzés Péter Magyar korai konszolidációs mintáiban lévő vakpontokat azonosít, figyelmeztetve, hogy az európai megfigyelők alábecsülhetik a jogállami és nepotizmus kockázatokat az adminisztrációban, a demokratikus átmenet feletti lelkesedés ellenére.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "14953f878fa65b79",
     "source": "Politico US",
     "region": "us",
