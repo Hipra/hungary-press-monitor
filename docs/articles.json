@@ -1,5 +1,97 @@
 [
   {
+    "id": "ebbcb42c88f466f2",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary police freeze assets, accounts in probe of Orban-era media mogul - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVVhCMjFMbVBzV2VpNWRMZ2V5bnExVE1zdFVXVGVlUVZQT0FXTzJSRFAyczJrcUhYd01ZVjJIblBjNUt1NGRPT0NqR0xQNWVUelFTR19KS28xM2EweHZqMFVJTlVqaTd5SW02OThPWjJYMVNyZWh6aVBjVmdfY1c4NXktb0Y5dVl5WTBsTnJndmdsaVRJdldyU1l4eGJMaTI3OGVFZU1wWVZiWk9xQzg2UW9LMU5WellpUXc?oc=5",
+    "published_at": "2026-05-06T09:49:50+00:00",
+    "fetched_at": "2026-05-06T10:00:05.769160+00:00",
+    "topics": [
+      "corruption",
+      "rule of law",
+      "media freedom"
+    ],
+    "actors": [
+      "Hungarian police",
+      "Orbán-era media mogul"
+    ],
+    "tone": "positive",
+    "framing": "corruption",
+    "summary_en": "Hungarian police have frozen the assets and bank accounts of an Orbán-era media mogul as part of an ongoing regulatory probe. This enforcement action reflects the Magyar government's intensifying efforts to dismantle the financial networks that sustained Orbán's 15-year rule. The asset seizure marks concrete progress in anti-corruption enforcement against figures from the previous regime.",
+    "title_hu": "Magyar rendőrség egy Orbán-korszakbeli médiamogul vagyonát és bankszámláit fagyasztotta meg",
+    "summary_hu": "A magyar rendőrség egy Orbán-korszakbeli médiamogul vagyonát és bankszámláit fagyasztotta meg egy szabályozási vizsgálat keretében. Ez az intézkedés a Magyar-kormány Orbán 15 éves uralma alatt létrejött pénzügyi hálózatok felszámolásáért folytatott erőfeszítéseinek intenzitásáról tanúskodik. Az eszközök befagyasztása konkrét előrelépést jelent az előző rendszerhez köthető személyek elleni korrupció-ellenes fellépésben.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "1de8c3f43d1e8c82",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary's new government pushes for euro by 2030 - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVWhxYmhFeUlqLUY5eFBjTFJYWkNLRnVFMGY0RFE3V21HZEU2OVRESUU0V0k2dG5lSW9ob0Q4VjZ5cURla054aWNCejlzNEMwd3NYVWxLdmJVSGxFNVhNd1o1ZzFuYVlCOTVBNjBna3MyS21BbmU3S1JKRG5mVGVsRzI1SWJkdTlQLTRBbGkxRdIBjwFBVV95cUxQVWhxYmhFeUlqLUY5eFBjTFJYWkNLRnVFMGY0RFE3V21HZEU2OVRESUU0V0k2dG5lSW9ob0Q4VjZ5cURla054aWNCejlzNEMwd3NYVWxLdmJVSGxFNVhNd1o1ZzFuYVlCOTVBNjBna3MyS21BbmU3S1JKRG5mVGVsRzI1SWJkdTlQLTRBbGkxRQ?oc=5",
+    "published_at": "2026-05-06T08:36:18+00:00",
+    "fetched_at": "2026-05-06T10:00:43.848592+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "economy"
+    ],
+    "actors": [
+      "Hungarian government",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new government under Péter Magyar is committing to euro adoption by 2030, reversing Viktor Orbán's decade-long resistance to eurozone membership. This policy shift represents concrete monetary integration into core EU institutions and signals Magyar's commitment to EU mainstream reintegration following the recent democratic transition.",
+    "title_hu": "Magyarország új kormánya az eurót szorgalmazza 2030-ra",
+    "summary_hu": "Magyarország új kormánya az eurót 2030-ra be akarja vezetni, fordítva Orbán tíz év hosszat tartó eurószkepticizmusán. Ez a politikai fordulat konkrét monetáris integrációt jelent az EU alapvető intézményeibe, és demonstrálja Magyar kormányának elköteleződését az EU főáramhoz való visszacsatlakozás iránt a közelmúltban történt demokratikus átmenet után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "5785a7be65177783",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "What Now for Hungarian Fidesz’s International Influence Network? - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGwtSmpoVmdfZU4zeGtSaVZmaTZxcGdiTlhZdl9qU2NYOGJTUEhoM1E4WEZrd1FVTHpNdkRndXNSS1pNTXlkcF9ZeEhSV3h1X2ZHdWZqZVNXczl4UnN5S3RaUngxcDVXYjhoaE1ZVy1xck03ajNSeEZ0SjFCME1Fc3diZ0hDRERpREg0OWhfM095bUExVUVfMGRZeXR5YW1TY1JCRkV3?oc=5",
+    "published_at": "2026-05-06T06:13:02+00:00",
+    "fetched_at": "2026-05-06T10:00:49.064816+00:00",
+    "topics": [
+      "Fidesz opposition",
+      "V4 diplomacy",
+      "geopolitics",
+      "government transition",
+      "EU relations"
+    ],
+    "actors": [
+      "Fidesz party",
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Robert Fico",
+      "MEPs"
+    ],
+    "tone": "critical",
+    "framing": "regional",
+    "summary_en": "With Péter Magyar's government in power and Orbán offering to resign as Fidesz chief, Fidesz's carefully cultivated international networks—built over 15 years of rule—face strategic unraveling. Hungary's pivot toward EU reintegration and away from illiberal alignment threatens bilateral relationships Fidesz leveraged within the Visegrád Group and beyond. The article examines how regional partners, increasingly warned by Brussels and isolated after Fico's warning, are distancing themselves from a now-opposition Fidesz stripped of state resources and international credibility.",
+    "title_hu": "Mi vár a magyar Fidesz nemzetközi befolyáshálózatára?",
+    "summary_hu": "Péter Magyar kormánya hatalmára kerülésével és Orbán Fidesz-vezetésből való lemondási ajánlatával a párt 15 év alatt kiépített nemzetközi hálózata stratégiai átrendeződésnek indul. Magyarország az EU-hoz való visszaigazodása és az illiberális szövetségektől való elfordulása veszélyezteti a Visegrádi Csoporton belül és azon túl kiépített bilaterális kapcsolatokat. A cikk azt elemzi, hogyan távolodnak el a regionális partnerek az ellenzékké vált, állami erőforrások és nemzetközi hitelességtől megfosztott Fidesz-től.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "fidesz",
+    "comparison_countries": [
+      "Slovakia",
+      "Serbia"
+    ],
+    "quotes": []
+  },
+  {
     "id": "41b17edde7fa4c4d",
     "source": "Euractiv",
     "region": "eu",
