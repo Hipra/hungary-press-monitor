@@ -1,5 +1,63 @@
 [
   {
+    "id": "41b17edde7fa4c4d",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Hungarian oligarch cracks as pressure mounts on Orbán’s elite - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2RGVlllRnZoNy1uVVV6S3BEbXRTeHhKRG9BX092czEwQklBSTFsekZtOUE5Nk1KOUtJeFdvdmxvWDRrTEdTYW4wOVhmUjU5cjEwR0IwRDM2OXc2TzQyREk1TXB3N2tlMmVyMGp0ZC1ZdGVtbk1RUkU2UFEwcWIyVTJDa25POTlBQjZZT3RSV1dSU3FsYWc?oc=5",
+    "published_at": "2026-05-06T04:01:12+00:00",
+    "fetched_at": "2026-05-06T06:00:31.442770+00:00",
+    "topics": [
+      "corruption",
+      "government transition",
+      "rule of law"
+    ],
+    "actors": [
+      "Hungarian oligarch",
+      "Viktor Orbán",
+      "Péter Magyar government"
+    ],
+    "tone": "critical",
+    "framing": "corruption",
+    "summary_en": "Hungary's new Magyar government is intensifying pressure on oligarchs aligned with Viktor Orbán's former regime, with at least one prominent figure capitulating under regulatory and legal scrutiny. The enforcement action reflects the government's active anti-corruption campaign to dismantle the financial networks that sustained Orbán's 15-year rule.",
+    "title_hu": "Magyar oligarcha megadja magát, miközben nyomás nehezedik Orbán elitjére",
+    "summary_hu": "A magyar Magyar-kormány intenszifikálja a nyomást Orbán volt rezsimjéhez kötődő oligarchákra, és legalább egy kiemelkedő figura meghajol a szabályozási és jogi vizsgálat alatt. Az érvényesítési akció a kormány aktív korrupció elleni kampányát tükrözi, amely az Orbán 15 éves uralmát fenntartó pénzügyi hálózatok felszámolásához irányul.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "20c83edd85eef029",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Europe's cities are the heartland of democracy – Budapest is living proof - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3kycUlzeWR2TU1Bdjh3c29fWnJsTFdzWVJSM0VMWDVaOTRNal9mWjN5R29HaGM2cjlkQ0txQmhPaWJDWmRUX21TSW9DQlYtS1BFVm9GR05PTDNZUG4zZjFldUNOWndPTVJBUVU3YWJhYXZQR3pBaWl5RWVUQ1Fla1J3MkJYamw4bUxhQUxPaUcyeldrRGJPU2tiX0pYZE5tRGZZNzhBSQ?oc=5",
+    "published_at": "2026-05-06T04:01:12+00:00",
+    "fetched_at": "2026-05-06T06:00:31.442820+00:00",
+    "topics": [
+      "democracy",
+      "government transition",
+      "EU relations",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Budapest"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Euractiv frames Budapest and Hungary's democratic transition as proof that European cities remain the heartland of democracy. The article celebrates Hungary's ousting of Orbán's 15-year rule as evidence of urban democratic resilience across Europe.",
+    "title_hu": "Európa városai a demokrácia szíve – Budapest élő bizonyíték",
+    "summary_hu": "Az Euractiv azt állítja, hogy Európa városai a demokrácia szíve, és Budapest ennek élő bizonyítéka. Az elmúlt időszak magyar demokratikus átmenete az európai város demokrációs ellenálló képességét bizonyítja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "32f1a8808dafeb20",
     "source": "Reuters",
     "region": "wire",

@@ -1,49 +1,41 @@
 {
-  "top_story_en": "Hungary's media sector has become the most active front in the democratic transition: a competition watchdog probe into Indamedia's Ringier acquisition and an Orbán-era media mogul's offer to hand his firms to the state together mark the first concrete regulatory and ownership moves in post-Orbán media restructuring.",
-  "top_story_hu": "A médiaágazat lett a demokratikus átmenet legaktívabb frontja: a versenyhivatal Indamedia–Ringier-vizsgálata és egy Orbán-közeli médiamogul állami felajánlása együttesen az első konkrét lépések az Orbán utáni médiarendszer átalakításában.",
+  "top_story_en": "Orbán's business and media networks are showing the first concrete fractures: a prominent oligarch has capitulated under regulatory pressure while the architect of Orbán's campaign media empire has offered his firms to the state — the clearest signal yet that the Magyar government's anti-corruption drive is producing structural results.",
+  "top_story_hu": "Orbán üzleti és médiabirodalmán az első komoly repedések jelennek meg: egy befolyásos oligarcha engedett a hatósági nyomásnak, míg az Orbán-kampányokat tervező médiamogul felajánlotta cégeit az államnak — ez a legerősebb jele eddig annak, hogy Magyar kormányának korrupcióellenes fellépése kézzel fogható eredményeket hoz.",
   "key_developments_en": [
-    "Hungary's competition watchdog launched a formal probe into Indamedia's acquisition of Ringier media assets — the first antitrust action targeting post-transition media consolidation.",
-    "An Orbán-era media mogul who designed his election campaigns offered his media firms to the Hungarian state under the Magyar government.",
-    "Hungary's banking sector publicly called for a level regulatory playing field under Magyar, signalling active business-sector engagement with the new government.",
-    "A veteran of Hungary's 1989 democratic transition told Euractiv that ousting Orbán proved harder than defeating communism, underscoring the depth of the dismantled system."
+    "At least one prominent Orbán-aligned oligarch has capitulated under the Magyar government's intensifying regulatory and legal pressure, per Euractiv.",
+    "Hungary's competition watchdog launched a formal probe into Indamedia's acquisition of Ringier media assets, the first antitrust action on post-transition media consolidation.",
+    "A media mogul who designed Orbán's election campaigns offered his firms to the Hungarian state under the new government; editorial independence arrangements remain unresolved.",
+    "Hungary's banking sector publicly called on PM Magyar's government for a level regulatory playing field, signalling the business elite expects rule-of-law norms to replace Orbán-era favouritism.",
+    "Euractiv elevated Budapest into a pan-European symbol, framing the city as 'living proof' that urban centres are the structural heartland of democratic resilience."
   ],
   "key_developments_hu": [
-    "A Gazdasági Versenyhivatal formális vizsgálatot indított az Indamedia Ringier-vásárlása ügyében — ez az első versenyhatósági lépés az átmenet utáni médiapiaci konszolidáció ellen.",
-    "Egy Orbán választási kampányait tervező médiamogul felajánlotta cégeit az állam számára a Magyar-kormány alatt.",
-    "A magyar bankszektora nyilvánosan egyenlő versenyfeltételeket kért Magyar Pétertől, jelezve az üzleti szereplők aktív elköteleződését az új kormánnyal.",
-    "Magyarország 1989-es demokratikus átmenetének egy veteránja azt mondta az Euractiv-nak, hogy Orbán megbuktatása nehezebb volt, mint a kommunizmus legyőzése."
+    "Legalább egy befolyásos, Orbán-közeli oligarcha meghátrált Magyar kormányának fokozódó hatósági és jogi nyomása előtt – adta hírül az Euractiv.",
+    "A magyar versenyhatóság vizsgálatot indított az Indamedia Ringier-eszközök felvásárlása ügyében – ez az első trösztellenes eljárás az átmenet utáni médiapiaci konszolidációval kapcsolatban.",
+    "Az Orbán-kampányokat tervező médiamogul felajánlotta cégeit az új kormánynak; a szerkesztői függetlenség feltételei egyelőre tisztázatlanok.",
+    "A magyar bankrendszer nyilvánosan kért egyenlő versenyfeltételeket Magyar Péter kormányától, jelezve, hogy az üzleti elit elvárja a jogállami normák helyreállítását az Orbán-éra kedvezményezettségi rendszere helyett.",
+    "Az Euractiv Budapestet páneurópai szimbólummá emelte, 'élő bizonyítéknak' nevezve, hogy az európai városok a demokratikus ellenálló képesség strukturális fellegvárai."
   ],
   "narrative_shifts_en": [
-    "Media freedom coverage has moved from abstract urgency to procedural action: the watchdog probe and the mogul's asset offer shift the story from 'reform needed' to 'reform underway,' though editorial independence mechanics remain unresolved.",
-    "Business-sector voices (banks) are now framing their demands in rule-of-law terms, subtly reinforcing democratic-restoration pressure on Magyar from an economic rather than civil-society direction."
+    "Coverage has moved from 'will enforcement happen?' to 'enforcement is producing results' — today's oligarch capitulation story marks a shift from anticipatory framing to documented outcomes.",
+    "Media ownership coverage has bifurcated: the mogul's offer to the state is framed as dismantlement progress, while the Indamedia/Ringier probe introduces a regulatory watchdog as an independent actor, complicating the simple restoration narrative."
   ],
   "narrative_shifts_hu": [
-    "A sajtószabadság-narratíva elvont sürgetésből eljárási lépésekké alakult: a versenyhatósági vizsgálat és az eszközfelajánlás áthelyezi a hangsúlyt a 'reform szükséges'-ről a 'reform folyamatban van' irányba — bár a szerkesztői függetlenség mechanizmusai egyelőre nyitottak.",
-    "Az üzleti szereplők (bankok) már jogállami keretek között fogalmazzák meg igényeiket, ezzel gazdasági oldalról is erősítve a demokratikus helyreállítás iránti nyomást Magyar Péteren."
+    "A tudósítások hangsúlya eltolódott: a 'lesz-e számonkérés?' kérdéséről a 'a számonkérés eredményt hoz' megállapításra — az oligarcha meghátrálása az előrejelző keretből dokumentált tények körébe helyezi az ügyet.",
+    "A médiatulajdon-témájú cikkek kettéváltak: a mogul állami felajánlása a lebontás előrehaladásaként jelenik meg, míg az Indamedia/Ringier-vizsgálat egy független szereplőként mutatja be a versenyhatóságot, árnyalva az egyszerű helyreállítás-narratívát."
   ],
-  "quotes_en": [
-    {
-      "quote": "Beating communism was 'much easier' than ousting Orbán",
-      "speaker": "Veteran of Hungary's 1989 democratic transition, via Euractiv"
-    }
-  ],
-  "quotes_hu": [
-    {
-      "quote": "A kommunizmus legyőzése 'sokkal könnyebb' volt, mint Orbán megbuktatása",
-      "speaker": "Magyarország 1989-es demokratikus átmenetének veteránja, az Euractiv-nak"
-    }
-  ],
+  "quotes_en": [],
+  "quotes_hu": [],
   "what_to_watch_en": [
-    "Whether the media mogul's asset offer to the state leads to genuine editorial independence or reproduces Orbán-era concentration under new ownership.",
-    "The substance and timeline of the Indamedia/Ringier probe — a meaningful ruling would set a precedent for how Magyar's government handles media pluralism.",
-    "Whether the banking sector's public call for regulatory fairness produces concrete policy signals from the Magyar government in the coming days."
+    "Identity and legal basis of the capitulating oligarch(s): Euractiv has not named anyone — disclosure will determine whether enforcement is targeted or systemic.",
+    "Editorial independence terms for the media mogul's state transfer: the mechanism adopted here will set the template for broader media pluralism restoration.",
+    "Competition watchdog timeline and scope in the Indamedia/Ringier probe — its outcome will test whether regulatory independence from political pressure has been genuinely restored."
   ],
   "what_to_watch_hu": [
-    "A médiamogul állami felajánlása valódi szerkesztői függetlenséget hoz-e, vagy az orbáni koncentráció új tulajdonos alatt ismétlődik meg.",
-    "Az Indamedia/Ringier-vizsgálat tartalma és ütemezése — egy érdemi döntés precedenst teremthet a Magyar-kormány médiapiaci pluralizmus-kezelésére.",
-    "A bankszektori nyilatkozatokra reagálva a Magyar-kormány hoz-e konkrét szabályozási jelzéseket a következő napokban."
+    "A meghátrálló oligarcha(k) személyazonossága és az eljárás jogalapja: az Euractiv nem nevez meg senkit — a nyilvánosságra hozatal megmutatja, hogy a számonkérés célzott vagy szisztematikus-e.",
+    "A médiamogul állami átadásának szerkesztői függetlenségi feltételei: az itt kialakított mechanizmus mintát ad a szélesebb médiatöbbszínűség-helyreállításhoz.",
+    "A versenyhatóság Indamedia/Ringier-vizsgálatának menetrendje és hatóköre — az eredmény megmutatja, hogy a szabályozói függetlenség valóban helyreállt-e a politikai nyomástól."
   ],
   "date": "2026-05-06",
-  "article_count": 4,
-  "generated_at": "2026-05-06T02:05:21.590774+00:00"
+  "article_count": 5,
+  "generated_at": "2026-05-06T06:06:23.827103+00:00"
 }
