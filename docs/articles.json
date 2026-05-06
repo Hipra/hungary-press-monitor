@@ -1,5 +1,186 @@
 [
   {
+    "id": "ca709a1dbdf5464e",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "‘Factory of lies’: what will Péter Magyar do about Hungary’s state media? - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVGtmX1lfTHNSV2Q2R0JUYlBISGU5WHZ6OW1yMkdFSEQ4VlZyQi1pdTNRYXFjVXRGLWlfUjdZRTVHRGhYRW9mMGdYQVZRSXRxWl9BdG1xc2s1Y2dzSk9KcElMeVRTd1pPOTBkcHZYSEJmV1RwZ2RPU0pfdVlxWmxWQ0xNWFRUejhXWkZiYWRjeUlMU3dEcHBWZXRB?oc=5",
+    "published_at": "2026-05-06T17:04:00+00:00",
+    "fetched_at": "2026-05-06T18:00:11.508901+00:00",
+    "topics": [
+      "media freedom",
+      "democracy",
+      "government transition",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "media_freedom",
+    "summary_en": "The Guardian examines whether Péter Magyar's government will undertake genuine reform of Hungary's state media system, characterized as a 'factory of lies' under Orbán. The article critically questions whether media independence and pluralism can be restored given the scale of institutional capture inherited from the previous regime.",
+    "title_hu": "'A hazugságok gyára': Mit fog Péter Magyar tenni Magyarország állami médiájával?",
+    "summary_hu": "Az The Guardian megvizsgálja, hogy Péter Magyar kormánya valóban reformálja-e Magyarország állami médiáját, amelyet az Orbán-éra alatt a 'hazugságok gyáraként' írták le. A cikk kritikusan felteszi a kérdést, hogy lehet-e helyreállítani a médiafüggetlenséget és a sokszínűséget az előző rezsim okozta intézményi megcsúszottság mértéke miatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "Factory of lies"
+    ]
+  },
+  {
+    "id": "e5eb87c58eb98e95",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Hungary returns a seized cash and gold shipment worth $82 million to Ukraine - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ3Y1bktjbEhaTnZjRzFZNHVGMHljbzg5Qm1zUGhmRVlnUTNOdUh1UDhkMnAyVHZDamtSYTdUNUJBWno2RzJnQnBGWkttdDJ5SG1wNC1TaEJFSF9WMzdfNHdqVDQtY01sRkJicHp0NkxYMnZYUUJ4dl9yeU1SdVFsb093NXAxRVFTTDBHOUpzUXU4d0FLZ1dXb2R1bzVacWp2bmVSMXFhOS1Qc0hoc0NjelV6Q0RPWnV1MTNERnVnb2EwMHZVWkZBMHFIbDY0ZHNOUEhrNEVfaw?oc=5",
+    "published_at": "2026-05-06T17:02:33+00:00",
+    "fetched_at": "2026-05-06T18:00:22.182877+00:00",
+    "topics": [
+      "foreign policy",
+      "geopolitics",
+      "EU relations",
+      "government transition"
+    ],
+    "actors": [
+      "Hungary",
+      "Ukraine",
+      "Péter Magyar",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary has returned $82 million in seized cash and gold to Ukraine, marking a significant shift in Budapest-Kyiv relations under Péter Magyar's new government. This goodwill gesture deepens rapprochement between the two countries, replacing Orbán's adversarial stance toward Ukraine. The action signals Hungary's reorientation toward EU alignment and regional stability.",
+    "title_hu": "Magyarország 82 millió dollárnyi lefoglalt pénzt és aranyat ad vissza Ukrajnának",
+    "summary_hu": "Magyarország 82 millió dollár értékű lefoglalt készpénzt és aranyat adott vissza Ukrajnának, ami jelentős fordulat Magyarország és Ukrajna közötti kapcsolatban Péter Magyar új kormánya alatt. Ez a jóindulat-gesztus elmélyíti a két ország közötti közeledést, felváltva Orbán Ukraine-ellenes álláspontját. A lépés Magyarország EU-irányú reorientációját jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b3089426006929a1",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Kyiv hails Hungary returning seized cash, eyes mending ties - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWlQtSW9FMEFta242cGFiYXUtVDVQdExoNzVtc082elBVVDY2c2EyZzhJU1ljY1dpS3VtaEV5bF9JdXpfVGQ4MldQdURIajVHeHFieTZ4WTR5cmI3d1BKSHRjcUpOQjNCNHVETDhEeDdvZTd1QnpwUXMzb2s1Y0k2ajlfSm1RSTRjTW1BeDB0OHpQYng4Rzg2dkx2S1Jsb2FKc216cWhHQVU5VEpQQ1E?oc=5",
+    "published_at": "2026-05-06T15:40:51+00:00",
+    "fetched_at": "2026-05-06T18:00:05.083405+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "geopolitics",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskyy",
+      "Hungary",
+      "Ukraine"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary has returned cash previously seized from Ukrainian bank workers, marking a significant gesture in the normalization of Budapest-Kyiv relations under the new Magyar government. This action represents a qualitative shift from veto-lifting to active goodwill gestures, deepening bilateral ties beyond mere geopolitical realignment. The move signals Hungary's broader reintegration into Western alliances following the April 2026 government transition.",
+    "title_hu": "Kijev üdvözli, hogy Magyarország visszaadja a lefoglalt készpénzt, és javítani szeretné a kapcsolatokat",
+    "summary_hu": "Magyarország visszaadta az egykor ukrán bankmunkásoktól lefoglalt készpénzt, ami jelentős gesztus a magyar-ukrán kapcsolatok normalizálódásában az új Magyar-kormány alatt. Ez az intézkedés minőségi váltást jelent a vétó feloldásától az aktív jóakarat-gesztusokig, elmélyítve a bilaterális kapcsolatokat a geopolitikai átrendeződésen túl. A lépés Magyarország szélesebb körű nyugati szövetségekbe való visszaintegrációját jelzi az április 2026-os kormányváltás után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "24df69e233c092cb",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Hungary returns seized Ukrainian cash and gold in further sign of better relations - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2dEWkk3V0RjdWVMbUltWWlyblFrMVNyUDBxUHRVdGw5Z2FGX1UzZ1BiS3lYcWQ0UDNNb0VtbWxLaHZjWXdkR2d0em84UEdacXRZb3JfSzBFaFV1a3pUNlpYUXFmeHBzOTFJVzZ6MThZcUhLYXEwSTBNbXZWNUl0OXF1WjhGTklSX0dWNUVPTUIwUjNoSmxadE1INA?oc=5",
+    "published_at": "2026-05-06T15:33:21+00:00",
+    "fetched_at": "2026-05-06T18:00:33.198852+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ukraine",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's new Magyar government returns seized Ukrainian cash and gold, signaling improved bilateral relations and a sharp break from Orbán-era antagonism. This action deepens the Budapest-Kyiv rapprochement and reflects Magyar's broader EU reintegration strategy, moving beyond symbolic veto-lifting to active goodwill gestures.",
+    "title_hu": "Magyarország visszaadja a feltartóztatott ukrán készpénzt és aranyat a jobb kapcsolatok további jeleiként",
+    "summary_hu": "Magyarország új Magyar-kormánya visszaadja a feltartóztatott ukrán készpénzt és aranyat, jelezve a javuló bilaterális kapcsolatokat és a szembetűnő szakítást az Orbán-korszakbeli ellenségeskedéstől. Ez a lépés mélyíti a Budapest-Kijev kapcsolatok javulását és tükrözi Magyar szélesebb körű EU-integráció stratégiáját, a szimbolikus vétózás visszavonásáról az aktív jóindulatú gesztusokra lépve.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "668efd63e4682a29",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary returns a seized cash and gold shipment worth $82 million to Ukraine - AP News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXBMS1luT0poeTFKbEdnYnRTVXMydEZZdEJJR1JHc1BaSEtjTG1xYlFtazJpNExWbkVXc1dvRFAwNFROeDc4RktRTTVXV2FIb3gwZ2U3YlhEcmhHTm82b21HUW9yUUp0cGliZ3hCSlZnOFBUWDV1MFJ3bE9jOVdyeEtqSDFlWkdZalA2SEEtQ1JXY3YtMHdqWUduRDZvQXpNeTgzWGRMNA?oc=5",
+    "published_at": "2026-05-06T15:23:00+00:00",
+    "fetched_at": "2026-05-06T18:00:07.321719+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "Ukraine",
+      "Péter Magyar",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's new government under Péter Magyar returned an $82 million shipment of cash and gold seized from Ukrainian citizens during Orbán's tenure, signaling deepening Budapest-Kyiv rapprochement and reversing Orbán's obstructionist stance toward Ukraine. The asset return represents a qualitative shift in Hungary's foreign policy alignment toward NATO and EU normalization.",
+    "title_hu": "Magyarország visszaadja az Ukrajnának elkobzott 82 millió dollárnyi készpénz- és aranyrakományt",
+    "summary_hu": "Magyar Péter kormánya 82 millió dollár értékű készpénz- és aranyrakományt adott vissza Ukrajnának, amelyet az Orbán-rezsim korábban elkobzott. Ez a gesztus a Budapest-Kijevi közeledés mélyülésére utal és Magyarország NATO-barát külpolitikai fordulatát jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "465d530ab1cddf1c",
+    "source": "The Parliament Magazine",
+    "region": "eu",
+    "title": "Orbán is out. But the right isn’t - The Parliament Magazine",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVRCcjhWR3B4cUdpcjh6anV5R3padHlFRXREMkJUcEg3eUNPelBtWjZDMEdTb1U1NjJBNGR4V2R0Sk9jZlJwQmtjLXViRTJQSGFIX1BEUlR1YkV5Qkg5aU1NR1RTclRzbmEyS1laNHZOODdVQ1VDcERudnhHRUk5VF9ZYnhiTUE?oc=5",
+    "published_at": "2026-05-06T14:36:41+00:00",
+    "fetched_at": "2026-05-06T18:00:39.008286+00:00",
+    "topics": [
+      "government transition",
+      "Fidesz opposition",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "Fidesz opposition",
+    "summary_en": "While Viktor Orbán has been defeated and removed from office following the April 2026 elections, his defeat does not signal the end of broader right-wing political movements or ideologies in Hungary or Europe. The article warns that conservative and right-wing political forces remain influential despite Orbán's personal departure from power.",
+    "title_hu": "Orbán eltávozik. De a jobboldal nem",
+    "summary_hu": "Bár Viktor Orbán a 2026 áprilisi választások után vereséget szenvedett és eltávozik a hatalomból, ez nem jelzi a szélesebb körű jobboldali politikai mozgalmak vagy ideológiák végét Magyarországon vagy Európában. A cikk figyelmeztet, hogy a konzervatív és jobboldali politikai erők Orbán személyes eltávozása ellenére továbbra is nagy befolyással bírnak.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "13b5fc351071af52",
     "source": "Financial Times",
     "region": "uk",
@@ -29,6 +210,35 @@
     "quotes": []
   },
   {
+    "id": "307b75853a8951ca",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Hungary probes Orbán mogul for financial crimes - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXM1QnJCSUR2cGxwRmhTUlhJNFBJMFJwaUxTYjhCT0l6ZWZzNWJVaU5aZkNfOFNHaWVyUnNmN1UxTV8yRFhUR3NKczI5Y3JjZzhyVE9hU1BVMDc2LVhMdXZBTDZUei16aVVwcksxR1pnQVdxZGxObm13cWJ4VzZESFF1bng?oc=5",
+    "published_at": "2026-05-06T13:50:36+00:00",
+    "fetched_at": "2026-05-06T18:00:15.696503+00:00",
+    "topics": [
+      "corruption",
+      "rule of law",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar government",
+      "Orbán-era media mogul",
+      "Hungarian authorities"
+    ],
+    "tone": "neutral",
+    "framing": "corruption",
+    "summary_en": "Hungary is investigating an Orbán-era media mogul for financial crimes, marking an escalation in the Magyar government's anti-corruption enforcement drive. The probe represents a qualitative shift in rule-of-law restoration, moving from regulatory pressure to criminal-level asset seizures and account freezes.",
+    "title_hu": "Magyarország vizsgálja az Orbán-kori mogult a pénzügyi bűncselekmények miatt",
+    "summary_hu": "Magyarország nyomozást indít egy Orbán-kori média mogul ellen pénzügyi bűncselekmények gyanúja miatt, ami a Magyar-kormány erősödő korrupcióellenes tevékenységét mutatja. A vizsgálat minőségi ugrást jelent a jogállami helyreállításban, ahogy a büntetőjogi szintű vagyonzárlatok a szabályozási nyomás helyét veszik át.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "9891f78a0e112936",
     "source": "Euronews",
     "region": "eu",
@@ -53,6 +263,33 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "098d212844585ebb",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "EU reset: Hungary's incoming PM to meet Giorgia Meloni in Rome - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM29VMUpVTlI2RmZhVHI4bjNHRVFJWDdKQ250RktlZXNEZGhvX1FnNmoxWWM1cnlNcG0wYUI0LVk5OXVWV1RnaV93NHlaSDg0RkZTTzM0dHoxWDZadmFmcVJsQTFZUi1vVGVEdVQtX1N4Zmlybkp5R243N1Y3Nmp2Um5QaU5IOWwxZUllelhqMGpuR3ZyS0VQRi1fM29VSGhfcW5PVUs5ZFkzcVZNUV9aZUhjQjhVVnB0cXdaV214Smo4UG1U?oc=5",
+    "published_at": "2026-05-06T11:44:35+00:00",
+    "fetched_at": "2026-05-06T18:00:41.081815+00:00",
+    "topics": [
+      "government transition",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Giorgia Meloni"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new Prime Minister Péter Magyar is meeting with Italian PM Giorgia Meloni in Rome, signaling the beginning of Hungary's diplomatic realignment and EU reintegration following its recent government transition. The meeting frames Hungary's transition as part of a broader EU reset and demonstrates Magyar's early efforts to normalize relations with Western European leaders. This engagement reflects Hungary's shift toward EU mainstream politics after years of Orbán-era tensions.",
+    "title_hu": "EU megújulás: Magyarország új kormányfője Giorgia Melonival találkozik Rómában",
+    "summary_hu": "Magyarország új miniszterelnöke, Péter Magyar Róma-ban találkozik az olasz kormányfővel, Giorgia Melonival, jelezve Magyarország diplomáciai átrendeződésének és EU-s reintegrációjának kezdetét a közelmúltbeli kormányváltást követően. A találkozó Magyarország átmeneti folyamatát egy tágabb EU-s megújulás részeként értelmezi, és bemutatja Magyar korai törekvéseit a nyugat-európai vezetőkkel való normális diplomáciai kapcsolatok helyreállítására. Ez Magyarország Orbán-korszakot követő elmozdulását tükrözi az EU főáramú politikája felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
     "comparison_countries": [],
     "quotes": []
   },
