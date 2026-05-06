@@ -1,11 +1,11 @@
 {
-  "total_articles": 318,
-  "analyzed_articles": 318,
+  "total_articles": 320,
+  "analyzed_articles": 320,
   "tone": {
-    "critical": 43,
+    "critical": 44,
     "positive": 97,
     "mixed": 32,
-    "neutral": 145,
+    "neutral": 146,
     "hopeful": 1
   },
   "framing": {
@@ -13,10 +13,10 @@
     "geopolitics": 95,
     "Fidesz opposition": 3,
     "corruption": 14,
-    "eu_integration": 57,
+    "eu_integration": 58,
+    "economy": 17,
     "regional": 7,
     "democracy_restoration": 58,
-    "economy": 16,
     "rule_of_law": 34,
     "EU_integration": 4,
     "other": 10,
@@ -29,16 +29,16 @@
   "region": {
     "uk": 58,
     "us": 27,
-    "wire": 55,
+    "wire": 56,
     "eu": 117,
-    "de": 37,
+    "de": 38,
     "cee": 14,
     "fr": 10
   },
   "source": {
-    "Reuters": 47,
+    "Reuters": 48,
     "Politico Europe": 39,
-    "DW English": 36,
+    "DW English": 37,
     "Euronews": 32,
     "Euractiv": 27,
     "Financial Times": 24,
@@ -61,15 +61,15 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 254,
-    "EU relations": 190,
+    "government transition": 255,
+    "EU relations": 191,
     "geopolitics": 136,
     "democracy": 120,
     "rule of law": 82,
     "foreign policy": 81,
-    "EU funds": 68,
+    "EU funds": 69,
     "elections": 49,
-    "economy": 41,
+    "economy": 43,
     "Fidesz opposition": 27,
     "energy": 27,
     "Russia deals": 24,
@@ -83,8 +83,8 @@
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 247,
-    "Viktor Orbán": 151,
+    "Péter Magyar": 248,
+    "Viktor Orbán": 152,
     "European Commission": 44,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 32,
@@ -105,8 +105,8 @@
     "Kremlin": 6
   },
   "main_actor": {
-    "magyar_peter": 96,
-    "hungary_country": 91,
+    "magyar_peter": 97,
+    "hungary_country": 92,
     "orban_viktor": 63,
     "other": 31,
     "fidesz": 4,
@@ -124,11 +124,11 @@
     "Czech Republic": 2,
     "France": 2,
     "Hungary": 2,
+    "Romania": 1,
     "Serbia": 1,
     "Greece": 1,
     "Cyprus": 1,
-    "Belgium": 1,
-    "Moldova": 1
+    "Belgium": 1
   },
   "daily": {
     "2026-04-12": 5,
@@ -154,7 +154,7 @@
     "2026-05-03": 1,
     "2026-05-04": 4,
     "2026-05-05": 4,
-    "2026-05-06": 15
+    "2026-05-06": 17
   },
   "tone_by_source": {
     "The Guardian": {
@@ -170,8 +170,8 @@
     },
     "Reuters": {
       "positive": 16,
-      "neutral": 28,
-      "critical": 3
+      "critical": 4,
+      "neutral": 28
     },
     "Politico Europe": {
       "positive": 9,
@@ -201,7 +201,7 @@
       "mixed": 4
     },
     "DW English": {
-      "neutral": 18,
+      "neutral": 19,
       "critical": 1,
       "positive": 13,
       "hopeful": 1,
@@ -286,9 +286,9 @@
       "critical": 9
     },
     "Reuters": {
-      "positive": 34,
-      "neutral": 60,
-      "critical": 6
+      "positive": 33,
+      "critical": 8,
+      "neutral": 58
     },
     "Politico Europe": {
       "positive": 23,
@@ -318,9 +318,9 @@
       "mixed": 12
     },
     "DW English": {
-      "neutral": 50,
+      "neutral": 51,
       "critical": 3,
-      "positive": 36,
+      "positive": 35,
       "hopeful": 3,
       "mixed": 8
     },
@@ -381,5 +381,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-06T18:16:00.447634+00:00"
+  "last_updated": "2026-05-06T22:14:40.041999+00:00"
 }

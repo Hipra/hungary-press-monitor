@@ -294,6 +294,62 @@
     "quotes": []
   },
   {
+    "id": "7a80128031f681d4",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Negative outlooks on Hungary, Romania ratings reflect fiscal risks in CEE - S&P Global Ratings - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEtVbzdrRms3RGVYZlZlb2ZxYmtQcVAzWkNpTzBYVF9SZ3FmN3NnMTZ3SnNoRU1BVHprek9adlZiNmZTQS0zdGZIemhjalVzZ0dWN3hUM3J5UEZ3N0thQjZKeEFDWUZoTjVlaDNxejBIcXdOSWZDRHdmSTU4dkYtSlVnOVE5S1ZhZGJMd2JCWUxSNW1pVFZPdkgtR2NyaUgyRVJ6OTltVUJXdTdPWGQ3ZUtsTkt3T3VyNmhiTE1n?oc=5",
+    "published_at": "2026-05-06T11:41:43+00:00",
+    "fetched_at": "2026-05-06T22:00:06.508839+00:00",
+    "topics": [
+      "economy",
+      "EU funds"
+    ],
+    "actors": [
+      "S&P Global Ratings"
+    ],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "S&P Global Ratings has assigned a negative outlook to Hungary's credit rating, citing fiscal risks across Central and Eastern Europe. The assessment reflects concerns about Hungary's fiscal sustainability and budgetary pressures during the post-Orbán transition period.",
+    "title_hu": "Negatív kilátások Magyarország, Románia besorolásaira tükrözik a CEE-beli fiskális kockázatokat - S&P Global Ratings",
+    "summary_hu": "Az S&P Global Ratings negatív kilátást adott Magyarország hitelbesorolásához, amely a Közép- és Kelet-Európai fiskális kockázatokra utal. Az értékelés az orbáni-utáni átmenet során Magyarország fiskális fenntarthatóságával és költségvetési nyomásaival kapcsolatos aggodalmakat tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Romania"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "09fd4e920c04111a",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary's new government pushes for euro by 2030 - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHhiQXltaHhEMEV5UFNWNWxFa0wxWmhQV0x5Nl9HV1pPYnk0cnJ2OXhhaGwyZUF0RTlxUDdnQWQxdXdHamxvYXlVYVNhRUwyWGFuaTlrb3QyWTNvTWYyV2dnb0dkZE9TTnBvOFlvZS1yZVBNYlJNNUo4OTdJbUhKRi15UXZ4OGfSAYcBQVVfeXFMTzZYTXp5TXBOM1RtajdiZFFuUm81Q2MyVUJHYWVwbUI3S2Z4cGl6QWZCdm1iYUR0Q2VJaUU3U1M4VnJfcjMtc0htVVRhZzBWRFowNEh3MWw0MGxTYmtSRThscWtQRGNXdnduTjlEdEhZUE5wUGI2Q2JVWG8yZHdPNWNja241X2tn?oc=5",
+    "published_at": "2026-05-06T10:08:07+00:00",
+    "fetched_at": "2026-05-06T22:00:43.923040+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new government under Péter Magyar has committed to euro adoption by 2030, reversing Viktor Orbán's decade-long resistance to monetary integration with the EU. This represents a significant policy reversal signaling Hungary's pivot toward deeper EU integration and democratic normalization. The commitment demonstrates Magyar's determination to realign Hungary with core EU economic and institutional standards.",
+    "title_hu": "Magyarország új kormánya az euró 2030-ig történő bevezetésére szorgalmazza",
+    "summary_hu": "Magyarország Péter Magyar vezetésével alakult új kormánya az euró 2030-ig történő bevezetésére vállalt elkötelezettséget, amely megfordítja az Orbán-éra egy évtizedes ellenállását a monetáris EU-integráció ellen. Ez jelentős politikafordulat, amely Magyarország mélyebb EU-integrációs és demokratikus normalizálási fordulóját jelzi. Az elkötelezettség megmutatja Magyar eltökéltségét Magyarország EU-standardokkal való igazításában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "ebbcb42c88f466f2",
     "source": "Reuters",
     "region": "wire",
