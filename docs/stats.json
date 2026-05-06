@@ -1,22 +1,22 @@
 {
-  "total_articles": 308,
-  "analyzed_articles": 308,
+  "total_articles": 310,
+  "analyzed_articles": 310,
   "tone": {
-    "positive": 91,
+    "mixed": 32,
+    "positive": 92,
     "neutral": 144,
     "critical": 41,
-    "mixed": 31,
     "hopeful": 1
   },
   "framing": {
-    "corruption": 12,
+    "corruption": 13,
+    "geopolitics": 91,
     "eu_integration": 56,
     "regional": 7,
     "democracy_restoration": 58,
     "media_freedom": 8,
     "economy": 16,
     "rule_of_law": 34,
-    "geopolitics": 90,
     "EU_integration": 4,
     "other": 10,
     "government_transition": 2,
@@ -27,21 +27,21 @@
     "government transition": 2
   },
   "region": {
+    "uk": 56,
+    "eu": 114,
     "wire": 53,
     "de": 37,
     "cee": 14,
-    "eu": 113,
     "us": 26,
-    "uk": 55,
     "fr": 10
   },
   "source": {
     "Reuters": 46,
     "Politico Europe": 38,
     "DW English": 36,
-    "Euronews": 30,
+    "Euronews": 31,
     "Euractiv": 27,
-    "Financial Times": 22,
+    "Financial Times": 23,
     "EUobserver": 16,
     "The Guardian": 15,
     "Balkan Insight": 11,
@@ -61,12 +61,12 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 244,
+    "government transition": 246,
     "EU relations": 185,
-    "geopolitics": 131,
+    "geopolitics": 132,
     "democracy": 118,
-    "rule of law": 79,
-    "foreign policy": 76,
+    "rule of law": 80,
+    "foreign policy": 77,
     "EU funds": 68,
     "elections": 49,
     "economy": 41,
@@ -74,7 +74,7 @@
     "Fidesz opposition": 26,
     "Russia deals": 24,
     "human rights": 23,
-    "corruption": 21,
+    "corruption": 22,
     "judicial reform": 15,
     "society": 11,
     "media freedom": 10,
@@ -83,8 +83,8 @@
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 240,
-    "Viktor Orbán": 149,
+    "Péter Magyar": 241,
+    "Viktor Orbán": 150,
     "European Commission": 44,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 28,
@@ -94,7 +94,7 @@
     "Donald Tusk": 16,
     "European Union": 16,
     "Russia": 15,
-    "Volodymyr Zelenskyy": 12,
+    "Volodymyr Zelenskyy": 13,
     "EU institutions": 12,
     "Rumen Radev": 10,
     "Hungarian government": 7,
@@ -105,10 +105,10 @@
     "Kremlin": 6
   },
   "main_actor": {
+    "hungary_country": 88,
     "orban_viktor": 62,
     "magyar_peter": 93,
     "fidesz": 4,
-    "hungary_country": 86,
     "other": 30,
     "eu_institutions": 31,
     "EU_institutions": 2
@@ -154,9 +154,21 @@
     "2026-05-03": 1,
     "2026-05-04": 4,
     "2026-05-05": 4,
-    "2026-05-06": 5
+    "2026-05-06": 7
   },
   "tone_by_source": {
+    "Financial Times": {
+      "mixed": 5,
+      "neutral": 14,
+      "critical": 1,
+      "positive": 3
+    },
+    "Euronews": {
+      "positive": 8,
+      "critical": 3,
+      "neutral": 16,
+      "mixed": 4
+    },
     "Reuters": {
       "positive": 15,
       "neutral": 28,
@@ -196,18 +208,6 @@
       "mixed": 1,
       "critical": 2,
       "positive": 8
-    },
-    "Euronews": {
-      "critical": 3,
-      "neutral": 16,
-      "positive": 7,
-      "mixed": 4
-    },
-    "Financial Times": {
-      "neutral": 14,
-      "critical": 1,
-      "mixed": 4,
-      "positive": 3
     },
     "EUobserver": {
       "critical": 8,
@@ -274,6 +274,18 @@
     }
   },
   "source_bias": {
+    "Financial Times": {
+      "mixed": 22,
+      "neutral": 61,
+      "critical": 4,
+      "positive": 13
+    },
+    "Euronews": {
+      "positive": 26,
+      "critical": 10,
+      "neutral": 52,
+      "mixed": 13
+    },
     "Reuters": {
       "positive": 33,
       "neutral": 61,
@@ -309,18 +321,6 @@
       "mixed": 7,
       "critical": 13,
       "positive": 53
-    },
-    "Euronews": {
-      "critical": 10,
-      "neutral": 53,
-      "positive": 23,
-      "mixed": 13
-    },
-    "Financial Times": {
-      "neutral": 64,
-      "critical": 5,
-      "mixed": 18,
-      "positive": 14
     },
     "EUobserver": {
       "critical": 50,
@@ -377,5 +377,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-06T10:10:42.993021+00:00"
+  "last_updated": "2026-05-06T14:14:26.883743+00:00"
 }

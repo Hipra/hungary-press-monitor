@@ -1,5 +1,62 @@
 [
   {
+    "id": "13b5fc351071af52",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Hungary probes Orbán mogul for financial crimes - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbmpoZkNkbGtvbzhpV1M1enp3S2VTSlRBNS1OWnJIU1V4UjcxQl96V19wNk9CZGNXaUJpR2o4Zkp1Unl3VFduZE9DYVV3WUFGcm1BenF3MXBhbVRhMUVxMFg3bEwzYzFFaDhMUHNkZHM?oc=5",
+    "published_at": "2026-05-06T13:50:36+00:00",
+    "fetched_at": "2026-05-06T14:00:15.884884+00:00",
+    "topics": [
+      "corruption",
+      "rule of law",
+      "government transition"
+    ],
+    "actors": [
+      "Hungarian authorities",
+      "Orbán-era oligarch",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "corruption",
+    "summary_en": "Hungary's newly transitioned government is investigating an Orbán-era oligarch for financial crimes, with authorities freezing the mogul's assets and bank accounts. This criminal enforcement action marks a qualitative shift in the new government's anti-corruption campaign and reflects voters' identification of corruption as the primary cause of Orbán's electoral defeat.",
+    "title_hu": "Magyarország Orbán-korszakbeli oligarcha ellen vizsgálatot indít pénzügyi bűncselekmények miatt",
+    "summary_hu": "Magyar Péter új kormánya egy Orbán-korszakbeli oligarchát vizsgál pénzügyi bűncselekmények miatt, akinek vagyonát és bankszámláit lefagyasztotta a rendőrség. Ez a büntetőjogi erőfeszítés a kormány korrupció-ellenes kampányának minőségi lépcsőfokát jelzi, és tükrözi, hogy a szavazók a korrupciót Orbán választási vereségének elsődleges okaként azonosították.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "9891f78a0e112936",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Zelenskyy says Hungary returned cash seized from Ukraine bank workere - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1JFamJldFYwR25hVG10MGRsZUtYR1hzNFI5eHVqNUdLOV9Wd1pNVm5DemtuNndveEwzYUpHNzI2V21oX0VOVUpZY2pOV09mUThJTmNVdWZyTDBPYWpXcFBMemVBR0xOSmtaTDZBbVd2VlFOaEg1UmVNVDZ5bkt2UXlSNlJCb0JlakVqTEpmRUM5SW5nS2RzcVBwQnl1YWF1UWp3SDNCTlE2Zm5TRWs2MkpTdWxMOTZJd3BwRzBudmk0d1hKTFA4czRwTTRNOXc0?oc=5",
+    "published_at": "2026-05-06T13:48:39+00:00",
+    "fetched_at": "2026-05-06T14:00:39.943726+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Volodymyr Zelenskyy",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "President Zelenskyy reports that Hungary's government has returned cash seized from Ukrainian bank workers. This action marks a significant shift in Budapest-Kyiv relations and demonstrates the Magyar administration's reversal of Orbán-era antagonism toward Ukraine. The development aligns with Hungary's broader geopolitical realignment toward the EU and Western partners.",
+    "title_hu": "Zelenskyy azt mondja, hogy Magyarország visszaadta az Ukrajnai bankműködösöktől elkobzott készpénzt",
+    "summary_hu": "Zelenskyy szerint Magyarország visszaadta az Ukrajnai bankdolgozóktól elkobzott készpénzt. Ez fordulat jelent a magyar-ukrán kapcsolatokban az Orbán-korszak Ukrajna-ellenességéhez képest. A lépés Magyarország EU-s reintegrációs törekvésének részét képezi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "ebbcb42c88f466f2",
     "source": "Reuters",
     "region": "wire",
