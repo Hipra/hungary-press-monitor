@@ -1,5 +1,33 @@
 [
   {
+    "id": "32f1a8808dafeb20",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary competition watchdog launches probe into Indamedia's purchase of Ringier assets - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQjA4ZUlITThTUy14alVuWVZpeFBLcElDUWhkb1VJMDNpS2o1Q3hRRzI4eG1hc0o3cjE2X0JzS2U5Q3l0b184U2phY2F5VG9USGJQTzRnS25sZEFKNjVxangtNnF5cEZfVkNxTUJsNllYaUtXUjFIUGMwVExxZTJsRW52OVNCbzAxNnQ4eWxIdjBnbTlpZEFkandjaEtkNEhLLVhIZVdET3VBekJkOVVKeHZCN3YzZHFrUU1ZSXd3LUJjZkpUTUJRSF8zUkFWbHJabmdtTmZoU25tZ3lvX0ktVWZMbzRldXM?oc=5",
+    "published_at": "2026-05-05T16:17:27+00:00",
+    "fetched_at": "2026-05-06T02:00:05.981519+00:00",
+    "topics": [
+      "media freedom",
+      "economy"
+    ],
+    "actors": [
+      "Hungarian competition watchdog",
+      "Indamedia",
+      "Ringier"
+    ],
+    "tone": "neutral",
+    "framing": "media_freedom",
+    "summary_en": "Hungary's competition watchdog has launched an investigation into Indamedia's acquisition of Ringier media assets. The probe reflects renewed regulatory oversight in Hungary's media sector during the post-Orbán transition, where media ownership restructuring and market competition are central to democratic restoration.",
+    "title_hu": "A magyar versenyhatóság vizsgálatot indított az Indamedia Ringier-eszközök megvásárlásáról",
+    "summary_hu": "A magyar versenyhatóság vizsgálatot indított az Indamedia Ringier-médiavagyonának megvásárlásáról. A vizsgálat az Orbán-utáni átmenetben a médiaszabadság helyreállítására és a piacverseny biztosítására irányuló erőfeszítéseket tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "d988382628fabaec",
     "source": "Reuters",
     "region": "wire",

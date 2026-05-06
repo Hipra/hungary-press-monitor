@@ -1,16 +1,16 @@
 {
-  "total_articles": 302,
-  "analyzed_articles": 302,
+  "total_articles": 303,
+  "analyzed_articles": 303,
   "tone": {
-    "neutral": 142,
+    "neutral": 143,
     "mixed": 31,
     "critical": 39,
     "positive": 89,
     "hopeful": 1
   },
   "framing": {
+    "media_freedom": 8,
     "economy": 16,
-    "media_freedom": 7,
     "democracy_restoration": 57,
     "rule_of_law": 34,
     "regional": 6,
@@ -27,7 +27,7 @@
     "government transition": 2
   },
   "region": {
-    "wire": 51,
+    "wire": 52,
     "eu": 111,
     "us": 26,
     "uk": 55,
@@ -36,7 +36,7 @@
     "fr": 10
   },
   "source": {
-    "Reuters": 44,
+    "Reuters": 45,
     "Politico Europe": 38,
     "DW English": 35,
     "Euronews": 30,
@@ -69,7 +69,7 @@
     "foreign policy": 76,
     "EU funds": 68,
     "elections": 49,
-    "economy": 39,
+    "economy": 40,
     "energy": 27,
     "Fidesz opposition": 25,
     "Russia deals": 24,
@@ -77,8 +77,8 @@
     "corruption": 19,
     "judicial reform": 15,
     "society": 10,
+    "media freedom": 9,
     "V4 diplomacy": 9,
-    "media freedom": 8,
     "regional": 5,
     "NATO": 3
   },
@@ -105,10 +105,10 @@
     "Kremlin": 6
   },
   "main_actor": {
+    "hungary_country": 85,
     "magyar_peter": 92,
     "other": 30,
     "orban_viktor": 60,
-    "hungary_country": 84,
     "fidesz": 3,
     "eu_institutions": 31,
     "EU_institutions": 2
@@ -153,11 +153,11 @@
     "2026-05-01": 8,
     "2026-05-03": 1,
     "2026-05-04": 4,
-    "2026-05-05": 3
+    "2026-05-05": 4
   },
   "tone_by_source": {
     "Reuters": {
-      "neutral": 27,
+      "neutral": 28,
       "positive": 14,
       "critical": 3
     },
@@ -273,8 +273,8 @@
   },
   "source_bias": {
     "Reuters": {
-      "neutral": 61,
-      "positive": 32,
+      "neutral": 62,
+      "positive": 31,
       "critical": 7
     },
     "Euractiv": {
@@ -374,5 +374,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-05T22:09:56.727786+00:00"
+  "last_updated": "2026-05-06T02:05:21.753734+00:00"
 }
