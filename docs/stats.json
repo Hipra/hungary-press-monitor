@@ -1,9 +1,9 @@
 {
-  "total_articles": 335,
-  "analyzed_articles": 335,
+  "total_articles": 336,
+  "analyzed_articles": 336,
   "tone": {
     "critical": 48,
-    "positive": 102,
+    "positive": 103,
     "neutral": 152,
     "mixed": 32,
     "hopeful": 1
@@ -11,7 +11,7 @@
   "framing": {
     "rule_of_law": 37,
     "eu_integration": 61,
-    "democracy_restoration": 61,
+    "democracy_restoration": 62,
     "economy": 19,
     "russia_china": 5,
     "corruption": 15,
@@ -28,7 +28,7 @@
   },
   "region": {
     "eu": 124,
-    "de": 39,
+    "de": 40,
     "wire": 58,
     "us": 28,
     "think": 1,
@@ -39,7 +39,7 @@
   "source": {
     "Reuters": 50,
     "Politico Europe": 43,
-    "DW English": 38,
+    "DW English": 39,
     "Euronews": 32,
     "Euractiv": 29,
     "Financial Times": 25,
@@ -63,10 +63,10 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 268,
+    "government transition": 269,
     "EU relations": 197,
     "geopolitics": 139,
-    "democracy": 127,
+    "democracy": 128,
     "rule of law": 87,
     "foreign policy": 85,
     "EU funds": 71,
@@ -85,7 +85,7 @@
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 259,
+    "Péter Magyar": 260,
     "Viktor Orbán": 158,
     "European Commission": 46,
     "Volodymyr Zelenskiy": 39,
@@ -108,7 +108,7 @@
   },
   "main_actor": {
     "orban_viktor": 67,
-    "magyar_peter": 102,
+    "magyar_peter": 103,
     "hungary_country": 97,
     "eu_institutions": 32,
     "other": 31,
@@ -157,7 +157,7 @@
     "2026-05-04": 4,
     "2026-05-05": 5,
     "2026-05-06": 17,
-    "2026-05-07": 14
+    "2026-05-07": 15
   },
   "tone_by_source": {
     "EUobserver": {
@@ -173,7 +173,7 @@
       "mixed": 6
     },
     "DW English": {
-      "positive": 14,
+      "positive": 15,
       "neutral": 19,
       "critical": 1,
       "hopeful": 1,
@@ -293,8 +293,8 @@
       "mixed": 14
     },
     "DW English": {
-      "positive": 37,
-      "neutral": 50,
+      "positive": 38,
+      "neutral": 49,
       "critical": 3,
       "hopeful": 3,
       "mixed": 8
@@ -392,5 +392,5 @@
       "last_seen_count": 3
     }
   ],
-  "last_updated": "2026-05-07T18:13:58.342489+00:00"
+  "last_updated": "2026-05-07T22:13:21.097154+00:00"
 }

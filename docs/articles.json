@@ -90,6 +90,32 @@
     "quotes": []
   },
   {
+    "id": "3e8a0ea4b3a64909",
+    "source": "DW English",
+    "region": "de",
+    "title": "Peter Magyar to appoint Hungary's first blind minister - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdmhTVDFrN3J6WHlWSE00WmJ0ZGE0Q1ZLd0tCZ3ZTdm5sMEozcnlzS01WQW1VR2lnZ24yZFFDZklsNm5ac2tWVlZHOWx2N1JlUGNLekQwb1RNTFZnTE9uVl8zNHVBc2JPU2Y2WU1aUERGX09uWDJ3S2JQMjJoOFlPdHQyTGJuNE1GLWJkZTY3RXh1Vmlx?oc=5",
+    "published_at": "2026-05-07T11:14:51+00:00",
+    "fetched_at": "2026-05-07T22:00:37.474098+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's government is appointing Hungary's first blind minister, signaling a commitment to merit-based and inclusive governance. This marks a clear departure from Viktor Orbán's 15-year tenure, which was characterized by nepotistic and crony appointments. The appointment demonstrates Magyar's broader effort to establish a government based on competence rather than political connections.",
+    "title_hu": "Péter Magyar Magyarország első vak miniszterét fogja kinevezni - DW.com",
+    "summary_hu": "Péter Magyar kormánya Magyarország első vak miniszterét nevezi ki, amely méltóság alapú és inkluzív kormányzásra való elkötelezettséget jelez. Ez egyértelmű szakítást jelent Viktor Orbán 15 éves uralmával, amelyet nepotizmus és baráti kinevezések jellemeztek. A kinevezés a Magyar-kormány szélesebb törekvéseit mutatja a kompetencián alapuló és nem politikai kapcsolatokat preferáló kormányzás felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "6655fc1ba388aa9b",
     "source": "DW English",
     "region": "de",
