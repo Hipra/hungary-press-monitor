@@ -1,22 +1,22 @@
 {
-  "total_articles": 321,
-  "analyzed_articles": 321,
+  "total_articles": 324,
+  "analyzed_articles": 324,
   "tone": {
+    "neutral": 150,
     "critical": 44,
     "positive": 97,
     "mixed": 32,
-    "neutral": 147,
     "hopeful": 1
   },
   "framing": {
+    "corruption": 15,
+    "democracy_restoration": 59,
+    "regional": 8,
     "media_freedom": 9,
     "geopolitics": 95,
     "Fidesz opposition": 3,
-    "corruption": 14,
     "eu_integration": 58,
     "economy": 18,
-    "regional": 7,
-    "democracy_restoration": 58,
     "rule_of_law": 34,
     "EU_integration": 4,
     "other": 10,
@@ -27,7 +27,7 @@
     "government transition": 2
   },
   "region": {
-    "uk": 58,
+    "uk": 61,
     "us": 27,
     "wire": 57,
     "eu": 117,
@@ -41,8 +41,8 @@
     "DW English": 37,
     "Euronews": 32,
     "Euractiv": 27,
-    "Financial Times": 24,
-    "The Guardian": 16,
+    "Financial Times": 25,
+    "The Guardian": 18,
     "EUobserver": 16,
     "Washington Post": 11,
     "Balkan Insight": 11,
@@ -61,30 +61,30 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 255,
+    "government transition": 258,
     "EU relations": 191,
-    "geopolitics": 136,
-    "democracy": 120,
-    "rule of law": 82,
+    "geopolitics": 137,
+    "democracy": 122,
+    "rule of law": 83,
     "foreign policy": 81,
     "EU funds": 69,
     "elections": 49,
-    "economy": 44,
+    "economy": 45,
     "Fidesz opposition": 27,
     "energy": 27,
+    "corruption": 24,
+    "human rights": 24,
     "Russia deals": 24,
-    "corruption": 23,
-    "human rights": 23,
     "judicial reform": 15,
+    "society": 12,
     "media freedom": 11,
-    "society": 11,
     "V4 diplomacy": 10,
     "regional": 5,
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 248,
-    "Viktor Orbán": 152,
+    "Péter Magyar": 250,
+    "Viktor Orbán": 154,
     "European Commission": 44,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 32,
@@ -105,9 +105,9 @@
     "Kremlin": 6
   },
   "main_actor": {
-    "magyar_peter": 97,
+    "orban_viktor": 65,
+    "magyar_peter": 98,
     "hungary_country": 93,
-    "orban_viktor": 63,
     "other": 31,
     "fidesz": 4,
     "eu_institutions": 31,
@@ -154,12 +154,19 @@
     "2026-05-03": 1,
     "2026-05-04": 4,
     "2026-05-05": 5,
-    "2026-05-06": 17
+    "2026-05-06": 17,
+    "2026-05-07": 3
   },
   "tone_by_source": {
+    "Financial Times": {
+      "neutral": 16,
+      "mixed": 5,
+      "critical": 1,
+      "positive": 3
+    },
     "The Guardian": {
+      "neutral": 6,
       "critical": 3,
-      "neutral": 4,
       "mixed": 1,
       "positive": 8
     },
@@ -187,12 +194,6 @@
     "The Parliament Magazine": {
       "critical": 2,
       "positive": 1
-    },
-    "Financial Times": {
-      "mixed": 5,
-      "neutral": 15,
-      "critical": 1,
-      "positive": 3
     },
     "Euronews": {
       "positive": 9,
@@ -274,11 +275,17 @@
     }
   },
   "source_bias": {
+    "Financial Times": {
+      "neutral": 64,
+      "mixed": 20,
+      "critical": 4,
+      "positive": 12
+    },
     "The Guardian": {
-      "critical": 19,
-      "neutral": 25,
+      "neutral": 33,
+      "critical": 17,
       "mixed": 6,
-      "positive": 50
+      "positive": 44
     },
     "Washington Post": {
       "positive": 55,
@@ -304,12 +311,6 @@
     "The Parliament Magazine": {
       "critical": 67,
       "positive": 33
-    },
-    "Financial Times": {
-      "mixed": 21,
-      "neutral": 62,
-      "critical": 4,
-      "positive": 12
     },
     "Euronews": {
       "positive": 28,
@@ -381,5 +382,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-07T02:14:00.108450+00:00"
+  "last_updated": "2026-05-07T06:15:31.132401+00:00"
 }

@@ -1,5 +1,92 @@
 [
   {
+    "id": "80a2912e6e5099e9",
+    "source": "Financial Times",
+    "region": "uk",
+    "title": "Hungarian nepo-stocks: where are they now? - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55VkxmRkFkLUxKOUV0MkJJTGlwZlJjbEJuV0g4ck5hT1ItT0NyQVI5WmRzQmxTZDJQYnZWMktYYUhaZlc4Z29QN2RqNkpncWptVUlXWmd1QXRId21ZbTZUTTBVaXVQSkFRdmFPZ0Jqcjk?oc=5",
+    "published_at": "2026-05-07T05:30:42+00:00",
+    "fetched_at": "2026-05-07T06:00:16.764945+00:00",
+    "topics": [
+      "corruption",
+      "government transition",
+      "economy",
+      "rule of law"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Orbán-era oligarchs and media moguls"
+    ],
+    "tone": "neutral",
+    "framing": "corruption",
+    "summary_en": "The Financial Times article tracks the fates of assets and companies connected to Orbán-era nepotistic figures following Hungary's April 2026 political transition. It examines asset seizures, regulatory probes, and business model shifts as the new Magyar government pursues anti-corruption enforcement against regime-linked oligarchs and media moguls.",
+    "title_hu": "Magyar nepo-részvények: merre járnak most?",
+    "summary_hu": "A Financial Times cikk a magyar politikai átmenet után a Orbán-korszak nepotista köreihez köthető vagyon és cégek sorsát követi nyomon. Az esszé az eszközfagyasztásokat, hatósági vizsgálatokat és a rezsimhez kötött oligarchák és médiamogulok elleni új kormányzati fellépéseket vizsgálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "88c2331d04bac21c",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "New Hungarian PM’s voters want action on climate and LGBTQ+ rights, poll finds - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3VJWFJlN3dQazNaOV93VUN0LVVOWEJsTm9wV0tuckdncndaRnpVVnlhMEw1eXJVRlN4MEhnNWFBMkhZdERyVmlZR25kOGJqcGRxN0lacHotSFA5S3BPdXZpZ2ZVVm0xZ3hjMG9rU05La25oTTY1SEh5Tjc3blRaOGdVTEhyaFhuaU9JLWJ6WVNWRmkta05r?oc=5",
+    "published_at": "2026-05-07T04:00:00+00:00",
+    "fetched_at": "2026-05-07T06:00:12.926147+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "human rights",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungarian voters"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "A Guardian poll reveals that voters supporting Hungary's new PM Péter Magyar prioritize climate action and LGBTQ+ rights as policy priorities. This signals public demand for progressive reforms and democratic responsiveness after the Orbán era. The finding addresses a coverage gap on LGBTQ+ policy responses under the new government.",
+    "title_hu": "A magyar miniszterelnök szavazói klímavédelmet és LGBTQ+ jogokat követelnek – felmérés",
+    "summary_hu": "A The Guardian felmérése azt mutatja, hogy Péter Magyar magyar miniszterelnök szavazói a klímavédelem és az LGBTQ+ jogok védelmét tartják prioritásnak. Ez tükrözi a közvélemény igényét progresszív reformokra és demokratikus válaszkészségre az Orbán-korszak után. Az eredmény feltölti az új kormányzat LGBTQ+ politikájáról szóló hírek hiányosságát.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "e6680aedc349d739",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Trump may be toxic and Orbán is gone, but Europe’s far right is not in decline | Cas Mudde - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGdpUEFpXzRKZkpzR29OWktwUUhLOWJ3bE1qbjlDN0t2VjlZN2hub0VTTzZNdm1ZcVppTXZnOF85M3FOR3A3MndFbEp3MmhqN3JLdzJfMlpiZDJTckN2eF9YajFqcThMVUQzdVBkb2dUZVVyQjhDVkpuLTB2b2dCTzhDVkloUk42ejBCSUJ5Yl9pbWdwTzdCYlJKeDItbXdzMFFoYm1ibUJ1ZnIw?oc=5",
+    "published_at": "2026-05-07T04:00:00+00:00",
+    "fetched_at": "2026-05-07T06:00:12.926173+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "geopolitics"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Donald Trump"
+    ],
+    "tone": "neutral",
+    "framing": "regional",
+    "summary_en": "Analyst Cas Mudde argues that while Viktor Orbán's electoral defeat in Hungary represents a significant setback for European authoritarianism, the continent's broader far-right political movements remain resilient and not in genuine decline. Despite reputational damage to Trump and Orbán's electoral loss, structural conditions enabling far-right politics across Europe persist.",
+    "title_hu": "Trump mérgezőnek bizonyulhat és Orbán már nincs, de Európa szélsőjobbja nem hanyatlik",
+    "summary_hu": "Cas Mudde szerint, miközben Viktor Orbán választási veresége Magyarországon az európai autoritarizmus visszaesésének tekinthető, az európai szélsőjobboldali mozgalmak tágabb körben rugalmasnak maradnak és nem csökkennek. Trump és Orbán vereségei ellenére az szélsőjobb politikát lehetővé tevő szerkezeti feltételek az egész kontinenten kitartanak.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "ca709a1dbdf5464e",
     "source": "The Guardian",
     "region": "uk",
