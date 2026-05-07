@@ -1,5 +1,89 @@
 [
   {
+    "id": "deb90ab52f7d4cd8",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Hungary, EU split over how much of its €10B funding it should get - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmZWYzJOd2oxTUEwY0VTQ3BiYUs0ckdJX1YyendkSUlZSHd6SlNBcjVtQ25tcGRpMm13MENrLVRZYWppZkwzVjJvVWpOOGJGWEVXOV9oY2JwYkJuUFBNWHFyRk9rWWR2UkRKZmJJUVQ5dUx3Q05jbEp0UURNNlVKTU4xNzRuaVducnNiS21PWG5SWE5wQnNJWFV2Tkk4Zw?oc=5",
+    "published_at": "2026-05-07T12:23:33+00:00",
+    "fetched_at": "2026-05-07T14:00:26.505891+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "economy",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "European Commission"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Hungary and the EU disagree over the exact amount of a €10 billion funding package, with Brussels imposing strict conditions on judicial and democratic reforms. The split reflects tensions between Magyar's newly formed government and the EU over the pace and scope of structural reform. Negotiations concluded in late April without resolving the funding dispute.",
+    "title_hu": "Magyarország és az EU vitája a 10 milliárd eurós alapokról",
+    "summary_hu": "Magyarország és az Európai Unió vitázik egy 10 milliárd eurós finanszírozási csomag összegéről, mivel az EU szigorú reformfeltételeket szab. A vita feszültséget mutat Magyar új kormánya és Brüsszel között a strukturális reformok ütemén és hatókörén. Az április végi tárgyalások nem oldották meg az eltéréseket.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "6655fc1ba388aa9b",
+    "source": "DW English",
+    "region": "de",
+    "title": "Peter Magyar to appoint Hungary's first blind minister - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0p4dTc1eTJES1pJcWhKTlBDTi01OHlqM1BKSVd4SEtNS05RS24zQmpVOThyeld3Q2w2UHk4Vkd0OEJ1MlpPVy1hRFIxcl8tTEkzR2Q5ZWFYZkRhbGR2RUJwbnNsenNVUkV3dkJKX1FvcFo4djJsMUYtNUJUYS1Fa3dBVGVCU1Q5WFd4RFdRSXJrdDZU?oc=5",
+    "published_at": "2026-05-07T10:14:51+00:00",
+    "fetched_at": "2026-05-07T14:00:38.613069+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's new government is appointing Hungary's first blind minister, signaling a commitment to inclusive and diverse governance after the Orbán era. The appointment reflects the administration's effort to modernize state institutions and demonstrate a break from crony-based rule. The move aligns with Magyar's broader democratic reform mandate and signals openness to merit-based talent recruitment regardless of disability status.",
+    "title_hu": "Péter Magyar kinevezi Magyarország első vak miniszterét",
+    "summary_hu": "Péter Magyar új kormánya Magyarország első vak miniszterét nevezi ki, az Orbán-korszak után az inkluzív és sokszínű kormányzásra mutat. A kinevezés tükrözi az administration törekvéseit az állami intézmények modernizálására és a klikkekre alapuló uralom megtörésére. A lépés Magyar demokratikus reformmandátumához igazodik, és jelzi az érdemek alapján történő kiválasztás nyitottságát a fogyatékossági státusztól függetlenül.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "589d464d678f4cf8",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "German investor morale in Hungary improves in post-election survey - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUXB0X2hjQktDN29hb3czYVVlSDAzYlluZ1VHd25ySXJORHo5NU5hNlZMSmhkTF9YbGRFalRDd1JLdzhySzdzSEdidEhjcld3aVRvUVloMmRObUV3V0t0R1VKcE5XaXBzcmwwajVXVTRXcFZQQk1XTGlHcnAta0hxYkZhMVdWTjdUQUJGNkNsbW84ME9obC1tTVJ5SzNZYVIzeDVMVA?oc=5",
+    "published_at": "2026-05-07T09:21:12+00:00",
+    "fetched_at": "2026-05-07T14:00:01.502542+00:00",
+    "topics": [
+      "economy",
+      "government transition",
+      "EU relations"
+    ],
+    "actors": [],
+    "tone": "positive",
+    "framing": "economy",
+    "summary_en": "A Reuters survey finds improving investor morale among German businesses regarding Hungary's post-election economic outlook. The positive sentiment toward Magyar's government contrasts with S&P's concurrent negative credit rating outlook and suggests international business confidence in democratic transition and EU reintegration despite fiscal challenges.",
+    "title_hu": "A német befektetők Magyarország felé irányuló hangulata javul a választás utáni felmérésben - Reuters",
+    "summary_hu": "Egy Reuters felmérés szerint a német üzleti közösség optimistán tekint Magyarország gazdasági kilátásaira Magyar Péter új kormánya után. Ez a pozitív hangulatváltozás ellentétben áll az S&P egyidejű negatív hitelminősítésével, és azt jelzi, hogy a nemzetközi befektetői közösség bizalma nő az EU-val való újraintegráció és az átmenet felé ellenére a fiskális kockázatoknak.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Germany"
+    ],
+    "quotes": []
+  },
+  {
     "id": "323dd51b218d82b3",
     "source": "New York Times",
     "region": "us",
@@ -146,6 +230,38 @@
     "is_relevant": 1,
     "main_actor": "orban_viktor",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "3916029f0f2b9c45",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Field trip to Russia, anyone? - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNTdtMVpEcDBSM3ZpZE1sdTN1TWlZVlhZazI3VUdSWk9udFdRbnlLM1E5aDNfZUY3QlBpbmJUb3RaUjBjOE4wRzhzZWZkS3hyLS1JMkZ2Q2VzZ0d0a0MxOFAyblJ5STRaUEVqeHFFbXZ3eVpJVE9XMEJCbDRoMEJ3aW9LYkRlMHFtVElFOUtUYw?oc=5",
+    "published_at": "2026-05-07T05:05:00+00:00",
+    "fetched_at": "2026-05-07T14:00:26.505910+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy",
+      "Russia deals"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Politico Europe"
+    ],
+    "tone": "critical",
+    "framing": "russia_china",
+    "summary_en": "A satirical Politico Europe analysis questioning whether Hungary's new Magyar government will continue or reverse Orbán-era Russia relations during the democratic transition. The sarcastic framing suggests skepticism about potential Russian diplomatic engagement amid expectations of EU reintegration and NATO alignment.",
+    "title_hu": "Kirándulás Oroszországba? Ki merne?",
+    "summary_hu": "A Politico Europe szarkasztikus elemzése azt kérdezi, hogy Magyar új kormánya folytatni fogja-e vagy megfordítja az Orbán-kori orosz kapcsolatokat a demokratikus átmenet során. Az ironikus keret szkepticizmust sugall az EU-integrációs és NATO-illeszkedési várakozások közepette lehetséges orosz diplomáciai kapcsolatokkal szemben.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Russia"
+    ],
     "quotes": []
   },
   {
