@@ -1,46 +1,47 @@
 {
-  "total_articles": 324,
-  "analyzed_articles": 324,
+  "total_articles": 328,
+  "analyzed_articles": 328,
   "tone": {
-    "neutral": 150,
-    "critical": 44,
-    "positive": 97,
+    "positive": 99,
+    "neutral": 151,
+    "critical": 45,
     "mixed": 32,
     "hopeful": 1
   },
   "framing": {
+    "russia_china": 4,
+    "rule_of_law": 36,
+    "democracy_restoration": 60,
     "corruption": 15,
-    "democracy_restoration": 59,
     "regional": 8,
     "media_freedom": 9,
     "geopolitics": 95,
     "Fidesz opposition": 3,
     "eu_integration": 58,
     "economy": 18,
-    "rule_of_law": 34,
     "EU_integration": 4,
     "other": 10,
     "government_transition": 2,
-    "russia_china": 3,
     "elections": 1,
     "energy": 3,
     "government transition": 2
   },
   "region": {
+    "us": 28,
+    "eu": 119,
+    "think": 1,
     "uk": 61,
-    "us": 27,
     "wire": 57,
-    "eu": 117,
     "de": 38,
     "cee": 14,
     "fr": 10
   },
   "source": {
     "Reuters": 49,
-    "Politico Europe": 39,
+    "Politico Europe": 40,
     "DW English": 37,
     "Euronews": 32,
-    "Euractiv": 27,
+    "Euractiv": 28,
     "Financial Times": 25,
     "The Guardian": 18,
     "EUobserver": 16,
@@ -49,33 +50,34 @@
     "Le Monde": 10,
     "BBC": 9,
     "AP News": 8,
+    "New York Times": 7,
     "The Times": 6,
-    "New York Times": 6,
     "Foreign Policy": 4,
     "The Parliament Magazine": 3,
     "Visegrad Insight": 3,
     "The Economist": 3,
     "Wall Street Journal": 3,
     "Politico US": 2,
+    "ECFR": 1,
     "Süddeutsche": 1,
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 258,
-    "EU relations": 191,
-    "geopolitics": 137,
-    "democracy": 122,
-    "rule of law": 83,
-    "foreign policy": 81,
+    "government transition": 262,
+    "EU relations": 193,
+    "geopolitics": 138,
+    "democracy": 124,
+    "rule of law": 85,
+    "foreign policy": 83,
     "EU funds": 69,
-    "elections": 49,
-    "economy": 45,
+    "elections": 50,
+    "economy": 46,
     "Fidesz opposition": 27,
     "energy": 27,
     "corruption": 24,
     "human rights": 24,
     "Russia deals": 24,
-    "judicial reform": 15,
+    "judicial reform": 16,
     "society": 12,
     "media freedom": 11,
     "V4 diplomacy": 10,
@@ -83,15 +85,15 @@
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 250,
-    "Viktor Orbán": 154,
+    "Péter Magyar": 253,
+    "Viktor Orbán": 156,
     "European Commission": 44,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 32,
-    "Ursula von der Leyen": 21,
+    "Ursula von der Leyen": 22,
     "Tisza Party": 21,
     "Hungary": 20,
-    "Volodymyr Zelenskyy": 17,
+    "Volodymyr Zelenskyy": 18,
     "Donald Tusk": 16,
     "European Union": 16,
     "Russia": 15,
@@ -105,9 +107,9 @@
     "Kremlin": 6
   },
   "main_actor": {
-    "orban_viktor": 65,
-    "magyar_peter": 98,
-    "hungary_country": 93,
+    "orban_viktor": 66,
+    "hungary_country": 94,
+    "magyar_peter": 100,
     "other": 31,
     "fidesz": 4,
     "eu_institutions": 31,
@@ -155,9 +157,29 @@
     "2026-05-04": 4,
     "2026-05-05": 5,
     "2026-05-06": 17,
-    "2026-05-07": 3
+    "2026-05-07": 7
   },
   "tone_by_source": {
+    "New York Times": {
+      "positive": 4,
+      "mixed": 1,
+      "neutral": 2
+    },
+    "Euractiv": {
+      "positive": 6,
+      "critical": 5,
+      "mixed": 5,
+      "neutral": 12
+    },
+    "ECFR": {
+      "neutral": 1
+    },
+    "Politico Europe": {
+      "critical": 10,
+      "positive": 9,
+      "neutral": 15,
+      "mixed": 6
+    },
     "Financial Times": {
       "neutral": 16,
       "mixed": 5,
@@ -179,12 +201,6 @@
       "positive": 16,
       "critical": 4,
       "neutral": 29
-    },
-    "Politico Europe": {
-      "positive": 9,
-      "critical": 9,
-      "neutral": 15,
-      "mixed": 6
     },
     "AP News": {
       "positive": 2,
@@ -213,12 +229,6 @@
       "positive": 4,
       "neutral": 4,
       "mixed": 2
-    },
-    "Euractiv": {
-      "critical": 5,
-      "positive": 5,
-      "mixed": 5,
-      "neutral": 12
     },
     "Politico US": {
       "mixed": 1,
@@ -257,11 +267,6 @@
       "critical": 1,
       "mixed": 1
     },
-    "New York Times": {
-      "mixed": 1,
-      "neutral": 2,
-      "positive": 3
-    },
     "Süddeutsche": {
       "positive": 1
     },
@@ -275,6 +280,23 @@
     }
   },
   "source_bias": {
+    "New York Times": {
+      "positive": 57,
+      "mixed": 14,
+      "neutral": 29
+    },
+    "Euractiv": {
+      "positive": 21,
+      "critical": 18,
+      "mixed": 18,
+      "neutral": 43
+    },
+    "Politico Europe": {
+      "critical": 25,
+      "positive": 22,
+      "neutral": 38,
+      "mixed": 15
+    },
     "Financial Times": {
       "neutral": 64,
       "mixed": 20,
@@ -296,12 +318,6 @@
       "positive": 33,
       "critical": 8,
       "neutral": 59
-    },
-    "Politico Europe": {
-      "positive": 23,
-      "critical": 23,
-      "neutral": 38,
-      "mixed": 15
     },
     "AP News": {
       "positive": 25,
@@ -330,12 +346,6 @@
       "positive": 36,
       "neutral": 36,
       "mixed": 18
-    },
-    "Euractiv": {
-      "critical": 19,
-      "positive": 19,
-      "mixed": 19,
-      "neutral": 44
     },
     "EUobserver": {
       "critical": 50,
@@ -370,17 +380,17 @@
       "critical": 33,
       "mixed": 33
     },
-    "New York Times": {
-      "mixed": 17,
-      "neutral": 33,
-      "positive": 50
-    },
     "Wall Street Journal": {
       "positive": 33,
       "neutral": 33,
       "critical": 33
     }
   },
-  "coverage_gaps": [],
-  "last_updated": "2026-05-07T06:15:31.132401+00:00"
+  "coverage_gaps": [
+    {
+      "topic": "EU integration",
+      "last_seen_count": 3
+    }
+  ],
+  "last_updated": "2026-05-07T10:15:45.925452+00:00"
 }

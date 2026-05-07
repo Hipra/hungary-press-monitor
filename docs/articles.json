@@ -1,5 +1,124 @@
 [
   {
+    "id": "323dd51b218d82b3",
+    "source": "New York Times",
+    "region": "us",
+    "title": "Voters Exposed the Limits of China’s Cozy Ties to Orban - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0RPU2xYSkdJYnJJNk5kUTZHT2IxcHVHdWRXbWZwV2NOTG1BeVdTRzVXS1NwbVhnQndQdlNHMGM1UFQzQTF1RnZsODlhR1EwT2FBS2xLaFZKbi04NlhDek15X1VPWVduN2RRWlFkU25kY0Z3UTU5QkVVakRzNHEwbFdDLVlDU08tWmFaUHVLOA?oc=5",
+    "published_at": "2026-05-07T09:14:51+00:00",
+    "fetched_at": "2026-05-07T10:00:20.614393+00:00",
+    "topics": [
+      "geopolitics",
+      "elections",
+      "China deals",
+      "government transition",
+      "foreign policy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "China",
+      "Hungarian voters",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "russia_china",
+    "summary_en": "The article examines how Hungarian voters' rejection of Viktor Orbán revealed the limits of China's political and economic influence in Hungary. The electoral outcome demonstrates that China's 'cozy ties' to the Orbán government were insufficient to maintain his hold on power, signaling a broader geopolitical realignment in Central Europe. This suggests Hungary may pivot away from closer Chinese engagement under the new Magyar government.",
+    "title_hu": "A szavazók feltárták a Kína Orbánnal való szoros kapcsolatainak korlátait",
+    "summary_hu": "A cikk azt vizsgálja, hogyan tárta fel a magyar szavazók Viktor Orbán elutasítása a Kína politikai és gazdasági befolyásának korlátait Magyarországon. A választási eredmény azt mutatja, hogy a Kína 'szoros' kapcsolata az Orbán-kormányzattal nem volt elegendő a hatalom megtartásához. Ez azt sugallja, hogy az új Magyar-kormány alatt Magyarország távolodhat a közelibb kínai együttműködéstől.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "a6106f3d5e751635",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Hungary top court voids key parts of Orban's tax decree - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmtCeFB6Q2xuNDVLVFFVVFhsZTZmTHdRSmpxbXBZb3QzTk5ISnFQMmMza3JCVnktVmd2cG5jbjVfby11ekJIRlljbHRJbU5IbDNKTkZVQ20wblg5ckxYZjBBSWdXNS11UUdLTXltOXFHd2tuNElQY25wa094UHMxaWE5Z3l3RGducHJOTUNR?oc=5",
+    "published_at": "2026-05-07T06:34:37+00:00",
+    "fetched_at": "2026-05-07T10:00:34.890479+00:00",
+    "topics": [
+      "rule of law",
+      "judicial reform",
+      "economy",
+      "government transition"
+    ],
+    "actors": [
+      "Hungarian Constitutional Court",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "rule_of_law",
+    "summary_en": "Hungary's Constitutional Court has voided key provisions of an Orbán-era tax decree, signaling judicial independence and the new Magyar government's systematic effort to unwind problematic legacy policies. The ruling demonstrates both rule-of-law restoration and potential correction of economically distortive measures enacted during Orbán's fifteen-year tenure.",
+    "title_hu": "Magyarország Legfelsőbb Bírósága érvénytelenné nyilvánít Orbán adórendeletének kulcsfontosságú részeit",
+    "summary_hu": "A Magyarország Legfelsőbb Bírósága érvénytelenné nyilvánított Orbán-kori adórendelet kulcsfontosságú elemeit, ami a bírósági függetlenség helyreállítását jelzi. Az ítélet a jogállamiság helyreállítását és az új magyar kormány törekvéseit mutatja az Orbán-korszak problematikus örökségének felszámolásához.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c8e65d86deb8f2e9",
+    "source": "ECFR",
+    "region": "think",
+    "title": "Magyar’s mandate: Six insights from a post-election Hungary - European Council on Foreign Relations",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVmdGYUJ0RHNLR1VUeHNzUzFXZHhNdHpQMWJVVXhRR3hVV1RhOGU4bEgyMzBqcTU3cGdSRTIwZmQxazd6T2o3a0RHdGxkMjA0WUZVcTV1d0c0ZnU0NnRoQ0xqM1ZMdGVmUU5iUVhNSmZNQmN3RkFTTkVsMFl6ajlaT294am1HNy1LYlHSAY8BQVVfeXFMTlNKTTJtVENHcDctaXVRZHBOaGIxN3c2SmFqSkQtQTRhekxDOWYwczZkNU5VR0hrSXBKSXYxcmRDVGFuZkRONjlUMW9LY0dPRVViYWI4LW01UlRrN0d5Y01vVEVUSG41Q1hVWE1oeFdzV016ZXBLTENRaG1tOU1lOXpMNk4xX2hsamwtLWthMG8?oc=5",
+    "published_at": "2026-05-07T06:27:09+00:00",
+    "fetched_at": "2026-05-07T10:00:54.760008+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "ECFR provides strategic analysis of Péter Magyar's electoral mandate following Hungary's April 2026 transition, examining the implications for democratic consolidation, EU reintegration, and foreign policy realignment. The piece extracts six key insights on how Magyar's two-thirds majority government is reshaping Hungary's reform priorities and international positioning.",
+    "title_hu": "Magyar mandátuma: Hat tapasztalat egy választás utáni Magyarország-ról",
+    "summary_hu": "Az ECFR stratégiai elemzést nyújt Péter Magyar választási mandátumáról Magyarország 2026. áprilisi átalakulása után, megvizsgálva annak következményeit a demokratikus konszolidációra, az EU-val való reintegrálásra és a külpolitikai realignmentra. A cikk hat kulcsfontosságú megállapítást emel ki arra vonatkozóan, hogyan alakítja át Magyar kétharmados többsége Magyarország reformprioritásait és nemzetközi pozicionálását.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "fd9e155d652b22f2",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "No blank check for Magyar - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaW5TelByTWp2Q3pocWNpUUZGTVBLWUphOVo5RjRVUVlxRWJ3ZDdHbnotSzBPYm5vbXB5ZlNfSGdFR2FFUE1GMHNRbTVsVUlJaHZzaWlBdlNEb2g4V3BsOFg1Z0lqbWl0V2p1Q0hjQkJPb2JMcTBRbjFXclhmbHRKZ3AyRlJtZw?oc=5",
+    "published_at": "2026-05-07T05:39:00+00:00",
+    "fetched_at": "2026-05-07T10:00:32.969747+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "Politico warns against granting unconditional support to Péter Magyar's government, cautioning that Western observers should not repeat the blind spots that missed Orbán's authoritarian consolidation in 2010 and instead maintain scrutiny on democratic reforms and rule-of-law commitments.",
+    "title_hu": "Nem üres csekk Magyar számára",
+    "summary_hu": "A Politico figyelmeztet a Péter Magyar kormánya iránti feltétlen támogatás ellen, arra intve a nyugati megfigyelőket, hogy ne ismételjék meg azokat a vakfoltokat, amelyek Orbán 2010-es autoritarizálási konszolidációját nem fedezték fel, és helyette fenntartsák az ellenőrzést a demokratikus reformok és jogállamiság tekintetében.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "80a2912e6e5099e9",
     "source": "Financial Times",
     "region": "uk",
