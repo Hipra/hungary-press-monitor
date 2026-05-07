@@ -1,11 +1,11 @@
 {
-  "total_articles": 320,
-  "analyzed_articles": 320,
+  "total_articles": 321,
+  "analyzed_articles": 321,
   "tone": {
     "critical": 44,
     "positive": 97,
     "mixed": 32,
-    "neutral": 146,
+    "neutral": 147,
     "hopeful": 1
   },
   "framing": {
@@ -14,7 +14,7 @@
     "Fidesz opposition": 3,
     "corruption": 14,
     "eu_integration": 58,
-    "economy": 17,
+    "economy": 18,
     "regional": 7,
     "democracy_restoration": 58,
     "rule_of_law": 34,
@@ -29,14 +29,14 @@
   "region": {
     "uk": 58,
     "us": 27,
-    "wire": 56,
+    "wire": 57,
     "eu": 117,
     "de": 38,
     "cee": 14,
     "fr": 10
   },
   "source": {
-    "Reuters": 48,
+    "Reuters": 49,
     "Politico Europe": 39,
     "DW English": 37,
     "Euronews": 32,
@@ -69,7 +69,7 @@
     "foreign policy": 81,
     "EU funds": 69,
     "elections": 49,
-    "economy": 43,
+    "economy": 44,
     "Fidesz opposition": 27,
     "energy": 27,
     "Russia deals": 24,
@@ -97,7 +97,7 @@
     "Russia": 15,
     "EU institutions": 12,
     "Rumen Radev": 10,
-    "Hungarian government": 7,
+    "Hungarian government": 8,
     "Benjamin Netanyahu": 7,
     "EU Court of Justice": 7,
     "EU officials": 7,
@@ -106,7 +106,7 @@
   },
   "main_actor": {
     "magyar_peter": 97,
-    "hungary_country": 92,
+    "hungary_country": 93,
     "orban_viktor": 63,
     "other": 31,
     "fidesz": 4,
@@ -153,7 +153,7 @@
     "2026-05-01": 8,
     "2026-05-03": 1,
     "2026-05-04": 4,
-    "2026-05-05": 4,
+    "2026-05-05": 5,
     "2026-05-06": 17
   },
   "tone_by_source": {
@@ -171,7 +171,7 @@
     "Reuters": {
       "positive": 16,
       "critical": 4,
-      "neutral": 28
+      "neutral": 29
     },
     "Politico Europe": {
       "positive": 9,
@@ -288,7 +288,7 @@
     "Reuters": {
       "positive": 33,
       "critical": 8,
-      "neutral": 58
+      "neutral": 59
     },
     "Politico Europe": {
       "positive": 23,
@@ -381,5 +381,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-06T22:14:40.041999+00:00"
+  "last_updated": "2026-05-07T02:14:00.108450+00:00"
 }

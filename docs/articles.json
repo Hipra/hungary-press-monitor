@@ -500,6 +500,32 @@
     "quotes": []
   },
   {
+    "id": "b084bb3dd4bac6d0",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's bank tax, bad loans weigh on lending -c.bank - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlRjeWNkMU1lMkVCSGNydl9MdkVzeXBwRXEwWnFBc1h4X0NUdzRlMWxFc1pJcnBpMTIyci1wRUQ3TDNHeS03M3o0OUIxVXRRRV93NEN6bmpTVHAzY192WFlwLXVWT3M5NFBBN1ZhQzNmNWJjdVNXTGJCN2pOZ1JtVXE0NTV5Ujc4OFN2NkJnWDExNl9CazBYSEpseXVMZHdDUlVwejluYng?oc=5",
+    "published_at": "2026-05-05T19:09:48+00:00",
+    "fetched_at": "2026-05-07T02:00:01.822652+00:00",
+    "topics": [
+      "economy"
+    ],
+    "actors": [
+      "Hungarian government",
+      "Hungarian banking sector"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Hungary's banking sector faces constraints from accumulated bad loans and the government's bank tax, reducing lending activity. These structural economic challenges reflect ongoing fiscal pressures inherited from the Orbán era during Magyar's transition government.",
+    "title_hu": "Magyarország banki adója és problémás hitelek terhelik a hitelezést",
+    "summary_hu": "Magyarország bankszektora az összegyült problémás hitelek és a kormányzat banki adójából eredő terhelések miatt csökkenti a hitelezési tevékenységet. Ezek a szerkezeti gazdasági kihívások az Orbán-korszakból örökölt költségvetési nyomást tükrözik Magyar átmeneti kormánya alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "32f1a8808dafeb20",
     "source": "Reuters",
     "region": "wire",
