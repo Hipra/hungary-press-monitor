@@ -1,5 +1,65 @@
 [
   {
+    "id": "accd9a8f11ea2db3",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Hungarians want to see Orbán in court as his system collapses (25 days post-election) - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTIzZExuRWNHazVSalVJR2U0andQbm5vTkdtd0ZheGFQSnRzZXNjd3diYnlsMklIMHpORFM0UGVYZThlR2QzdE1nUVlGN2dNMlRTY1VuUHRJQVFVa3pRZHRpLXhqMXk4TlM2Q1ZnSWJONENpS2c1MTU2RktiTWNmYnE0U0hPZ3N2Qzh4dHFKc0ZjSEsxNUt0Y2prU1RBNDByRE45X0p6aWFEczR4VWk2QVdrYkc?oc=5",
+    "published_at": "2026-05-07T14:51:30+00:00",
+    "fetched_at": "2026-05-07T18:00:31.242419+00:00",
+    "topics": [
+      "rule of law",
+      "corruption",
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Hungarian citizens"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "As Péter Magyar's government consolidates power 25 days after winning a two-thirds majority, Hungarians increasingly demand legal accountability for Viktor Orbán and the institutional corruption of his 15-year rule. Asset freezes, Constitutional Court rulings voiding Orbán-era decrees, and anti-corruption enforcement signal the beginning of a comprehensive reckoning with the outgoing regime.",
+    "title_hu": "A magyarok azt szeretnék, hogy Orbánt bíróság elé állítsák rendszere összeomlása közben",
+    "summary_hu": "Péter Magyar kormánya 25 nappal a kétharmados többséget szerző választások után konsolidálja hatalmát, és a magyarok egyre inkább jogi felelősségvállalást követelnek Viktor Orbántól és 15 éves kormányzatának intézményi korrupciójáért. Az eszközfagyasztások, az Orbán-korszakbeli rendeleteket megsemmisítő Alkotmánybírósági döntések és a korrupció elleni intézkedések a korábbi rezsim teljes körű elszámoltatásának kezdetét jelzik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "cb6f624589e75904",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Meloni and Magyar cement post-Orbán ties - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVB3VWFHWHlIallCZXNUY3c0cVV0ZEJmM1BoNk1EeEhid3F0MVJoMTZzTkdXY1ktNFk5VjdMSnBETDRRWmNRdDNIdlZZTndsRDFVS1VqakdCV1Y0MUNZU3h4TWJpcmVSVi1ud2ZRbDBHOWc1c1EwQVFLbnFfaUJTZ3FUblQ0Q0M1ZXc?oc=5",
+    "published_at": "2026-05-07T14:43:35+00:00",
+    "fetched_at": "2026-05-07T18:00:27.104314+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Giorgia Meloni"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungarian PM Péter Magyar meets Italian PM Giorgia Meloni in Rome to solidify bilateral ties and advance Hungary's EU diplomatic reset. The bilateral represents Magyar's first major peer partnership in repositioning Hungary within mainstream European politics post-Orbán, signaling broader EU reintegration efforts and cementing Italy as a key ally in the new geopolitical alignment.",
+    "title_hu": "Meloni és Magyar megerősítik az Orbán utáni kapcsolatokat",
+    "summary_hu": "Péter Magyar magyar miniszterelnök és Giorgia Meloni olasz kormányfő Rómában erősítik meg kétoldalú kapcsolataikat, az EU diplomácia reseteljének részeként. A találkozó Magyar első jelentős rangú bilaterális partnerségét jelenti az Orbán-era után, és az Olaszország kulcsszerepét mutatja meg Magyarország európai visszaintegrációjában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Italy"
+    ],
+    "quotes": []
+  },
+  {
     "id": "deb90ab52f7d4cd8",
     "source": "Politico Europe",
     "region": "eu",
@@ -262,6 +322,36 @@
     "comparison_countries": [
       "Russia"
     ],
+    "quotes": []
+  },
+  {
+    "id": "b87d8d2630403fe7",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "This deal is getting worse all the time - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jX2RxVXo2X1N5VFdGaHVhMmJKMGZTR2JOVklOWFdOVERhdnZqaTl2S3VEZDN1UWR5Ym1ZRHFLSDBoaEFibHl1bWtEMUl6N2plTmREUVliT2lPSjBWQ3B1amRHVXhyYWtXM0JVN21vaTktMzNCbTFIM1o5bTg1QQ?oc=5",
+    "published_at": "2026-05-07T04:01:24+00:00",
+    "fetched_at": "2026-05-07T18:00:29.125675+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "rule of law",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "European Commission"
+    ],
+    "tone": "critical",
+    "framing": "eu_integration",
+    "summary_en": "Euractiv reports a deterioration in EU-Hungary negotiations, likely referring to the €10bn frozen funding dispute and conditionality standoff. Brussels and Budapest remain split over both the funding quantum and judicial reform benchmarks, suggesting the initial post-election optimism is giving way to technical gridlock over conditionality enforcement and democratic consolidation metrics.",
+    "title_hu": "Ez az üzlet minden nap rosszabb lesz - Euractiv",
+    "summary_hu": "Az Euractiv az EU-Magyarország tárgyalások romlásáról számol be, valószínűleg a 10 milliárd eurós fagyasztott alapok vitájára és az EU-s feltételek meghiúsulására utalva. Brüsszel és Budapest továbbra is megosztott mind a finanszírozás mértékéről, mind az igazságszolgáltatási reform mérföldköveiről, ami arra utal, hogy a választás utáni kezdeti optimizmus a feltételek érvényre juttatásáról szóló technikai holtpontba fordul.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
     "quotes": []
   },
   {

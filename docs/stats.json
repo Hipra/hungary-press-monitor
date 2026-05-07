@@ -1,19 +1,19 @@
 {
-  "total_articles": 332,
-  "analyzed_articles": 332,
+  "total_articles": 335,
+  "analyzed_articles": 335,
   "tone": {
+    "critical": 48,
+    "positive": 102,
     "neutral": 152,
-    "positive": 101,
-    "critical": 46,
     "mixed": 32,
     "hopeful": 1
   },
   "framing": {
-    "eu_integration": 59,
+    "rule_of_law": 37,
+    "eu_integration": 61,
     "democracy_restoration": 61,
     "economy": 19,
     "russia_china": 5,
-    "rule_of_law": 36,
     "corruption": 15,
     "regional": 8,
     "media_freedom": 9,
@@ -27,7 +27,7 @@
     "government transition": 2
   },
   "region": {
-    "eu": 121,
+    "eu": 124,
     "de": 39,
     "wire": 58,
     "us": 28,
@@ -38,13 +38,13 @@
   },
   "source": {
     "Reuters": 50,
-    "Politico Europe": 42,
+    "Politico Europe": 43,
     "DW English": 38,
     "Euronews": 32,
-    "Euractiv": 28,
+    "Euractiv": 29,
     "Financial Times": 25,
     "The Guardian": 18,
-    "EUobserver": 16,
+    "EUobserver": 17,
     "Washington Post": 11,
     "Balkan Insight": 11,
     "Le Monde": 10,
@@ -63,19 +63,19 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 266,
-    "EU relations": 195,
+    "government transition": 268,
+    "EU relations": 197,
     "geopolitics": 139,
-    "democracy": 125,
-    "rule of law": 85,
-    "foreign policy": 84,
-    "EU funds": 70,
+    "democracy": 127,
+    "rule of law": 87,
+    "foreign policy": 85,
+    "EU funds": 71,
     "elections": 50,
     "economy": 48,
     "Fidesz opposition": 27,
     "energy": 27,
+    "corruption": 25,
     "Russia deals": 25,
-    "corruption": 24,
     "human rights": 24,
     "judicial reform": 16,
     "society": 13,
@@ -85,12 +85,12 @@
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 256,
-    "Viktor Orbán": 157,
-    "European Commission": 45,
+    "Péter Magyar": 259,
+    "Viktor Orbán": 158,
+    "European Commission": 46,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 32,
-    "Ursula von der Leyen": 23,
+    "Ursula von der Leyen": 24,
     "Tisza Party": 21,
     "Hungary": 20,
     "Volodymyr Zelenskyy": 18,
@@ -107,12 +107,12 @@
     "Kremlin": 6
   },
   "main_actor": {
+    "orban_viktor": 67,
+    "magyar_peter": 102,
     "hungary_country": 97,
-    "magyar_peter": 101,
-    "orban_viktor": 66,
+    "eu_institutions": 32,
     "other": 31,
     "fidesz": 4,
-    "eu_institutions": 31,
     "EU_institutions": 2
   },
   "comparison_countries": {
@@ -123,14 +123,14 @@
     "Bulgaria": 9,
     "Israel": 6,
     "United States": 3,
+    "Italy": 2,
     "Czech Republic": 2,
     "France": 2,
     "Hungary": 2,
     "Germany": 1,
     "Romania": 1,
     "Serbia": 1,
-    "Greece": 1,
-    "Cyprus": 1
+    "Greece": 1
   },
   "daily": {
     "2026-04-12": 5,
@@ -157,13 +157,19 @@
     "2026-05-04": 4,
     "2026-05-05": 5,
     "2026-05-06": 17,
-    "2026-05-07": 11
+    "2026-05-07": 14
   },
   "tone_by_source": {
+    "EUobserver": {
+      "critical": 9,
+      "positive": 3,
+      "mixed": 1,
+      "neutral": 4
+    },
     "Politico Europe": {
+      "positive": 10,
       "neutral": 16,
       "critical": 11,
-      "positive": 9,
       "mixed": 6
     },
     "DW English": {
@@ -185,7 +191,7 @@
     },
     "Euractiv": {
       "positive": 6,
-      "critical": 5,
+      "critical": 6,
       "mixed": 5,
       "neutral": 12
     },
@@ -234,12 +240,6 @@
       "mixed": 1,
       "neutral": 1
     },
-    "EUobserver": {
-      "critical": 8,
-      "positive": 3,
-      "mixed": 1,
-      "neutral": 4
-    },
     "BBC": {
       "positive": 4,
       "neutral": 4,
@@ -280,10 +280,16 @@
     }
   },
   "source_bias": {
+    "EUobserver": {
+      "critical": 53,
+      "positive": 18,
+      "mixed": 6,
+      "neutral": 24
+    },
     "Politico Europe": {
-      "neutral": 38,
+      "positive": 23,
+      "neutral": 37,
       "critical": 26,
-      "positive": 21,
       "mixed": 14
     },
     "DW English": {
@@ -305,9 +311,9 @@
     },
     "Euractiv": {
       "positive": 21,
-      "critical": 18,
-      "mixed": 18,
-      "neutral": 43
+      "critical": 21,
+      "mixed": 17,
+      "neutral": 41
     },
     "Financial Times": {
       "neutral": 64,
@@ -346,12 +352,6 @@
       "positive": 36,
       "neutral": 36,
       "mixed": 18
-    },
-    "EUobserver": {
-      "critical": 50,
-      "positive": 19,
-      "mixed": 6,
-      "neutral": 25
     },
     "BBC": {
       "positive": 44,
@@ -392,5 +392,5 @@
       "last_seen_count": 3
     }
   ],
-  "last_updated": "2026-05-07T14:16:48.900872+00:00"
+  "last_updated": "2026-05-07T18:13:58.342489+00:00"
 }
