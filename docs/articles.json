@@ -1,5 +1,202 @@
 [
   {
+    "id": "1b5e3bd3cc0ad562",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Turning the page on Orbán’s rule: Magyar to be sworn in as Hungary PM - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlNrVkdIdkNBSnhKNWlnNnE2bTBvV0c2NjNvRE9UTTBLeDdDOXBSM1J1M0VpbTFzVEh1czVjVnNObUlvVno4dW1lTkdLenA1el9rY0lET2oxNUpIZ3pGNzUwVXFYQUxlMWFEbFlzTHYxV3dyLVhFZ1RWR1R0amFtNG14djZxU3hDWTc5STloUl9IRWdEcXNqNmVCU042bkw3dGtEaQ?oc=5",
+    "published_at": "2026-05-08T13:55:00+00:00",
+    "fetched_at": "2026-05-08T14:00:07.568498+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's swearing-in as Hungarian prime minister marks the formal end of Viktor Orbán's 15-year rule and the beginning of the Tisza Party's two-thirds majority government. The Guardian frames this as a democratic turning point, closing a chapter of authoritarian consolidation and initiating Hungary's reintegration with European democratic norms.",
+    "title_hu": "Orbán uralma után új fejezet: Magyar magyar miniszterelnökként beiktatásra kerül",
+    "summary_hu": "Péter Magyar magyar miniszterelnöki beiktatása Viktor Orbán 15 éves uralmának végét és a Tisza Párt kétharmados többségű kormányának kezdetét jelöli. Az újság demokratikus fordulópontként ábrázolja az átmenetet, amely egy tekintélyelvű uralom lezárásáról és Magyarország európai demokratikus normákba való visszaintegrációjáról szól.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f1e2cbe47820fec8",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Magyar risks early clash with Brussels over migration pact - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2JkRWN3RnA1RERiY0x6ZjBkZlNZcXRGRElWTk0za3Z1VThoc2w4XzVfcUlTZWdXZHRKeUVQMjgtalctOFVTT19iV2tnc1lfaGhSVkdmU0VXQjhqX1VYMDdFVVVGZ1BNQUxvVmktT2lqdm53V1VsVWNEbi1pdDBhZDl2dW5YaE96WG93ZXVXeElSSEU?oc=5",
+    "published_at": "2026-05-08T13:27:36+00:00",
+    "fetched_at": "2026-05-08T14:00:29.798013+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "migration",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission",
+      "EU member states"
+    ],
+    "tone": "critical",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar's new government risks an early confrontation with Brussels over migration policy compliance, potentially undermining EU relations during the critical transition period and ongoing EU fund negotiations.",
+    "title_hu": "Magyar kockáztat korai ütközést Brüsszelel a migrációs paktum miatt",
+    "summary_hu": "Péter Magyar új kormánya korán összeütközhet Brüsszelel a migrációs politika betartása felett, amely veszélyeztetheti az EU-s kapcsolatokat a demokratikus átmenet és az EU-s finanszírozási tárgyalások kritikus pillanatában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "fde14b5588894db0",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary: new govt intent on initiating swift systemic change - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdG82MXZMTkJLMjdBOU4yc1ZYSmtsblphRkhqeVhNS0pfM0hCdGtHeGhrNFhxcFVjZnZkMDR0SFVxZjc5VjZuZ1J5WXlfUkhmcnpZWDJDWHFNLU1DQzFUSGZhbzQ5eUZkNnBpS1ZoRGtWRy1zMmg5Wk1XVmZmek1qZkRhaUNxNW9LaW5ucGs5aVdIRlpXUFJr0gGXAUFVX3lxTE1Xb1dMMUhsQ2lHRzVIRFA2U1VXQjR3aDZjZTc3U3ZuTDZtMlkwMzZlYll2RHFSSXo5UjBER0l3Q1NvSzN4QWtaZHFiMkR4N1RzaFhsbnlVRm9pdkdRSkl0REVjMUkwMlNKWDVKN21jUzFOSGVPdDJiZFBUMjJiSlVIRFdyY3hreWVpMVpxdDNJcWVuczNBTk0?oc=5",
+    "published_at": "2026-05-08T12:35:11+00:00",
+    "fetched_at": "2026-05-08T14:00:39.129387+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "EU relations",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungarian government"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's new government under Péter Magyar is moving swiftly to implement systemic reforms following its historic April 2026 election victory with a two-thirds majority. The reforms are intended to reverse 15 years of Orbán-era policies and restore democratic norms and rule of law.",
+    "title_hu": "Magyarország: az új kormányzat szándékosan gyors rendszerszintű változásokat kezdeményez",
+    "summary_hu": "Péter Magyar új magyar kormánya az 2026. áprilisi történelmi választási győzelem után kétharmados többséggel gyorsan végrehajt rendszerszintű reformokat. A reformok az Orbán-korszak 15 éves politikájának megfordítására és a demokratikus normák valamint a jogállamiság helyreállítására irányulnak.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "ff542abe249c6ded",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Commission clears Várhelyi of wrongdoing after spying probe - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzF6dW9UdF9iRXh5MmtOVE94SFBjUjdFc2VadEJ6U1RmWWVlSmV4ajhvUEJvZWVSNmJhcmo3RFZ6Q2dlcVJxUnFTamlVbE5JaGNteDBERE5qdGVvd1JrbzNQTDFLb3VCNFlkODMtYm5YLVQ0OWVEaFJwRXlLbXlFOEUtNHVyYWhMRjZFNzc0NU4xWmph?oc=5",
+    "published_at": "2026-05-08T12:01:15+00:00",
+    "fetched_at": "2026-05-08T14:00:29.798034+00:00",
+    "topics": [
+      "EU relations",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Várhelyi",
+      "European Commission"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "The European Commission has cleared Péter Várhelyi of wrongdoing following an investigation into alleged spying activities. The exoneration of a Hungarian EU official comes amid ongoing EU institutional scrutiny during Hungary's democratic transition.",
+    "title_hu": "A Bizottság felmentette Várhelyit a kémkedési vizsgálat után",
+    "summary_hu": "Az Európai Bizottság felmentette Péter Várhelyit a feltételezett kémkedési tevékenységek vizsgálata után. A magyar EU-s tisztségviselő felmentése az Orbán-era intézményi kapcsolatok nyomán az EU-nak a magyarországi politikai átmenet során végzett felügyeletét tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "2307a6afcad09594",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Péter Magyar’s brother-in-law drops Hungary’s justice minister bid - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3JfY3ZaQTd1eUtEVjExNHJpWEJSemw0RlVjUmxUYUNkdEpMZ2ExSEs4YlVLOU9uSWE0NTRvYjlFU0hzNW45a3NaNjUxT3hzNVFfcTdHc2VVU3hqX29ZZ3doal9JTjNOSERwVlRXQ3JtTTRYc19LeU5QSEdCei1CWnFoTjctTTNHU1ZFZFlZQmZuejJ2UGRCaElYaw?oc=5",
+    "published_at": "2026-05-08T11:03:00+00:00",
+    "fetched_at": "2026-05-08T14:00:27.916188+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "mixed",
+    "framing": "rule_of_law",
+    "summary_en": "Péter Magyar's brother-in-law has withdrawn from the justice minister position following nepotism criticism in the new Tisza Party government. This represents the first cabinet crisis of the post-Orbán transition, testing whether the new administration will maintain democratic accountability standards. The withdrawal signals potential responsiveness to pressure, though observers remain cautious about whether this demonstrates genuine commitment to rule of law reform.",
+    "title_hu": "Péter Magyar sógora visszalép az igazságügyi miniszteri posztról",
+    "summary_hu": "Péter Magyar sógora visszalépett az igazságügyi miniszteri pozícióból a nepotizmus kritikái után az új Tisza-párt kormányában. Ez az átmenet első kabinetválsága, amely teszteli, hogy az új adminisztráció fenntartja-e a demokratikus elszámoltathatóság szabványait. A visszalépés a nyomásra adott válaszlépést jelez, bár a megfigyelők óvatosak maradnak abban, hogy ez az állami vezetésben bekövetkezett valódi reformok elkötelezettségét jelzi-e.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "155ee374e7aac11c",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Hungary’s new leader, Péter Magyar walks a fine line between patriotism and populism - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMV9Va2NnLUhYVU1xS1B2MmluZ3VzY0JMR2RLVDZOUDNjTUw0V0FBNlpDcHNaam5kemRCaDN2RndlV3U5aWdpLWVwbHlWOWRPTjJkWjVJakpZWDhZOE1CRHN6dmZDWmJrejhqMlNGeUFXcGdYdTBKaG9ZNXYwS2lXdzNzV1h0S1ZBOXROQzJrVG5GS05CRzZ5Z2xYZ0E1NFAtdEp4Y0VWaS1PazZNeV9pblR1aw?oc=5",
+    "published_at": "2026-05-08T10:28:00+00:00",
+    "fetched_at": "2026-05-08T14:00:31.636583+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar, Hungary's new leader following the April 2026 Tisza Party election victory, faces scrutiny over whether his government will pursue genuine democratic restoration or resort to populist appeals. EUobserver frames his position as a delicate balance between patriotic governance and populist methods. The framing reflects skepticism about whether Magyar can establish authentic democratic norms or risk repeating patterns of authoritarian rhetoric.",
+    "title_hu": "Magyarország új vezetője, Péter Magyar a hazafiság és a populizmus között egyensúlyozik",
+    "summary_hu": "Péter Magyar, Magyarország új vezetője, a hazafiság és a populizmus között egyensúlyozik az EUobserver szerint. A cikk azt sugallja, hogy kormánya a valódi demokratikus helyreállítás és a populista megközelítések között mozog. Az elemzés tükrözi a szkepticizmust azzal kapcsolatban, hogy Magyar el tudja-e kerülni a populista csapdákat és valódi demokratikus normákat alakítani ki.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "6ced1babf3711e24",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Steps towards adopting euro likely to improve Hungary's credit rating, S&P says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYm5FcGJJU1N1QkZCLU9RYjNUU2t2S1BwZTJDUE1KRUt5blNSU05fTHNCa1hqem82OTJzVzFoVEdnazd2V0xOMlFVV0phOGZZcXFIYzB6LTVEYUNFSFozSm5ndEVDeTZJOUpMdWtMVDlnZjJWZVd5NUszdEVJZEpNcUpYNUM1SW9NNTBWaVhtLTBicmRWUTE3MW5JTl9udkdYM21yTkFDY3dyVWI3OXNzc0xOVFdsaWpsU1E?oc=5",
+    "published_at": "2026-05-08T10:27:43+00:00",
+    "fetched_at": "2026-05-08T14:00:01.679437+00:00",
+    "topics": [
+      "economy",
+      "EU relations",
+      "EU funds",
+      "government transition"
+    ],
+    "actors": [
+      "S&P Global",
+      "Péter Magyar",
+      "Ursula von der Leyen"
+    ],
+    "tone": "mixed",
+    "framing": "economy",
+    "summary_en": "S&P Global signals that Hungary's steps toward euro adoption by 2030 could improve its credit rating outlook, indicating investor confidence in Magyar's monetary integration commitment despite current fiscal transition risks.",
+    "title_hu": "Az euro bevezetésének lépései valószínűleg javítanák Magyarország hitelminősítési besorolását - S&P",
+    "summary_hu": "Az S&P Global szerint Magyarország euró-bevezetésének lépési 2030-ig javíthatják a hitelminősítési kitekintést, ami az új kormányzat monetáris integráció iránti elkötelezettsége mellett befektetői bizalmat jelzi, bár az átmenet közeli fiskális kihívásokat hoz magával.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "1ace0852ea8e0130",
     "source": "Euronews",
     "region": "eu",
@@ -173,6 +370,40 @@
     "is_relevant": 1,
     "main_actor": "magyar_peter",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "553a2944f1a2886a",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "'Faced with Trump and Putin, the war in Ukraine is acting as a catalyst for Europe's autonomization' - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSVlsTzFidFhBa3NVWVFIVWpGZ29RbHlZdUJTNTRkbEJ0ajIyWWJPYVh0cTIweXd1dTdOaHBMaHQxTlRZR3JZQUQ5MHlzYW1MRUVUaDZKYVBGVmhldzF0TU4zRVFXRy1FdFNXOF9SY2lGaUZVbGpwMHFDUGFkOHNoRlNIZDdFbVRlRVZZZ244Ty1ad2hFdmVJOXRRbVI4M2J0YkVnZi1nblB4OGZtTTNlOEM0RkJjS2xoT0w3YUtLYnFqTVZiSkVaeGhhbFI0TXF5Y3dFTHZSM0JYU2N1TlI4RlRLREJ5cXd1TndjUFlVekhSeTNZclRmbWVR?oc=5",
+    "published_at": "2026-05-08T02:00:13+00:00",
+    "fetched_at": "2026-05-08T10:00:35.634417+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "foreign policy",
+      "NATO"
+    ],
+    "actors": [
+      "Donald Trump",
+      "Vladimir Putin",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Le Monde analyzes how the Ukraine war is catalyzing European strategic autonomization in response to Trump and Putin. The article frames European independence from external geopolitical pressures as structurally necessary, with direct implications for Eastern European reintegration, including Hungary's pro-EU reorientation under the new Magyar government.",
+    "title_hu": "Trump és Putyin előtt az ukrajnai háború Európa autonómiájának katalizátorául szolgál",
+    "summary_hu": "A Le Monde elemzi, hogyan katalizálja az ukrajnai háború Európa stratégiai autonómizálódását Trump és Putyin előtt. A cikk az európai függetlenséget a külső geopolitikai nyomásokkal szemben szerkezetileg szükségesként értelmezi, amely közvetlenül hat a Közép-Európai reintegrációra, beleértve Magyarország pro-EU fordulatát az új Magyar-kormány alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [
+      "Russia",
+      "Ukraine",
+      "USA"
+    ],
     "quotes": []
   },
   {
