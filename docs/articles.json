@@ -1,5 +1,95 @@
 [
   {
+    "id": "1ace0852ea8e0130",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Péter Magyar's first cabinet crisis: the brother-in-law who had to go - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeUlDVXlPQjdGcVo2YTZseGtMakp3U1RMcHliVXVmQUpXMHlNZUxlNWRYWnpaRDc0S0owWEUzV01IQWFBRmg3RDV3ZmphV1BOUFItaFNCQ0N4azFhM0o4NmRVMVdTTm5DaWlKaWdCZUg0c0ZFdXNTVVVFWVQyOC1qSjVtV1JNU1dfaUp2dHpBYXpiYjRyVVJBYXFSV21vYXNXbjNoaHNQWDd0cnBibzFRZDJsZXo1dTA?oc=5",
+    "published_at": "2026-05-08T08:56:03+00:00",
+    "fetched_at": "2026-05-08T10:00:33.842513+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "corruption",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Justice minister (brother-in-law)"
+    ],
+    "tone": "critical",
+    "framing": "corruption",
+    "summary_en": "Péter Magyar's new government faced its first cabinet crisis with the departure of a justice minister who had been appointed despite being a family relation. The incident highlights early concerns about nepotism and governance standards under Hungary's new Tisza Party administration.",
+    "title_hu": "Péter Magyar első kabinetkrízise: a sógora, akinek el kellett mennie",
+    "summary_hu": "Péter Magyar új kormánya első kabinetkrízisét tapasztalta meg egy igazságügyi miniszter távozásával, akit családi kapcsolata ellenére jelöltek ki. Az incidens korai aggodalmakat tükröz a magyar Tisza Párt új adminisztrációja alatt a nepotizmussal és kormányzati normákkal kapcsolatban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "be207d2da3bc63d4",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Democracy Digest: Hungary’s ‘Luxury Elites’ Try to Outrun the Reckoning - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQTMybThsRzRoajVmRlR3QkotR0hRN0NReUtxTHloNjB4cEt0RTBnRHN2MEsyX2t2RTFJQ2lrMGowZXpSMlgwUjRlR3lTU2FOcnZFQjVIcVVER29OOTFsODk1RUIxU0dweWZ1R1NYaHNENWVhWU9xWFZ6Q2U2T2pUR1FXNnZNZlJJNi1pYlhuaVBTRmRtcHgyUFBlcEZUNFlVcS1JTTgyN1RFT1oz?oc=5",
+    "published_at": "2026-05-08T06:23:01+00:00",
+    "fetched_at": "2026-05-08T10:00:42.593150+00:00",
+    "topics": [
+      "corruption",
+      "rule of law",
+      "government transition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Orbán-era oligarchs"
+    ],
+    "tone": "critical",
+    "framing": "corruption",
+    "summary_en": "Hungarian 'luxury elites' from the Orbán era are reportedly attempting to escape legal accountability as the new Magyar government pursues asset seizures and criminal investigations. The article frames this as a critical 'reckoning' with the 15-year regime's corruption networks, with police already freezing assets of oligarchs linked to the former government.",
+    "title_hu": "Demokrácia Digest: Magyarország 'luxuselitjei' megpróbálnak menekülni az elszámoltatás elől",
+    "summary_hu": "Az Orbán-korszak magyarországi 'luxuselitjei' feltehetően megpróbálnak kitérni a jogi felelősségrevonás alól, mivel az új Magyar-kormány vagyonzárlatást és büntetőeljárásokat indít. A cikk a 15 éves rezim korrupciós hálózatával való 'számonkérésként' tekinti ezt az időszakot, a rendőrség pedig már zárolt az egykori kormányhoz kapcsolódó oligarcháék számláit.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c9c40f8d0dfeb675",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Moment of Reckoning for Hungarian Party in Serbia After Orban’s Fall - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS1hdENGOFJWTWpoaUc2NENERVNtMUlzdVdvc2ozZURYQlFxWVdsRTg0dkhIUXRfY1EzX3lUb1ptQXliVDFFN0RoR2JncGRNQWl3UlJRMUNTb2I4ZkFIRmkwT09xOHQyaXZPT1FGMjhETU1jM1VTSzZrS2NfZHdod2pRdU1hT1dYbk1fLWpYS2RFMlJhNmpoRHliZDlFUXJDOEdJcWd1dkxOdE5z?oc=5",
+    "published_at": "2026-05-08T06:22:37+00:00",
+    "fetched_at": "2026-05-08T10:00:42.593178+00:00",
+    "topics": [
+      "government transition",
+      "Fidesz opposition",
+      "V4 diplomacy",
+      "geopolitics"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Fidesz party"
+    ],
+    "tone": "critical",
+    "framing": "regional",
+    "summary_en": "Orbán's electoral defeat in April 2026 is forcing Hungarian political parties and minority organizations operating in Serbia and the broader Balkans to recalibrate their strategies and regional alignments. The unraveling of Hungary's Fidesz-led regional influence network has immediate consequences for Hungarian-aligned political actors throughout Central and Eastern Europe. This represents a critical inflection point for Hungarian geopolitical influence in the Balkans under Magyar's new government.",
+    "title_hu": "Leszámolás pillanata a szerb magyar párt előtt Orbán bukása után",
+    "summary_hu": "Orbán 2026 áprilisi választási vereségét követően a Szerbiában és a Balkánon működő magyar pártok és kisebbségi szervezetek kénytelenek stratégiájukat és regionális szövetségeiket újraértékelni. A magyar Fidesz-vezérelt regionális befolyás hálózat szétesése közvetlen hatásokkal jár a magyar-szövetséges politikai szereplőkre a Közép- és Kelet-Európa egészében. Ez kritikus fordulópont a magyar geopolitikai befolyás számára a Balkánon az új Magyar-kormány alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "fidesz",
+    "comparison_countries": [
+      "Serbia"
+    ],
+    "quotes": []
+  },
+  {
     "id": "fcfbee962254d19f",
     "source": "Washington Post",
     "region": "us",
