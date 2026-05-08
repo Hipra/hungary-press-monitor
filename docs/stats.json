@@ -1,21 +1,21 @@
 {
-  "total_articles": 355,
-  "analyzed_articles": 355,
+  "total_articles": 359,
+  "analyzed_articles": 359,
   "tone": {
-    "positive": 109,
+    "neutral": 159,
+    "positive": 110,
     "critical": 55,
-    "neutral": 156,
     "mixed": 34,
     "hopeful": 1
   },
   "framing": {
-    "democracy_restoration": 68,
+    "democracy_restoration": 70,
+    "rule_of_law": 40,
     "eu_integration": 63,
-    "rule_of_law": 39,
+    "geopolitics": 98,
     "economy": 22,
     "corruption": 17,
     "regional": 9,
-    "geopolitics": 97,
     "other": 11,
     "russia_china": 5,
     "media_freedom": 9,
@@ -27,10 +27,10 @@
     "government transition": 2
   },
   "region": {
+    "wire": 64,
+    "eu": 132,
     "uk": 63,
-    "eu": 130,
-    "de": 41,
-    "wire": 63,
+    "de": 42,
     "cee": 16,
     "us": 29,
     "fr": 12,
@@ -39,8 +39,8 @@
   "source": {
     "Reuters": 53,
     "Politico Europe": 44,
-    "DW English": 40,
-    "Euronews": 33,
+    "DW English": 41,
+    "Euronews": 35,
     "Euractiv": 32,
     "Financial Times": 25,
     "The Guardian": 19,
@@ -48,7 +48,7 @@
     "Balkan Insight": 13,
     "Washington Post": 12,
     "Le Monde": 12,
-    "AP News": 10,
+    "AP News": 11,
     "BBC": 9,
     "New York Times": 7,
     "The Times": 7,
@@ -63,35 +63,35 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 285,
-    "EU relations": 207,
-    "geopolitics": 143,
-    "democracy": 137,
-    "rule of law": 94,
-    "foreign policy": 88,
+    "government transition": 287,
+    "EU relations": 209,
+    "geopolitics": 144,
+    "democracy": 139,
+    "rule of law": 96,
+    "foreign policy": 89,
     "EU funds": 73,
     "economy": 51,
     "elections": 51,
     "corruption": 28,
     "Fidesz opposition": 28,
     "energy": 28,
-    "Russia deals": 25,
+    "Russia deals": 26,
     "human rights": 24,
     "judicial reform": 16,
     "society": 13,
     "V4 diplomacy": 11,
     "media freedom": 11,
-    "regional": 5,
-    "NATO": 4
+    "NATO": 5,
+    "regional": 5
   },
   "actors": {
-    "Péter Magyar": 275,
-    "Viktor Orbán": 165,
-    "European Commission": 48,
+    "Péter Magyar": 278,
+    "Viktor Orbán": 166,
+    "European Commission": 49,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 32,
     "Ursula von der Leyen": 25,
-    "Tisza Party": 21,
+    "Tisza Party": 22,
     "Hungary": 20,
     "Volodymyr Zelenskyy": 19,
     "Donald Tusk": 16,
@@ -107,9 +107,9 @@
     "Fidesz": 6
   },
   "main_actor": {
-    "magyar_peter": 113,
-    "eu_institutions": 34,
-    "hungary_country": 101,
+    "magyar_peter": 115,
+    "eu_institutions": 35,
+    "hungary_country": 102,
     "orban_viktor": 69,
     "fidesz": 5,
     "other": 31,
@@ -117,14 +117,14 @@
   },
   "comparison_countries": {
     "Ukraine": 27,
-    "Poland": 16,
-    "Russia": 15,
+    "Poland": 17,
+    "Russia": 16,
     "Slovakia": 13,
     "Bulgaria": 9,
     "Israel": 6,
+    "Serbia": 3,
     "Italy": 3,
     "United States": 3,
-    "Serbia": 2,
     "Czech Republic": 2,
     "France": 2,
     "Hungary": 2,
@@ -158,9 +158,20 @@
     "2026-05-05": 5,
     "2026-05-06": 18,
     "2026-05-07": 19,
-    "2026-05-08": 14
+    "2026-05-08": 18
   },
   "tone_by_source": {
+    "AP News": {
+      "neutral": 8,
+      "positive": 2,
+      "mixed": 1
+    },
+    "Euronews": {
+      "positive": 10,
+      "neutral": 17,
+      "critical": 4,
+      "mixed": 4
+    },
     "The Guardian": {
       "positive": 9,
       "neutral": 6,
@@ -174,8 +185,8 @@
       "mixed": 5
     },
     "DW English": {
+      "neutral": 20,
       "positive": 16,
-      "neutral": 19,
       "critical": 1,
       "hopeful": 1,
       "mixed": 3
@@ -198,12 +209,6 @@
       "positive": 17,
       "neutral": 29
     },
-    "Euronews": {
-      "critical": 4,
-      "positive": 9,
-      "neutral": 16,
-      "mixed": 4
-    },
     "Balkan Insight": {
       "critical": 3,
       "positive": 4,
@@ -214,11 +219,6 @@
       "positive": 7,
       "neutral": 4,
       "critical": 1
-    },
-    "AP News": {
-      "neutral": 7,
-      "positive": 2,
-      "mixed": 1
     },
     "Le Monde": {
       "positive": 7,
@@ -282,6 +282,17 @@
     }
   },
   "source_bias": {
+    "AP News": {
+      "neutral": 73,
+      "positive": 18,
+      "mixed": 9
+    },
+    "Euronews": {
+      "positive": 29,
+      "neutral": 49,
+      "critical": 11,
+      "mixed": 11
+    },
     "The Guardian": {
       "positive": 47,
       "neutral": 32,
@@ -295,11 +306,11 @@
       "mixed": 16
     },
     "DW English": {
-      "positive": 40,
-      "neutral": 48,
+      "neutral": 49,
+      "positive": 39,
       "critical": 2,
       "hopeful": 2,
-      "mixed": 8
+      "mixed": 7
     },
     "Politico Europe": {
       "mixed": 16,
@@ -319,12 +330,6 @@
       "positive": 32,
       "neutral": 55
     },
-    "Euronews": {
-      "critical": 12,
-      "positive": 27,
-      "neutral": 48,
-      "mixed": 12
-    },
     "Balkan Insight": {
       "critical": 23,
       "positive": 31,
@@ -335,11 +340,6 @@
       "positive": 58,
       "neutral": 33,
       "critical": 8
-    },
-    "AP News": {
-      "neutral": 70,
-      "positive": 20,
-      "mixed": 10
     },
     "Le Monde": {
       "positive": 58,
@@ -395,5 +395,5 @@
       "last_seen_count": 3
     }
   ],
-  "last_updated": "2026-05-08T14:16:07.320482+00:00"
+  "last_updated": "2026-05-08T18:14:57.916048+00:00"
 }

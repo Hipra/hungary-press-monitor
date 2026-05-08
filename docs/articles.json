@@ -1,5 +1,58 @@
 [
   {
+    "id": "115ab4005b2b2179",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary’s incoming Prime Minister Péter Magyar prepares for his swearing in on Saturday - AP News",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNUdsTnVINGdSektWUzRaUVJTOG1QTU9zLTNyR0V2c2ExcmpEVHMwcWMzZUlrUDliODB5cFNhVU83QTYxaktSb1laOFJRTFhWTGI5ZUdqMXkydEVVUVhKcm10QTlBcHV5eFYybjNFbzBNN2xtSC0wQjlrSVB5SzRObzM0SllFeXhCQ3haNEU4eXc3NFBDRGpITFloelFyOHU4NDg5bDEtUGpVNGV5WHRXdzYwdTFkZTQycWVmUldMdDVFRHFiUEZQNm9ldUpzSDAwY1pOTWROTVhhVVAx?oc=5",
+    "published_at": "2026-05-08T15:31:00+00:00",
+    "fetched_at": "2026-05-08T18:00:03.666027+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar, leader of the Tisza Party, prepares for his Saturday swearing-in as Prime Minister, marking the official end of Viktor Orbán's 15-year rule. This ceremony represents a historic democratic transition in Hungary, with Magyar's government facing significant challenges including EU fund negotiations and economic reform.",
+    "title_hu": "Péter Magyar, Magyarország jövendő miniszterelnöke, szombaton esküt fog tenni",
+    "summary_hu": "Péter Magyar, a Tisza Párt vezetője szombaton miniszterelnökként leteszik az esküt, amely hivatalosan lezárja Viktor Orbán 15 éves uralmát. Ez a ceremónia Magyarország történelmében egy döntő demokratikus átmenetet jelent, és Magyar kormánya jelentős kihívásokkal fog szembenézni az EU-s alapok tárgyalásai és a gazdasági reformok tekintetében.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c0810ce3ca51b857",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "EU clears Hungary’s Várhelyi in Brussels spying probe - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU18wTHMxZEt5bVJnZy1BRERPYmdkV3RDV21WU2FZSmpZc1k0MDNFcUs1b05QMV80N1VhSm9MM0QxMmJ6RVVjRHdtQkNCaldGLUJsNkpkRXM1RU9wY3JsY0lYa0RLOUl6Y0F6NXc2T2Z1VFlKUnVoTW1yaFFtYjJUMFhBRHMxdmIybXFHdXZhNng1c0tGNzFxR1NHUVBzbmc?oc=5",
+    "published_at": "2026-05-08T14:34:29+00:00",
+    "fetched_at": "2026-05-08T18:00:35.519493+00:00",
+    "topics": [
+      "rule of law",
+      "EU relations"
+    ],
+    "actors": [
+      "Olivér Várhelyi",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "rule_of_law",
+    "summary_en": "The European Commission has cleared Hungary's former EU Commissioner Olivér Várhelyi of allegations in a Brussels espionage investigation. The exoneration signals that EU institutional oversight is functioning independently and fairly during Hungary's post-Orbán democratic transition.",
+    "title_hu": "Az EU felmentette Várhélyi Olivért a brüsszeli kémkedési nyomozásban",
+    "summary_hu": "Az Európai Unió felmentette Várhélyi Olivért, Magyarország korábbi EU-biztosát a brüsszeli kémkedési nyomozásban. A felmentés jelzi, hogy az EU intézményi felügyelete függetlenül és megfelelően működik Magyarország demokratikus átmenete alatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "1b5e3bd3cc0ad562",
     "source": "The Guardian",
     "region": "uk",
@@ -50,6 +103,35 @@
     "summary_en": "Péter Magyar's new government risks an early confrontation with Brussels over migration policy compliance, potentially undermining EU relations during the critical transition period and ongoing EU fund negotiations.",
     "title_hu": "Magyar kockáztat korai ütközést Brüsszelel a migrációs paktum miatt",
     "summary_hu": "Péter Magyar új kormánya korán összeütközhet Brüsszelel a migrációs politika betartása felett, amely veszélyeztetheti az EU-s kapcsolatokat a demokratikus átmenet és az EU-s finanszírozási tárgyalások kritikus pillanatában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "16debd58f449a064",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary: new govt intent on initiating swift systemic change - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV29XTDFIbENpR0c1SERQNlNVV0I0d2g2Y2U3N1N2bkw2bTJZMDM2ZWJZdkRxUkl6OVIwREdJd0NTb0szeEFrWmRxYjJEeDdUc2hYbG55VUZvaXZHUUpJdERFYzFJMDJTSlg1SjdtY1MxTkhlT3QyYmRQVDIyYkpVSERXcmN4a3llaTFacXQzSXFlbnMzQU5N0gGXAUFVX3lxTE1Xb1dMMUhsQ2lHRzVIRFA2U1VXQjR3aDZjZTc3U3ZuTDZtMlkwMzZlYll2RHFSSXo5UjBER0l3Q1NvSzN4QWtaZHFiMkR4N1RzaFhsbnlVRm9pdkdRSkl0REVjMUkwMlNKWDVKN21jUzFOSGVPdDJiZFBUMjJiSlVIRFdyY3hreWVpMVpxdDNJcWVuczNBTk0?oc=5",
+    "published_at": "2026-05-08T12:35:13+00:00",
+    "fetched_at": "2026-05-08T18:00:39.487988+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy",
+      "systemic reform"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's new Tisza Party government under Péter Magyar has launched swift systemic reforms following its April 2026 election victory and two-thirds parliamentary majority. The reforms represent a break from Orbán's 15-year rule and focus on democratic renewal and institutional restoration.",
+    "title_hu": "Magyarország: az új kormány gyors rendszerszintű változtatásokat tervez",
+    "summary_hu": "Magyarország új Tisza-párti kormánya Péter Magyar vezetésével az április végi választási győzelme és kétharmados parlamenti többsége után gyors rendszerszintű reformokat kezdett meg. A reformok Orbán 15 éves uralma után egy fordulópontot jelentenek, és a demokratikus megújulásra valamint az intézményi helyreállításra irányulnak.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
@@ -111,6 +193,41 @@
     "is_relevant": 1,
     "main_actor": "eu_institutions",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "26566b1136ea6c96",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Who is coming to Putin’s Victory Day parade — and who is not? - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1ZnMGFyTTNvQnY1eno4aGd6YUtuR3l5alVIZnNIOGpfV1VtcWdka3pzNlE1MkdWajZHZnF4cWM2blotTXlTRW5NUmNzSk1qN2szSHREQ0sySXIyd1JKY0w1NndHMDRWSXJTTGNwdzFTZHFfZkR6YWRuQ0FsRDNmX2M0X0UwS044SXRQOVViYmhmZnpmdUNPQQ?oc=5",
+    "published_at": "2026-05-08T11:32:16+00:00",
+    "fetched_at": "2026-05-08T18:00:35.519603+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "EU relations",
+      "NATO",
+      "Russia deals"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Vladimir Putin",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Euronews analyzes which countries are attending or boycotting Putin's Victory Day parade, with Hungary's attendance decision serving as a key geopolitical signal of Péter Magyar's government reorienting away from Orbán-era Russia alignment toward EU-NATO integration. The article likely contrasts Hungary's new posture with its previous diplomatic proximity to Moscow.",
+    "title_hu": "Ki jön és ki nem érkezik Putin győzelem napjára?",
+    "summary_hu": "A Euronews elemzi, mely országok vesznek részt vagy tiltakoznak Putin győzelemnapi parádéjában, Magyarország részvételével Péter Magyar kormánya geopolitikai réorientációjának kulcsjelzésévé válva — az Orbán-kori Oroszország-igazodásról az EU-NATO integrációra való átfordulást mutatva. A cikk valószínűleg Magyarország új álláspontját a korábbi moszkvai diplomáciai közelségével ellentétesítve tárgyalja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Russia",
+      "Poland",
+      "Serbia"
+    ],
     "quotes": []
   },
   {
