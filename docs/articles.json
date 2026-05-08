@@ -499,6 +499,35 @@
     "quotes": []
   },
   {
+    "id": "00528b629a388cec",
+    "source": "The Times",
+    "region": "uk",
+    "title": "Europe’s power comes from stars in the east - The Times",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUDQwWWkyMXk0SldnS2xXeEl4c0xWYllLaVplbHRjOVJlZXgtamhsNzljeHhTdXVaaWVTd3lDLVA3WXJSU3dnTjFuMWlXamRKejZBYkdwRmR3VjUzY1VmUHpDcGpwOERpRU01UVFOQ3RkNTBMSXczS1o0bG9Na0Z6WVEwQTktejM0eU5JeFgwUW50MGdzUk5MVF9GMlgzMlFyUldKUWRvWQ?oc=5",
+    "published_at": "2026-05-06T16:19:50+00:00",
+    "fetched_at": "2026-05-07T10:00:18.503590+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "EU leaders"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The Times frames Hungary's democratic transition as a strategic asset to European geopolitics and power renewal. Published on the day Hungary returned $82 million to Ukraine, the article appears to position Hungary's westward pivot and role in Central Europe as central to reshaping European alignment and democratic consolidation.",
+    "title_hu": "Európa ereje a kelet csillagaiból származik",
+    "summary_hu": "A Times Magyarország demokratikus átmenetét az európai geopolitika és hatalmi megújulás stratégiai eszközeként kezeli. Az arról szóló nap publikálva, amikor Magyarország 82 millió dollárt adott vissza Ukrajnának, a cikk úgy jelenik meg, hogy Magyarország nyugati fordulata és közép-európai szerepe az európai igazodás és demokratikus konszolidáció átalakításában központi jelentőségű.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "b3089426006929a1",
     "source": "Reuters",
     "region": "wire",

@@ -1,9 +1,9 @@
 {
-  "total_articles": 336,
-  "analyzed_articles": 336,
+  "total_articles": 337,
+  "analyzed_articles": 337,
   "tone": {
     "critical": 48,
-    "positive": 103,
+    "positive": 104,
     "neutral": 152,
     "mixed": 32,
     "hopeful": 1
@@ -17,7 +17,7 @@
     "corruption": 15,
     "regional": 8,
     "media_freedom": 9,
-    "geopolitics": 95,
+    "geopolitics": 96,
     "Fidesz opposition": 3,
     "EU_integration": 4,
     "other": 10,
@@ -32,7 +32,7 @@
     "wire": 58,
     "us": 28,
     "think": 1,
-    "uk": 61,
+    "uk": 62,
     "cee": 14,
     "fr": 10
   },
@@ -51,7 +51,7 @@
     "BBC": 9,
     "AP News": 8,
     "New York Times": 7,
-    "The Times": 6,
+    "The Times": 7,
     "Foreign Policy": 4,
     "The Parliament Magazine": 3,
     "Visegrad Insight": 3,
@@ -63,10 +63,10 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 269,
-    "EU relations": 197,
-    "geopolitics": 139,
-    "democracy": 128,
+    "government transition": 270,
+    "EU relations": 198,
+    "geopolitics": 140,
+    "democracy": 129,
     "rule of law": 87,
     "foreign policy": 85,
     "EU funds": 71,
@@ -85,7 +85,7 @@
     "NATO": 3
   },
   "actors": {
-    "Péter Magyar": 260,
+    "Péter Magyar": 261,
     "Viktor Orbán": 158,
     "European Commission": 46,
     "Volodymyr Zelenskiy": 39,
@@ -103,13 +103,13 @@
     "Benjamin Netanyahu": 7,
     "EU Court of Justice": 7,
     "EU officials": 7,
-    "Fidesz": 6,
-    "Kremlin": 6
+    "EU leaders": 6,
+    "Fidesz": 6
   },
   "main_actor": {
     "orban_viktor": 67,
     "magyar_peter": 103,
-    "hungary_country": 97,
+    "hungary_country": 98,
     "eu_institutions": 32,
     "other": 31,
     "fidesz": 4,
@@ -156,7 +156,7 @@
     "2026-05-03": 1,
     "2026-05-04": 4,
     "2026-05-05": 5,
-    "2026-05-06": 17,
+    "2026-05-06": 18,
     "2026-05-07": 15
   },
   "tone_by_source": {
@@ -215,6 +215,10 @@
       "neutral": 4,
       "critical": 1
     },
+    "The Times": {
+      "positive": 4,
+      "neutral": 3
+    },
     "AP News": {
       "positive": 2,
       "neutral": 5,
@@ -244,10 +248,6 @@
       "positive": 4,
       "neutral": 4,
       "critical": 1
-    },
-    "The Times": {
-      "positive": 3,
-      "neutral": 3
     },
     "Visegrad Insight": {
       "neutral": 2,
@@ -332,6 +332,10 @@
       "neutral": 36,
       "critical": 9
     },
+    "The Times": {
+      "positive": 57,
+      "neutral": 43
+    },
     "AP News": {
       "positive": 25,
       "neutral": 62,
@@ -357,10 +361,6 @@
       "positive": 44,
       "neutral": 44,
       "critical": 11
-    },
-    "The Times": {
-      "positive": 50,
-      "neutral": 50
     },
     "Visegrad Insight": {
       "neutral": 67,
@@ -392,5 +392,5 @@
       "last_seen_count": 3
     }
   ],
-  "last_updated": "2026-05-07T22:13:21.097154+00:00"
+  "last_updated": "2026-05-08T02:13:55.110732+00:00"
 }
