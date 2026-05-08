@@ -1,59 +1,51 @@
 {
-  "top_story_en": "The EU-Hungary €10 billion funding dispute has shifted from stalled talks to active deterioration, as Brussels and Budapest remain split on both the amount and conditionality benchmarks — testing whether post-election optimism can survive the technical grind of reform verification.",
-  "top_story_hu": "Az EU és Magyarország közötti, 10 milliárd eurós forráscsomag körüli vita immár nem egyszerűen holtpontba jutott, hanem aktívan romlik: Brüsszel és Budapest az összeg nagyságában és a feltételrendszerben sem tud megállapodni, ami komoly próbatétel a választás utáni optimizmus számára.",
+  "top_story_en": "Hungary's democratic transition enters its symbolic apex as Péter Magyar plans a 'regime-change celebration' marking the end of Orbán's 15-year rule, with Le Monde christening the moment a 'democratic spring' — the first time international coverage has adopted unambiguously celebratory register.",
+  "top_story_hu": "Magyarország demokratikus átmenete szimbolikus csúcspontjára ér: Magyar Péter 'rendszerváltó ünnepséget' tervez Orbán 15 éves uralmának lezárására, a Le Monde pedig 'demokratikus tavaszként' nevezi a pillanatot — a nemzetközi sajtóban először jelenik meg egyértelműen ünnepi hangvétel.",
   "key_developments_en": [
-    "Hungary's Constitutional Court voided key provisions of an Orbán-era tax decree, the first concrete judicial independence signal since Magyar took office (Euractiv).",
-    "Magyar met Giorgia Meloni in Rome, cementing Italy as Hungary's primary peer bilateral partner in the EU diplomatic reset (Politico).",
-    "Magyar's government will appoint Hungary's first blind minister, marking a deliberate break from Orbán-era crony appointments (DW).",
-    "German investor morale improved in a post-election survey, contrasting with S&P Global's concurrent negative credit outlook (Reuters).",
-    "Public pressure for Viktor Orbán's personal criminal prosecution is intensifying as a distinct, standalone story — though legal basis and timelines remain unreported (EUobserver)."
+    "Magyar met Italian PM Meloni in Rome, cementing Italy as Hungary's primary bilateral partner in the EU diplomatic reset (Politico, AP).",
+    "Hungary and the EU remain deadlocked over the exact disbursement from a ~€10B frozen funding package, with Brussels holding firm on conditionality benchmarks (Politico).",
+    "Hungary's Constitutional Court voided key provisions of an Orbán-era tax decree — the clearest judicial independence signal since the election (Euractiv).",
+    "Magyar's government will appoint Hungary's first blind minister, signalling a merit-based break from Orbán-era crony appointments (DW).",
+    "The NYT frames Hungary's election as exposing structural limits of China's political influence in Central Europe, flagging a geopolitical realignment story."
   ],
   "key_developments_hu": [
-    "Magyarország Alkotmánybírósága megsemmisítette egy Orbán-kori adórendelet kulcsrendelkezéseit — ez az első konkrét jel a bírói függetlenség visszaállítására Magyar regnálása alatt (Euractiv).",
-    "Magyar Péter Rómában találkozott Giorgia Melonival, aki így Magyarország legfontosabb kétoldalú partnere lett az EU-s diplomáciai nyitásban (Politico).",
-    "Magyar kormánya kinevezi Magyarország első vak miniszterét, egyértelmű szakítást jelezve az Orbán-kori protekcionista kinevezési gyakorlattal (DW).",
-    "Egy választás utáni felmérés szerint a német befektetői hangulat javult Magyarországgal kapcsolatban, miközben az S&P Global negatív hitelminősítési kilátást adott ki (Reuters).",
-    "Az Orbán személyes büntetőjogi felelősségre vonása iránti nyilvános igény önálló hírrá erősödik — jogi alap és ütemterv egyelőre nem ismert (EUobserver)."
+    "Magyar Péter Rómában találkozott Giorgia Melonival, Olaszország így Hungary legfontosabb kétoldalú partnerévé válik az EU-s diplomáciai fordulatban (Politico, AP).",
+    "Magyarország és az EU között patthelyzet alakult ki a ~10 milliárd eurós befagyasztott források pontos összegét illetően, Brüsszel ragaszkodik a feltételességi elvárásokhoz (Politico).",
+    "Az Alkotmánybíróság megsemmisítette egy Orbán-kori adórendelet kulcsrendelkezéseit — ez a választások óta a legélesebb bírói függetlenségi jelzés (Euractiv).",
+    "Magyar kormánya kinevezi Magyarország első vak miniszterét, jelezve az érdem alapú szemléletváltást az Orbán-éra nepotizmusával szemben (DW).",
+    "A New York Times szerint a magyarországi választás feltárta Kína politikai befolyásának korlátait Közép-Európában, egy geopolitikai átrendeződési narratívát indítva el."
   ],
   "narrative_shifts_en": [
-    "The EU funding dispute has crossed an editorial threshold: outlets are no longer framing it as 'ongoing talks' but as a worsening confrontation, signalling a potential Hungary–EU standoff narrative is forming.",
-    "Politico's 'No blank check' piece, now part of a cluster of critical watchdog analyses (May 4–7), marks a consolidation of Western skepticism toward Magyar — distinct from the initial post-election optimism wave."
+    "Coverage tone shifted from 'transition in progress' to 'historical milestone': the inauguration celebration framing (WaPo, AP, Le Monde) is the first day international outlets have collectively adopted commemorative rather than analytical language.",
+    "ECFR's six-insight strategic framework elevates Hungary from news story to foreign-policy case study, signalling think-tank attention is now fully engaged alongside daily press."
   ],
   "narrative_shifts_hu": [
-    "Az uniós forrásokról szóló vita átlépett egy szerkesztői küszöböt: a tudósítások már nem 'folyamatban lévő tárgyalásokról', hanem romló konfrontációról szólnak — egy lehetséges Magyarország–EU szembenállás narratíva formálódik.",
-    "A Politico 'Nincs blankó csekk' írása egy kritikus elemzések sorának (május 4–7.) részét alkotja, jelezve, hogy a nyugati sajtó Magyar-szkepticizmusa konszolidálódik és elválik a kezdeti választás utáni optimizmustól."
+    "A sajtó hangneme átvált 'folyamatban lévő átmenet'-ről 'történelmi mérföldkő'-re: a beiktatási ünnepség keretezése (WaPo, AP, Le Monde) az első nap, amikor a nemzetközi lapok kollektíven megemlékező, nem elemző nyelvet használnak.",
+    "Az ECFR hat pontos stratégiai elemzése Magyarországot hírsztoriból külpolitikai esettanulmánnyá emeli, jelezve, hogy az agytrösztök figyelme is teljes mértékben ráirányult."
   ],
   "quotes_en": [
     {
-      "quote": "Western observers should not repeat the blind spots that missed Orbán's authoritarian consolidation in 2010.",
-      "speaker": "Politico Europe editorial"
-    },
-    {
-      "quote": "China's cozy ties to the Orbán government were insufficient to maintain his hold on power.",
-      "speaker": "New York Times analysis"
+      "quote": "regime-change celebration",
+      "speaker": "Péter Magyar (as quoted by AP)"
     }
   ],
   "quotes_hu": [
     {
-      "quote": "A nyugati megfigyelők ne ismételjék meg azokat a vak foltokat, amelyek elnézték Orbán 2010-es autoriter hatalomátvételét.",
-      "speaker": "Politico Europe szerkesztőség"
-    },
-    {
-      "quote": "Kína Orbánnal ápolt szoros kapcsolatai nem bizonyultak elegendőnek ahhoz, hogy hatalomban tartsák őt.",
-      "speaker": "New York Times elemzés"
+      "quote": "rendszerváltó ünnepség",
+      "speaker": "Magyar Péter (az AP által idézve)"
     }
   ],
   "what_to_watch_en": [
-    "Whether the EU-Hungary €10B funding dispute produces a formal breakdown or a negotiated reset — the next round of conditionality talks will be the signal.",
-    "The legal and institutional pathway for Orbán prosecution: public pressure is now reported, but no charges, legal basis, or timeline have emerged.",
-    "Magyar's Russia policy in substance, not satire: Politico has flagged the question; a concrete diplomatic signal or statement is overdue."
+    "Inauguration ceremony details and whether the 'regime-change celebration' draws international leaders — attendance list will signal Hungary's new diplomatic standing.",
+    "EU–Hungary funding talks: Politico characterises the dispute as deteriorating; watch for any breakthrough or formal mediation mechanism announcement.",
+    "Orbán prosecution pressure: EUobserver reports intensifying public demand — watch for Magyar government's first official statement on legal accountability timelines."
   ],
   "what_to_watch_hu": [
-    "Az EU–Magyarország 10 milliárd eurós vitája formális szakításba vagy tárgyalásos rendezésbe torkollik-e — a következő feltételrendszer-tárgyalás lesz a mértékadó.",
-    "Orbán büntetőjogi felelősségre vonásának jogi és intézményi útja: a köznyomás immár hírré vált, de vád, jogalap és ütemterv még nem ismert.",
-    "Magyar Oroszország-politikája tartalomban, nem szatírában: a Politico felvetette a kérdést; egy konkrét diplomáciai jelzés vagy nyilatkozat esedékessé vált."
+    "A beiktatási ünnepség részletei és a 'rendszerváltó ünnepség' nemzetközi vendéglistája — a résztvevők köre jelzi Magyarország új diplomáciai súlyát.",
+    "EU–magyar forrástárgyalások: a Politico szerint a vita mélyül; figyelendő bármilyen áttörés vagy formális közvetítési mechanizmus bejelentése.",
+    "Az Orbán elleni felelősségre vonás nyomása: az EUobserver fokozódó közvélemény-igényt jelez — figyelendő Magyar kormányának első hivatalos nyilatkozata a jogi elszámoltathatóság ütemtervéről."
   ],
   "date": "2026-05-08",
-  "article_count": 15,
-  "generated_at": "2026-05-08T02:13:54.990947+00:00"
+  "article_count": 16,
+  "generated_at": "2026-05-08T06:15:06.931154+00:00"
 }

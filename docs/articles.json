@@ -1,5 +1,118 @@
 [
   {
+    "id": "fcfbee962254d19f",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Hungary's incoming prime minister plans a 'regime-change celebration' to mark Orbán's departure - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQlo5cGJ3Qkc0WFM4WkYyLUYweHFDUERDck0xTjNPOGVZYWVVM1B4NmJ5Wm5US1hOc3Z1eE5CZE1heHJIX3NnYmFlbmxSODVjNTBPRUhkS2ZNNmd6bnl0Y0JDZ0k3SzQ1RnM3WVpOS3RmQ1ZvZHBaRmJpSmtVWEtFYUlBRjZyS1lpUHBkb1ZpVmkxZzk0T01hT2tlR3RpZ0xZcWtmS0MwY2VveG5GNzlTN1JkN3Vmb2JsRUVfV0JyM1BOM21DVDA1SWRVWWdkWEVpY1dpWVI0MFU2aHRIcVlMLWJJN2ZKMy1oR0JJ?oc=5",
+    "published_at": "2026-05-08T05:50:26+00:00",
+    "fetched_at": "2026-05-08T06:00:18.434763+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar, Hungary's incoming prime minister, is organizing a 'regime-change celebration' to commemorate the end of Viktor Orbán's 15-year rule. The planned event marks a symbolic milestone in Hungary's democratic transition following the Tisza Party's two-thirds parliamentary victory in April 2026.",
+    "title_hu": "Magyarország bejövő miniszterelnöke 'rendszerváltás ünneplést' tervez Orbán távozásának megjelölésére",
+    "summary_hu": "Péter Magyar, Magyarország bejövő miniszterelnöke 'rendszerváltás ünneplést' szervez Viktor Orbán 15 éves uralma végének megjelölésére. A tervezett esemény szimbolikus mérföldkövet jelent Magyarország demokratikus átmenetében, amely a Tisza Párt 2026 áprilisában szerzett kétharmados parlamenti többségét követte.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "214a918fd52d30fa",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary's incoming prime minister plans a 'regime-change celebration' to mark Orbán's departure - AP News",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM3kydjd4X2pXUlJBLVhnWGRJMW5ycXRJZXNRMTRwUlhuZHo1QTVuVEZwemFwTzRWWTdIVDhsaUtEcEtkOW0xZV9CUUlQVnFSbHFyR0x0OFJMUmFMbHViWXVRdzBnYm9WWnpkSHFMY1FLQUpHSW9Wdlpod3Ytems2eXpST3JUUGtPaWpxQzdSbmZPRGY0N2pCQk5jSDl1ZEZXMkxCUkxPV1RFOVJKR2hELXpzNlVGZElsOHpR?oc=5",
+    "published_at": "2026-05-08T04:55:00+00:00",
+    "fetched_at": "2026-05-08T06:00:04.394049+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar, Hungary's incoming prime minister, is planning a celebration marking the end of Viktor Orbán's 15-year rule following the April 2026 election. The 'regime-change celebration' symbolizes Hungary's democratic transition and the new government's commitment to fundamental reform.",
+    "title_hu": "Magyarország bejövő miniszterelnöke egy 'rezsimváltás-ünnepléssel' szeretné megjelölni Orbán távozását",
+    "summary_hu": "Péter Magyar, Magyarország jövőbeli miniszterelnöke egy ünnepséget szervez Viktor Orbán 15 éves uralma végét jelölendő az április 2026-os választás után. A 'rezsimváltás-ünnepség' Magyarország demokratikus átmenetét és az új kormány alapvető reformokhoz való elkötelezettségét szimbolizálja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "regime-change celebration"
+    ]
+  },
+  {
+    "id": "16d2e79333c9f391",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "Hungary experiences a democratic spring on the eve of Péter Magyar's inauguration - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYnpUSzlDVUVIYmE5N0hPV1RJUFA2eHI2Wk4tYVFWMjdTVUFrTkxCbVNxOHl2Q1laS2ZZZlh0UnJoaHZXdWZpRWdMUUl0dVJ6MFRadzlnTnhUbk54ZGdpeG05ajNkX0VYQnRUN3JFd3RkSlY3NVpsYnR4N3Y1aWJqVUtKLTB0M09IaGgzaFIzV05qdFFMRC1ITGxTUGdycmFGUTNfVDRuNXF4am44VFljcDNnTXBiZW9rMTdBMVVDb3dqZ05sU0xlZFh0NVRRSDFsYXlyOGlFTVdqYmNVTl8wRDByOXdHNUZqa1J3?oc=5",
+    "published_at": "2026-05-08T04:02:32+00:00",
+    "fetched_at": "2026-05-08T06:00:37.462829+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Le Monde frames Hungary's government transition as a democratic restoration, with Péter Magyar's new government and two-thirds parliamentary majority presented as a hopeful turnaround following Viktor Orbán's 15-year rule. The 'democratic spring' metaphor positions the transition as a renewal of democratic values and institutions in Central Europe. This coverage aligns with broader Western characterization of Hungary as a potential proof-of-concept for democratic resilience.",
+    "title_hu": "Magyarország demokratikus tavaszban él Péter Magyar beiktatása előestéjén",
+    "summary_hu": "A Le Monde Magyarország kormányváltását demokratikus helyreállításként értelmezi, Péter Magyar új kormányát és kétharmados többségét reményteli fordulatként mutatja be Viktor Orbán 15 éves uralma után. A 'demokratikus tavasz' kifejezés a demokratikus értékek és intézmények megújulásáról szól. Ez a megközelítés összhangban áll a nyugati média azon értelmezésével, amely Magyarországot a közép-európai demokrácia ellenálló képességének potenciális bizonyítékaként értelmezi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f9a1cc29b29faa12",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Viktor Orbán Archives | Page 132 of 152 - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQek5CcnJ5S3BKcGNrOHhZOW5hM2xtMWFWcEt0VE1YaHJDM0RLb0VXXzBUVlNoeFdEQi1vR2dkRHU3amdJOTQxd2JrZ3FKRVplX2lsM1RLcmxRVnoyblUzZWVlYnQteE9xdlJsRzZlWGdSMzhfNHRDVHR3RnZLWVRJUFkzNU0?oc=5",
+    "published_at": "2026-05-07T15:52:31+00:00",
+    "fetched_at": "2026-05-08T06:00:29.890482+00:00",
+    "topics": [
+      "government transition",
+      "corruption",
+      "rule of law"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This is an archive index page from Euractiv listing 152 pages of coverage on Viktor Orbán. The archive reflects sustained editorial focus on the former prime minister during Hungary's democratic transition and the aftermath of his 15-year rule, including ongoing asset freezes, legal scrutiny, and Orbán's positioning as he seeks immunity through an EU Parliament seat.",
+    "title_hu": "Viktor Orbán Archívum | 132. oldal a 152-ből - Euractiv",
+    "summary_hu": "Ez az Euractiv archív indexoldala, amely 152 oldalnyi cikket sorol fel Viktor Orbánról. Az archívum a volt miniszterelnök iránti szerkesztőségi fokozottabb figyelmet tükrözi Magyarország demokratikus átmenete során, beleértve a vagyonzárlatokat, jogi vizsgálatokat, és Orbán EU Parlamentben való helyet keresésének kísérleteit.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "accd9a8f11ea2db3",
     "source": "EUobserver",
     "region": "eu",
@@ -90,6 +203,37 @@
     "quotes": []
   },
   {
+    "id": "8d1511a69462f803",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "War, energy and politics hamper Eastern Europe's efforts to keep deficits in check - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkNBTksxZHVLbXZlZ2JXUzU0WHd4Tjl2d3M0VkIzV3ZqcUhqcERzalZEczBVa1JGbVdIaUdzMkNvVkRrM0dJTU10b2dhQzFtbHFUWE5xZk9jQjFGMjlqdHNibXdQQmJPTE9IZWlRdzYwd0lxMXB4TElONXRuMFJQZFBIeXhpX3JZTGJmR19QVktwS1MxdFpIRnJBNThENVN3bVpUVW55YjZSdFExcGhld2E5cDB5dw?oc=5",
+    "published_at": "2026-05-07T11:29:28+00:00",
+    "fetched_at": "2026-05-08T06:00:02.424830+00:00",
+    "topics": [
+      "economy",
+      "EU relations",
+      "geopolitics",
+      "government transition",
+      "energy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission officials",
+      "Eastern European finance ministers"
+    ],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "Eastern European countries, including Hungary, struggle to manage fiscal deficits amid compounding pressures from the Ukraine war, energy market disruptions, and political transitions. Hungary's new government faces overlapping challenges in meeting EU fiscal requirements while targeting euro adoption by 2030.",
+    "title_hu": "Háború, energia és politika akadályozzák Kelet-Európa deficit csökkentésének erőfeszítéseit",
+    "summary_hu": "Kelet-európai országok, köztük Magyarország, az Ukrajna körüli háború, az energiapiaci zavarok és a politikai átmenetek miatt küszködnek a költségvetési deficit kezelésében. Magyar új kormánya egyidejűleg kell megfelelhessen az EU fiskális kritériumainak és teljesítse az euró elfogadásának 2030-as céljait.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "3e8a0ea4b3a64909",
     "source": "DW English",
     "region": "de",
@@ -113,6 +257,36 @@
     "is_relevant": 1,
     "main_actor": "magyar_peter",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "8f57d3009f5b7bf7",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary’s newly-elected prime minister Péter Magyar meets Meloni in Rome - AP News",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnpGRzA2V2VOUkE0S0ZRbjBxQzlydTVvdm42bnJhckVob2tjLXZEZmlJVnZyWmlKaFlHNUIxMVROSEFNSG52MWpfWnZnMHF2SHZBTnM1dUJRdlZLRVE0MkNFR0pmVE9tUXc0c2NJc201eGFkN29GSy1vQm5fRUEzeVpNVDI5eG9ObVFsQm54cTFuM2F4YzVFS3gteUtDSmZ5c2dfbUprUGVTcGtIQXV6VHBXYkFaSHljdGd1cDVqM0tUU3hobDJBdg?oc=5",
+    "published_at": "2026-05-07T10:59:00+00:00",
+    "fetched_at": "2026-05-08T06:00:04.394028+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Giorgia Meloni"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's newly-elected Prime Minister Péter Magyar met with Italian PM Giorgia Meloni in Rome, establishing bilateral ties and positioning Italy as a key EU partner for Hungary's diplomatic reset. The meeting represents early foreign policy engagement by the new Tisza Party government seeking to reintegrate Hungary into European mainstream politics.",
+    "title_hu": "Magyarország újonnan választott miniszterelnöke, Péter Magyar találkozik Melonival Rómában",
+    "summary_hu": "Magyarország újonnan választott miniszterelnöke, Péter Magyar találkozott olasz kollégájával, Giorgia Melonival Rómában, és megerősítette a bilaterális kapcsolatokat. A találkozó a Tisza Párti kormány korai diplomáciai törekvéseit tükrözi, amelynek célja Magyarország visszaintegrációja az európai főáramú politikába.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Italy"
+    ],
     "quotes": []
   },
   {
@@ -198,6 +372,34 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d6d5eaf50c626241",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "RPT/CEE MONEY-Swiss franc debt a slow poison for Hungarian growth - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUZFUU9ZOHBaY1FXTnh4SDRUVXNHSUwzMGVJTm8zZk5rZmhQWU1YTy0wYmJIYkZGU2VoRmJKQi1pczAxTEpJZTBubW82T1BEM05xeEdfZkxNbm9hQTAxTnA1RVpGVXVYRE96MUxET1RDUERkYVNiZlExXzZXTkEyVnNXY0dzbFhOUEN4cHZoY09yNXZwQ0RPVmtiZFdiZm44V0lxbkN1ZWNXUmlBMmpYZWp0Q3RjMXhQdmZj?oc=5",
+    "published_at": "2026-05-07T06:36:31+00:00",
+    "fetched_at": "2026-05-08T06:00:02.424881+00:00",
+    "topics": [
+      "economy",
+      "EU relations"
+    ],
+    "actors": [
+      "Hungarian government",
+      "EU institutions",
+      "Central Bank"
+    ],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "Reuters reports that Swiss franc-denominated debt poses a structural economic drag on Hungary post-transition, framed as a 'slow poison' to growth. This vulnerability compounds existing macro challenges including S&P Global's negative credit outlook and EU funding gridlock, requiring Magyar's government to address currency exposure risks alongside fiscal consolidation.",
+    "title_hu": "RPT/CEE MONEY - A svájci frank adósság lassú méreg a magyar gazdasági növekedésre",
+    "summary_hu": "A Reuters közlése szerint a svájci frank alapú adósság strukturális terhet jelent a magyarországi gazdasági növekedésre a kormányváltás után. Ez a sérülékenység tovább súlyosbítja a meglévő makrogazdasági kihívásokat, köztük az S&P Global negatív előrejelzését és az EU finanszírozási vitáját, ami Magyar kormánya számára jelentős fiskális konsolidációs kihívást jelent.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   },
