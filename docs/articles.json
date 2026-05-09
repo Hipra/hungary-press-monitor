@@ -1,5 +1,128 @@
 [
   {
+    "id": "c78e8676092c93d4",
+    "source": "DW English",
+    "region": "de",
+    "title": "Magyar sworn in as Hungary's prime minister - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON1UycWxBc3dFUXNfRm1RQlFYR1g0MDVWWVQ3bFM4bXlPUEcxWnJlbGIzc3JicUZ2OFhSTkNLaUF1NFBDaW54eFduRUVSaG5ucXM5SmR3RTFhSzlDQkUyOXJqS0t1aEhEcVhFN2hvRDlRa1RZVG9vS0VNeVdCMzRmbFNSOXI4UDjSAYcBQVVfeXFMTW9WTzRyV3hsdEMyX1VFeFFiN29aRm5Xekx1ZDEyVXBTTmpIZ2p1aVhGRlYxU0ZZUkVKLVpneDJFU21OOE9fTWZwUXQ2QzBROTlVbUhlY0Q2aExuclhRMGZseFlDMHpjZkxhRGdDVUtZWGp3US1oOUgyX25XaU1DTmNWcmxodnBr?oc=5",
+    "published_at": "2026-05-09T13:11:07+00:00",
+    "fetched_at": "2026-05-09T14:00:40.154061+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "rule of law",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party",
+      "Ursula von der Leyen"
+    ],
+    "tone": "mixed",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Hungary's Prime Minister on May 10, 2026, ending Viktor Orbán's 15-year rule. The Tisza Party's two-thirds parliamentary majority positions the transition as democratic restoration and EU reintegration, though Western media scrutiny is intensifying over early nepotism signals and populist warning signs.",
+    "title_hu": "Magyar Péter Magyarország miniszterelnökeként esküdött fel",
+    "summary_hu": "Péter Magyar 2026. május 10-én Magyarország miniszterelnökeként esküdött fel, ezzel véget vetett Orbán Viktor 15 éves hatalomnak. A Tisza Párt kétharmados parlamenti többsége a demokrácia helyreállítását és az EU-val való reintegrációt jelenti, de a nyugati média egyre fokozottabb kritikával figyeli az első nepotizmus-jeleket és populista veszélyjelzéseket.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b9c89935d3e4c90c",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "EU hails ‘new chapter’ as Magyar sworn in as Hungary’s prime minister - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjFLUzAxbXhnOTg1LW0xUDFDMzFRU1lTMkdZQXk2T3prQ2t6UXV1S2ozQmlWeXBsZFdZbnBLczBOYnZYbmpkNTJZeXhER21xREpibFNBRFRSSEhVbWpVVVRhd19sV0pabVktbXB2NHdJank2TEx2QmtiLThmM294WHJ6SFFzV0VxTzJ0MUxhb1ZLMThKejBWMFgySWhBeHNw?oc=5",
+    "published_at": "2026-05-09T13:09:37+00:00",
+    "fetched_at": "2026-05-09T14:00:28.348595+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "Viktor Orbán",
+      "European Commission"
+    ],
+    "tone": "mixed",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Hungary's prime minister on May 10, 2026, ending Viktor Orbán's 15-year rule. The EU welcomed the transition as a 'new chapter' for Hungarian democracy, though observers caution against uncritical support given early signals of nepotism and populist governance tendencies.",
+    "title_hu": "Az EU új fejezetet üdvözöl, miközben Magyar Péter miniszterelnökké esküszik fel",
+    "summary_hu": "Péter Magyar 2026. május 10-én esküdött fel Magyarország miniszterelnökének, amely véget vet Orbán Viktor 15 éves uralomának. Az EU a tranzíciót a magyar demokrácia 'új fejezetét' üdvözölte, bár a megfigyelők figyelmeztetnek a kritikátlan támogatás veszélyeire a korai nepotizmus és populista kormányzási jelei miatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "32b1d62b2bd3c753",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjdLMHp2dzh6V0tWQzQydFkteTRMODZueU9FTjVZQjJhOEg1M29XUXhkQWtTcWdkaFZseU16MG51SHNEdFRUNkFFOVI0cTRpN0M5NUtabTRDNFJMakxpNm01dmllbDZFb2VHc3lWVGNKbUxnOUItVW1tNGdjYU90bW1TZktTdUJzSE0wc0hqVlUyU1ZxRWpwTEJoRmNuQnNfcWp4Ng?oc=5",
+    "published_at": "2026-05-09T12:44:00+00:00",
+    "fetched_at": "2026-05-09T14:00:08.811371+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party",
+      "Ursula von der Leyen"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Hungary's prime minister on May 10, 2026, ending Viktor Orbán's 15-year rule and marking a historic democratic restoration. The Tisza Party's two-thirds parliamentary majority positions the new government to pursue EU reintegration, judicial reform, and Ukraine rapprochement after a decade and a half of democratic backsliding.",
+    "title_hu": "Péter Magyar miniszterelnökké iktatása – a 15 éves Orbán-korszak vége",
+    "summary_hu": "Péter Magyar 2026. május 10-én foglalta el Magyarország miniszterelnöki tisztét, végül szakítva Viktor Orbán 15 éves kormányzásával és egy történelmi demokratikus helyreállítást jelölve meg. A Tisza Párt kétharmados parlamenti többsége lehetővé teszi az új kormányzatnak az EU-integráció, az igazságszolgáltatás reformja és az Ukrajna felé irányuló közeledés megvalósítását az elmúlt másfél évtized demokratikus visszacsúszása után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "68fcf276cfd20f58",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "EU flag back on Hungarian parliament - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa1pGaHd6STZHZURMTWFiMy1mUlJ0OE1HM3g3d2JlckpvbVRIMk9yZXJaRDBjY3d4R1puN2NoMmZDTm9HN1BiX0JaVDZKMHIwamIwazdfN05wb1lOX0xsdU12dVJMb2p3WmlPOEd4MFV5MGZLcVZuWG1vcXkwTDROZmNIb3E1ZzRFek1FQ3NNbnZpOF84ZFFaT3ltcHNuNXo0OUhpM1p6OENvMmxEYkJJ?oc=5",
+    "published_at": "2026-05-09T12:22:30+00:00",
+    "fetched_at": "2026-05-09T14:00:38.153904+00:00",
+    "topics": [
+      "EU relations",
+      "government transition",
+      "democracy",
+      "EU integration"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission",
+      "Hungarian government"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "The restoration of the EU flag to Hungarian parliament symbolizes the country's return to European values and democratic alignment under the new Magyar government, marking a decisive break from 15 years of Orbán's rule and signaling Hungary's reintegration into EU mainstream.",
+    "title_hu": "Az EU zászló visszakerült a magyar parlamentre",
+    "summary_hu": "A magyar parlament épületére visszahelyezett EU zászló az ország visszatérését szimbolizálja az európai értékekhez és a demokratikus közösséghez az új Magyar-kormány alatt, amely 15 év után éles szakítást jelent Orbán rendszerével és a magyar-EU viszony normalizálódását jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "6498ae6da1710ced",
     "source": "Washington Post",
     "region": "us",

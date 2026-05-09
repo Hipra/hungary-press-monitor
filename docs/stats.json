@@ -1,17 +1,17 @@
 {
-  "total_articles": 365,
-  "analyzed_articles": 365,
+  "total_articles": 369,
+  "analyzed_articles": 369,
   "tone": {
+    "mixed": 36,
+    "positive": 115,
     "neutral": 162,
-    "positive": 113,
     "critical": 55,
-    "mixed": 34,
     "hopeful": 1
   },
   "framing": {
-    "democracy_restoration": 76,
+    "democracy_restoration": 79,
+    "eu_integration": 64,
     "rule_of_law": 40,
-    "eu_integration": 63,
     "geopolitics": 98,
     "economy": 22,
     "corruption": 17,
@@ -27,28 +27,28 @@
     "government transition": 2
   },
   "region": {
+    "de": 44,
+    "eu": 133,
+    "uk": 65,
+    "fr": 13,
     "us": 32,
     "wire": 65,
-    "uk": 64,
-    "de": 43,
-    "eu": 132,
     "cee": 16,
-    "fr": 12,
     "think": 1
   },
   "source": {
     "Reuters": 53,
-    "Politico Europe": 44,
-    "DW English": 42,
+    "Politico Europe": 45,
+    "DW English": 43,
     "Euronews": 35,
     "Euractiv": 32,
     "Financial Times": 25,
-    "The Guardian": 19,
+    "The Guardian": 20,
     "EUobserver": 18,
+    "Le Monde": 13,
     "Washington Post": 13,
     "Balkan Insight": 13,
     "AP News": 12,
-    "Le Monde": 12,
     "BBC": 10,
     "New York Times": 9,
     "The Times": 7,
@@ -63,14 +63,14 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 293,
-    "EU relations": 211,
-    "democracy": 145,
-    "geopolitics": 144,
-    "rule of law": 97,
+    "government transition": 297,
+    "EU relations": 215,
+    "democracy": 149,
+    "geopolitics": 145,
+    "rule of law": 98,
     "foreign policy": 89,
     "EU funds": 73,
-    "elections": 52,
+    "elections": 53,
     "economy": 51,
     "corruption": 29,
     "Fidesz opposition": 28,
@@ -85,20 +85,20 @@
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 284,
-    "Viktor Orbán": 171,
-    "European Commission": 49,
+    "Péter Magyar": 288,
+    "Viktor Orbán": 174,
+    "European Commission": 51,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 32,
-    "Tisza Party": 25,
-    "Ursula von der Leyen": 25,
+    "Ursula von der Leyen": 28,
+    "Tisza Party": 27,
     "Hungary": 20,
     "Volodymyr Zelenskyy": 19,
     "Donald Tusk": 16,
     "European Union": 16,
     "Russia": 15,
     "EU institutions": 13,
-    "Hungarian government": 10,
+    "Hungarian government": 11,
     "Rumen Radev": 10,
     "Benjamin Netanyahu": 7,
     "EU Court of Justice": 7,
@@ -107,9 +107,9 @@
     "Fidesz": 6
   },
   "main_actor": {
-    "magyar_peter": 121,
+    "magyar_peter": 124,
+    "hungary_country": 103,
     "eu_institutions": 35,
-    "hungary_country": 102,
     "orban_viktor": 69,
     "fidesz": 5,
     "other": 31,
@@ -159,9 +159,33 @@
     "2026-05-06": 18,
     "2026-05-07": 19,
     "2026-05-08": 19,
-    "2026-05-09": 5
+    "2026-05-09": 9
   },
   "tone_by_source": {
+    "DW English": {
+      "mixed": 4,
+      "positive": 17,
+      "neutral": 20,
+      "critical": 1,
+      "hopeful": 1
+    },
+    "Politico Europe": {
+      "mixed": 8,
+      "positive": 10,
+      "neutral": 16,
+      "critical": 11
+    },
+    "The Guardian": {
+      "positive": 10,
+      "neutral": 6,
+      "critical": 3,
+      "mixed": 1
+    },
+    "Le Monde": {
+      "positive": 8,
+      "critical": 2,
+      "neutral": 3
+    },
     "Washington Post": {
       "neutral": 5,
       "positive": 7,
@@ -182,36 +206,17 @@
       "neutral": 4,
       "critical": 1
     },
-    "DW English": {
-      "positive": 17,
-      "neutral": 20,
-      "critical": 1,
-      "hopeful": 1,
-      "mixed": 3
-    },
     "Euronews": {
       "positive": 10,
       "neutral": 17,
       "critical": 4,
       "mixed": 4
     },
-    "The Guardian": {
-      "positive": 9,
-      "neutral": 6,
-      "critical": 3,
-      "mixed": 1
-    },
     "Euractiv": {
       "critical": 7,
       "neutral": 14,
       "positive": 6,
       "mixed": 5
-    },
-    "Politico Europe": {
-      "mixed": 7,
-      "positive": 10,
-      "neutral": 16,
-      "critical": 11
     },
     "EUobserver": {
       "critical": 10,
@@ -230,11 +235,6 @@
       "positive": 4,
       "neutral": 4,
       "mixed": 2
-    },
-    "Le Monde": {
-      "positive": 7,
-      "critical": 2,
-      "neutral": 3
     },
     "ECFR": {
       "neutral": 1
@@ -283,6 +283,30 @@
     }
   },
   "source_bias": {
+    "DW English": {
+      "mixed": 9,
+      "positive": 40,
+      "neutral": 47,
+      "critical": 2,
+      "hopeful": 2
+    },
+    "Politico Europe": {
+      "mixed": 18,
+      "positive": 22,
+      "neutral": 36,
+      "critical": 24
+    },
+    "The Guardian": {
+      "positive": 50,
+      "neutral": 30,
+      "critical": 15,
+      "mixed": 5
+    },
+    "Le Monde": {
+      "positive": 62,
+      "critical": 15,
+      "neutral": 23
+    },
     "Washington Post": {
       "neutral": 38,
       "positive": 54,
@@ -303,36 +327,17 @@
       "neutral": 40,
       "critical": 10
     },
-    "DW English": {
-      "positive": 40,
-      "neutral": 48,
-      "critical": 2,
-      "hopeful": 2,
-      "mixed": 7
-    },
     "Euronews": {
       "positive": 29,
       "neutral": 49,
       "critical": 11,
       "mixed": 11
     },
-    "The Guardian": {
-      "positive": 47,
-      "neutral": 32,
-      "critical": 16,
-      "mixed": 5
-    },
     "Euractiv": {
       "critical": 22,
       "neutral": 44,
       "positive": 19,
       "mixed": 16
-    },
-    "Politico Europe": {
-      "mixed": 16,
-      "positive": 23,
-      "neutral": 36,
-      "critical": 25
     },
     "EUobserver": {
       "critical": 56,
@@ -351,11 +356,6 @@
       "positive": 31,
       "neutral": 31,
       "mixed": 15
-    },
-    "Le Monde": {
-      "positive": 58,
-      "critical": 17,
-      "neutral": 25
     },
     "Financial Times": {
       "neutral": 64,
@@ -390,11 +390,6 @@
       "critical": 33
     }
   },
-  "coverage_gaps": [
-    {
-      "topic": "EU integration",
-      "last_seen_count": 3
-    }
-  ],
-  "last_updated": "2026-05-09T10:13:48.972149+00:00"
+  "coverage_gaps": [],
+  "last_updated": "2026-05-09T14:15:30.302590+00:00"
 }
