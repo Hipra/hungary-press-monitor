@@ -1,5 +1,62 @@
 [
   {
+    "id": "d67e414be6c3fa50",
+    "source": "New York Times",
+    "region": "us",
+    "title": "Peter Magyar Prepares to Take Over as Hungary’s Leader From Viktor Orban - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT25oY3c3Y1BBOEF5TGFuNGZBdlhkdTdMSEl5SF93VkhSX1lXT2RXby1lV3VLNS1UdlhQMFFSUERXM0xCaHdBV1FubnJBdHF6aVpqQWd1R09XNjVsVTNxUVQ1V3pWVUpXRFFQMXdPX0tPLVpQMnFzcXl5ODRySlZYLTFmMmJ3SnVUZUoxYkdwNA?oc=5",
+    "published_at": "2026-05-09T04:01:26+00:00",
+    "fetched_at": "2026-05-09T06:00:17.668321+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "The New York Times reports on Péter Magyar's imminent assumption of the Hungarian premiership from Viktor Orbán on May 10, 2026, ending Orbán's 15-year rule. Magyar's Tisza Party holds a two-thirds parliamentary majority and is advancing judicial reform, EU reintegration, and rapprochement with Ukraine following the historic electoral shift.",
+    "title_hu": "Péter Magyar felkészül arra, hogy átvegye a vezetést Viktor Orbán után Magyarország élén",
+    "summary_hu": "A New York Times beszámol Péter Magyar május 10-i miniszterelnöki beiktatásáról, amely után véget ér Orbán Viktor 15 éves uralma. A Tisza Párt kétharmados parlamenti többségével Magyar kormánya a bírósági reformokat, az EU-s újraintegráció és Ukrajnával való megbékélést előmozdítja az történelmi választási fordulat után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "e3084023233f73f4",
+    "source": "New York Times",
+    "region": "us",
+    "title": "As Hungary Gets a New Leader, the ‘Trauma’ Sinks In for Orban Loyalists - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0NBVllpcnhzT2YwNXpobVdtNWZHSnZTYWN2Z1lyZGtoOFNvMS1GdS11YmlTdlJ0R0VLOXd4Z3NNblpjRnpWM1h4MGRwLTIya2ZWS1NsNVlOREF5TGJiT1dQbldPa0YzWHpDZzdkUmJrdTVQYkJqeE5CREhQSER5dUdFSTBGRms?oc=5",
+    "published_at": "2026-05-09T04:01:06+00:00",
+    "fetched_at": "2026-05-09T06:00:17.668249+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "corruption"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's swearing-in as Prime Minister ends Viktor Orbán's 15-year rule, triggering a profound reckoning for regime loyalists. The New York Times examines how Orbán supporters are experiencing the transition as psychological and political trauma. This reflects the broader upheaval as Hungary's new government dismantles the old patronage structures and confronts past abuses.",
+    "title_hu": "Ahogy Magyarország új vezetőt kap, az Orbán hívei számára a 'trauma' kezd beásni",
+    "summary_hu": "Péter Magyar miniszterelnöki beiktatása véget vet Orbán 15 éves uralmának és elszámoltatást indít a rendszer hívei számára. A New York Times azt vizsgálja, hogyan élik meg az Orbán-támogatók a politikai átmenetet pszichológiai traumaként. Az új kormány felszámolja a régi patronázs-szerkezeteket és szembesül a múltbeli visszaélésekkel.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "f0e91cbeaa7b9bcb",
     "source": "BBC",
     "region": "uk",
