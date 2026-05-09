@@ -888,6 +888,36 @@
     "quotes": []
   },
   {
+    "id": "508eaad9fd7a25be",
+    "source": "New York Times",
+    "region": "us",
+    "title": "El nuevo gobierno de Hungría examina la relación de Orbán con China - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGNGdzNIYURRNGdIZXRXYjdQMXlLY1hFMjdjU09wazh6d3N1X01GTDV0RktnU3FZdDJyWmNLb2U3WFpIb3YzS0lkaHRDU2hBZFhlNEdIMDFPdklMTG50cUhrNWN2WlN4cDZPeTF1WUNVT1lGM1UtUWRIUEhPcGxTNEw0bWM1WkI2Zm9JSg?oc=5",
+    "published_at": "2026-05-08T05:00:12+00:00",
+    "fetched_at": "2026-05-09T22:00:14.429681+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "geopolitics",
+      "corruption"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "China"
+    ],
+    "tone": "critical",
+    "framing": "russia_china",
+    "summary_en": "Hungary's new government is scrutinizing Viktor Orbán's China relationships, filling a major coverage gap in transition reporting. The examination signals Magyar's administration is reassessing Orbán-era geopolitical alignments with Beijing. This reflects broader Western scrutiny of the new government's commitment to unwinding problematic foreign partnerships from the authoritarian period.",
+    "title_hu": "Magyarország új kormánya megvizsgálja Orbán és Kína közötti kapcsolatot",
+    "summary_hu": "Magyarország új kormánya felülvizsgálja Orbán Kína-politikáját, amely jelentős hiányzó téma volt az átmenet közvetítésében. A vizsgálat azt jelzi, hogy Magyar adminisztrációja újraértékeli az Orbán-kori geopolitikai tájékozódást, különösen a pekingi kapcsolatokat. Ez a szélesebb nyugati figyelemmel függ össze az új kormányzat akaratára vonatkozóan az autoritárius korszak problémás külföldi partnersége tekintetében.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "214a918fd52d30fa",
     "source": "AP News",
     "region": "wire",

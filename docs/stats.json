@@ -1,11 +1,11 @@
 {
-  "total_articles": 375,
-  "analyzed_articles": 375,
+  "total_articles": 376,
+  "analyzed_articles": 376,
   "tone": {
     "neutral": 167,
     "mixed": 37,
     "positive": 115,
-    "critical": 55,
+    "critical": 56,
     "hopeful": 1
   },
   "framing": {
@@ -17,7 +17,7 @@
     "geopolitics": 98,
     "economy": 22,
     "regional": 9,
-    "russia_china": 5,
+    "russia_china": 6,
     "media_freedom": 9,
     "Fidesz opposition": 3,
     "EU_integration": 4,
@@ -32,7 +32,7 @@
     "eu": 136,
     "de": 44,
     "fr": 13,
-    "us": 32,
+    "us": 33,
     "cee": 16,
     "think": 1
   },
@@ -49,8 +49,8 @@
     "Washington Post": 13,
     "Balkan Insight": 13,
     "AP News": 12,
+    "New York Times": 10,
     "BBC": 10,
-    "New York Times": 9,
     "The Times": 8,
     "Foreign Policy": 4,
     "The Parliament Magazine": 3,
@@ -63,16 +63,16 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 302,
+    "government transition": 303,
     "EU relations": 217,
     "democracy": 153,
-    "geopolitics": 145,
+    "geopolitics": 146,
     "rule of law": 99,
-    "foreign policy": 89,
+    "foreign policy": 90,
     "EU funds": 73,
     "elections": 55,
     "economy": 51,
-    "corruption": 30,
+    "corruption": 31,
     "Fidesz opposition": 28,
     "energy": 28,
     "Russia deals": 26,
@@ -85,8 +85,8 @@
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 293,
-    "Viktor Orbán": 178,
+    "Péter Magyar": 294,
+    "Viktor Orbán": 179,
     "European Commission": 51,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 32,
@@ -107,7 +107,7 @@
     "Fidesz": 6
   },
   "main_actor": {
-    "magyar_peter": 129,
+    "magyar_peter": 130,
     "hungary_country": 104,
     "eu_institutions": 35,
     "orban_viktor": 69,
@@ -158,7 +158,7 @@
     "2026-05-05": 5,
     "2026-05-06": 18,
     "2026-05-07": 19,
-    "2026-05-08": 19,
+    "2026-05-08": 20,
     "2026-05-09": 15
   },
   "tone_by_source": {
@@ -221,6 +221,7 @@
     },
     "New York Times": {
       "neutral": 4,
+      "critical": 1,
       "positive": 4,
       "mixed": 1
     },
@@ -342,9 +343,10 @@
       "mixed": 8
     },
     "New York Times": {
-      "neutral": 44,
-      "positive": 44,
-      "mixed": 11
+      "neutral": 40,
+      "critical": 10,
+      "positive": 40,
+      "mixed": 10
     },
     "BBC": {
       "positive": 50,
@@ -393,5 +395,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-09T18:16:25.622315+00:00"
+  "last_updated": "2026-05-09T22:14:05.722294+00:00"
 }
