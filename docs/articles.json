@@ -1,5 +1,118 @@
 [
   {
+    "id": "656ea0aa2f3d2c77",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Magyar sworn in as Hungary's prime minister on promises of change - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnlWRGctZnNnS1dTNTlWY0JZZGdkcE8tS3Fic3dGaENfNTNQYXpDN01GUFFrWUxxUWZHT3NFZ05JTmpKWlJsb1FmNjlLTG8zYUw2MUg4ek5VUTBOV1BFLUFkSURHMC1FLUROMUR0MVdUQ05zY1R6R1hwQXlMeXRBbGs2dngtdTlENFEtLWs3YkJqSzg0RlUxUktn?oc=5",
+    "published_at": "2026-05-09T17:06:04+00:00",
+    "fetched_at": "2026-05-09T18:00:02.052697+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Hungary's prime minister, marking the formal end of Viktor Orbán's 15-year rule. Leading the Tisza Party with a two-thirds parliamentary majority, Magyar has pledged comprehensive systemic reform, EU reintegration, and restoration of democratic governance.",
+    "title_hu": "Magyar Péter letette az esküt Magyarország miniszterelnökeként - ígéretek a változásról",
+    "summary_hu": "Péter Magyar letette a miniszterelnöki esküt, ezzel formálisan lezárva Viktor Orbán 15 éves uralmát. A kétharmados többséggel rendelkező Tisza Párt vezetőjeként Magyar átfogó rendszereformot, az EU-integrációt és a demokratikus kormányzás helyreállítását ígérte.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "2e3f64d4fdb7e9f1",
+    "source": "The Times",
+    "region": "uk",
+    "title": "Retribution looms in Hungary for Viktor Orban’s super-rich cronies - The Times",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1FFZ2liWk8za2hnYW1OSC0teUpBNnpWTGRSV1F0WnY5ZmFHT2d3eG41ZHE1SUYxQ2Q2cXFkVy01dzRZNlZjc2hQc096ZXFvdzQ2TlR3M2Vfb3NSd196SzR6YnppajNyWFJOR2RoMjZBek93RzB1dXJJcTJZbHNTV2plb09zWDlKRGdBUk5KTXhwX2o5bDVNcU9JdE14YVJHVUJsaVJxSmdvMVNWbGNQazZWT084ei1GbDFN?oc=5",
+    "published_at": "2026-05-09T15:40:39+00:00",
+    "fetched_at": "2026-05-09T18:00:13.997659+00:00",
+    "topics": [
+      "corruption",
+      "rule of law",
+      "government transition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Hungarian oligarchs"
+    ],
+    "tone": "mixed",
+    "framing": "corruption",
+    "summary_en": "Hungary's new government is pursuing systematic asset seizures and accountability measures against oligarchs and business figures closely aligned with Viktor Orbán's former regime. The Times reports on retribution as part of broader judicial and anti-corruption reforms under Prime Minister Péter Magyar. These actions reflect the new government's commitment to rule-of-law restoration and represent a sharp reversal from the crony-capitalism patterns that characterized Orbán's 15-year rule.",
+    "title_hu": "Megtorlás fenyegeti Orbán szupergazdag cimborásait Magyarországon",
+    "summary_hu": "Magyarország új kormánya szisztematikus eszközlecsapásokat és elszámoltatási eljárásokat indít azok ellen az oligarchák és üzletemberek ellen, akik szorosan kapcsolódtak Viktor Orbán volt rendszeréhez. A Times arról számol be, hogy a Péter Magyar miniszterelnök alatt megindult megtorlás a szélesebb körű jogállami és korrupció elleni reformok részét képezi. Ezek az intézkedések az új kormányzat jogállami restaurációra irányuló elkötelezettségét tükrözik, és éles fordulat az Orbán 15 éves uralma alatt jellemző oligarchiai kapitalizmussal szemben.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "a65eebf977e6ec73",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Péter Magyar sworn-in as Hungary's new prime minister after landslide April election victory - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa0RNQ2lyLXQ5blYyeTdmVnhFZThKWlB5cDQ3U0NmMndCMGZ0NVJiNldibkJYbTlaMEFQU0x3dmV2WE4xMkFZelpuZHQxY1FWY1B4Tlh3SmtkVklSUGNuVEJreHo4akRmSlkxSEZQelVzbEZvNHJNWVd5eDN1eVp3eDFibWJ6ZnpXWWFRa3J4UHFYRWtLRlp5VDVkSzhHdTNqR01KZThxLWdRY0o0WmNmanBtNW8wVGlrcjNJYUlzaThOemdGcy1IQnJyVVhCZHJnUFE?oc=5",
+    "published_at": "2026-05-09T15:08:54+00:00",
+    "fetched_at": "2026-05-09T18:00:35.806017+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Hungary's new prime minister on May 10, 2026, following the Tisza Party's landslide victory in April elections that ended Viktor Orbán's 15-year rule. This marks a historic government transition and the beginning of Hungary's anticipated democratic restoration and EU reintegration process. Magyar's inauguration signals the start of systemic reforms across judicial and administrative institutions.",
+    "title_hu": "Péter Magyart beiktatták Magyarország új miniszterelnökeként az áprilisi döntő választási győzelem után",
+    "summary_hu": "Péter Magyart beiktatták Magyarország új miniszterelnökeként 2026. május 10-én, a Tisza Párt áprilisban elért döntő választási győzelme után, amely Viktor Orbán 15 éves uralma végét jelentette. Ez a történelmi kormányváltás Magyarország demokráciájának helyreállítása és az EU-s reintegrációs folyamatának kezdetét jelzi, valamint szisztematikus reformokat ígér az igazságügyi és közigazgatási intézmények terén.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "3435841cdf630cd3",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Magyar sworn in as Hungary's 'regime change' PM - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN1ZTZDFSSC0tSUFzY1FORUdpNGdDQkVhN1pPWjd6TWFZNjdmMktIWkxKSHE5R3ZZQ3dYdEpfU2NYOExzMGR5WXpnTm5kY1VscVhsVzV1UFZzbS04ODhlZ1VyUWQ2dTQwUHViYjN2VmF1UnN3Q3lzbU1taTJkXzBJdQ?oc=5",
+    "published_at": "2026-05-09T14:56:18+00:00",
+    "fetched_at": "2026-05-09T18:00:29.600572+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Prime Minister of Hungary on May 10, 2026, ending Viktor Orbán's 15-year rule in what is widely characterized as a 'regime change.' With the Tisza Party holding a two-thirds parliamentary majority, Magyar's government begins a transition focused on democratic restoration and EU reintegration. The swearing-in marks a symbolic end to the Orbán era and the beginning of Hungary's democratic renewal.",
+    "title_hu": "Péter Magyart beiktatták Magyarország 'rendszerváltás' miniszterelnökeként",
+    "summary_hu": "Péter Magyart 2026. május 10-én beiktatták Magyarország miniszterelnökeként, ezzel véget vetett Viktor Orbán 15 éves uralomnak, amit széles körben 'rendszerváltásként' jellemeznek. A Tisza Párt kétharmados parlamentári többsége mellett Magyar kormánya a demokratikus helyreállítás és az EU-val való újraintegráció felé irányuló átmenetet kezdi. A beiktatás szimbolikusan az Orbán-korszak végét és Magyarország demokratikus megújulásának kezdetét jelöli.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "c78e8676092c93d4",
     "source": "DW English",
     "region": "de",
@@ -32,6 +145,29 @@
     "quotes": []
   },
   {
+    "id": "c64265dc7b928995",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Severe dry spell hits Hungary amid lack of rain - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVhYN0N2STI1VGpHTVRFU2tLemVKMEpBLUpZZWt5OFlPbTgzZVozbmZWZkl3UzN5OHp2NGt0M0h6NnJqUjRESnJ5VUNQVy1RR2lpelduRlZPUGhRblFKY1UzZnhOdk02OXRfbEpGUlg2SExoSzlFZmE1QjVfZzI5RktMUTdwdkRmVGpFTlFPcTRrbGQydTlqdkNqTk1vcDJyTHppRVcxZHc2YUJ2?oc=5",
+    "published_at": "2026-05-09T13:10:50+00:00",
+    "fetched_at": "2026-05-09T18:00:35.806039+00:00",
+    "topics": [
+      "other"
+    ],
+    "actors": [],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "Hungary faces a severe drought with prolonged rainfall deficit, potentially impacting agricultural production and water resources as the summer season approaches.",
+    "title_hu": "Súlyos aszály sújtja Magyarországot az esőhiány miatt",
+    "summary_hu": "Magyarország súlyos aszályban szenved az esőhiány miatt, amely a nyári szezon közeledtével a mezőgazdasági termelés és vízkészleteket érintheti.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "b9c89935d3e4c90c",
     "source": "Politico Europe",
     "region": "eu",
@@ -55,6 +191,34 @@
     "summary_en": "Péter Magyar was sworn in as Hungary's prime minister on May 10, 2026, ending Viktor Orbán's 15-year rule. The EU welcomed the transition as a 'new chapter' for Hungarian democracy, though observers caution against uncritical support given early signals of nepotism and populist governance tendencies.",
     "title_hu": "Az EU új fejezetet üdvözöl, miközben Magyar Péter miniszterelnökké esküszik fel",
     "summary_hu": "Péter Magyar 2026. május 10-én esküdött fel Magyarország miniszterelnökének, amely véget vet Orbán Viktor 15 éves uralomának. Az EU a tranzíciót a magyar demokrácia 'új fejezetét' üdvözölte, bár a megfigyelők figyelmeztetnek a kritikátlan támogatás veszélyeire a korai nepotizmus és populista kormányzási jelei miatt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "7ea4867e0b2590dd",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Magyar sworn in as Hungary's prime minister - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW11Q0JjVEpLbjVoMmhQNURTS0dlRDl2ZE10ZGV6TG5mLW4xX0F3Q3owX2oyYVdzSTBlakpyNTdkX0NqQ1YyUUpZZmZvTjdOQ2wzNWZIU2o0UWRsU0o3ZDBMMzVzRjNvRldraEpTRV92Nk02RzVoZmlpZ1YxY19INHVacXE?oc=5",
+    "published_at": "2026-05-09T12:45:43+00:00",
+    "fetched_at": "2026-05-09T18:00:02.052715+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Hungary's Prime Minister, formally ending Viktor Orbán's 15-year rule. The Tisza Party's two-thirds parliamentary majority positions the new government to pursue EU reintegration, judicial reform, and realignment toward Western institutions. International coverage frames the transition as democratic restoration and a symbolic break with authoritarian governance.",
+    "title_hu": "Péter Magyar beiktatása Magyarország miniszterelnökeként",
+    "summary_hu": "Péter Magyar Magyarország miniszterelnökeként esküdött fel, formálisan befejezvén Viktor Orbán 15 éves uralmát. A Tisza Párt kétharmados parlamentári többsége lehetővé teszi az EU-s reintegrációt, az igazságszolgáltatási reformot és a nyugati intézmények felé való átpozicionálást. A nemzetközi sajtó a tranzíciót demokratikus helyreállításként és az autoritárius kormányzás szimbolikus végeként értelmezi.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
