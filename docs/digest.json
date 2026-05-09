@@ -1,41 +1,43 @@
 {
-  "top_story_en": "Péter Magyar will be sworn in as Prime Minister on May 10, formally ending Viktor Orbán's 15-year rule — Western coverage peaks with a convergence of celebratory and cautionary framing as the historic handover becomes imminent.",
-  "top_story_hu": "Péter Magyar május 10-én teszi le a miniszterelnöki esküt, ezzel formálisan véget ér Orbán Viktor 15 éves uralma — a nyugati sajtóban egyszerre van jelen az ünnepi és az óvatos hangvétel a történelmi átadás előestéjén.",
+  "top_story_en": "The eve of Péter Magyar's May 10 inauguration triggered the densest single-day wave of 'end of an era' coverage since the April election, with AP, BBC, NYT, WaPo, the Guardian, and DW all publishing inauguration previews within a 24-hour window — cementing the democracy-restoration frame as the dominant international narrative.",
+  "top_story_hu": "Péter Magyar május 10-i beiktatásának előestéje az április óta legsűrűbb egyszeri 'korszakváltás'-hullámot hozta: az AP, BBC, NYT, WaPo, The Guardian és a DW 24 órán belül egybehangzó inaugurációs tudósításokat közölt, megszilárdítva a demokrácia-helyreállítási keretet a nemzetközi sajtóban.",
   "key_developments_en": [
-    "Magyar's swearing-in is set for May 10; the Tisza Party holds a two-thirds majority and has committed to judicial reform, EU reintegration, and Ukraine rapprochement.",
-    "Magyar's brother-in-law withdrew as justice minister nominee following nepotism criticism, resolving the first cabinet crisis before inauguration.",
-    "Euractiv reports Magyar's government risks an early clash with Brussels over migration pact compliance, a fault line distinct from the ongoing EU funds dispute.",
-    "S&P Global signals euro-adoption steps could improve Hungary's credit rating, providing external validation for Magyar's 2030 monetary integration commitment.",
-    "Balkan Insight frames Orbán-era oligarchs as collectively attempting to outrun legal accountability as police asset freezes accelerate; Hungarian-aligned parties in Serbia are also recalibrating after Orbán's fall."
+    "Magyar is sworn in as Prime Minister on May 10, formally ending Orbán's 16-year rule; his Tisza Party holds a two-thirds parliamentary majority.",
+    "NYT publishes first human-interest coverage of Orbán loyalists experiencing the transition as psychological and political 'trauma' — a shift from systemic to personal-level framing.",
+    "Euractiv flags Magyar's government as facing an early EU clash over migration pact compliance, a fault line distinct from the ongoing EU funds dispute.",
+    "S&P Global signals that concrete steps toward euro adoption by 2030 could reverse Hungary's current negative credit outlook.",
+    "The European Commission cleared former Hungarian EU Commissioner Olivér Várhelyi of all wrongdoing in a Brussels espionage investigation."
   ],
   "key_developments_hu": [
-    "Magyar május 10-én teszi le az esküt; a Tisza Párt kétharmados többséggel rendelkezik, és elkötelezett az igazságügyi reform, az EU-integráció és az Ukrajna felé való nyitás mellett.",
-    "Magyar sógora visszalépett az igazságügy-miniszteri jelöltségtől a nepotizmusbírálatok hatására, még a beiktatás előtt lezárva az első kabinetválságot.",
-    "Az Euractiv szerint Magyar kormánya korai összeütközésbe kerülhet Brüsszellel a migrációs paktum végrehajtása miatt — ez az EU-forrásokról szóló vitától független törésvonal.",
-    "Az S&P Global jelzése szerint az euróbevezetés felé tett lépések javíthatják Magyarország hitelminősítését, ami külső megerősítést jelent Magyar 2030-as célkitűzéséhez.",
-    "A Balkan Insight szisztematikusan ábrázolja az Orbán-kori oligarchák felelősség alóli kibúvási kísérleteit, miközben a rendőrség felgyorsítja a vagyonzárolásokat; a szerbiai Fidesz-közeli pártok is stratégiát váltanak."
+    "Magyar Péter május 10-én leteszi a miniszterelnöki esküt, ezzel formálisan véget ér Orbán 16 éves uralma; a Tisza Párt kétharmados parlamenti többséggel rendelkezik.",
+    "A NYT közli az első emberi érdekű riportot az Orbán-hívőkről, akik a rendszerváltást pszichológiai és politikai 'traumaként' élik meg.",
+    "Az Euractiv szerint Magyar kormánya korai összecsapásba kerülhet Brüsszellel a migrációs paktum betartása miatt — ez a törésvonal különbözik az EU-s alapokról folyó vitától.",
+    "Az S&P Global jelzi: a 2030-as eurós csatlakozás felé tett konkrét lépések megfordíthatják Magyarország jelenleg negatív hitelkilátásait.",
+    "Az Európai Bizottság felmentette Várhelyi Olivér volt magyar EU-biztost egy brüsszeli kémkedési vizsgálat vádjai alól."
   ],
   "narrative_shifts_en": [
-    "The NYT's human-interest frame on 'Orbán loyalist trauma' shifts coverage from systemic transition analysis to personal-level political reckoning — a new register in international reporting.",
-    "Western scrutiny of Magyar continues to harden: EUobserver's 'patriotism vs. populism' framing and Euractiv's migration warning signal that the post-election honeymoon is definitively over."
+    "The inauguration has triggered a near-total convergence on the democracy-restoration frame across Anglo-American and European outlets simultaneously — a volume and unanimity not present in any prior single day of coverage.",
+    "EUobserver and Euractiv inject a counter-current of explicit caution (populism risk, migration clash) even within today's celebratory wave, suggesting Western scrutiny is running in parallel with the festive framing rather than being deferred.",
+    "NYT's loyalist-trauma piece marks a pivot from macro-systemic coverage to personal-level human stakes — signalling that transition fatigue and backlash dynamics may become a new reporting track."
   ],
   "narrative_shifts_hu": [
-    "Az NYT emberi jogi keretbe helyezi az 'Orbán-hívők traumáját', ezzel a rendszerszintű elemzésről személyes szintű politikai szembenézésre tolja a hangsúlyt — új regiszter a nemzetközi tudósításban.",
-    "A nyugati kritika Magyar irányában tovább erősödik: az EUobserver 'patriotizmus versus populizmus' kerete és az Euractiv migrációs figyelmeztetése egyértelművé teszi, hogy a választás utáni mézeshetek véget értek."
+    "A beiktatás szinte teljes konvergenciát hozott a demokrácia-helyreállítási keretben az angolszász és európai médiumokban egyszerre — ilyen egységes, egyszeri lefedettség az eddigi tudósításokban nem fordult elő.",
+    "Az EUobserver és az Euractiv az ünnepi hangulatba óvatossági hangokat vegyít (populizmus-kockázat, migrációs összecsapás), jelezve, hogy a nyugati szkepticizmus párhuzamosan fut a celebrációs kerettel.",
+    "A NYT lojalisták traumájáról szóló riportja jelzi: a sajtó az átmenet makroszintű elemzéséről az egyéni emberi tétekre kezd fókuszálni."
   ],
   "quotes_en": [],
   "quotes_hu": [],
   "what_to_watch_en": [
-    "May 10 swearing-in ceremony: watch the cabinet composition announcement for further nepotism or reform signals beyond the justice ministry withdrawal.",
-    "Migration pact compliance: whether Magyar's government articulates a concrete position to Brussels in the coming days, and how the EU funds negotiation is affected.",
-    "Orbán's Fidesz future: his unresolved resignation offer as party chief and reported pursuit of an EU Parliament seat for immunity remain the two untracked successor storylines."
+    "Hungary's decision on attending Putin's Victory Day parade (May 9) — the clearest near-term signal of Magyar's actual Russia policy posture.",
+    "Whether Euractiv's migration pact clash materialises as a concrete Brussels confrontation during the first weeks of Magyar's government.",
+    "Orbán's next move: his offered resignation as Fidesz party chief remains unresolved, and reported pursuit of an EU Parliament seat for immunity has not been confirmed or denied."
   ],
   "what_to_watch_hu": [
-    "Május 10-i beiktatási ceremónia: a teljeskabinet-összetétel várható bejelentése újabb jelzést ad arról, hogy a nepotizmus vagy a reformelkötelezettség erősebb-e az új kormányban.",
-    "Migrációs paktum: megfogalmaz-e Magyar konkrét álláspontot Brüsszel felé a következő napokban, és ez hogyan hat az EU-forrásokról zajló tárgyalásokra.",
-    "A Fidesz jövője: Orbán párt-elnöki lemondásának függőben lévő ügye és az EP-mandátumért folytatott állítólagos lobbija egyelőre tudósítás nélküli utódlási szálak."
+    "Magyarország részvétele Putyin győzelmi napi felvonulásán (május 9.) — ez a legközelebbi konkrét jelzés Magyar valódi Oroszország-politikájáról.",
+    "Materializálódik-e az Euractiv által jelzett migrációs paktum-konfliktus konkrét brüsszeli összecsapássá Magyar első kormányheteiben.",
+    "Orbán következő lépése: a Fidesz-elnökségről tett lemondási ajánlata nyitott marad, az EP-mandátumot és mentelmi jogot célzó törekvés pedig megerősítést vár."
   ],
   "date": "2026-05-09",
-  "article_count": 18,
-  "generated_at": "2026-05-09T06:13:58.863619+00:00"
+  "article_count": 17,
+  "generated_at": "2026-05-09T10:13:48.835117+00:00"
 }

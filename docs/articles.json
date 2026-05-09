@@ -1,5 +1,62 @@
 [
   {
+    "id": "6498ae6da1710ced",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Hungary’s Péter Magyar is set to be sworn in as prime minister, ending Viktor Orbán’s 16-year rule - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVhKVEhqdVlxOHlJZlNQSE5waDZmTnM5X2JaRmxiUlE0dkszXzZjLWJtWFN5blgtZEtoVlNDdW4wMXVKSVZ0R3hySlNmWGQtSURUQVVpVDV5dnRidFBXU1NhRmxlZDVKM0JnT0xBbnFZUU1rVEVnREN5emZyWGZsSXBjeEkwejBVdFo3cDJvTjh1d3hVVnl0Y0phczJQNV9QUVM0UVQyUXJqeERpajV0akozbmxndEpUV29Wd01vb2VBV2RVek1qUG5qS2ZhdFpr?oc=5",
+    "published_at": "2026-05-09T09:29:16+00:00",
+    "fetched_at": "2026-05-09T10:00:18.921404+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's inauguration as Prime Minister on May 10, 2026, formally concludes Viktor Orbán's 16-year rule following the Tisza Party's two-thirds parliamentary victory in April. The transition signals Hungary's pivot toward EU reintegration, judicial independence, and democratic normalization after a decade of democratic backsliding.",
+    "title_hu": "Péter Magyart miniszterelnökké esketik föl, végét vette Viktor Orbán 16 éves uralma",
+    "summary_hu": "Péter Magyar miniszterelnökké való beiktatása május 10-én formálisan lezárja Orbán 16 éves uralmát a Tisza Párt áprilisi kétharmados választási győzelme után. Az átmenet Magyarország EU-s reintegrációja, az igazságszolgáltatási függetlensége és a demokratikus normák helyreállítása felé történő fordulópontot jelenti.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b999b2d171932d83",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary’s Péter Magyar is set to be sworn in as prime minister, ending Viktor Orbán’s 16-year rule - AP News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUZaaC0xSU13T0dfRXVSSjhaNlV2NzlYOU5YWlJlc01hX0EtR0VtUWd4clFGeDlHeHNkc0cxTFY2eHA4ZGRQLXdZWjYzRkZubmliZ1kxTUxkMUNJbUFRQl9meVdYRFNkZXc5WTU3b0Q5WVdwOVUxcW1EVG5Qb2dhLXNYcHRWM1d0a3BoNDRvRTcyZG9qOWRScDZhR0E4Qjlx?oc=5",
+    "published_at": "2026-05-09T08:42:00+00:00",
+    "fetched_at": "2026-05-09T10:00:04.377431+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar is set to be sworn in as Hungary's prime minister on May 10, 2026, ending Viktor Orbán's 16-year rule. The Tisza Party's commanding parliamentary majority will enable significant reforms on EU reintegration, judicial independence, and Ukraine relations. This marks a historic democratic transition in Central Europe.",
+    "title_hu": "Péter Magyar miniszterelnökké fog esküdni, véget ér Viktor Orbán 16 éves uralma",
+    "summary_hu": "Péter Magyar 2026. május 10-én miniszterelnökké fog esküdni, véget érve Viktor Orbán 16 éves uralmának. A Tisza Párt jelentős parlamenti többsége lehetővé teszi az EU-integrációval, az igazságszolgáltatási függetlenséggel és az Ukrajna-politikával kapcsolatos nagy reformokat. Ez történelmi demokratikus átmenet Közép-Európában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "d67e414be6c3fa50",
     "source": "New York Times",
     "region": "us",
