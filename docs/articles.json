@@ -1,5 +1,61 @@
 [
   {
+    "id": "f0e91cbeaa7b9bcb",
+    "source": "BBC",
+    "region": "uk",
+    "title": "Hungary's new PM to be sworn in during 'regime change' party - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nWjNNS0F0c1d1cDk3b2ZMMFVjZjJmVFhmdnFQaDZQY1d3enF5aXZYcWlmcDVDekxxdGh1eTVLbHlmeFZabFJJTFY1MWpLSnIyWmJ1Z2FTaC13dw?oc=5",
+    "published_at": "2026-05-09T00:46:16+00:00",
+    "fetched_at": "2026-05-09T02:00:04.716469+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar is being sworn in as Hungary's new Prime Minister on May 10, marking the historic end of Viktor Orbán's 15-year rule. The transition, celebrated as a democratic change, sees Magyar's Tisza Party holding a two-thirds parliamentary majority and advancing EU reintegration and democratic reforms.",
+    "title_hu": "Magyarország új miniszterelnöke 'rendszerváltás' partin eskütételére kerül sor",
+    "summary_hu": "Péter Magyar május 10-én esküt tesz magyar miniszterelnökként, amely véglegesen lezárja Viktor Orbán 15 éves kormányzatát. Az átmenet demokratikus változásként ünnepelt, a Tisza Párt kétharmados parlamenti többséggel rendelkezik és az EU-s reintegrációra és demokratikus reformokra irányul.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f1c6a2823179abd5",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary: New govt intent on initiating swift systemic change - DW.com - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYURIOXdSUldnbHNYdTl6TWJFb1Y3aHpVa0J3NTQyN2NzeVF0aTlrNEhoajFmWWxRMTZxSWJhdUV1QkpIQm1yU3daRllRMVA4U2xzd2xxWkN1ZDdLeTlhOXhtZXBEcUgxUVlualBHd0dlZTl4UnpEd2l3THViZDRoOWJ2TWFOVVdZOThjNXpXY1kyc1gxNzNlQnhzX0lMYzR3ZWVXeEQzZ091YmZpcDUxZUxwSDllaHpuVFI2OQ?oc=5",
+    "published_at": "2026-05-08T22:35:16+00:00",
+    "fetched_at": "2026-05-09T02:00:35.871226+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Tisza Party government"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's new government under Péter Magyar is moving rapidly to implement systemic reforms in the aftermath of Viktor Orbán's 15-year rule. The Tisza Party-led administration is prioritizing institutional changes and democratic restoration across judicial and administrative systems. DW's reporting reflects international optimism about the pace and scope of reform rollout.",
+    "title_hu": "Magyarország: Az új kormány a gyors rendszerszintű változást szándékozik megvalósítani",
+    "summary_hu": "Magyarország új kormánya Péter Magyar vezetésével gyorsan végrehajtja a rendszerszintű reformokat Viktor Orbán 15 éves uralma után. A Tisza Párti vezetésű közigazgatás az intézmények megújítását és a demokrácia helyreállítását helyezi előtérbe. A DW riportja a nemzetközi optimizmust tükrözi a reformok gyorsasága és terjedelmé szempontjából.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "115ab4005b2b2179",
     "source": "AP News",
     "region": "wire",
