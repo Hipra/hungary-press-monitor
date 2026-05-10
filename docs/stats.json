@@ -1,17 +1,17 @@
 {
-  "total_articles": 388,
-  "analyzed_articles": 388,
+  "total_articles": 390,
+  "analyzed_articles": 390,
   "tone": {
+    "positive": 121,
     "mixed": 38,
-    "critical": 59,
-    "positive": 120,
+    "critical": 60,
     "neutral": 170,
     "hopeful": 1
   },
   "framing": {
-    "democracy_restoration": 93,
+    "democracy_restoration": 94,
     "rule_of_law": 41,
-    "corruption": 19,
+    "corruption": 20,
     "other": 12,
     "eu_integration": 64,
     "geopolitics": 98,
@@ -27,24 +27,24 @@
     "government transition": 2
   },
   "region": {
+    "wire": 70,
     "de": 46,
     "cee": 18,
-    "wire": 69,
     "fr": 14,
     "us": 35,
     "uk": 69,
-    "eu": 136,
+    "eu": 137,
     "think": 1
   },
   "source": {
-    "Reuters": 56,
+    "Reuters": 57,
     "DW English": 45,
     "Politico Europe": 45,
     "Euronews": 37,
     "Euractiv": 33,
     "Financial Times": 25,
     "The Guardian": 21,
-    "EUobserver": 18,
+    "EUobserver": 19,
     "Le Monde": 14,
     "Balkan Insight": 14,
     "AP News": 13,
@@ -64,21 +64,21 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 315,
+    "government transition": 317,
     "EU relations": 222,
-    "democracy": 162,
-    "geopolitics": 146,
-    "rule of law": 104,
+    "democracy": 163,
+    "geopolitics": 147,
+    "rule of law": 105,
     "foreign policy": 90,
     "EU funds": 73,
     "elections": 57,
     "economy": 51,
-    "corruption": 33,
+    "corruption": 34,
     "Fidesz opposition": 28,
     "energy": 28,
-    "Russia deals": 26,
-    "human rights": 24,
-    "society": 17,
+    "Russia deals": 27,
+    "human rights": 25,
+    "society": 18,
     "judicial reform": 16,
     "V4 diplomacy": 11,
     "media freedom": 11,
@@ -86,8 +86,8 @@
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 305,
-    "Viktor Orbán": 188,
+    "Péter Magyar": 306,
+    "Viktor Orbán": 189,
     "European Commission": 51,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 32,
@@ -108,8 +108,8 @@
     "EU leaders": 6
   },
   "main_actor": {
-    "magyar_peter": 139,
-    "orban_viktor": 70,
+    "magyar_peter": 140,
+    "orban_viktor": 71,
     "hungary_country": 105,
     "eu_institutions": 35,
     "fidesz": 6,
@@ -120,7 +120,7 @@
     "Ukraine": 27,
     "Poland": 18,
     "Russia": 16,
-    "Slovakia": 13,
+    "Slovakia": 14,
     "Bulgaria": 9,
     "Israel": 6,
     "France": 3,
@@ -157,13 +157,19 @@
     "2026-05-03": 1,
     "2026-05-04": 4,
     "2026-05-05": 5,
-    "2026-05-06": 18,
+    "2026-05-06": 19,
     "2026-05-07": 19,
     "2026-05-08": 21,
     "2026-05-09": 20,
-    "2026-05-10": 6
+    "2026-05-10": 7
   },
   "tone_by_source": {
+    "Reuters": {
+      "positive": 19,
+      "neutral": 31,
+      "mixed": 1,
+      "critical": 6
+    },
     "DW English": {
       "mixed": 5,
       "positive": 18,
@@ -194,12 +200,6 @@
       "neutral": 6,
       "positive": 5,
       "critical": 1
-    },
-    "Reuters": {
-      "neutral": 31,
-      "positive": 18,
-      "mixed": 1,
-      "critical": 6
     },
     "The Times": {
       "mixed": 1,
@@ -241,7 +241,7 @@
       "neutral": 1
     },
     "EUobserver": {
-      "critical": 10,
+      "critical": 11,
       "positive": 3,
       "mixed": 1,
       "neutral": 4
@@ -290,6 +290,12 @@
     }
   },
   "source_bias": {
+    "Reuters": {
+      "positive": 33,
+      "neutral": 54,
+      "mixed": 2,
+      "critical": 11
+    },
     "DW English": {
       "mixed": 11,
       "positive": 40,
@@ -317,12 +323,6 @@
       "neutral": 50,
       "positive": 42,
       "critical": 8
-    },
-    "Reuters": {
-      "neutral": 55,
-      "positive": 32,
-      "mixed": 2,
-      "critical": 11
     },
     "The Times": {
       "mixed": 12,
@@ -364,10 +364,10 @@
       "neutral": 25
     },
     "EUobserver": {
-      "critical": 56,
-      "positive": 17,
-      "mixed": 6,
-      "neutral": 22
+      "critical": 58,
+      "positive": 16,
+      "mixed": 5,
+      "neutral": 21
     },
     "Balkan Insight": {
       "critical": 29,
@@ -400,5 +400,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-10T14:14:32.351414+00:00"
+  "last_updated": "2026-05-10T18:13:32.873687+00:00"
 }

@@ -1,5 +1,33 @@
 [
   {
+    "id": "ce304317a3b09849",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Roma children make history in a promise kept by Hungary's Magyar - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hRThvOTRPVU92aWc1YmZreDNObTRpSERXZWhoVXZkblJvWk45dzRjT0htOHRMRG85Z2FJODhFdjNON2haandKQUNoQTBjaGJUM1B0cDlEZjNCYW9Bc0hFR3VtamVqSjA?oc=5",
+    "published_at": "2026-05-10T15:28:09+00:00",
+    "fetched_at": "2026-05-10T18:00:06.073397+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "human rights",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "On inauguration day, Prime Minister Péter Magyar's government delivered on a campaign promise benefiting Roma children, symbolizing the new administration's commitment to human rights and social inclusion after Orbán's 15-year rule.",
+    "title_hu": "Roma gyermekek történelmet írnak: Magyar megtartott ígérete - Reuters",
+    "summary_hu": "A beiktatás napján Magyar Péter kormánya teljesített egy roma gyermekeket érintő ígéretét, szimbolizálva az új kabinet elkötelezettségét az emberi jogok és társadalmi inklúzió iránt az Orbán 15 éves uralma után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "8288f27f5d839fe1",
     "source": "DW English",
     "region": "de",
@@ -1909,6 +1937,39 @@
     "is_relevant": 1,
     "main_actor": "orban_viktor",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "274dc246270444dd",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Leaked phone call reveals how Orbán’s Hungary and Fico’s Slovakia helped Russian oligarchs - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd3k3TnRna2tramFEOW1NZHJ5UFVsZVJtcTZHdDVLQlFUbUFEMUt1bVlBeDU5YXE5bi1Ocm8zRzZJMDNwNFZQcHdramxlU19wcllHU0I5SF8zNXNMbVpWMTZYdExIZk5US2dZb1lxYVhPSXlxVjJ2V2FidVJIMEw1aXZJVWQ4M2VDNldZdjdZVEJqeTFHRTlndUktcXFQN0lFX0ZkYmRWRXF2b1djUVJoLWdMcXJCVmxadXZlejdiXy01cGRic3NnbFlud3RxQUlFX21vMkJreWVPc09xanVVZ3k5LU0wNnl0eENlbA?oc=5",
+    "published_at": "2026-05-06T21:09:49+00:00",
+    "fetched_at": "2026-05-10T18:00:34.003993+00:00",
+    "topics": [
+      "corruption",
+      "Russia deals",
+      "rule of law",
+      "geopolitics",
+      "government transition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Robert Fico",
+      "Russian oligarchs"
+    ],
+    "tone": "critical",
+    "framing": "corruption",
+    "summary_en": "An EUobserver investigation reveals leaked communications documenting how Viktor Orbán's Hungary and Robert Fico's Slovakia provided assistance to Russian oligarchs. The exposé underscores Orbán-era corruption and illicit Russia connections now under scrutiny following the May 2026 government transition.",
+    "title_hu": "Kiszivárgott telefonbeszélgetés felfedi, hogyan segített az Orbán-féle Magyarország és Fico Szlovákiája orosz oligarcháknak",
+    "summary_hu": "Az EUobserver nyomozása kiszivárgott kommunikációt tárt fel, amely dokumentálja, hogy Orbán Magyarországa és Fico Szlovákiája támogatást nyújtottak orosz oligarcháknak. A nyomozás az Orbán-era korrupciót és az illicit orosz kapcsolatokat világítja meg, amelyek a május 2026-os kormányváltást követően vizsgálat alatt állnak.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [
+      "Slovakia"
+    ],
     "quotes": []
   },
   {
