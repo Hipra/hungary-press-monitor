@@ -1,53 +1,43 @@
 {
-  "top_story_en": "Péter Magyar was sworn in as Prime Minister on May 10, 2026, formally ending Viktor Orbán's 15-year rule — with public celebrations outside parliament and a same-day Roma children policy delivery signalling that governance, not just symbolism, begins immediately.",
-  "top_story_hu": "Magyar Péter 2026. május 10-én letette a miniszterelnöki esküt, lezárva Orbán Viktor 15 éves uralmát — a parlament előtti spontán ünneplés és az azonnali roma gyermekeket érintő ígéretbeváltás jelezte: nem csak szimbolikus, hanem érdemi kormányzás kezdődik.",
+  "top_story_en": "Péter Magyar was sworn in as Prime Minister on May 10, formally ending Viktor Orbán's 15-year rule — an inauguration day marked by public jubilation, a historic apology to Orbán-era victims, and a delivered campaign promise for Roma children.",
+  "top_story_hu": "Május 10-én Magyar Péter letette a miniszterelnöki esküt, ezzel formálisan lezárult Orbán Viktor 15 éves uralma — az avatási napot tömeges örömünnep, a múlt áldozatainak szóló történelmi bocsánatkérés és egy választási ígéret teljesítése jellemezte.",
   "key_developments_en": [
-    "Magyar sworn in as PM with Tisza Party holding a two-thirds majority, enabling constitutional-level institutional reform.",
-    "Health minister-designate danced outside parliament in a spontaneous celebration moment broadcast widely by AP and BBC.",
-    "Government delivered a campaign promise benefiting Roma children on inauguration day — first concrete policy act of the new administration.",
-    "A former Polish justice minister who received asylum under Orbán is reportedly fleeing Hungary for the United States amid the political transition.",
-    "DW frames the core challenge as systemic: dismantling Orbán's institutional architecture will test Magyar beyond the electoral victory."
+    "Magyar was sworn in as PM, with the Tisza Party's two-thirds majority positioning the government for sweeping institutional reform.",
+    "In his inaugural address, Magyar publicly apologised to those wronged under Orbán's rule — a landmark accountability gesture not previously seen in Hungarian political transitions.",
+    "The new government delivered a campaign promise benefiting Roma children on inauguration day itself, signalling intent to act quickly on social inclusion commitments.",
+    "Hungary's incoming health minister danced outside parliament in a spontaneous moment that went viral globally, becoming the dominant image of the transition.",
+    "A former Polish justice minister who received asylum under Orbán is reportedly fleeing Hungary for the US, illustrating the precarious position of Orbán-era beneficiaries under the new administration."
   ],
   "key_developments_hu": [
-    "Magyar letette az esküt, a Tisza Párt kétharmados többsége alkotmányos szintű reformokat tesz lehetővé.",
-    "A leendő egészségügyi miniszter spontán táncba kezdett a parlament előtt — a jelenetet az AP és a BBC is közvetítette.",
-    "A kormány már a beiktatás napján teljesített egy kampányígéretet: intézkedés született a roma gyermekek érdekében.",
-    "Egy volt lengyel igazságügyi miniszter, aki Orbántól kapott menedékjogot, állítólag az Egyesült Államokba menekül Magyarországról.",
-    "A DW szerint a valódi kihívás strukturális: az orbáni intézményrendszer lebontása messze túlmutat a választási győzelmen."
+    "Magyar letette a miniszterelnöki esküt; a Tisza Párt kétharmados többsége átfogó intézményi reformokra ad lehetőséget.",
+    "Beiktatási beszédében Magyar nyilvánosan bocsánatot kért az Orbán-rendszer áldozataitól — ilyen gesztusra eddig nem volt precedens a magyar politikai átmenetekben.",
+    "Az új kormány már az avatás napján teljesített egy, a roma gyerekeket érintő választási ígéretet, jelezve a társadalmi befogadás terén várható gyors cselekvést.",
+    "A leendő egészségügyi miniszter spontán táncba kezdett a parlament előtt — a pillanat globálisan vírusszerűen terjedt, és az átmenet jelképes képévé vált.",
+    "Az Orbán által menedékjogban részesített volt lengyel igazságügyi miniszter állítólag az Egyesült Államokba menekül Magyarországról, szemléltetve az Orbán-éra kedvezményezettjeinek bizonytalan helyzetét."
   ],
   "narrative_shifts_en": [
-    "Coverage tone shifted decisively from analytical caution to affirmative democratic celebration — Le Monde, AP, and BBC all led with public jubilation rather than reform risk.",
-    "The Roma policy delivery moved inauguration coverage from symbolic transition toward governance execution, a framing absent in prior days' reporting.",
-    "The Orbán-era asylum case (Notes from Poland) introduces a new accountability sub-narrative: loyalists of the old regime now facing personal exposure under the new government."
+    "Today's coverage is overwhelmingly celebratory — nine of nine articles carry positive or mixed-positive framing, a marked shift from the analytical scrutiny and supermajority-as-risk narrative that dominated May 8–9.",
+    "The viral dance image has pushed international coverage into a human-interest, emotional register, temporarily displacing the institutional and geopolitical frames that defined prior days.",
+    "DW introduces the first substantive post-inauguration sceptical question — 'Can Magyar undo Orbán's system?' — signalling that critical evaluation will re-emerge once the celebratory news cycle passes."
   ],
   "narrative_shifts_hu": [
-    "A tudósítások hangvétele az elemző óvatosságból egyértelműen ünnepi irányba tolódott — a Le Monde, az AP és a BBC is a népi örömmel nyitott, nem a reformkockázatokkal.",
-    "A roma intézkedés révén a beiktatási tudósítás a szimbolikus átmenetből a tényleges kormányzás felé mozdult el.",
-    "A lengyel menekültügy (Notes from Poland) új elszámoltatási alnarratívát vezet be: az Orbán-korszak kedvezményezettjei személyes kockázattal szembesülnek."
+    "A mai tudósítások döntő többsége ünneplő hangvételű — mind a kilenc cikk pozitív vagy vegyes-pozitív keretezést alkalmaz, markáns váltás a május 8–9-i elemző szkepticizmushoz és a kétharmados többség demokratikus kockázataival foglalkozó narratívához képest.",
+    "A virális tánckép az emberi érdekesség és az érzelmi regiszter irányába tolta a nemzetközi tudósítást, átmenetileg háttérbe szorítva az intézményi és geopolitikai kereteket.",
+    "A DW megkezdi az avatás utáni kritikai értékelést — 'Képes-e Magyar lebontani Orbán rendszerét?' —, jelezve, hogy az ünnepi hírszakasz elmúltával hamarosan visszatér a vizsgálódó hang."
   ],
-  "quotes_en": [
-    {
-      "quote": "Ousting Orbán was harder than defeating communism.",
-      "speaker": "1989 transition veteran, via Euractiv"
-    }
-  ],
-  "quotes_hu": [
-    {
-      "quote": "Orbán leváltása nehezebb volt, mint a kommunizmus legyőzése.",
-      "speaker": "1989-es rendszerváltó veterán, az Euractiv idézésében"
-    }
-  ],
+  "quotes_en": [],
+  "quotes_hu": [],
   "what_to_watch_en": [
-    "Whether Magyar's first cabinet appointments and early legislative agenda confirm systemic reform intent or reveal further nepotism risks flagged by Politico and ECFR.",
-    "Progress — or stalling — on EU frozen funds negotiations, where the Euractiv-reported deterioration predates the new government's formal start.",
-    "Fidesz internal succession: Orbán's unresolved resignation offer as party chief leaves Hungary's main opposition leaderless at a critical juncture."
+    "Whether the government's opening legislative moves match the reform ambition signalled on inauguration day — DW's system-dismantling question will be the benchmark frame for the coming weeks.",
+    "Orbán-era loyalist cases: the Polish asylum minister's US flight and ongoing asset-seizure probes will test how aggressively Magyar pursues accountability vs. political stability.",
+    "The EU funds standoff: post-inauguration optimism has not unblocked the €10bn conditionality deadlock — watch for whether the celebratory diplomatic reset translates into Brussels progress."
   ],
   "what_to_watch_hu": [
-    "Magyar első kabinetalakítási és jogalkotási lépései megerősítik-e a szisztematikus reformszándékot, vagy újabb nepotizmusgyanút vetnek fel.",
-    "Az EU-val folytatott befagyasztott forrásokról szóló tárgyalások előrehaladása — az Euractiv szerint a helyzet már a beiktatás előtt is romló tendenciát mutatott.",
-    "A Fidesz belső utódlása: Orbán lezáratlan pártelnöki lemondási ajánlata vezető nélkül hagyja a fő ellenzéket egy kritikus pillanatban."
+    "Az első törvényhozási lépések: megfelelnek-e a beiktatás napján jelzett reformambíciónak? A DW kérdése — képes-e Magyar lebontani a rendszert — a következő hetek mércéje lesz.",
+    "Az Orbán-éra hűségeseinek ügyei: a lengyel menedékes miniszter menekülése és a folyamatban lévő vagyonzárolási eljárások megmutatják, milyen arányban érvényesíti Magyar az elszámoltatást a politikai stabilitással szemben.",
+    "Az uniós forrásokért folyó tárgyalások: az avatás utáni optimizmus nem oldotta fel a 10 milliárd eurós feltételrendszer körüli patthelyzetet — kérdés, hogy a diplomáciai hangulat brüsszeli előrelépéssé válik-e."
   ],
   "date": "2026-05-10",
-  "article_count": 8,
-  "generated_at": "2026-05-10T18:13:32.720992+00:00"
+  "article_count": 9,
+  "generated_at": "2026-05-10T22:14:36.382657+00:00"
 }

@@ -1,5 +1,62 @@
 [
   {
+    "id": "60505d22568bdad1",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Rhythm nation: politician’s viral dance moves mark new, optimistic era for Hungary - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZE9kWkZYZU9fWWVOLThFOTg1QVptcHFKZDZPMnphNjJ6MzJJNDk2V1pNS2R3aEJGbngyWHBCWC1Xc3Fmcm01LUs3XzZWY19lRmJ2TUxjVmRHQXJ6bEt4Ti01YWFLSkxtN240c3A2dlBORE1TMGF0TVVXRkxyUGo4OUdsMEtRN04wbmk4MTZWb0dENzF3WEgtNG5fYVFaRG5LZU9FNGlfdEpqLXRPb2VhTWg2bllzaTR2cUs3emRMclhKa2s?oc=5",
+    "published_at": "2026-05-10T20:12:00+00:00",
+    "fetched_at": "2026-05-10T22:00:11.136819+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "government officials"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "On May 10, 2026, a Hungarian politician's spontaneous dance moves outside parliament captured public jubilation over Péter Magyar's inauguration as Prime Minister, ending Viktor Orbán's 15-year rule. The viral moment symbolizes the optimistic democratic renewal and institutional reset driving Hungary's political transition.",
+    "title_hu": "Ritmus nemzeté: egy politikus vírusos táncmozdulatai új, optimista korszakot jelölnek Magyarország számára",
+    "summary_hu": "2026. május 10-én egy magyar politikus spontán táncmozdulatai a parlament előtt Péter Magyar miniszterelnök beiktatásának örömét szimbolizálták, amely Viktor Orbán 15 éves uralma végét jelenti. A pillanat Magyarország demokratikus megújulása körüli optimizmust és intézményi reformok ígéretét tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "9a1dfacdc598003f",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Hungary’s new PM apologises to those wronged under Orbán in first speech - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFhqeUZvbEQycDBxalZEWHUwd3FrV2dmSzFZZUdPS0Z6WldXZnlPdW1PeXRPaGZwTEJMN1VXbzRhWVBHcTdobHVlLVVfZmlzQ1lzT1pmczdxaWs3ck4xakUzSjBpaTVKdWdIRlRNM2l6dWlpblNRWHlUZ3pEcTB0XzdiTW15RGdpY1VucGQ2Y3ZfWlFzYlNaNDBaa2Fqc1luUUY3S2MxY1FDNHpYcEhDSjlaY01ienlFRHBkVkZzTE9vcDA?oc=5",
+    "published_at": "2026-05-10T20:05:00+00:00",
+    "fetched_at": "2026-05-10T22:00:11.136845+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "human rights"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar apologized to those wronged under Orbán's 15-year rule in his inaugural speech on May 10, 2026, signaling a break with the past and commitment to accountability. The apology reflects Magyar's campaign promises of democratic restoration and institutional reform. This gesture underscores Hungary's symbolic transition from authoritarian consolidation to renewed democratic governance.",
+    "title_hu": "Magyarország új miniszterelnöke az első beszédében bocsánatot kér az Orbán alatt sérültektől",
+    "summary_hu": "Péter Magyar, Magyarország új miniszterelnöke, 2026. május 10-én megtartott beiktatási beszédében bocsánatot kért az Orbán 15 éves uralma alatt sérültektől. Az apológia a múlttal való szándékos szakítást és az elszámoltathatóság iránti elkötelezettséget jelzi, valamint Magyar intézményi reformjaira vonatkozó kampányígéreteit tükrözi. Ez a gesztus szimbolizálja Magyarország átmenetét az autoritárius konszolidációból az újjáéledő demokratikus kormányzásba.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "ce304317a3b09849",
     "source": "Reuters",
     "region": "wire",
@@ -306,6 +363,34 @@
     "summary_en": "Hungary's new government is pursuing systematic asset seizures and accountability measures against oligarchs and business figures closely aligned with Viktor Orbán's former regime. The Times reports on retribution as part of broader judicial and anti-corruption reforms under Prime Minister Péter Magyar. These actions reflect the new government's commitment to rule-of-law restoration and represent a sharp reversal from the crony-capitalism patterns that characterized Orbán's 15-year rule.",
     "title_hu": "Megtorlás fenyegeti Orbán szupergazdag cimborásait Magyarországon",
     "summary_hu": "Magyarország új kormánya szisztematikus eszközlecsapásokat és elszámoltatási eljárásokat indít azok ellen az oligarchák és üzletemberek ellen, akik szorosan kapcsolódtak Viktor Orbán volt rendszeréhez. A Times arról számol be, hogy a Péter Magyar miniszterelnök alatt megindult megtorlás a szélesebb körű jogállami és korrupció elleni reformok részét képezi. Ezek az intézkedések az új kormányzat jogállami restaurációra irányuló elkötelezettségét tükrözik, és éles fordulat az Orbán 15 éves uralma alatt jellemző oligarchiai kapitalizmussal szemben.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d3685208cb7721aa",
+    "source": "The Times",
+    "region": "uk",
+    "title": "Will Hungary’s new rulers be too powerful for their own good? - The Times",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ2VVekN2cHk3bDhTNlF2VUlXMnRsWVp6RnAxeHZOTE0zeGljUENMSFJ2aTI0RmFlRUJzbVM0ZzYtRWtNTmk2a3p4Mk8zcC1HR3kwUkdxLXhoYnJMS3NPTWhiTnFHaEc5S1UyamdqSmhEaGZ4ajVSYmJsUjdUV21VdEdKMUdxTzVFQjYyU2lheUtwQm8?oc=5",
+    "published_at": "2026-05-09T15:40:39+00:00",
+    "fetched_at": "2026-05-10T22:00:16.227348+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Tisza Party"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "The Times questions whether Hungary's new Tisza-led government, which holds a two-thirds parliamentary majority under Péter Magyar, wields dangerous levels of concentrated executive power that could undermine democratic checks and balances despite intentions to restore democratic norms. The article probes Western concerns about whether such overwhelming supermajority could threaten institutional balance and the long-term stability of Hungary's democratic transition.",
+    "title_hu": "Vajon túl erősek lesznek-e Magyarország új vezetői a saját javukra?",
+    "summary_hu": "A Times azt vizsgálja, hogy Magyarország új, Tisza-párti kormánya, amely kétharmados parlamenti többséget birtokol, veszélyesen nagy mértékű koncentrált végrehajtó hatalmakat gyakorol-e, amely veszélyeztetheti az demokratikus ellenőrzések egyensúlyát. A cikk azt vizsgálja, hogy az ilyen nyomasztó többség veszélyeztetheti-e az intézmények egyensúlyát és Magyarország demokratikus átmenetének hosszú távú stabilitását.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
@@ -1321,6 +1406,36 @@
     "quotes": [
       "regime-change celebration"
     ]
+  },
+  {
+    "id": "b1254e00d3dbe15d",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Financial repression: How Europe's banks landed in the authoritarian toolbox - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQnpmSFpXRUg2WEUyX012UU9CLXRqVGh3LTBJT1h2anpaS05LaDhOcng0TDBWYWFHbGNtREpkaHcxeHdiVzRrTFMySU5OVURZaDhDVkpvWmhZNC1HcnVUbXRqS3FpRFhlSlZ4LTNUdEVoaVc1WV9xcVJ2ZkJmMFpJRGJRalFHY3pNTkFXS0M4aGN0WDVnMDkxQXZqYnBBVWp5QXN2dmRKTFY?oc=5",
+    "published_at": "2026-05-08T04:03:52+00:00",
+    "fetched_at": "2026-05-10T22:00:30.572062+00:00",
+    "topics": [
+      "corruption",
+      "rule of law",
+      "economy",
+      "EU relations"
+    ],
+    "actors": [
+      "Orbán government",
+      "European banking sector",
+      "state oligarchs"
+    ],
+    "tone": "critical",
+    "framing": "corruption",
+    "summary_en": "Euractiv analyzes how Orbán's Hungary weaponized banking regulation and financial policy as tools of state control and oligarch enrichment. The article examines the structural banking legacy—including bad loans and discriminatory taxes—that the new Magyar government must unwind as part of EU reintegration and financial reform.",
+    "title_hu": "Pénzügyi elnyomás: Hogyan kerültek Európa bankjai az autoritárius eszköztárba",
+    "summary_hu": "Az Euractiv azt elemzi, hogy Orbán Magyarországa hogyan használta fel a banki szabályozást és pénzügyi politikát az állami kontroll és oligarcha-gazdagodás eszközeként. A cikk azt a strukturális banki örökséget—a rossz kölcsönöket és diszkriminatív adókat—vizsgálja, amelyeket a magyar kormánynak fel kell szüntetnie az EU-ba való visszaintegrálódása és pénzügyi reformjai keretében.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
   },
   {
     "id": "16d2e79333c9f391",

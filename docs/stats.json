@@ -1,17 +1,17 @@
 {
-  "total_articles": 390,
-  "analyzed_articles": 390,
+  "total_articles": 394,
+  "analyzed_articles": 394,
   "tone": {
-    "positive": 121,
+    "positive": 123,
     "mixed": 38,
-    "critical": 60,
+    "critical": 62,
     "neutral": 170,
     "hopeful": 1
   },
   "framing": {
-    "democracy_restoration": 94,
-    "rule_of_law": 41,
-    "corruption": 20,
+    "democracy_restoration": 96,
+    "rule_of_law": 42,
+    "corruption": 21,
     "other": 12,
     "eu_integration": 64,
     "geopolitics": 98,
@@ -27,13 +27,13 @@
     "government transition": 2
   },
   "region": {
+    "uk": 72,
     "wire": 70,
     "de": 46,
     "cee": 18,
     "fr": 14,
     "us": 35,
-    "uk": 69,
-    "eu": 137,
+    "eu": 138,
     "think": 1
   },
   "source": {
@@ -41,9 +41,9 @@
     "DW English": 45,
     "Politico Europe": 45,
     "Euronews": 37,
-    "Euractiv": 33,
+    "Euractiv": 34,
     "Financial Times": 25,
-    "The Guardian": 21,
+    "The Guardian": 23,
     "EUobserver": 19,
     "Le Monde": 14,
     "Balkan Insight": 14,
@@ -51,7 +51,7 @@
     "Washington Post": 13,
     "BBC": 12,
     "New York Times": 11,
-    "The Times": 8,
+    "The Times": 9,
     "Wall Street Journal": 4,
     "Foreign Policy": 4,
     "The Parliament Magazine": 3,
@@ -64,21 +64,21 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 317,
-    "EU relations": 222,
-    "democracy": 163,
+    "government transition": 320,
+    "EU relations": 223,
+    "democracy": 166,
     "geopolitics": 147,
-    "rule of law": 105,
+    "rule of law": 108,
     "foreign policy": 90,
     "EU funds": 73,
     "elections": 57,
-    "economy": 51,
-    "corruption": 34,
+    "economy": 52,
+    "corruption": 35,
     "Fidesz opposition": 28,
     "energy": 28,
     "Russia deals": 27,
-    "human rights": 25,
-    "society": 18,
+    "human rights": 26,
+    "society": 19,
     "judicial reform": 16,
     "V4 diplomacy": 11,
     "media freedom": 11,
@@ -86,11 +86,11 @@
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 306,
-    "Viktor Orbán": 189,
+    "Péter Magyar": 309,
+    "Viktor Orbán": 190,
     "European Commission": 51,
     "Volodymyr Zelenskiy": 39,
-    "Tisza Party": 32,
+    "Tisza Party": 33,
     "Ukraine": 32,
     "Ursula von der Leyen": 28,
     "Hungary": 20,
@@ -108,9 +108,9 @@
     "EU leaders": 6
   },
   "main_actor": {
-    "magyar_peter": 140,
-    "orban_viktor": 71,
-    "hungary_country": 105,
+    "hungary_country": 106,
+    "magyar_peter": 142,
+    "orban_viktor": 72,
     "eu_institutions": 35,
     "fidesz": 6,
     "other": 31,
@@ -159,11 +159,17 @@
     "2026-05-05": 5,
     "2026-05-06": 19,
     "2026-05-07": 19,
-    "2026-05-08": 21,
-    "2026-05-09": 20,
-    "2026-05-10": 7
+    "2026-05-08": 22,
+    "2026-05-09": 21,
+    "2026-05-10": 9
   },
   "tone_by_source": {
+    "The Guardian": {
+      "positive": 13,
+      "neutral": 6,
+      "critical": 3,
+      "mixed": 1
+    },
     "Reuters": {
       "positive": 19,
       "neutral": 31,
@@ -203,6 +209,7 @@
     },
     "The Times": {
       "mixed": 1,
+      "critical": 1,
       "positive": 4,
       "neutral": 3
     },
@@ -214,7 +221,7 @@
     },
     "Euractiv": {
       "neutral": 15,
-      "critical": 7,
+      "critical": 8,
       "positive": 6,
       "mixed": 5
     },
@@ -223,12 +230,6 @@
       "positive": 10,
       "neutral": 16,
       "critical": 11
-    },
-    "The Guardian": {
-      "positive": 11,
-      "neutral": 6,
-      "critical": 3,
-      "mixed": 1
     },
     "Washington Post": {
       "neutral": 5,
@@ -290,6 +291,12 @@
     }
   },
   "source_bias": {
+    "The Guardian": {
+      "positive": 57,
+      "neutral": 26,
+      "critical": 13,
+      "mixed": 4
+    },
     "Reuters": {
       "positive": 33,
       "neutral": 54,
@@ -325,9 +332,10 @@
       "critical": 8
     },
     "The Times": {
-      "mixed": 12,
-      "positive": 50,
-      "neutral": 38
+      "mixed": 11,
+      "critical": 11,
+      "positive": 44,
+      "neutral": 33
     },
     "Euronews": {
       "neutral": 51,
@@ -336,8 +344,8 @@
       "mixed": 11
     },
     "Euractiv": {
-      "neutral": 45,
-      "critical": 21,
+      "neutral": 44,
+      "critical": 24,
       "positive": 18,
       "mixed": 15
     },
@@ -346,12 +354,6 @@
       "positive": 22,
       "neutral": 36,
       "critical": 24
-    },
-    "The Guardian": {
-      "positive": 52,
-      "neutral": 29,
-      "critical": 14,
-      "mixed": 5
     },
     "Washington Post": {
       "neutral": 38,
@@ -400,5 +402,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-10T18:13:32.873687+00:00"
+  "last_updated": "2026-05-10T22:14:36.569272+00:00"
 }
