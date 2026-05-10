@@ -1,19 +1,19 @@
 {
-  "total_articles": 385,
-  "analyzed_articles": 385,
+  "total_articles": 388,
+  "analyzed_articles": 388,
   "tone": {
-    "positive": 119,
+    "mixed": 38,
+    "critical": 59,
+    "positive": 120,
     "neutral": 170,
-    "mixed": 37,
-    "critical": 58,
     "hopeful": 1
   },
   "framing": {
-    "democracy_restoration": 91,
+    "democracy_restoration": 93,
+    "rule_of_law": 41,
     "corruption": 19,
     "other": 12,
     "eu_integration": 64,
-    "rule_of_law": 40,
     "geopolitics": 98,
     "economy": 22,
     "regional": 9,
@@ -27,19 +27,19 @@
     "government transition": 2
   },
   "region": {
+    "de": 46,
+    "cee": 18,
+    "wire": 69,
     "fr": 14,
-    "de": 45,
     "us": 35,
     "uk": 69,
-    "wire": 68,
     "eu": 136,
-    "cee": 17,
     "think": 1
   },
   "source": {
     "Reuters": 56,
+    "DW English": 45,
     "Politico Europe": 45,
-    "DW English": 44,
     "Euronews": 37,
     "Euractiv": 33,
     "Financial Times": 25,
@@ -47,9 +47,9 @@
     "EUobserver": 18,
     "Le Monde": 14,
     "Balkan Insight": 14,
+    "AP News": 13,
     "Washington Post": 13,
     "BBC": 12,
-    "AP News": 12,
     "New York Times": 11,
     "The Times": 8,
     "Wall Street Journal": 4,
@@ -58,26 +58,27 @@
     "Visegrad Insight": 3,
     "The Economist": 3,
     "Politico US": 2,
+    "Notes from Poland": 1,
     "ECFR": 1,
     "Süddeutsche": 1,
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 312,
+    "government transition": 315,
     "EU relations": 222,
-    "democracy": 160,
+    "democracy": 162,
     "geopolitics": 146,
-    "rule of law": 102,
+    "rule of law": 104,
     "foreign policy": 90,
     "EU funds": 73,
     "elections": 57,
     "economy": 51,
-    "corruption": 32,
+    "corruption": 33,
     "Fidesz opposition": 28,
     "energy": 28,
     "Russia deals": 26,
     "human rights": 24,
-    "society": 16,
+    "society": 17,
     "judicial reform": 16,
     "V4 diplomacy": 11,
     "media freedom": 11,
@@ -85,8 +86,8 @@
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 302,
-    "Viktor Orbán": 186,
+    "Péter Magyar": 305,
+    "Viktor Orbán": 188,
     "European Commission": 51,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 32,
@@ -107,11 +108,11 @@
     "EU leaders": 6
   },
   "main_actor": {
-    "magyar_peter": 137,
+    "magyar_peter": 139,
+    "orban_viktor": 70,
     "hungary_country": 105,
     "eu_institutions": 35,
     "fidesz": 6,
-    "orban_viktor": 69,
     "other": 31,
     "EU_institutions": 2
   },
@@ -160,20 +161,28 @@
     "2026-05-07": 19,
     "2026-05-08": 21,
     "2026-05-09": 20,
-    "2026-05-10": 3
+    "2026-05-10": 6
   },
   "tone_by_source": {
+    "DW English": {
+      "mixed": 5,
+      "positive": 18,
+      "neutral": 20,
+      "critical": 1,
+      "hopeful": 1
+    },
+    "Notes from Poland": {
+      "critical": 1
+    },
+    "AP News": {
+      "positive": 4,
+      "neutral": 8,
+      "mixed": 1
+    },
     "Le Monde": {
       "positive": 9,
       "critical": 2,
       "neutral": 3
-    },
-    "DW English": {
-      "positive": 18,
-      "mixed": 4,
-      "neutral": 20,
-      "critical": 1,
-      "hopeful": 1
     },
     "New York Times": {
       "neutral": 5,
@@ -225,11 +234,6 @@
       "neutral": 5,
       "positive": 7,
       "critical": 1
-    },
-    "AP News": {
-      "positive": 3,
-      "neutral": 8,
-      "mixed": 1
     },
     "Wall Street Journal": {
       "critical": 2,
@@ -286,17 +290,22 @@
     }
   },
   "source_bias": {
+    "DW English": {
+      "mixed": 11,
+      "positive": 40,
+      "neutral": 44,
+      "critical": 2,
+      "hopeful": 2
+    },
+    "AP News": {
+      "positive": 31,
+      "neutral": 62,
+      "mixed": 8
+    },
     "Le Monde": {
       "positive": 64,
       "critical": 14,
       "neutral": 21
-    },
-    "DW English": {
-      "positive": 41,
-      "mixed": 9,
-      "neutral": 45,
-      "critical": 2,
-      "hopeful": 2
     },
     "New York Times": {
       "neutral": 45,
@@ -349,11 +358,6 @@
       "positive": 54,
       "critical": 8
     },
-    "AP News": {
-      "positive": 25,
-      "neutral": 67,
-      "mixed": 8
-    },
     "Wall Street Journal": {
       "critical": 50,
       "positive": 25,
@@ -396,5 +400,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-10T10:13:39.839924+00:00"
+  "last_updated": "2026-05-10T14:14:32.351414+00:00"
 }

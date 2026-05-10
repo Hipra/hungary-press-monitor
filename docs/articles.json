@@ -1,5 +1,88 @@
 [
   {
+    "id": "8288f27f5d839fe1",
+    "source": "DW English",
+    "region": "de",
+    "title": "Magyar beat Orban. Can Hungary's new PM undo his system? - dw.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0hmSXhHR0xBalZNQnVtTWIxaE5OdnZHLW10ZVhWNlVKSlRBOXgxUTY2d1ZpYnJHVFN1d1EtWGNBM0RKV2ozWmNPcnJtam9icWY3N3ZXZmZwb2tRYi01b2trdEd0NVJ0ekhTbGtva1lLdXJTejRSZkJEdHB4SXNlUjRlb0swNWNpSWN0Mi1xakFqbld3VVdRWnFULUx1dw?oc=5",
+    "published_at": "2026-05-10T10:27:17+00:00",
+    "fetched_at": "2026-05-10T14:00:39.693355+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "democracy_restoration",
+    "summary_en": "On his inauguration day (May 10, 2026), Péter Magyar becomes Hungary's Prime Minister after defeating Viktor Orbán's 15-year rule. The article's core question—whether Magyar can dismantle Orbán's institutional system—reflects Western scrutiny over the new government's reform capacity and commitment to genuine democratic restoration.",
+    "title_hu": "Magyar legyőzte Orbánt. Sikerül-e az új miniszterelnöknek szétszedni a rendszerét?",
+    "summary_hu": "Péter Magyar 2026 május 10-én, hivatalba lépésének napján kerül Viktor Orbán 15 éves uralma után Magyarország miniszterelnöki posztjára. A cikk központi kérdése—vajon Magyar képes-e szétszedni Orbán intézményi rendszerét—tükrözi az amerikai és európai figyelmet az új kormány reform-kapacitása és a valódi demokratikus restauráció iránti elkötelezettségére.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "c38a1e0a8830eaac",
+    "source": "Notes from Poland",
+    "region": "cee",
+    "title": "Former Polish justice minister granted asylum by Orbán flees from Hungary to US - Notes From Poland",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGh0UGN1QnQ4cmN2NTZRUUFITWl5cWlvdzFSX2VZQkZGck1yWGxMRTM3N18zVU9mSi0tRjdnY2R1aVhqRmljeFVnUzk3czQwTDRIMVk3M3lkZTZLMGNmVmQzNGRWMUJlUExaWFA3QWJGYWVYLXUxeGJVMkROZjQtdFpJX1Y1bzg1MnBnRms3THJDcFJtVWd5ZXBfY3M1TkctbVFoLWNQdlpyYUZEbWhIMkdTU0RzTFNfMUcw?oc=5",
+    "published_at": "2026-05-10T10:14:04+00:00",
+    "fetched_at": "2026-05-10T14:00:46.594964+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "corruption"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "A former Polish justice minister who received asylum from Viktor Orbán's government is reportedly fleeing Hungary for the United States, signaling the precarious position of Orbán loyalists under the new Magyar administration. The case illustrates how Orbán-era favoritism is being reversed as Hungary pursues rule-of-law reforms and asset recovery.",
+    "title_hu": "Orbántól menedéket kapott lengyel volt igazságügyi miniszter Magyarország elhagyásával az USA-ba menekül",
+    "summary_hu": "Egy lengyel volt igazságügyi miniszter, aki Orbán Viktor kormányától kapott menedéket, Magyarország elhagyásával az USA-ba menekül. Az eset az Orbán-korszakból származó kedvezés felszámolódását mutatja, mivel az új Magyar kormányzat jogállami reformokat hajt végre.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "e4576d46d101a31e",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary’s next health minister dances outside parliament after Magyar sworn in as PM - AP News",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYnJiaTN2dkdQM1ZyWDUxUmNPTjlwS2QzN1ZNa3p3MXM3VUtUY2lwQ2stcE51NjQtRS1ZRGtaUTg0RVZ3ckczRGpCbkRxb3pkUDUtLWllc2ZiT2VJanJQMWhrak95MzV3ZVZCY2ZRUUVEdlhCT3Z2c1NsaW05VTZqMjdlUGo4S2gtT2sxSVFYOWx5XzlORTlVdDIzZ1RPMTU3aW5iLUEyZXVXZ200elZmUWFRbHlGazVod2RFVk94RjkxMnVKR0tTLTlzTFNDeEdR?oc=5",
+    "published_at": "2026-05-10T07:52:00+00:00",
+    "fetched_at": "2026-05-10T14:00:05.658386+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "On May 10, 2026, as Péter Magyar was sworn in as Prime Minister, Hungary's incoming health minister danced outside parliament in a spontaneous moment of celebration, symbolizing popular hope for Hungary's democratic transition after 15 years of Orbán's rule.",
+    "title_hu": "Magyarország egészségügyi minisztere táncol a parlament mellett Magyar miniszterelnökké esküje után",
+    "summary_hu": "2026. május 10-én, amikor Péter Magyart miniszterelnökké esküdte, Magyarország leendő egészségügyi minisztere a parlament mellett táncolt – spontán ünneplés, amely szimbolizálja a magyarok reményét az ország 15 év után bekövetkező demokratikus átmenetével kapcsolatban, Orbán uralma után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "fc893989faf93c53",
     "source": "Le Monde",
     "region": "fr",

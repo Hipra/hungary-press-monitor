@@ -1,41 +1,43 @@
 {
-  "top_story_en": "Péter Magyar was sworn in as Hungary's Prime Minister on May 10, 2026, formally ending Viktor Orbán's 15-year rule — the most widely covered single event in Western media since Hungary's April election. The EU flag was simultaneously restored to parliament, providing an immediate symbolic anchor for international coverage.",
-  "top_story_hu": "Péter Magyar 2026. május 10-én miniszterelnökként letette az esküt, ezzel formálisan véget ért Orbán Viktor 15 éves uralma — ez a nap a nyugati sajtóban az áprilisi választások óta a legtöbbet tárgyalt esemény. Az EU-zászlót egyidejűleg visszahelyezték a parlament homlokzatára, azonnali szimbolikus keretet adva a nemzetközi tudósításoknak.",
+  "top_story_en": "Péter Magyar was sworn in as Hungary's Prime Minister on May 10, 2026, formally ending Viktor Orbán's 15-year rule — an inauguration met with spontaneous public jubilation and near-unanimous international coverage framing the moment as a historic democratic restoration.",
+  "top_story_hu": "Péter Magyar 2026. május 10-én letette a miniszterelnöki esküt, hivatalosan lezárva Orbán Viktor 15 éves kormányzását — a beiktatást spontán közéleti ünneplés és szinte egyhangú nemzetközi sajtóvisszhang kísérte, a demokrácia helyreállításának történelmi pillanataként értékelve az eseményt.",
   "key_developments_en": [
-    "Magyar sworn in with a two-thirds Tisza Party majority, giving the government a constitutional mandate for sweeping institutional reform.",
-    "The EU flag was restored to the Hungarian parliament building on inauguration day, reported by Le Monde as a concrete break-with-Orbán signal.",
-    "The Times reports systematic asset seizures underway against Orbán-era oligarchs, framing retribution as a rule-of-law priority for the new government.",
-    "Euronews flags a severe drought hitting Hungary, with prolonged rainfall deficit threatening agricultural output — still reported in isolation from fiscal transition pressures.",
-    "Politico and DW note intensifying Western scrutiny over early nepotism signals, tempering the inauguration day enthusiasm with explicit caution."
+    "Magyar was sworn in with Tisza Party's two-thirds parliamentary majority, giving the new government a constitutional mandate for sweeping institutional reform.",
+    "Hungary's incoming health minister danced outside parliament in a scene widely reproduced internationally as a symbol of post-authoritarian relief.",
+    "The Times reports systematic asset seizures against Orbán-era oligarchs are advancing under Magyar's government as part of anti-corruption and rule-of-law efforts.",
+    "A former Polish justice minister who received asylum under Orbán is reportedly fleeing Hungary for the US, marking the first concrete case of an Orbán-era beneficiary facing personal legal exposure.",
+    "DW and Euractiv both frame Magyar's core governance test not as electoral legitimacy — already secured — but as the institutional capacity to dismantle Orbán's embedded systemic architecture."
   ],
   "key_developments_hu": [
-    "Magyar kétharmados Tisza-többséggel tette le az esküt, ami alkotmányos felhatalmazást ad az átfogó intézményi reformokhoz.",
-    "A beiktatás napján visszakerült az EU-zászló a parlament épületére — a Le Monde ezt az Orbán-érával való konkrét szakítás jeleként értékeli.",
-    "A Times arról tudósít, hogy szisztematikus vagyonzárolások zajlanak az Orbán-korszak oligarchái ellen; a lap a megtorlást jogállami prioritásként értelmezi.",
-    "Az Euronews súlyos aszályra figyelmeztet: a tartós csapadékhiány veszélyezteti a mezőgazdasági termelést — egyelőre nem kapcsolják össze a fiskális átmenet kockázataival.",
-    "A Politico és a DW a beiktatásnapi lelkesedést nepotizmusra utaló korai jelekkel árnyalja, és explicit óvatosságra int."
+    "Magyar kétharmados parlamenti többséggel tette le az esküt, alkotmányos felhatalmazást szerezve az átfogó intézményi reformokhoz.",
+    "A leendő egészségügyi miniszter a parlament előtt táncolt — ezt a pillanatot a nemzetközi sajtó a poszt-autoriter felszabadulás jelképeként közvetítette széleskörűen.",
+    "A Times szerint az Orbán-közeli oligarchák elleni vagyonzárolási eljárások folytatódnak az új kormány korrupcióellenes intézkedéseinek részeként.",
+    "Egy lengyel volt igazságügyi miniszter, aki Orbántól kapott menedékjogot, állítólag az Egyesült Államokba menekül — ez az első konkrét eset, amikor egy Orbán-éra kedvezményezettje személyes jogi kitettséggel szembesül.",
+    "A DW és az Euractiv szerint Magyar igazi próbája nem a választási legitimáció — az már adott —, hanem az Orbán által kiépített intézményi rendszer tényleges lebontásának képessége."
   ],
   "narrative_shifts_en": [
-    "Coverage has shifted from anticipation to ceremony: today's dominant frame is historical rupture and symbolic restoration, with substantive policy scrutiny largely deferred.",
-    "The 'cautious optimism' frame of recent days has split — celebratory outlets (Le Monde, Guardian) lean into democratic spring imagery, while Politico and DW maintain the warning register established last week."
+    "Today's coverage decisively tilts affirmative: AP, Le Monde, and BBC all foreground popular jubilation over analytical caution, a marked shift from last week's Western scrutiny-heavy framing.",
+    "The NYT inaugurated a new psychological register — 'old guard trauma' — redirecting attention from Magyar's agenda to the losing constituency's disorientation, a framing likely to recur as Orbán loyalists face accountability.",
+    "The Notes from Poland item on the fleeing former justice minister moves the Orbán-accountability story from abstract to concrete, signalling that rule-of-law reversal is producing tangible personal consequences for regime-adjacent figures."
   ],
   "narrative_shifts_hu": [
-    "A tudósítások fókusza az előrejelzésről az ünnepségre tolódott: a domináns keret ma a történelmi fordulat és a szimbolikus helyreállítás, az érdemi szakpolitikai elemzés nagyrészt elmaradt.",
-    "Az elmúlt napok 'óvatos optimizmusa' kettévált: az ünneplő lapok (Le Monde, Guardian) a demokratikus tavasz képiségébe menekülnek, míg a Politico és a DW fenntartja a múlt héten kialakított figyelmeztető regisztert."
+    "A mai tudósítások határozottan pozitív hangnemet ütnek meg: az AP, a Le Monde és a BBC mind az ünnepi hangulatot helyezi előtérbe az elemző óvatossággal szemben — ez éles fordulat az elmúlt heti nyugati kritikai keretezéshez képest.",
+    "Az NYT új narratív regisztert nyitott meg: az 'egykori establishment traumája' a figyelmet Magyar programjáról a vesztes tábor dezorientációjára irányítja — ez a keret várhatóan visszatér, ahogy az Orbán-hívek szembesülnek az elszámoltatással.",
+    "A Notes from Poland híre a menekülő volt lengyel igazságügyi miniszterről az Orbán-felelősségre vonás kérdését elvontból kézzel foghatóvá teszi: a jogállami fordulat személyes következményekkel jár a rezsimhez közel álló külföldi szereplők számára is."
   ],
   "quotes_en": [],
   "quotes_hu": [],
   "what_to_watch_en": [
-    "Magyar's first substantive policy announcements: judicial reform legislation, EU funds negotiations posture, and any concrete Ukraine or Russia bilateral steps will set the governing tone beyond the inauguration.",
-    "Orbán's next move: his unresolved resignation offer as Fidesz party chief and reported pursuit of an EU Parliament seat for immunity remain the key post-inauguration unknowns.",
-    "The drought-economy nexus: as agricultural stress compounds fiscal transition risks, watch for the first reporting that connects these two currently siloed stories."
+    "State media reform: The Guardian has characterised public broadcasting as a 'factory of lies' — whether Magyar moves to restructure it structurally or cosmetically will be an early credibility test.",
+    "EU frozen funds standoff: Euractiv flagged the €10bn conditionality negotiations as deteriorating; watch for whether the inauguration produces any political momentum toward unblocking.",
+    "Orbán's legal exposure: Public demand for criminal prosecution is intensifying but no charges or legal pathway have been reported — the gap between political pressure and legal process will be a defining story in coming weeks."
   ],
   "what_to_watch_hu": [
-    "Magyar első érdemi szakpolitikai bejelentései: az igazságügyi reform jogszabályai, az EU-forrásokról szóló tárgyalások iránya, illetve az ukrán és orosz kapcsolatokban tett konkrét lépések jelzik majd a kormányzati irányt a beiktatáson túl.",
-    "Orbán következő húzása: a Fidesz-elnöki tisztségről tett, egyelőre nyitott lemondási ajánlat és az EP-mandátum — és ezzel a mentelmi jog — megszerzésére irányuló törekvés a beiktatás utáni legfontosabb nyitott kérdések.",
-    "Az aszály és a gazdaság kapcsolata: ahogy a mezőgazdasági stressz tovább terheli a fiskális átmenetet, figyelni kell, mikor jelenik meg az első tudósítás, amely összekapcsolja e két eddig elkülönülten kezelt szálat."
+    "Állami médiarendszer: a The Guardian a közmédiát 'hazugsággyárnak' minősítette — Magyar első hitelesség-próbája, hogy valódi vagy csupán kozmetikai reformot hajt-e végre ezen a területen.",
+    "Befagyasztott uniós alapok: az Euractiv a tárgyalásokat romlónak írta le; figyelemmel kell kísérni, hogy a beiktatás politikai lendületet ad-e az ~10 milliárd eurós patthelyzet oldásához.",
+    "Orbán jogi felelőssége: a büntetőeljárás iránti közigazgatási nyomás erősödik, de sem vádat, sem jogi alapot nem közöltek — a politikai igény és a jogi lehetőség közötti szakadék a következő hetek meghatározó témája lesz."
   ],
   "date": "2026-05-10",
-  "article_count": 16,
-  "generated_at": "2026-05-10T10:13:39.631668+00:00"
+  "article_count": 13,
+  "generated_at": "2026-05-10T14:14:32.172227+00:00"
 }
