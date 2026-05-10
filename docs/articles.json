@@ -1,5 +1,63 @@
 [
   {
+    "id": "9d9bdf3a6e08f671",
+    "source": "New York Times",
+    "region": "us",
+    "title": "Quote of the Day: As Hungary Gets a New Leader, the Old Guard Is Stunned - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORFFVM21xNW1yZlFFT04yd3RnYWtnMEZHM01XU210WG1vc3MyWi0zSjhkbTlqcFlZaHBBVlZweml0d1pudFZGX29NRVo5cE5RQm51aUVoZ1hTaUFPUlc3MnJwbC1iYVZPZE9BUTRmQXZJdzVocGt6WUNKRk1ERFpDZmNQNEVWQWF2MUdiXy0ySzg2OTA3TG85dmRZOEs2SDJaMFk0VWUwN3ZodzlFMTdGTHUtYjlOUnVESTh2SnN4SQ?oc=5",
+    "published_at": "2026-05-10T04:01:10+00:00",
+    "fetched_at": "2026-05-10T06:00:15.338499+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Fidesz party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "On May 10, 2026, Péter Magyar was sworn in as Hungary's new Prime Minister, formally ending Viktor Orbán's 15-year rule. The New York Times captures the shock and disorientation among the old political establishment—the 'old guard'—confronted with a dramatic governmental transition and loss of political power after nearly two decades of dominance.",
+    "title_hu": "Napi Idézet: Ahogy Magyarország Új Vezetőt Kap, az Öreg Gárda Megdöbbent",
+    "summary_hu": "2026. május 10-én Péter Magyart iktatták be Magyarország új miniszterelnökeként, véglegesen lezárva Viktor Orbán 15 éves uralmát. A New York Times az öreg politikai vezetés—az 'öreg gárda'—döbbenete és dezorientációja nyomán halad, amely a drámai kormányváltással és több mint másfél évtized után az erő elvesztésével szembesült.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "5bb79c0ea674081b",
+    "source": "BBC",
+    "region": "uk",
+    "title": "Hungary’s new prime minister sworn in - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xeTRGQVc1TnBjeTU3RnlBa3VNVlZXd01tX2YwTWtGSlpuV1c4eHpxNFJSTW43S1dTUEo3TTZLSzlBQ2Q4eW5BeDhIUUljdWtIX09Na0pXQ0FYdw?oc=5",
+    "published_at": "2026-05-09T21:25:49+00:00",
+    "fetched_at": "2026-05-10T06:00:06.537006+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Prime Minister of Hungary on May 10, 2026, formally ending Viktor Orbán's 15-year authoritarian rule. The Tisza Party's two-thirds parliamentary majority positions the government to undertake sweeping institutional reforms aimed at reintegrating Hungary with European democratic norms and rule of law.",
+    "title_hu": "Magyarország új miniszterelnöke beiktatva - BBC",
+    "summary_hu": "Péter Magyart 2026. május 10-én iktatták be miniszterelnökként, amely formálisan véget vet Viktor Orbán 15 éves uralomnak. A Tisza Párt kétharmados parlamenti többsége lehetővé teszi a széleskörű intézményi reformokat, amelyek célja Magyarország visszaintegrálása az európai demokrácia és jogállamiság normáiba.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "656ea0aa2f3d2c77",
     "source": "Reuters",
     "region": "wire",
@@ -398,6 +456,40 @@
     "is_relevant": 1,
     "main_actor": "magyar_peter",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "803c1bc3ab6daeb5",
+    "source": "Wall Street Journal",
+    "region": "us",
+    "title": "Europeans Are Fed Up and Taking It Out on Their Leaders - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObi1RQ0JqbFBYRUpFUzRyb2pTSlljLURIRXZVTWktRmtSbGlNWmhiTnRMVVlvamlxS0hvVVZ5X2wwR2xSM3N0MXBTLWxlRGhSM1FHY0ZoQWc3bUR1QnozT2IxUU83NmpsZmxKcUFZc01jb3ZuV1pUYlJreEVDeWxGVEV1Y0wya2I1cjU4emIxYm8yQXpBT1JrMkNFMmcwdw?oc=5",
+    "published_at": "2026-05-09T03:00:00+00:00",
+    "fetched_at": "2026-05-10T06:00:20.671223+00:00",
+    "topics": [
+      "government transition",
+      "elections",
+      "society",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "European voters"
+    ],
+    "tone": "critical",
+    "framing": "democracy_restoration",
+    "summary_en": "WSJ reports on a broader European pattern of voter dissatisfaction and leadership transitions. Hungary's ouster of Viktor Orbán after 15 years, culminating in Péter Magyar's inauguration on May 10, fits this continent-wide trend of incumbent rejection and democratic realignment.",
+    "title_hu": "Az európaiak elegek a vezetőikből - és ezt éreztetik velük",
+    "summary_hu": "A WSJ az európai szavazók diszkontentjének és vezetői váltások szélesebb mintáját mutatja be. Magyarország Viktor Orbán 15 éves uralma után való felépítése és Péter Magyar május 10-i megiktatása az európa-szerte tapasztalható jelenlegi vezetőt elutasító hullám része.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland",
+      "France",
+      "Germany"
+    ],
     "quotes": []
   },
   {
