@@ -800,6 +800,31 @@
     "quotes": []
   },
   {
+    "id": "103f4ebfb629aa16",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Democracy Digest: Hungary’s ‘Luxury Elites’ Try to Outrun the Reckoning - far-rightmap.balkaninsight.com",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZjdkaXdtUFNsR0tLWWY3UjVGb2xpMTNYaFhsZnBmMk5iRmVrODAya3BZQlIxNmJUQm5ReThTdWFKSHhTRlBmVXotVklyeTYxNmVWc1oyeUVSZWZ2VXE2bUJhcFZCZUMzQ3hJYkhVUk0zM2ZmUHZEZmlDa2pBcUtoXzF6X1JHZXhyblFCbXFJSWgxS0Q4VXhrTEZGUWlnNklQZXNlY2xSRjNIa1MwT2FQWW1oMTlybDk2SFVtMTdB?oc=5",
+    "published_at": "2026-05-08T06:44:38+00:00",
+    "fetched_at": "2026-05-10T02:00:44.939118+00:00",
+    "topics": [
+      "government transition",
+      "corruption",
+      "rule of law"
+    ],
+    "actors": [],
+    "tone": "critical",
+    "framing": "corruption",
+    "summary_en": "Balkan Insight examines the predicament of Fidesz-era oligarchs and 'luxury elites' who face accountability measures and asset seizure under the new Magyar government. The article's framing suggests these Orbán-connected elites are attempting to escape consequences of their enrichment during the previous regime, a central element of Hungary's broader reckoning with systemic corruption.",
+    "title_hu": "Demokráciai Krónika: Magyarország 'Luxus Elitje' Megpróbál Szökni az Elszámoltatás Elől",
+    "summary_hu": "A Balkan Insight a Fidesz-korszak oligarchái és 'luxus elitje' helyzetét vizsgálja, akik a Magyar-kormány alatt felelősségre vonás és vagyon visszaszerzés alatt állnak. A cikk keretezése azt sugallja, hogy ezek az Orbánhoz köthető elitok megpróbálnak elszökni az előző rezsim alatt szerzett gazdagságuk következményei elől, amely Magyarország szisztematikus korrupció elleni elszámoltatásának központi eleme.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "fidesz",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "be207d2da3bc63d4",
     "source": "Balkan Insight",
     "region": "cee",

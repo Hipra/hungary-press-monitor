@@ -1,16 +1,16 @@
 {
-  "total_articles": 376,
-  "analyzed_articles": 376,
+  "total_articles": 377,
+  "analyzed_articles": 377,
   "tone": {
     "neutral": 167,
     "mixed": 37,
     "positive": 115,
-    "critical": 56,
+    "critical": 57,
     "hopeful": 1
   },
   "framing": {
     "democracy_restoration": 83,
-    "corruption": 18,
+    "corruption": 19,
     "other": 12,
     "eu_integration": 64,
     "rule_of_law": 40,
@@ -33,7 +33,7 @@
     "de": 44,
     "fr": 13,
     "us": 33,
-    "cee": 16,
+    "cee": 17,
     "think": 1
   },
   "source": {
@@ -45,9 +45,9 @@
     "Financial Times": 25,
     "The Guardian": 20,
     "EUobserver": 18,
+    "Balkan Insight": 14,
     "Le Monde": 13,
     "Washington Post": 13,
-    "Balkan Insight": 13,
     "AP News": 12,
     "New York Times": 10,
     "BBC": 10,
@@ -63,16 +63,16 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 303,
+    "government transition": 304,
     "EU relations": 217,
     "democracy": 153,
     "geopolitics": 146,
-    "rule of law": 99,
+    "rule of law": 100,
     "foreign policy": 90,
     "EU funds": 73,
     "elections": 55,
     "economy": 51,
-    "corruption": 31,
+    "corruption": 32,
     "Fidesz opposition": 28,
     "energy": 28,
     "Russia deals": 26,
@@ -110,8 +110,8 @@
     "magyar_peter": 130,
     "hungary_country": 104,
     "eu_institutions": 35,
+    "fidesz": 6,
     "orban_viktor": 69,
-    "fidesz": 5,
     "other": 31,
     "EU_institutions": 2
   },
@@ -158,7 +158,7 @@
     "2026-05-05": 5,
     "2026-05-06": 18,
     "2026-05-07": 19,
-    "2026-05-08": 20,
+    "2026-05-08": 21,
     "2026-05-09": 15
   },
   "tone_by_source": {
@@ -237,7 +237,7 @@
       "neutral": 4
     },
     "Balkan Insight": {
-      "critical": 3,
+      "critical": 4,
       "positive": 4,
       "neutral": 4,
       "mixed": 2
@@ -360,10 +360,10 @@
       "neutral": 22
     },
     "Balkan Insight": {
-      "critical": 23,
-      "positive": 31,
-      "neutral": 31,
-      "mixed": 15
+      "critical": 29,
+      "positive": 29,
+      "neutral": 29,
+      "mixed": 14
     },
     "Financial Times": {
       "neutral": 64,
@@ -395,5 +395,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-09T22:14:05.722294+00:00"
+  "last_updated": "2026-05-10T02:13:03.466078+00:00"
 }
