@@ -1,43 +1,41 @@
 {
-  "top_story_en": "Péter Magyar was sworn in as Hungary's Prime Minister on May 10, 2026, formally ending Viktor Orbán's 15-year rule — a moment covered simultaneously by every major Western wire, broadcaster, and print outlet as a historic democratic restoration.",
-  "top_story_hu": "Magyar Péter 2026. május 10-én letette a miniszterelnöki esküt, formálisan lezárva Orbán Viktor 15 éves uralmát — az eseményt az összes vezető nyugati hírügynökség és sajtóorgánum egyidejűleg történelmi demokratikus helyreállításként értékelte.",
+  "top_story_en": "Péter Magyar was sworn in as Hungary's Prime Minister on May 10, 2026, formally ending Viktor Orbán's 15-year rule — the most widely covered single event in Western media since Hungary's April election. The EU flag was simultaneously restored to parliament, providing an immediate symbolic anchor for international coverage.",
+  "top_story_hu": "Péter Magyar 2026. május 10-én miniszterelnökként letette az esküt, ezzel formálisan véget ért Orbán Viktor 15 éves uralma — ez a nap a nyugati sajtóban az áprilisi választások óta a legtöbbet tárgyalt esemény. Az EU-zászlót egyidejűleg visszahelyezték a parlament homlokzatára, azonnali szimbolikus keretet adva a nemzetközi tudósításoknak.",
   "key_developments_en": [
-    "Magyar was sworn in with his Tisza Party holding a two-thirds parliamentary majority, giving the new government a constitutional mandate for sweeping institutional reform.",
-    "The EU flag was restored to the Hungarian parliament building, immediately adopted by Le Monde as the defining visual symbol of Hungary's European reintegration.",
-    "The Times reports systematic asset seizures are underway against Orbán-era oligarchs, framing retribution as a rule-of-law signal rather than political vendetta.",
-    "Euronews flags a severe drought afflicting Hungary — an economic stress factor so far reported in isolation from the fiscal transition narrative.",
-    "Politico and DW both hail the 'new chapter' while explicitly cautioning that early nepotism signals and populist tendencies warrant sustained Western scrutiny."
+    "Magyar sworn in with a two-thirds Tisza Party majority, giving the government a constitutional mandate for sweeping institutional reform.",
+    "The EU flag was restored to the Hungarian parliament building on inauguration day, reported by Le Monde as a concrete break-with-Orbán signal.",
+    "The Times reports systematic asset seizures underway against Orbán-era oligarchs, framing retribution as a rule-of-law priority for the new government.",
+    "Euronews flags a severe drought hitting Hungary, with prolonged rainfall deficit threatening agricultural output — still reported in isolation from fiscal transition pressures.",
+    "Politico and DW note intensifying Western scrutiny over early nepotism signals, tempering the inauguration day enthusiasm with explicit caution."
   ],
   "key_developments_hu": [
-    "Magyar kétharmados parlamenti többséggel tette le az esküt, ami alkotmányos felhatalmazást ad az új kormánynak az átfogó intézményi reformokhoz.",
-    "Az EU zászló visszakerült a parlament épületére — a Le Monde ezt választotta a magyarországi európai reintegráció meghatározó vizuális szimbólumának.",
-    "A Times arról számol be, hogy szisztematikus vagyonlefoglalások folynak az Orbán-korszak oligarchái ellen, amit a jogállamiság helyreállításának jeleként, nem politikai bosszúként értékelnek.",
-    "Az Euronews súlyos aszályról tudósít Magyarországon — ez a gazdasági stresszfaktor egyelőre elszigetelten jelenik meg, nem kapcsolódik össze a fiskális átmenet narratívájával.",
-    "A Politico és a DW egyaránt üdvözli az 'új fejezetet', de mindkét orgánum explicitly figyelmeztet: a korai nepotizmus-jelek és a populista tendenciák tartós nyugati figyelmet igényelnek."
+    "Magyar kétharmados Tisza-többséggel tette le az esküt, ami alkotmányos felhatalmazást ad az átfogó intézményi reformokhoz.",
+    "A beiktatás napján visszakerült az EU-zászló a parlament épületére — a Le Monde ezt az Orbán-érával való konkrét szakítás jeleként értékeli.",
+    "A Times arról tudósít, hogy szisztematikus vagyonzárolások zajlanak az Orbán-korszak oligarchái ellen; a lap a megtorlást jogállami prioritásként értelmezi.",
+    "Az Euronews súlyos aszályra figyelmeztet: a tartós csapadékhiány veszélyezteti a mezőgazdasági termelést — egyelőre nem kapcsolják össze a fiskális átmenet kockázataival.",
+    "A Politico és a DW a beiktatásnapi lelkesedést nepotizmusra utaló korai jelekkel árnyalja, és explicit óvatosságra int."
   ],
   "narrative_shifts_en": [
-    "Coverage has moved from anticipation to documentation: the dominant frame today is eyewitness inauguration reporting, not analytical scrutiny — critical voices (Politico, DW) appear as secondary registers, not the lead.",
-    "The NYT's 'old guard trauma' angle — focusing on Orbán loyalists' psychological shock rather than Magyar's agenda — marks a notable shift toward the human cost of transition for the losing side.",
-    "The EU flag restoration, a symbolic detail, received disproportionate editorial weight (Le Monde lead), signalling that European outlets are actively curating icons of Hungary's democratic return."
+    "Coverage has shifted from anticipation to ceremony: today's dominant frame is historical rupture and symbolic restoration, with substantive policy scrutiny largely deferred.",
+    "The 'cautious optimism' frame of recent days has split — celebratory outlets (Le Monde, Guardian) lean into democratic spring imagery, while Politico and DW maintain the warning register established last week."
   ],
   "narrative_shifts_hu": [
-    "A tudósítás a várakozásból dokumentációba fordult: a mai domináns keret a szemtanús beiktatási riport, nem az analitikus vizsgálat — a kritikus hangok (Politico, DW) másodlagos regiszterként jelennek meg.",
-    "Az NYT 'régi gárda traumája' szöge — amely az Orbán-hívek lelki sokkjára fókuszál Magyar programja helyett — figyelemre méltó elmozdulást jelöl az átmenet vesztes oldalának emberi költségei felé.",
-    "Az EU-zászló visszahelyezése, egy szimbolikus részlet, aránytalanul nagy szerkesztői súlyt kapott (Le Monde vezető), jelezve, hogy az európai lapok aktívan ikonokat gyűjtenek Magyarország demokratikus visszatéréséhez."
+    "A tudósítások fókusza az előrejelzésről az ünnepségre tolódott: a domináns keret ma a történelmi fordulat és a szimbolikus helyreállítás, az érdemi szakpolitikai elemzés nagyrészt elmaradt.",
+    "Az elmúlt napok 'óvatos optimizmusa' kettévált: az ünneplő lapok (Le Monde, Guardian) a demokratikus tavasz képiségébe menekülnek, míg a Politico és a DW fenntartja a múlt héten kialakított figyelmeztető regisztert."
   ],
   "quotes_en": [],
   "quotes_hu": [],
   "what_to_watch_en": [
-    "Magyar's first concrete legislative moves: whether judicial reform bills and media restructuring proposals are tabled in the parliament's opening session will set the pace for the entire transition.",
-    "EU frozen funds standoff: with Euractiv characterising negotiations as deteriorating, the first post-inauguration contact between Magyar's government and von der Leyen's team is the key near-term signal.",
-    "Orbán's next move: his unresolved offer to resign as Fidesz party chief and reported pursuit of an EU Parliament seat for legal immunity — two threads that will define the opposition's shape."
+    "Magyar's first substantive policy announcements: judicial reform legislation, EU funds negotiations posture, and any concrete Ukraine or Russia bilateral steps will set the governing tone beyond the inauguration.",
+    "Orbán's next move: his unresolved resignation offer as Fidesz party chief and reported pursuit of an EU Parliament seat for immunity remain the key post-inauguration unknowns.",
+    "The drought-economy nexus: as agricultural stress compounds fiscal transition risks, watch for the first reporting that connects these two currently siloed stories."
   ],
   "what_to_watch_hu": [
-    "Magyar első konkrét törvényhozói lépései: a bírósági reform és a médiaátalakítás törvényjavaslatainak parlamenti benyújtása meghatározza az egész átmenet ütemét.",
-    "Az EU-s befagyasztott források patthelyzete: az Euractiv a tárgyalásokat romlóként jellemzi — a Magyar-kormány és Von der Leyen csapata közötti első beiktatás utáni kapcsolatfelvétel a legfontosabb rövid távú jelzés.",
-    "Orbán következő lépése: a Fidesz-elnöki lemondási ajánlata rendezetlen maradt, és jelentések szerint EP-mandátumot keres jogi mentelmi jogért — két szál, amely meghatározza az ellenzék jövőbeli formáját."
+    "Magyar első érdemi szakpolitikai bejelentései: az igazságügyi reform jogszabályai, az EU-forrásokról szóló tárgyalások iránya, illetve az ukrán és orosz kapcsolatokban tett konkrét lépések jelzik majd a kormányzati irányt a beiktatáson túl.",
+    "Orbán következő húzása: a Fidesz-elnöki tisztségről tett, egyelőre nyitott lemondási ajánlat és az EP-mandátum — és ezzel a mentelmi jog — megszerzésére irányuló törekvés a beiktatás utáni legfontosabb nyitott kérdések.",
+    "Az aszály és a gazdaság kapcsolata: ahogy a mezőgazdasági stressz tovább terheli a fiskális átmenetet, figyelni kell, mikor jelenik meg az első tudósítás, amely összekapcsolja e két eddig elkülönülten kezelt szálat."
   ],
   "date": "2026-05-10",
-  "article_count": 14,
-  "generated_at": "2026-05-10T06:12:37.589754+00:00"
+  "article_count": 16,
+  "generated_at": "2026-05-10T10:13:39.631668+00:00"
 }

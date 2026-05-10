@@ -1,5 +1,63 @@
 [
   {
+    "id": "fc893989faf93c53",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "In Hungary, jubilation marks Péter Magyar's inauguration as prime minister - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMzBIRG93WWVuUWhTQ3ZnS2NTTnhZdzdaUkYzRkZDdW5LUUlrTTVYcGN3RzU2XzlrZG52LWR6YWoyUGVTUDFRbHhGWGpvUEpiV0pxUnZoZkpyMHctaEJRUG0xVVZWa3BYLWQ4T1BWVy1PcDVoUlgtYnB3dFVCdVI5VkF2UE9Fc0ZyNWdNSXBGSnFGNFdLQzU0RnRMSzZwT1dxa0NtUlczbHhwUW1hNEhOTVM1UWc3bVNXSENqbFIyYWlFUW9ScEtXNC1nMlhBSmxKN1JaRjFmSm56OXlrUGxCTA?oc=5",
+    "published_at": "2026-05-10T06:48:28+00:00",
+    "fetched_at": "2026-05-10T10:00:35.185539+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was inaugurated as Hungary's Prime Minister on May 10, 2026, in a ceremony marked by jubilation over the end of Viktor Orbán's 15-year rule. The Tisza Party's two-thirds majority enables sweeping democratic and institutional reforms. Magyar's government is focused on EU reintegration, rule of law restoration, and Ukraine normalization.",
+    "title_hu": "Magyarországon ujjongás jelzi Péter Magyar miniszterelnöki beiktatását",
+    "summary_hu": "Péter Magyart 2026. május 10-én avatták be Magyarország miniszterelnökévé, amit ujjongás jellemzett, amely Viktor Orbán 15 éves uralma végét jelezte. A Tisza párt kétharmados parlamentáris többsége lehetővé teszi az átfogó demokratikus és intézményi reformokat. Magyar kormánya az EU-val való reintegrációra, a jogállamiság helyreállítására és Ukrajna-kapcsolatok normalizálására összpontosít.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "a22a347f9ce245a9",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary enters post‑Orban era as new PM takes office - dw.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORXVzempVZGJ6TUNSM05Xek9Lb01Pa3kyYmNIMEdBTmhQcUx5aUxwcDVoRXNySHZ3QlIzZno5V0htOTlyRHRMLUMyTFJELVMybHkxazNQbFJ4dkFEaVZ0ci1zR25iSm9pa2pMYVJMalVmVFctVGNRQkQweGRjN28wY2s3Yl9EdDhyRXdVTHF1ZHd1Zw?oc=5",
+    "published_at": "2026-05-10T06:04:36+00:00",
+    "fetched_at": "2026-05-10T10:00:37.259234+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Prime Minister on May 10, 2026, formally ending Viktor Orbán's 15-year rule and marking Hungary's entry into a post-authoritarian era. The Tisza Party's two-thirds parliamentary majority positions the new government to pursue sweeping institutional reform. DW frames this transition as Hungary's democratic restoration and return to rule-of-law governance.",
+    "title_hu": "Magyarország belépett az Orbán utáni korszakba, ahogy az új miniszterelnök hivatalba lép",
+    "summary_hu": "Péter Magyar miniszterelnök esküt tett 2026. május 10-én, amely formálisan véget vetett Viktor Orbán 15 éves uralomnak és Magyarország belépését jelenti az autoritarizmus utáni korszakba. A Tisza Párt kétharmados parlamentáris többsége lehetővé teszi az intézményi reformok széles körét. A DW ezt az átmenetet Magyarország demokratikus helyreállításaként és a jogállamiság visszatéréseként értelmezi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "9d9bdf3a6e08f671",
     "source": "New York Times",
     "region": "us",
@@ -86,6 +144,35 @@
     "quotes": []
   },
   {
+    "id": "cd058e0721cb0b5b",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Magyar sworn in as Hungary's premier on promise of change - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBueDFuYUpJZjhPUHJQNWtVOHNCT05Fd2lBQkpDejVmQ3N3QTBPSWRjMEl5RDVvV2xYUWcwR0xMOGFydE1NTVdFOHpMd0pSeVFPVHpaZ0laMEFfdnVRMFZiMlYtRUdwcVU?oc=5",
+    "published_at": "2026-05-09T15:51:02+00:00",
+    "fetched_at": "2026-05-10T10:00:01.990147+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Hungary's new Prime Minister on May 10, 2026, ending Viktor Orbán's 15-year rule and marking a historic democratic transition. With the Tisza Party's two-thirds parliamentary majority, Magyar's government is advancing institutional reform, EU fund recovery, and European reintegration.",
+    "title_hu": "Magyar Péter Magyarország új miniszterelnökeként esküt tett - a változás ígéretével",
+    "summary_hu": "Péter Magyar 2026. május 10-én esküt tett Magyarország új miniszterelnökeként, amely véget vet Viktor Orbán 15 éves kormányzásának és egy történelmi demokratikus átmenet kezdete. A Tisza Párt kétharmados parlamentáris többsége lehetővé teszi az intézményi reformok, az EU-alapok visszaszerzésének és az európai reintegrációnak az előmozdítását.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "2e3f64d4fdb7e9f1",
     "source": "The Times",
     "region": "uk",
@@ -108,6 +195,36 @@
     "summary_en": "Hungary's new government is pursuing systematic asset seizures and accountability measures against oligarchs and business figures closely aligned with Viktor Orbán's former regime. The Times reports on retribution as part of broader judicial and anti-corruption reforms under Prime Minister Péter Magyar. These actions reflect the new government's commitment to rule-of-law restoration and represent a sharp reversal from the crony-capitalism patterns that characterized Orbán's 15-year rule.",
     "title_hu": "Megtorlás fenyegeti Orbán szupergazdag cimborásait Magyarországon",
     "summary_hu": "Magyarország új kormánya szisztematikus eszközlecsapásokat és elszámoltatási eljárásokat indít azok ellen az oligarchák és üzletemberek ellen, akik szorosan kapcsolódtak Viktor Orbán volt rendszeréhez. A Times arról számol be, hogy a Péter Magyar miniszterelnök alatt megindult megtorlás a szélesebb körű jogállami és korrupció elleni reformok részét képezi. Ezek az intézkedések az új kormányzat jogállami restaurációra irányuló elkötelezettségét tükrözik, és éles fordulat az Orbán 15 éves uralma alatt jellemző oligarchiai kapitalizmussal szemben.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "144e189ac5d12319",
+    "source": "BBC",
+    "region": "uk",
+    "title": "Macaristan Başbakanı Magyar parlamentoda yemin etti - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pZ1Rpd0lwWElOcTFoYmJQaVZ5QzZYWm9WTDN1eVFuOTNfRVdzQlNpMWxKVVVCSjI0Y19TRGdXMFhVVWdpT3UyS3VrUWdXTTFwVnBCNHNKZVZVeFph0gFiQVVfeXFMUFZpUzZwdlBNWUNveWFLbV8tWkd6LUNXRnlOR3liTzd2cXVDU2RKb0NuMmhOTU4yTUJsNWVPN0JuNXdpQkwxbGVqWC04b3JmS1ZKbF9wMGF2d2ZYdHZvaXlIQnc?oc=5",
+    "published_at": "2026-05-09T15:30:57+00:00",
+    "fetched_at": "2026-05-10T10:00:05.868090+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "elections",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Prime Minister of Hungary, formally ending Viktor Orbán's 15-year rule. The Tisza Party's two-thirds parliamentary majority enables sweeping institutional reform. This marks a historic democratic transition with international significance.",
+    "title_hu": "Magyar Péter megeskült a parlamentben",
+    "summary_hu": "Péter Magyar magyar miniszterelnökké esküdt fel, formálisan végét vetve Viktor Orbán 15 éves uralomnak. A Tisza Párt kétharmados parlamenti többsége lehetővé teszi az intézmények átfogó reformját. Ez történelmi demokratikus átalakulást jelent nemzetközi jelentőséggel.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
@@ -400,6 +517,36 @@
     "main_actor": "magyar_peter",
     "comparison_countries": [],
     "quotes": []
+  },
+  {
+    "id": "64b8168b221b7d9e",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Blind date: ‘I hope my handshake wasn’t too much of a red flag’ - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGNyaXE0Vm03RXZJQTZLRGV6alBKRHB1dkVXSjJTZWZ6OUZaLUFIdEw0NzF3N3RQeHgwSmFRVDZlOENfWWt0TllFWFNtdHJwa3kydmVHUTdDOTJZalVzQlJGd05UdEk4a010T3NUbGZ6NmdzZVZmdjZfNVRjT3d0Z1duMUM?oc=5",
+    "published_at": "2026-05-09T05:00:00+00:00",
+    "fetched_at": "2026-05-10T10:00:07.737732+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungary's first blind minister"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's newly appointed first blind minister is profiled in The Guardian, discussing his appointment under Péter Magyar's government and reflecting on perceptions of disability in leadership roles.",
+    "title_hu": "Vak randi: 'Remélem, a szorításom nem volt túl nagy figyelmeztető jel'",
+    "summary_hu": "A The Guardian Magyarország új kormánya által kinevezett első vak miniszterét ismerteti meg, aki beszél kinevezéséről és a fogyatékosság megítéléséről vezetői pozícióban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "I hope my handshake wasn't too much of a red flag"
+    ]
   },
   {
     "id": "d67e414be6c3fa50",
