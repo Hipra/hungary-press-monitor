@@ -1,23 +1,23 @@
 {
-  "total_articles": 413,
-  "analyzed_articles": 413,
+  "total_articles": 417,
+  "analyzed_articles": 417,
   "tone": {
-    "positive": 127,
+    "positive": 131,
     "neutral": 179,
     "mixed": 40,
     "critical": 66,
     "hopeful": 1
   },
   "framing": {
+    "eu_integration": 67,
     "democracy_restoration": 101,
-    "eu_integration": 65,
+    "geopolitics": 102,
     "other": 13,
     "rule_of_law": 48,
     "EU_integration": 6,
     "russia_china": 7,
     "government transition": 3,
     "corruption": 21,
-    "geopolitics": 100,
     "economy": 22,
     "regional": 9,
     "media_freedom": 9,
@@ -27,30 +27,30 @@
     "energy": 3
   },
   "region": {
+    "uk": 75,
     "think": 2,
-    "eu": 144,
+    "de": 50,
+    "eu": 145,
     "us": 38,
+    "fr": 15,
     "wire": 74,
-    "uk": 74,
-    "de": 49,
-    "cee": 18,
-    "fr": 14
+    "cee": 18
   },
   "source": {
     "Reuters": 60,
-    "DW English": 48,
+    "DW English": 49,
     "Politico Europe": 45,
     "Euronews": 39,
     "Euractiv": 36,
     "The Guardian": 25,
     "Financial Times": 25,
-    "EUobserver": 21,
+    "EUobserver": 22,
     "Washington Post": 15,
+    "Le Monde": 15,
     "AP News": 14,
-    "Le Monde": 14,
     "Balkan Insight": 14,
+    "BBC": 13,
     "New York Times": 12,
-    "BBC": 12,
     "The Times": 9,
     "Wall Street Journal": 4,
     "Foreign Policy": 4,
@@ -64,12 +64,12 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 336,
-    "EU relations": 231,
+    "government transition": 337,
+    "EU relations": 234,
     "democracy": 175,
-    "geopolitics": 151,
+    "geopolitics": 155,
     "rule of law": 118,
-    "foreign policy": 96,
+    "foreign policy": 100,
     "EU funds": 75,
     "elections": 57,
     "economy": 54,
@@ -80,47 +80,47 @@
     "Fidesz opposition": 28,
     "society": 20,
     "judicial reform": 16,
-    "V4 diplomacy": 11,
+    "V4 diplomacy": 12,
     "media freedom": 11,
     "NATO": 5,
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 326,
-    "Viktor Orbán": 201,
-    "European Commission": 52,
+    "Péter Magyar": 330,
+    "Viktor Orbán": 202,
+    "European Commission": 54,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 34,
     "Ukraine": 32,
-    "Ursula von der Leyen": 29,
+    "Ursula von der Leyen": 30,
     "Volodymyr Zelenskyy": 20,
     "Hungary": 20,
-    "European Union": 18,
+    "European Union": 19,
     "Donald Tusk": 16,
     "Russia": 15,
     "EU institutions": 13,
-    "Hungarian government": 11,
+    "Hungarian government": 12,
     "Rumen Radev": 10,
     "EU officials": 8,
     "Benjamin Netanyahu": 7,
     "EU Court of Justice": 7,
-    "Fidesz party": 6,
-    "EU leaders": 6
+    "EU member states": 6,
+    "Vladimir Putin": 6
   },
   "main_actor": {
-    "hungary_country": 113,
+    "hungary_country": 115,
+    "eu_institutions": 38,
     "magyar_peter": 150,
     "other": 33,
     "orban_viktor": 73,
-    "eu_institutions": 36,
     "fidesz": 6,
     "EU_institutions": 2
   },
   "comparison_countries": {
     "Ukraine": 28,
     "Poland": 24,
-    "Russia": 17,
-    "Slovakia": 14,
+    "Russia": 18,
+    "Slovakia": 15,
     "Bulgaria": 9,
     "United States": 6,
     "Israel": 6,
@@ -161,13 +161,25 @@
     "2026-05-07": 20,
     "2026-05-08": 22,
     "2026-05-09": 21,
-    "2026-05-10": 11,
-    "2026-05-11": 14
+    "2026-05-10": 12,
+    "2026-05-11": 17
   },
   "tone_by_source": {
+    "BBC": {
+      "positive": 6,
+      "neutral": 6,
+      "critical": 1
+    },
     "ECFR": {
       "positive": 1,
       "neutral": 1
+    },
+    "DW English": {
+      "positive": 19,
+      "mixed": 5,
+      "neutral": 22,
+      "critical": 2,
+      "hopeful": 1
     },
     "Euronews": {
       "neutral": 20,
@@ -179,6 +191,11 @@
       "positive": 9,
       "neutral": 5,
       "critical": 1
+    },
+    "Le Monde": {
+      "positive": 10,
+      "critical": 2,
+      "neutral": 3
     },
     "Reuters": {
       "neutral": 33,
@@ -193,8 +210,8 @@
     },
     "EUobserver": {
       "neutral": 6,
+      "positive": 4,
       "critical": 11,
-      "positive": 3,
       "mixed": 1
     },
     "The Guardian": {
@@ -209,31 +226,14 @@
       "positive": 6,
       "mixed": 6
     },
-    "DW English": {
-      "mixed": 5,
-      "neutral": 22,
-      "positive": 18,
-      "critical": 2,
-      "hopeful": 1
-    },
     "Notes from Poland": {
       "critical": 1
-    },
-    "Le Monde": {
-      "positive": 9,
-      "critical": 2,
-      "neutral": 3
     },
     "New York Times": {
       "neutral": 5,
       "critical": 2,
       "positive": 4,
       "mixed": 1
-    },
-    "BBC": {
-      "neutral": 6,
-      "positive": 5,
-      "critical": 1
     },
     "The Times": {
       "mixed": 1,
@@ -293,6 +293,18 @@
     }
   },
   "source_bias": {
+    "BBC": {
+      "positive": 46,
+      "neutral": 46,
+      "critical": 8
+    },
+    "DW English": {
+      "positive": 39,
+      "mixed": 10,
+      "neutral": 45,
+      "critical": 4,
+      "hopeful": 2
+    },
     "Euronews": {
       "neutral": 51,
       "positive": 28,
@@ -303,6 +315,11 @@
       "positive": 60,
       "neutral": 33,
       "critical": 7
+    },
+    "Le Monde": {
+      "positive": 67,
+      "critical": 13,
+      "neutral": 20
     },
     "Reuters": {
       "neutral": 55,
@@ -316,9 +333,9 @@
       "mixed": 7
     },
     "EUobserver": {
-      "neutral": 29,
-      "critical": 52,
-      "positive": 14,
+      "neutral": 27,
+      "positive": 18,
+      "critical": 50,
       "mixed": 5
     },
     "The Guardian": {
@@ -333,28 +350,11 @@
       "positive": 17,
       "mixed": 17
     },
-    "DW English": {
-      "mixed": 10,
-      "neutral": 46,
-      "positive": 38,
-      "critical": 4,
-      "hopeful": 2
-    },
-    "Le Monde": {
-      "positive": 64,
-      "critical": 14,
-      "neutral": 21
-    },
     "New York Times": {
       "neutral": 42,
       "critical": 17,
       "positive": 33,
       "mixed": 8
-    },
-    "BBC": {
-      "neutral": 50,
-      "positive": 42,
-      "critical": 8
     },
     "The Times": {
       "mixed": 11,
@@ -404,5 +404,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-11T18:15:02.040239+00:00"
+  "last_updated": "2026-05-11T22:15:26.897865+00:00"
 }

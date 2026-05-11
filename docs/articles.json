@@ -1,5 +1,34 @@
 [
   {
+    "id": "803cedf682bd53df",
+    "source": "BBC",
+    "region": "uk",
+    "title": "EU agrees sanctions on Israeli settlers over West Bank violence - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvVlFkVkM2ejlWYmFjVnpoRFN1aVk5U0I4SUFZc2pncDJubXZycmxwS1pOMWdCQ0VvTGhSR05IMzRKNy1SR3J4VGhYcGRRZ21zZ1h2dVZ1c0REZw?oc=5",
+    "published_at": "2026-05-11T19:37:17+00:00",
+    "fetched_at": "2026-05-11T22:00:08.359417+00:00",
+    "topics": [
+      "foreign policy",
+      "EU relations",
+      "geopolitics"
+    ],
+    "actors": [
+      "European Commission",
+      "EU member states",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new government backed EU sanctions on Israeli settlers, marking a concrete foreign policy break from Viktor Orbán's pattern of EU obstruction. The move signals Hungary's accelerating alignment with mainstream EU positions.",
+    "title_hu": "EU megállapodott az izraeli telepesek elleni szankciókról a Nyugati part erőszaka miatt - BBC",
+    "summary_hu": "Magyarország új kormánya támogatta az EU szankcióit az izraeli telepesek ellen, amely a Fidesz-rendszer politikai izolációjának konkrét szakítása. A lépés az EU föáramú pozícióival való gyorsuló igazodást jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "145963316bb013d1",
     "source": "ECFR",
     "region": "think",
@@ -26,6 +55,37 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "fa0bc9f8053ca2e2",
+    "source": "DW English",
+    "region": "de",
+    "title": "EU greenlights sanctions on Israeli West Bank settlers - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0d6VHpyV2pkbTdxbEZRNDNvZ05xU1ZjNk1SbVBveG5DZXFOWTI4d3BIVU0xMUIya0s3M1JSYngtdFViU0cxX3pjalBiM3Joa0FZZzdKd2wyWktlWlJmVmRIXzBvcGZYOG5UQ3BGY0Vzemt1MWZWaWlFWlNveHUtUkV1UTVQX3hyRXY1b0p5a2TSAZABQVVfeXFMTjFQMENmVnktUXRjQk0xSGxwcV9ueFlVN0pVcGE3TUZ5ajJsLXU3X1dNWXgwVVpYck1NTmtrV2YwcnZFSXpPNkRDZGFTYXZiVkNzcGtZekZpRmRzQWRiMHpmeWFiVnF1bzFiQnQxSTJNcllQUzhDT3hjN3c5NGtZRjVydjY5ZlVpcEVSczh5T1V0?oc=5",
+    "published_at": "2026-05-11T15:52:01+00:00",
+    "fetched_at": "2026-05-11T22:00:41.839615+00:00",
+    "topics": [
+      "foreign policy",
+      "EU relations",
+      "geopolitics",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungarian government",
+      "European Union",
+      "Ursula von der Leyen"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The EU approved sanctions on Israeli West Bank settlers, a measure that Hungary's new government under Péter Magyar supported—reversing Viktor Orbán's pattern of blocking such EU consensus. This backing signals Hungary's realignment with mainstream EU foreign policy and its break from Orbán-era diplomatic obstruction.",
+    "title_hu": "Az EU jóváhagyja az izraeli Nyugat-part-i telepesekre vonatkozó szankciókat",
+    "summary_hu": "Az EU jóváhagyott szankciókat az izraeli Nyugat-part-i telepesekre, amelyet Péter Magyar magyar kormánya támogatott – megfordítva Viktor Orbán azon szokását, hogy blokkolni szokott az EU-konszenzus ezen típusú intézkedéseit. Ez a támogatás Magyarország EU-val való újraegyezésének jelét adja és az Orbán-korszak diplomáciai obstrukciójának végét jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
     "comparison_countries": [],
     "quotes": []
   },
@@ -82,6 +142,34 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "51ca9f868f273314",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "EU to impose sanctions on Israeli settlers - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGZDNGplZDBWdDA2aFQ1c0pWTXQ1aE9NQ21LWGw3cUdUbUtMN3RaTVFDSkVTQnpRSndUMm1TN1M4YzJlb0plcTVQNGZpU2J6eEF3RktobkFnZUk2a1BjQVNwV1ZUN0E3NmlXMGZiNEFvLW9xWE16ajN5SHZydHNONXUxbGw3QUxLLXVsTWUtZXdndjlRamRVTko1UUhBdWE0Y0RtSzZMRkRQTnVGYUJIamY5cFVfY2s?oc=5",
+    "published_at": "2026-05-11T13:51:47+00:00",
+    "fetched_at": "2026-05-11T22:00:39.982689+00:00",
+    "topics": [
+      "EU relations",
+      "foreign policy",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's backing of EU sanctions on Israeli settlers represents a concrete foreign policy break from the Orbán era and signals the Magyar government's commitment to EU reintegration. This alignment with EU positions contrasts with previous Hungarian vetoes and demonstrates the new government's intention to rejoin European mainstream foreign policy.",
+    "title_hu": "Az EU szankciókat vet ki az izraeli telepesek ellen",
+    "summary_hu": "Magyarország az izraeli telepesek ellen irányuló EU szankciók támogatása az Orbán-korszak külföldi politikájától való eltérést jelent, és a Magyar-kormány EU-s reintegrációs elkötelezettségét jelzi. Ez az összhang az EU álláspontjaival ellentétben áll az előző magyar vétókkal, és az új kormány szándékát mutatja az európai mainstream külföldi politikához való visszatérésre.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
     "comparison_countries": [],
     "quotes": []
   },
@@ -482,6 +570,40 @@
     "is_relevant": 1,
     "main_actor": "magyar_peter",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "cbc4dc430be1b1de",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Putin and Fico look like losers at ‘Victory’ parade - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWlNCSElQZHNPRU5SR0ZjbmFvMVdIU1ZEZzFGWnBJekJHM18tamUzV2NjSEtOQlc2QVM0ZDl4aUFmRGRpUUxRdWRPRkdvUXVHMlM1RmxjbWw5UDExQ0M0RHdxY2pHNWhNQVNNcnprQ1lMZ0J5bU9la3Y5U0xOZmtjVXFpVkJkb1U?oc=5",
+    "published_at": "2026-05-10T18:00:00+00:00",
+    "fetched_at": "2026-05-11T10:00:30.636654+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "russia_china",
+      "V4 diplomacy"
+    ],
+    "actors": [
+      "Vladimir Putin",
+      "Robert Fico",
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "EUobserver reports on Putin and Fico appearing isolated at Russia's Victory Day parade, reflecting broader geopolitical realignment in the region. Hungary's new government under Péter Magyar notably did not attend, marking a sharp diplomatic break from Orbán's Russia-aligned foreign policy. The non-attendance signals Hungary's pivot toward Western integration and EU reorientation.",
+    "title_hu": "Putyin és Fico veszteseknek tűnnek a 'Világháborús Győzelem' parádén",
+    "summary_hu": "Az EUobserver arról számol be, hogy Putyin és Fico elszigeeltnek tűnnek az Oroszország Világháborús Győzelem parádéjában, tükrözve a régió szélesebb geopolitikai átrendeződését. Péter Magyar új magyar kormánya figyelemre méltóan nem vett részt, ami éles diplomáciai szakadást jelent Orbán Oroszország-orientált külpolitikájától. A részvétel mellőzése Magyarország nyugati integráció felé fordulásának és az EU-s újraorientációjának jelét adja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Slovakia",
+      "Russia"
+    ],
     "quotes": []
   },
   {
