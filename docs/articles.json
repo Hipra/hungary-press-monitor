@@ -1,5 +1,91 @@
 [
   {
+    "id": "145963316bb013d1",
+    "source": "ECFR",
+    "region": "think",
+    "title": "In a joyful Budapest, with the populists routed, I saw the chance of an unprecedented transition - European Council on Foreign Relations",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZWFZSTJrSGU5TlpjQ0Q1ekUxLUw5RjZ6SURPUzlhWERGS2hCV1pEQjRlM3cyejFua20wVTUxR0M2VkNnc05HTmYzVUFIQUJseXU1Yld4NTdsU05LYmQ1NUVjR09mLW5Hd2dhMFYtcGNXSXpwTk04dWQyWVptb1Btb2pPTTJBbkZrX3I0Um8yb0hnVFZncnpFQTFZUkNzSDYtSGVMN3FzSWFvMWNuaWZFRDhMeGZ4NlVwWDh30gHAAUFVX3lxTFBPQzhoVlVnbjllQ0hEZEp4TXNQSXY1Sk94YmRWWl9rYzlLUHNGZEN3OGJmMGRuS01hbGViZ0d3VGdLQnhBUkI4bFBpS1FKeElvWkRZRXQ0NnA3MkhVMFJtYUo0b0cwS01fLUZiUE9yUWFzNTJtVmU2MkQyV1NwMUE3eTFWbjJlLWpKRnBteUNocEVYMHlieFR0SmhMcmRSeWlYUWtpaWtSTGRPeEIzalpPSldsZDY3TjY1bHRXaVNKVQ?oc=5",
+    "published_at": "2026-05-11T16:14:00+00:00",
+    "fetched_at": "2026-05-11T18:00:48.540739+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "European Union"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "An ECFR analysis celebrating Hungary's democratic transition following the Tisza Party's decisive electoral victory over Viktor Orbán's 15-year populist rule. The author observes in Budapest an unprecedented opportunity for Hungary to fundamentally reform institutions and reintegrate with EU democratic standards.",
+    "title_hu": "Örömteli Budapest, a populisták vereségével, egy példátlan átmenet lehetőségét láttam",
+    "summary_hu": "Az ECFR elemzése dicséretes tónusban értékeli Magyarország demokratikus átmenetét a Tisza Párt Orbán Viktor 15 éves populista kormányzása feletti döntő választási győzelme után. A szerző Budapestben egy példátlan lehetőséget lát arra, hogy Magyarország alapvetően reformálja az intézményeket és újraintegrálja magát az EU demokratikus normáiba.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b438c7fcbf76a29b",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "EU approves sanctions on Israeli settlers after Hungarian backing - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSU9QMjI0WEFTeU9nTU40MFFCa2JqQjkwTDlPR2YyeDZvQVVzU0Z4OUJ4aUVhOXBhN3lta1VsTzFoMC1xZVVFd0d4RVpIWDhGWVc3U05vVDhDVkp0N2J6S3ZnRUVSSjdJQW1VSUZHNlVyZEJPTE9CTmZYX20zMVJXRGVtdkxfOG9OcXg1VWdLM3I0cHpkbktENTlRR1BXWHA1SkU4SzNsY2ltM0JhLXhxcw?oc=5",
+    "published_at": "2026-05-11T14:42:12+00:00",
+    "fetched_at": "2026-05-11T18:00:35.646094+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "foreign policy",
+      "human rights"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Union",
+      "Israel"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new government backed EU sanctions on Israeli settlers, marking a significant shift from Viktor Orbán's era when Hungary frequently blocked such measures. The support signals the government's reintegration into mainstream EU foreign policy alignment and shared democratic values.",
+    "title_hu": "Az EU szankciókat fogadott el izraeli telepesek ellen - magyar támogatás után",
+    "summary_hu": "Magyarország új kormánya támogatta az EU szankciójait izraeli telepesek ellen, ami jelentős eltolódást jelent Orbán korszakához képest, amikor Magyarország gyakran blokkolni szokott az ilyen intézkedéseket. A támogatás az új kormány EU-s külpolitikai föirányzathoz és közös demokratikus értékekhez való realinedlódását jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "4ec76c15a1ba92b3",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Hungarian politician gets members of parliament dancing - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVDVaWFhJaHpkejJBN1loLWxUSzRud0RFMlR3enZzS2JWRy1mc0gtcGEzQ1FnZFpWMllVcUtiWVdHS2VkNTIzbU1GUWo1bDVHQU01V2E1Vmw1LVJWbHU1M1Z0aGVkWHVSaWtsRVpJeFBFRzMzc284dGo0aUJ3NDZkajBVWU1FLVhQZDRJVVhiNEJNWkxUcHF4cmR1dlNMT01qcm5oR2tJaUhybjNXQXZlb1J4b3BmLXRrTUdCdE41VFNsVDN5V196aVBZNnA4ZENENThsYWpySUtaSHJHNUZtU3JJV0RmZDY1dTJWeTFR?oc=5",
+    "published_at": "2026-05-11T13:58:00+00:00",
+    "fetched_at": "2026-05-11T18:00:17.418871+00:00",
+    "topics": [
+      "government transition",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "other",
+    "summary_en": "On his inauguration day (May 11, 2026), newly sworn Prime Minister Péter Magyar engaged members of parliament in a moment of dancing, offering a humanizing and lighthearted contrast to Hungary's formal political culture and decades-long institutional rigidity under Orbán. The anecdote reflects the cultural reset signaled by the new government.",
+    "title_hu": "Magyar politikus parlamenti tagoknak táncot tanított",
+    "summary_hu": "Az újonnan esküdött miniszterelnök, Magyar Péter beiktatási napján (2026. május 11.) a parlamenttagokkal táncolt, humán és könnyedebb pillanatot teremtve a Magyarország formális politikai kultúrájában és az Orbán-korszak intézményi merevségében. Az anekdota az új kormány kulturális visszaállítódásáról tanúskodik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "b7674520303d4f8e",
     "source": "Euronews",
     "region": "eu",
@@ -92,6 +178,40 @@
     "is_relevant": 1,
     "main_actor": "hungary_country",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "74c611db0bcddcd4",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Former Polish justice minister who faces prosecution at home says he's traveled from Hungary to US - AP News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXRhN2kzQjc1X2NtRW43WmlDV2N3dmVON191N2E5Z0hTSFNqcFRIRmhxMXp3UkNib0N2OU82YXZRbFlRdTJkSzhReUUtajhITW83SjNYVnlmU3JYLXZGZXVRQk15djF2M2pfc3Uzc0VsY3JjNUljQXBWRklNaFZqQUlCNTR0WGYzQThEWkJqR21ScGdTd0tfQ2NMWmxNUlc4SEFRQWpDcF9pTkdo?oc=5",
+    "published_at": "2026-05-11T12:17:00+00:00",
+    "fetched_at": "2026-05-11T18:00:03.540745+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy",
+      "foreign policy",
+      "human rights"
+    ],
+    "actors": [
+      "Zbigniew Ziobro",
+      "Péter Magyar",
+      "Poland",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "A former Polish justice minister facing prosecution in Poland has fled Hungary to the United States, marking a significant policy shift under Péter Magyar's new government. Unlike Viktor Orbán's administration, which sheltered controversial foreign figures, Magyar's government no longer provides diplomatic asylum to individuals sought by foreign authorities. The case consolidates as the first concrete test of Hungary's break with Orbán-era practices and signals stronger rule-of-law commitments.",
+    "title_hu": "Lengyelország ellen eljárás alatt álló korábbi igazságügyi miniszter Magyarországból az Egyesült Államokba utazott",
+    "summary_hu": "Magyarország alatt tartózkodó, hazájában büntetőeljárás alatt álló lengyel igazságügyi miniszter az Egyesült Államokba utazott, ami jelentős eltolódást jelent Péter Magyar új kormányának politikájában. Orbán Viktorral ellentétben, aki számos vitatott személyt fogadott el, Magyar kormánya már nem nyújt diplomáciai védelmet a külföldi hatóságok által keresett egyéneknek. Az eset a magyar jogtisztaság-irányzat első konkrét próbatétele.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland"
+    ],
     "quotes": []
   },
   {
