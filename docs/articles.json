@@ -1,5 +1,101 @@
 [
   {
+    "id": "c1fc24af2a474aef",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "THIS WEEK: Syria and Iran, plus national strikes in Belgium and Hungary’s new PM - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlRGZjM5RlVIMGhwQlpmRWNoeDliVnZxSkt0WnpkekI5ZnI1bFY3X0NubUctd1BlT3VzQWM0eUEtV1NOR0l0Y3M1dWVFUU9RRGFSTFppZXhyRFBKTVNjNXA5VWdic1hodzkyTjJ1aXJPaXUtVDUzVEFwZHRUOUpsVm51NkF0OXI5WEthOTl6SDEzS0FuZkR3djZ3TWNIc05tRHdNVF81czZ1MWo5?oc=5",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "fetched_at": "2026-05-11T06:00:38.562229+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "government transition",
+    "summary_en": "EUobserver's weekly roundup covers Péter Magyar's inauguration as Hungary's Prime Minister on May 10, 2026, marking the end of Viktor Orbán's 15-year rule. The story is grouped alongside coverage of Syria-Iran developments and Belgian labor strikes as part of the week's major European news.",
+    "title_hu": "EZZEL A HÉTTEL: Szíria és Irán, valamint sztrájkok Belgiumban és Magyarország új miniszterelnöke - EUobserver",
+    "summary_hu": "Az EUobserver heti áttekintése Péter Magyar miniszterelnök május 10-i esküjét tárgyalja, amely Viktor Orbán 15 éves uralmának végét jelenti. A történet a hét fő európai hírei közé sorolódik, szíriai-iráni fejlemények és belgiumai munkaügyi sztrájkok mellett.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "a7718c7184d06909",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Polish ex-minister flees Hungary to the US after PM Magyar says country won’t protect people wanted elsewhere - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYTlpOHR3VUwxTG5oS2cwRGtYTmliNDRzN1R4RTBzdGtDcmRMckNlRktZR0M0czhReWswcVNXT0FZaFFGYWtxbUpCckdyelpNM1RkbFRTMC02UTZpcVNZajhSN21qbWJLWF9GQ0lfd1phcFlIZlQxTlQ2VnFIYlNlWTFHM096Wi1kanlKdmVrQU1wcXA5b1JMVC1ZRVkxdWc?oc=5",
+    "published_at": "2026-05-11T02:51:00+00:00",
+    "fetched_at": "2026-05-11T06:00:12.491386+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "foreign policy",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Polish ex-justice minister",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "PM Magyar's government breaks from Orbán's practice of granting asylum to controversial figures, signaling Hungary's new commitment to international legal cooperation and rule of law. A Polish former justice minister who had been sheltered by Orbán's regime is fleeing Hungary to the US after Magyar explicitly stated the country will not protect people sought by foreign authorities.",
+    "title_hu": "Lengyel volt miniszter menekül Magyarországból az USA-ba, miután Magyar PM azt mondja, az ország nem védi az máshol keresett embereket",
+    "summary_hu": "Magyar Péter kormánya szakít Orbán gyakorlatával, aki vitatott személyeknek убеж adott. A magyar miniszterelnök kijelentette, hogy az ország nem fogja megvédeni az külföldön keresett embereket. Az Orbán-rezsim alatt menedéket kapott lengyel volt igazságügyi miniszter ennek következtében az USA-ba menekül Magyarországról.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland",
+      "United States"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "1cdc119ce3708dea",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Poland's wanted ex-minister confirms he fled to US from Hungary - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSE1CRXFsS3FKX25OdTEtNEp0djkwMWtjbTBWbkEtVnV2cEk1aHZwejlQTnlES3BSNURxX0RuZnNpR0ZYZW9DNU9kR0cxbHI0ajJtWjVfSWhoOXhPeURZUnBzX2t5TDVVYUE0b05McUdwaENPdDI5TFNvS2p6NXhucEgwbmJ0NnRjT2doMzEyY1RBR21fU1VfRg?oc=5",
+    "published_at": "2026-05-11T00:48:57+00:00",
+    "fetched_at": "2026-05-11T02:00:27.182870+00:00",
+    "topics": [
+      "rule of law",
+      "geopolitics",
+      "corruption",
+      "human rights"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Polish ex-justice minister",
+      "Péter Magyar",
+      "Poland",
+      "United States"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "A Polish justice minister previously granted asylum by Orbán has fled Hungary for the United States. The revelation underscores Orbán-era Hungary's controversial asylum decisions and judicial relationships, potentially embarrassing the Fidesz legacy as Magyar's government establishes new standards for rule of law.",
+    "title_hu": "Lengyelország keresett volt igazságügyi minisztere megerősítette, hogy az Egyesült Államokba menekült Magyarországról",
+    "summary_hu": "Egy lengyel igazságügyi miniszter, akit korábban Orbán Magyarországon menedékezett, most az Egyesült Államokba menekült. Ez az Orbán-era vitatott menekültpolitikáját és bírósági kapcsolatait világítja meg, és megterhelné a Fidesz örökségét, mivel Magyar új kormánya új jogállami szabványokat vezet be.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [
+      "Poland",
+      "United States"
+    ],
+    "quotes": []
+  },
+  {
     "id": "60505d22568bdad1",
     "source": "The Guardian",
     "region": "uk",
@@ -1559,6 +1655,33 @@
     "quotes": []
   },
   {
+    "id": "bde6059aad909628",
+    "source": "DW English",
+    "region": "de",
+    "title": "Zelenskyy warns Russia's friends against attending parade - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTBQMnZQMkp5ZVhCenlQdDZwSDIyZ1FQdmw1VGppM1hDRDl2dUpRMS1LekRVY3lzeUVCckRRNzJlVDV2OFJIQXVxV2J5UnpJM1RFTm9GN2RXU0NGQjNvWmNVT0NfRW1zU1drQzFDdGtOM0lzVHFNeWJ1SXhyRGdMaU1UendORXRERHRmZzJVRDNsYzjSAZMBQVVfeXFMTzVtU1ZUQ1hBS3VrNzltRk5SaHRkTFlmVVRPR2tuV0xoZFhBSkhBdmlkQWw0VWN0VllVaWQya05DYmQzekJETmJic09ueFZWcXlEMDMyU2pob1llZk5lWHJsWkE3MnFUN0RKaFN1RVRsWGQ5RUdNbDA1bVZENk5xSnRnTFpPeVhGLW9qdUZweVN2Rldz?oc=5",
+    "published_at": "2026-05-07T23:36:45+00:00",
+    "fetched_at": "2026-05-11T06:00:46.898614+00:00",
+    "topics": [
+      "geopolitics",
+      "Russia deals",
+      "foreign policy"
+    ],
+    "actors": [
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "Zelenskyy warns countries aligned with Russia against attending the Victory Day parade on May 9, 2026. Hungary's decision on parade attendance is closely tracked as a barometer of its Russia policy shift under the new Magyar government.",
+    "title_hu": "Zelenskyy figyelmezteti Oroszország szövetségeseit a parádéra való részvétel ellen",
+    "summary_hu": "Zelenskyy figyelmezteti az Oroszországgal szövetséges országokat a május 9-i Győzelem Napja parádéra való részvétel ellen. Magyarország parádéra való részvételének döntése a magyar kormány Oroszország-politikai fordulatának mérőszámaként nyomon követett.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "f9a1cc29b29faa12",
     "source": "Euractiv",
     "region": "eu",
@@ -2646,6 +2769,34 @@
       "Slovakia",
       "Serbia"
     ],
+    "quotes": []
+  },
+  {
+    "id": "28470bc1b7f2a7df",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "€367.8 Billion Question: Guardrails or Blockade? - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlFneXd4SGtubUUwbGFrVHhlSE1ZNDNuaGl6LVU3cVM1Njc0LW9oam1jUnVvUU0wa2oyWFRQaTR6Q1l6Rk1uSUVBYU10djRoOVlWdjAtSmtFWHpvRkUxcWpnZHAtTjAwTDdhT1dYeFVTb3R5TFo2d1c4U0YxdTRrdjU0R2tPRW8?oc=5",
+    "published_at": "2026-05-06T05:01:09+00:00",
+    "fetched_at": "2026-05-10T10:00:27.961485+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "economy"
+    ],
+    "actors": [
+      "European Commission",
+      "Péter Magyar"
+    ],
+    "tone": "mixed",
+    "framing": "EU_integration",
+    "summary_en": "EU-Hungary negotiations over approximately €10 billion in frozen funds have deteriorated since the government transition. The standoff centers on Brussels' conditionality benchmarks, with Euractiv examining whether these represent necessary safeguards for democratic reform or constitute a disproportionate blockade against the new government.",
+    "title_hu": "€367,8 Milliárdos Kérdés: Biztosítékok vagy Blokád?",
+    "summary_hu": "Az EU és az új magyar kormány közötti tárgyalások a fagyasztott támogatások felett romlottak. A vita arról szól, hogy Brüsszel feltételei a jogállami reform védelme vagy indokolatlan blokád.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
     "quotes": []
   },
   {

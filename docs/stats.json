@@ -1,50 +1,50 @@
 {
-  "total_articles": 397,
-  "analyzed_articles": 397,
+  "total_articles": 402,
+  "analyzed_articles": 402,
   "tone": {
+    "neutral": 174,
+    "critical": 65,
     "positive": 123,
-    "mixed": 38,
-    "neutral": 172,
-    "critical": 63,
+    "mixed": 39,
     "hopeful": 1
   },
   "framing": {
+    "government transition": 3,
+    "rule_of_law": 44,
     "democracy_restoration": 98,
-    "rule_of_law": 42,
     "corruption": 21,
     "other": 12,
     "eu_integration": 64,
-    "geopolitics": 99,
+    "geopolitics": 100,
     "economy": 22,
     "regional": 9,
     "russia_china": 6,
     "media_freedom": 9,
     "Fidesz opposition": 3,
-    "EU_integration": 4,
+    "EU_integration": 5,
     "government_transition": 2,
     "elections": 1,
-    "energy": 3,
-    "government transition": 2
+    "energy": 3
   },
   "region": {
-    "uk": 72,
+    "eu": 141,
+    "uk": 73,
     "wire": 70,
-    "de": 48,
+    "de": 49,
     "cee": 18,
     "fr": 14,
     "us": 36,
-    "eu": 138,
     "think": 1
   },
   "source": {
     "Reuters": 57,
-    "DW English": 47,
+    "DW English": 48,
     "Politico Europe": 45,
     "Euronews": 37,
-    "Euractiv": 34,
+    "Euractiv": 36,
     "Financial Times": 25,
-    "The Guardian": 23,
-    "EUobserver": 19,
+    "The Guardian": 24,
+    "EUobserver": 20,
     "Le Monde": 14,
     "Balkan Insight": 14,
     "AP News": 13,
@@ -64,20 +64,20 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 323,
-    "EU relations": 224,
-    "democracy": 168,
-    "geopolitics": 148,
-    "rule of law": 110,
-    "foreign policy": 90,
-    "EU funds": 73,
+    "government transition": 325,
+    "EU relations": 226,
+    "democracy": 170,
+    "geopolitics": 150,
+    "rule of law": 112,
+    "foreign policy": 92,
+    "EU funds": 74,
     "elections": 57,
-    "economy": 52,
-    "corruption": 35,
-    "Russia deals": 28,
+    "economy": 53,
+    "corruption": 36,
+    "Russia deals": 29,
     "Fidesz opposition": 28,
     "energy": 28,
-    "human rights": 26,
+    "human rights": 27,
     "society": 19,
     "judicial reform": 16,
     "V4 diplomacy": 11,
@@ -86,15 +86,15 @@
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 312,
-    "Viktor Orbán": 193,
-    "European Commission": 51,
+    "Péter Magyar": 316,
+    "Viktor Orbán": 196,
+    "European Commission": 52,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 34,
     "Ukraine": 32,
     "Ursula von der Leyen": 28,
+    "Volodymyr Zelenskyy": 20,
     "Hungary": 20,
-    "Volodymyr Zelenskyy": 19,
     "Donald Tusk": 16,
     "European Union": 16,
     "Russia": 15,
@@ -108,25 +108,25 @@
     "EU leaders": 6
   },
   "main_actor": {
+    "magyar_peter": 146,
+    "orban_viktor": 73,
     "hungary_country": 107,
-    "magyar_peter": 144,
-    "orban_viktor": 72,
-    "eu_institutions": 35,
+    "eu_institutions": 36,
     "fidesz": 6,
-    "other": 31,
+    "other": 32,
     "EU_institutions": 2
   },
   "comparison_countries": {
     "Ukraine": 28,
-    "Poland": 18,
+    "Poland": 20,
     "Russia": 17,
     "Slovakia": 14,
     "Bulgaria": 9,
     "Israel": 6,
+    "United States": 5,
     "France": 3,
     "Serbia": 3,
     "Italy": 3,
-    "United States": 3,
     "Germany": 2,
     "Czech Republic": 2,
     "Hungary": 2,
@@ -157,18 +157,31 @@
     "2026-05-03": 1,
     "2026-05-04": 4,
     "2026-05-05": 5,
-    "2026-05-06": 20,
-    "2026-05-07": 19,
+    "2026-05-06": 21,
+    "2026-05-07": 20,
     "2026-05-08": 22,
     "2026-05-09": 21,
-    "2026-05-10": 11
+    "2026-05-10": 11,
+    "2026-05-11": 3
   },
   "tone_by_source": {
+    "EUobserver": {
+      "neutral": 5,
+      "critical": 11,
+      "positive": 3,
+      "mixed": 1
+    },
     "The Guardian": {
+      "neutral": 7,
       "positive": 13,
-      "neutral": 6,
       "critical": 3,
       "mixed": 1
+    },
+    "Euractiv": {
+      "critical": 9,
+      "neutral": 15,
+      "positive": 6,
+      "mixed": 6
     },
     "Reuters": {
       "positive": 19,
@@ -180,7 +193,7 @@
       "mixed": 5,
       "neutral": 22,
       "positive": 18,
-      "critical": 1,
+      "critical": 2,
       "hopeful": 1
     },
     "Notes from Poland": {
@@ -219,12 +232,6 @@
       "critical": 4,
       "mixed": 4
     },
-    "Euractiv": {
-      "neutral": 15,
-      "critical": 8,
-      "positive": 6,
-      "mixed": 5
-    },
     "Politico Europe": {
       "mixed": 8,
       "positive": 10,
@@ -240,12 +247,6 @@
       "critical": 2,
       "positive": 1,
       "neutral": 1
-    },
-    "EUobserver": {
-      "critical": 11,
-      "positive": 3,
-      "mixed": 1,
-      "neutral": 4
     },
     "Balkan Insight": {
       "critical": 4,
@@ -291,11 +292,23 @@
     }
   },
   "source_bias": {
+    "EUobserver": {
+      "neutral": 25,
+      "critical": 55,
+      "positive": 15,
+      "mixed": 5
+    },
     "The Guardian": {
-      "positive": 57,
-      "neutral": 26,
-      "critical": 13,
+      "neutral": 29,
+      "positive": 54,
+      "critical": 12,
       "mixed": 4
+    },
+    "Euractiv": {
+      "critical": 25,
+      "neutral": 42,
+      "positive": 17,
+      "mixed": 17
     },
     "Reuters": {
       "positive": 33,
@@ -304,10 +317,10 @@
       "critical": 11
     },
     "DW English": {
-      "mixed": 11,
-      "neutral": 47,
+      "mixed": 10,
+      "neutral": 46,
       "positive": 38,
-      "critical": 2,
+      "critical": 4,
       "hopeful": 2
     },
     "AP News": {
@@ -343,12 +356,6 @@
       "critical": 11,
       "mixed": 11
     },
-    "Euractiv": {
-      "neutral": 44,
-      "critical": 24,
-      "positive": 18,
-      "mixed": 15
-    },
     "Politico Europe": {
       "mixed": 18,
       "positive": 22,
@@ -364,12 +371,6 @@
       "critical": 50,
       "positive": 25,
       "neutral": 25
-    },
-    "EUobserver": {
-      "critical": 58,
-      "positive": 16,
-      "mixed": 5,
-      "neutral": 21
     },
     "Balkan Insight": {
       "critical": 29,
@@ -402,5 +403,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-11T02:14:07.984934+00:00"
+  "last_updated": "2026-05-11T06:15:10.516005+00:00"
 }
