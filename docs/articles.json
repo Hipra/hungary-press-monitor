@@ -1,5 +1,191 @@
 [
   {
+    "id": "b7674520303d4f8e",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Evading justice: Wanted former Polish minister confirms he fled Hungary to US - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWJZdXNFcm1EaEoxUGl1anRZZTJ1dHFtZ1d4cW82UHU1R0hycUxZVmJoMHRpakwxN3hIR0VMem5OSkFfYmE5Q0ltdklGVEdCd2dxT3dmb3MtV0gyQzVnUExYUjRadUJpR3ViY1dyRUxqXzlIbWtCNC1hSFFNNS1pcHpKQkJ4M2lhVlVRQ0dOQUdHLW5RS21kYWFBVVl3Y0pLSm9CYmhQYjJ5YkFuaTZnOFJ2ZGVwVU9aSUdWTHhpRQ?oc=5",
+    "published_at": "2026-05-11T13:28:16+00:00",
+    "fetched_at": "2026-05-11T14:00:36.910334+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Polish minister",
+      "US authorities"
+    ],
+    "tone": "positive",
+    "framing": "rule_of_law",
+    "summary_en": "A wanted former Polish minister has fled Hungary to the US, confirming Péter Magyar's new government policy that Hungary will no longer shelter controversial figures sought by foreign authorities—a direct reversal of Viktor Orbán's asylum practices and a concrete signal of the democratic transition's rule-of-law commitment.",
+    "title_hu": "Az igazságszolgáltatás elől: Keresett lengyel exminiszter megerősítette, hogy Magyarországról az USA-ba menekült",
+    "summary_hu": "Egy keresett lengyel exminiszter menekült Magyarországról az Egyesült Államokba, megerősítve Péter Magyar új kormányzatának azon politikáját, hogy Magyarország már nem véd meg olyan ellentmondásos személyeket, akiket külföldi hatóságok keresnek – ez a Fidesz-korszak gyakorlatának közvetlen megfordítása és a demokratikus átmenet jogállamiság iránti elkötelezettségének jele.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "ab8089aa149182aa",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Former Polish justice minister who faces prosecution at home says he's traveled from Hungary to US - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMjVlbEJCaWUyQWFUcXpLWTVkZndfdnRXc0kzZFh4MjY5Vk9PWFZkb2MxdFBOdFJFWFh3MXhZOV9oaWs2c1dxMVBhc3VkVVYybXRRY0ZjOHVHWnVwbjF5RG80eXYyemtKOHFSMGloTWo0T0hMYU92MmhOQVJTS2xvSUFWcDNVeXBQOHBMLTF3QUF2VEIxeEhGaTZiM01uZjdWaTFUNDRHSnJmNmM0bzBocWpjdklSVGxRTEkxZ2Y3VW8wc1QyckJtOFlJRF9mV1puZGlYTXFqd2YwOTdT?oc=5",
+    "published_at": "2026-05-11T13:09:16+00:00",
+    "fetched_at": "2026-05-11T14:00:20.502643+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "democracy",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Polish justice minister"
+    ],
+    "tone": "positive",
+    "framing": "rule_of_law",
+    "summary_en": "A former Polish justice minister granted asylum by the Orbán government has fled Hungary for the US, signaling Péter Magyar's new government will not shelter individuals sought by foreign authorities. This represents a concrete reversal of Orbán-era asylum practices and demonstrates Magyar's commitment to rule of law and international legal obligations.",
+    "title_hu": "Lengyel volt igazságügyi miniszter az Egyesült Államokba menekült Magyarországról",
+    "summary_hu": "Egy lengyel volt igazságügyi miniszter az Egyesült Államokba menekült Magyarországról, mivel a Magyar kormány nem nyújthat menedéket külföldi hatóságok által üldözötteknek. Ez a Fidesz-kor gyakorlatának fordítottját jelenti, és a jogállamiság felé fordulás jelét mutatja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Poland",
+      "United States"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "824abce2dcc07f27",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's race to access EU's 10.4 billion euros is ambitious but possible - officials - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORFB1RGlXaE93S0RySjhzeVp0UlJ4aHRVcjQydEZPUThLRGxSd0swVENxbjZSQmU4YW4xMnotX1lvM2h6OTRRWldHTmdVUXdjWHZTREpwR1Vla25vRFVVZm84SGZhZWpLeTdqd1YzVEZsZFRCdi1QYUtEMl9kTTQ1Tm9ObkU2RDI3TzRyZ0pmS05ubmFhbGNRYVplRWMxbkp6N2NqNm1feXh3Z0FRakpnVGZDb25KRE0?oc=5",
+    "published_at": "2026-05-11T12:53:43+00:00",
+    "fetched_at": "2026-05-11T14:00:05.498617+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "economy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "Hungarian government officials",
+      "EU officials"
+    ],
+    "tone": "neutral",
+    "framing": "EU_integration",
+    "summary_en": "Hungary's new government is racing to access the EU's 10.4 billion euro frozen funding package. Reuters reports that officials characterize the goal as ambitious but achievable, even as technical negotiations over conditionality benchmarks with Brussels remain complex.",
+    "title_hu": "Magyarország az EU 10,4 milliárd eurójáért verseng – ambiciózus, de lehetséges, mondják a tisztviselők",
+    "summary_hu": "Magyarország új kormánya az EU 10,4 milliárd eurós befagyasztott finanszírozási csomagjáért verseng. A Reuters arról számol be, hogy a tisztviselők az ambiciózus célt elérhetőnek tartják, bár az EU-val folyó tárgyalások az feltételi kötelezettségekről továbbra is bonyolultak.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d34804cbd7dffdcf",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Hungary turns the page as Magyar officially takes over as new PM: ‘I will serve my homeland’ - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVhaT054dXpZSFB6UkdBaVlfd0lWMml5azZuLUJOOTdZeDlSVVpVODVVTmJmUWdpUWdMY2VnSXhDT0x0QTc3d0ZUZWE1NjczdW1DQWVVTV9wMmZLS21xRHprbE9CbWVGczVHWXNCWXN6dGw4OTZuc2ZpN203LW1VQWdLbjVSYndDMGdyUnFKajhOWGQ5VUVzbC14S0NlV1RNNHFkVVBHZ2JNVXJnWTRxa3RoQ0I3QkZPU0xxVQ?oc=5",
+    "published_at": "2026-05-11T11:23:04+00:00",
+    "fetched_at": "2026-05-11T14:00:33.602809+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was officially sworn in as Prime Minister on May 11, 2026, formally ending Viktor Orbán's 15-year rule and marking a historic democratic transition. EUobserver frames the event as Hungary 'turning the page' with Magyar's commitment to serve his homeland, signaling a decisive break with Orbán-era governance. The transition represents a major geopolitical shift in Central Europe toward EU reintegration and democratic restoration.",
+    "title_hu": "Magyarország új lapot fordít, amikor Magyar Péter hivatalosan átveszi az első miniszteri tisztet: 'Szolgálni fogom hazámat'",
+    "summary_hu": "Péter Magyar hivatalosan beiktatták miniszterelnökként 2026. május 11-én, amely formálisan véget vetett Viktor Orbán 15 éves kormányzatának és történelmi demokratikus átmenetnek. Az EUobserver azt fejteti ki, hogy Magyarország 'új lapot fordít', Magyar hazáját szolgálni szándékozó elkötelezettségével az Orbán-korszak kormányzásával való radikális szakítást jelezve. Az átmenet egy nagy geopolitikai fordulópontot jelent Közép-Európában az EU-integrációval és a demokratikus helyreállítással szemben.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "I will serve my homeland"
+    ]
+  },
+  {
+    "id": "7c629df0e35a4f26",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary to review Paks nuclear plant expansion, ministerial nominee says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjc2U0tndmpBbk5Rd045b1ktV0dEMlZsb3h1akRNYjJXNDZ4RlFLWVpZaXBGVEJVdjIyX2tVY2JKNThWT0M2SFZqZTNScDlNWmx6MzUxdE8xNWdNRHdZQWgwQTg4MzcyZnA5aV9lZ3QySGsxNjlfTWEyTVdZMmMxWWxweEI1TDRSZGVxVmc5elFtX3AtUWNKRkdfZk1hNUppOS1BUWlucDNhM3R1V25Z?oc=5",
+    "published_at": "2026-05-11T10:37:15+00:00",
+    "fetched_at": "2026-05-11T14:00:05.498590+00:00",
+    "topics": [
+      "government transition",
+      "Russia deals",
+      "China deals",
+      "energy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Paks nuclear plant"
+    ],
+    "tone": "neutral",
+    "framing": "russia_china",
+    "summary_en": "A ministerial nominee in Péter Magyar's government announced that Hungary will review the Paks nuclear plant expansion—a flagship Orbán-era project funded by Russia with Chinese involvement. The review signals Magyar's commitment to scrutinizing inherited energy deals and reducing Russian and Chinese entanglement, continuing his administration's broader geopolitical realignment.",
+    "title_hu": "Magyarország felülvizsgálja a paksi atomerőmű-bővítést, mondja az egyik miniszteri jelölt - Reuters",
+    "summary_hu": "Péter Magyar kormányában egy miniszteri jelölt bejelentette, hogy Magyarország felülvizsgálja a paksi atomerőmű-bővítési projektjét – az Orbán-korszak jellegzetes projektjét, amelyet Oroszország finanszírozott és kínai részvétellel valósult meg. A felülvizsgálat jelzi Magyar elkötelezettségét az örökölt energiamegállapodások kritikai szemrevételezésében és az orosz valamint kínai összefonódás csökkentésében.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "d31d34c79b4a8452",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Poland says it wants answers after fugitive ex-minister leaves Hungary for US - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeUpHMXUyelFOLUZUSHFFMHNUQzlCM3U3X2tPQW0xSmcwNVpaZzZxUGVDelZCeXlRaXlUTm9wLXhoNTRocHdlZktxQU9ucEdIYkhtcWFwVE96a0RqSGtVS1gtWWY2WTctekpXMllPQ1JBNTZzVUlUMUFfWXBSR3UxTFJsRUtqZ0dQeFZ3SldCNlVPR3JWQUVNUXRxYVBOS09CZExsTGVNRElUUEdwMF9LTE9GdnR1Zw?oc=5",
+    "published_at": "2026-05-11T10:18:24+00:00",
+    "fetched_at": "2026-05-11T14:00:05.498568+00:00",
+    "topics": [
+      "government transition",
+      "rule of law",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Poland",
+      "former Polish justice minister"
+    ],
+    "tone": "mixed",
+    "framing": "rule_of_law",
+    "summary_en": "A former Polish justice minister granted asylum by Viktor Orbán's government fled Hungary for the United States, prompting Poland to demand answers about his departure. The incident exemplifies Péter Magyar's government's break from Orbán-era asylum practices, signaling a shift toward rule-of-law principles and EU compliance.",
+    "title_hu": "Lengyelország válaszokat követel, miután szökevény volt miniszter elhagyta Magyarországot",
+    "summary_hu": "Egy korábbi lengyel igazságügyi miniszter, akinek Viktor Orbán kormánya menedéket biztosított, Magyarország elhagyta és az Egyesült Államokba menekült, amire Lengyelország válaszokat követel. Az eset Péter Magyar kormányának Orbán-korszak gyakorlataitól való eltérését mutatja, jelezve a jogállamiság és az EU-konformitás irányába való fordulást.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
     "id": "c1fc24af2a474aef",
     "source": "EUobserver",
     "region": "eu",
@@ -24,6 +210,32 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "47c97bd8d49788d0",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "The impossible promise: are we witnessing the return of fascism? – podcast - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRnVQMEE2aDd1d2lJSnVicWcwN2lZaTB3WE5qOXJKc05wNzhCSEk0ZXVJN0pjWERjbWFoQlFFelFZb3YybkJEQXdFOUtaM3RSVzVyVng2U21OX2YyOGRVVnpCM0pic2dvYl84TGdNSWtYOUFObjlCQnpZTUFESlBua2JzODFnU01qYW0zV1NpS2pRcUZIRFh3RkFPSGRpanA1ZXJ5WWJqSkxMVHRFdkJ4MGQ0R0hnS0FKek1vVURn?oc=5",
+    "published_at": "2026-05-11T04:00:00+00:00",
+    "fetched_at": "2026-05-11T14:00:11.055261+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "geopolitics",
+      "rule of law"
+    ],
+    "actors": [],
+    "tone": "critical",
+    "framing": "democracy_restoration",
+    "summary_en": "The Guardian podcast examines whether Hungary's transition from Orbán's rule represents genuine democratic restoration or signals a resurgence of fascist or authoritarian governance patterns in Europe, questioning the durability of the new democratic order.",
+    "title_hu": "Az lehetetlen ígéret: tanúi vagyunk-e a fasizmus visszatérésének? – podcast",
+    "summary_hu": "A The Guardian podcast azt vizsgálja, hogy Magyarország Orbán uralma után való átmenete valódi demokratikus helyreállítást jelent-e, vagy Európában a fasizmus visszatérésének jeleit mutatja-e, megkérdőjelezve az új demokratikus rend szilárdságát.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   },

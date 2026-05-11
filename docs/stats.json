@@ -1,54 +1,54 @@
 {
-  "total_articles": 402,
-  "analyzed_articles": 402,
+  "total_articles": 409,
+  "analyzed_articles": 409,
   "tone": {
-    "neutral": 174,
-    "critical": 65,
-    "positive": 123,
-    "mixed": 39,
+    "positive": 125,
+    "neutral": 177,
+    "mixed": 40,
+    "critical": 66,
     "hopeful": 1
   },
   "framing": {
+    "rule_of_law": 47,
+    "EU_integration": 6,
+    "democracy_restoration": 100,
+    "russia_china": 7,
     "government transition": 3,
-    "rule_of_law": 44,
-    "democracy_restoration": 98,
     "corruption": 21,
     "other": 12,
     "eu_integration": 64,
     "geopolitics": 100,
     "economy": 22,
     "regional": 9,
-    "russia_china": 6,
     "media_freedom": 9,
     "Fidesz opposition": 3,
-    "EU_integration": 5,
     "government_transition": 2,
     "elections": 1,
     "energy": 3
   },
   "region": {
-    "eu": 141,
-    "uk": 73,
-    "wire": 70,
+    "eu": 143,
+    "us": 37,
+    "wire": 73,
+    "uk": 74,
     "de": 49,
     "cee": 18,
     "fr": 14,
-    "us": 36,
     "think": 1
   },
   "source": {
-    "Reuters": 57,
+    "Reuters": 60,
     "DW English": 48,
     "Politico Europe": 45,
-    "Euronews": 37,
+    "Euronews": 38,
     "Euractiv": 36,
+    "The Guardian": 25,
     "Financial Times": 25,
-    "The Guardian": 24,
-    "EUobserver": 20,
+    "EUobserver": 21,
+    "Washington Post": 14,
     "Le Monde": 14,
     "Balkan Insight": 14,
     "AP News": 13,
-    "Washington Post": 13,
     "New York Times": 12,
     "BBC": 12,
     "The Times": 9,
@@ -64,19 +64,19 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 325,
-    "EU relations": 226,
-    "democracy": 170,
-    "geopolitics": 150,
-    "rule of law": 112,
-    "foreign policy": 92,
-    "EU funds": 74,
+    "government transition": 332,
+    "EU relations": 229,
+    "democracy": 173,
+    "geopolitics": 151,
+    "rule of law": 116,
+    "foreign policy": 94,
+    "EU funds": 75,
     "elections": 57,
-    "economy": 53,
+    "economy": 54,
     "corruption": 36,
-    "Russia deals": 29,
+    "Russia deals": 30,
+    "energy": 29,
     "Fidesz opposition": 28,
-    "energy": 28,
     "human rights": 27,
     "society": 19,
     "judicial reform": 16,
@@ -86,13 +86,13 @@
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 316,
-    "Viktor Orbán": 196,
+    "Péter Magyar": 322,
+    "Viktor Orbán": 199,
     "European Commission": 52,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 34,
     "Ukraine": 32,
-    "Ursula von der Leyen": 28,
+    "Ursula von der Leyen": 29,
     "Volodymyr Zelenskyy": 20,
     "Hungary": 20,
     "Donald Tusk": 16,
@@ -101,29 +101,29 @@
     "EU institutions": 13,
     "Hungarian government": 11,
     "Rumen Radev": 10,
+    "EU officials": 8,
     "Benjamin Netanyahu": 7,
     "EU Court of Justice": 7,
-    "EU officials": 7,
     "Fidesz party": 6,
     "EU leaders": 6
   },
   "main_actor": {
-    "magyar_peter": 146,
+    "magyar_peter": 149,
+    "other": 33,
+    "hungary_country": 110,
     "orban_viktor": 73,
-    "hungary_country": 107,
     "eu_institutions": 36,
     "fidesz": 6,
-    "other": 32,
     "EU_institutions": 2
   },
   "comparison_countries": {
     "Ukraine": 28,
-    "Poland": 20,
+    "Poland": 23,
     "Russia": 17,
     "Slovakia": 14,
     "Bulgaria": 9,
+    "United States": 6,
     "Israel": 6,
-    "United States": 5,
     "France": 3,
     "Serbia": 3,
     "Italy": 3,
@@ -162,19 +162,36 @@
     "2026-05-08": 22,
     "2026-05-09": 21,
     "2026-05-10": 11,
-    "2026-05-11": 3
+    "2026-05-11": 10
   },
   "tone_by_source": {
-    "EUobserver": {
+    "Euronews": {
+      "positive": 11,
+      "neutral": 19,
+      "critical": 4,
+      "mixed": 4
+    },
+    "Washington Post": {
+      "positive": 8,
       "neutral": 5,
+      "critical": 1
+    },
+    "Reuters": {
+      "neutral": 33,
+      "mixed": 2,
+      "positive": 19,
+      "critical": 6
+    },
+    "EUobserver": {
+      "neutral": 6,
       "critical": 11,
       "positive": 3,
       "mixed": 1
     },
     "The Guardian": {
+      "critical": 4,
       "neutral": 7,
       "positive": 13,
-      "critical": 3,
       "mixed": 1
     },
     "Euractiv": {
@@ -182,12 +199,6 @@
       "neutral": 15,
       "positive": 6,
       "mixed": 6
-    },
-    "Reuters": {
-      "positive": 19,
-      "neutral": 31,
-      "mixed": 1,
-      "critical": 6
     },
     "DW English": {
       "mixed": 5,
@@ -226,22 +237,11 @@
       "positive": 4,
       "neutral": 3
     },
-    "Euronews": {
-      "neutral": 19,
-      "positive": 10,
-      "critical": 4,
-      "mixed": 4
-    },
     "Politico Europe": {
       "mixed": 8,
       "positive": 10,
       "neutral": 16,
       "critical": 11
-    },
-    "Washington Post": {
-      "neutral": 5,
-      "positive": 7,
-      "critical": 1
     },
     "Wall Street Journal": {
       "critical": 2,
@@ -292,16 +292,33 @@
     }
   },
   "source_bias": {
+    "Euronews": {
+      "positive": 29,
+      "neutral": 50,
+      "critical": 11,
+      "mixed": 11
+    },
+    "Washington Post": {
+      "positive": 57,
+      "neutral": 36,
+      "critical": 7
+    },
+    "Reuters": {
+      "neutral": 55,
+      "mixed": 3,
+      "positive": 32,
+      "critical": 10
+    },
     "EUobserver": {
-      "neutral": 25,
-      "critical": 55,
-      "positive": 15,
+      "neutral": 29,
+      "critical": 52,
+      "positive": 14,
       "mixed": 5
     },
     "The Guardian": {
-      "neutral": 29,
-      "positive": 54,
-      "critical": 12,
+      "critical": 16,
+      "neutral": 28,
+      "positive": 52,
       "mixed": 4
     },
     "Euractiv": {
@@ -309,12 +326,6 @@
       "neutral": 42,
       "positive": 17,
       "mixed": 17
-    },
-    "Reuters": {
-      "positive": 33,
-      "neutral": 54,
-      "mixed": 2,
-      "critical": 11
     },
     "DW English": {
       "mixed": 10,
@@ -350,22 +361,11 @@
       "positive": 44,
       "neutral": 33
     },
-    "Euronews": {
-      "neutral": 51,
-      "positive": 27,
-      "critical": 11,
-      "mixed": 11
-    },
     "Politico Europe": {
       "mixed": 18,
       "positive": 22,
       "neutral": 36,
       "critical": 24
-    },
-    "Washington Post": {
-      "neutral": 38,
-      "positive": 54,
-      "critical": 8
     },
     "Wall Street Journal": {
       "critical": 50,
@@ -403,5 +403,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-11T10:07:54.641864+00:00"
+  "last_updated": "2026-05-11T14:16:58.588867+00:00"
 }
