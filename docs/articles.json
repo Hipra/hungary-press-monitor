@@ -113,6 +113,34 @@
     "quotes": []
   },
   {
+    "id": "24ab570e2646607c",
+    "source": "DW English",
+    "region": "de",
+    "title": "Magyar beat Orban. Can Hungary's new PM undo his system? - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOakx2VDBWMHNKY0xldmxwSWNxamFrWmIxRDVadkV3T2tJazgyQW0yel9mRW1XZmN6SUpGX2lwSVByWnIzczNuZmtnZDB0T0t3ZDJfLTZkZWc2WHFJR1FERE1YNlFGRTF5Y1dybk56aW9YeTFGWDJkSU01bThVcWpQcmhDbmNEY0xxLTlOTUdTNXg0c2hVZWt2bmNwS0ZJdw?oc=5",
+    "published_at": "2026-05-10T10:26:46+00:00",
+    "fetched_at": "2026-05-11T02:00:35.911343+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "On his May 10 inauguration day, Hungary's new Prime Minister Péter Magyar confronts the fundamental challenge of dismantling Viktor Orbán's 15-year institutional system. The article examines whether Magyar has the political capacity and democratic commitment to undo executive centralization and restore genuine rule of law and separation of powers.",
+    "title_hu": "Magyar legyőzte Orbánt. Meg tudja-e szüntetni az új miniszterelnök az ő rendszerét?",
+    "summary_hu": "Péter Magyar magyar miniszterelnök inaugurációs napján az alapvető kihívással néz szembe: fel tudja-e számolni Viktor Orbán 15 éves intézményi örökségét. A cikk azt vizsgálja, hogy Magyarnak van-e a politikai képessége és demokratikus elkötelezetsége az erőforrások decentralizálásához és a jogállamiság valamint a valódi hatalommegosztás helyreállításához.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "c38a1e0a8830eaac",
     "source": "Notes from Poland",
     "region": "cee",
@@ -219,6 +247,36 @@
     "summary_en": "Péter Magyar was sworn in as Prime Minister on May 10, 2026, formally ending Viktor Orbán's 15-year rule and marking Hungary's entry into a post-authoritarian era. The Tisza Party's two-thirds parliamentary majority positions the new government to pursue sweeping institutional reform. DW frames this transition as Hungary's democratic restoration and return to rule-of-law governance.",
     "title_hu": "Magyarország belépett az Orbán utáni korszakba, ahogy az új miniszterelnök hivatalba lép",
     "summary_hu": "Péter Magyar miniszterelnök esküt tett 2026. május 10-én, amely formálisan véget vetett Viktor Orbán 15 éves uralomnak és Magyarország belépését jelenti az autoritarizmus utáni korszakba. A Tisza Párt kétharmados parlamentáris többsége lehetővé teszi az intézményi reformok széles körét. A DW ezt az átmenetet Magyarország demokratikus helyreállításaként és a jogállamiság visszatéréseként értelmezi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "dcf12b4ee135094f",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary enters post‑Orban era as new PM takes office - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnphalhJcHB0dWJFSDZyQjlFSHVXRklhdXZaWGExa1ZZRHhYQ1RzSzF3MV9iT3UwOXJUc2kwOUk1MkZqNlJlWGpabEZGWDNkQ2ZpUlphbkNsT1JpNFZLUHBuNDVvMnd4cS00OExDaEUwcWtBZklOQm03aTlpMjFXOW1qazU0TUZCeU5ReUxfbDYyUQ?oc=5",
+    "published_at": "2026-05-10T06:04:05+00:00",
+    "fetched_at": "2026-05-11T02:00:35.911324+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary marked a historic transition on May 10, 2026, as Péter Magyar was sworn in as Prime Minister, formally ending Viktor Orbán's 15-year rule. The new government, backed by the Tisza Party's two-thirds parliamentary majority, signals a return to democratic norms and EU integration after years of authoritarian consolidation.",
+    "title_hu": "Magyarország az Orbán utáni érába érkezik – új miniszterelnök lép hivatalba",
+    "summary_hu": "Magyarország 2026. május 10-én történelmi fordulópontot ért el, amikor Péter Magyart miniszterelnökévé esküdték fel, ezzel lezárva Viktor Orbán 15 éves uralmát. Az új kormány, amely a Tisza Párt kétharmados parlamenti többsége mögött áll, a demokratikus normák és az EU-integráció visszaállítását célozza a hosszú évek autoritárius konszolidációja után.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
@@ -2520,6 +2578,38 @@
     "is_relevant": 1,
     "main_actor": "magyar_peter",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f1b5ec9840d10068",
+    "source": "New York Times",
+    "region": "us",
+    "title": "Tricked Into Fighting for Russia - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY25jZGs5R0cxYlNXLTZWVW5iVlVJN1I4MnhhY2hHX3M4dW54Qko0SXhmQVlrVDY3MmxEeE13emdMUGZOa2kzdDJLdHdYMjNtN2p0OUEwTmhqU1ZiZF83NFRKRGdWd1FnN1pUVmU1cTRrREh3R3dvemN2OC11N2NoZWt1MFg3TUlwQTJhN1ZidXNxOVZ3MzlDZw?oc=5",
+    "published_at": "2026-05-06T07:00:00+00:00",
+    "fetched_at": "2026-05-10T02:00:18.522780+00:00",
+    "topics": [
+      "geopolitics",
+      "Russia deals",
+      "government transition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Russian military"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "The New York Times investigates deception in Hungary's Russia relationship, likely examining how citizens or the state were manipulated into supporting Russian interests. Published amid Magyar's transition, the article reflects intensifying Western scrutiny of Orbán-era entanglement with Moscow and Hungary's geopolitical realignment.",
+    "title_hu": "Rávett Oroszország melletti Harcolni - The New York Times",
+    "summary_hu": "A New York Times azt vizsgálja, hogy hogyan voltak magyarok megtévesztve az orosz érdekek támogatására. A cikk Magyar kormányzati váltása közepette jelent meg, és a nyugati aggodalmakat tükrözi az Orbán-korszak Moszkvához fűződő kapcsolatairól.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Russia",
+      "Ukraine"
+    ],
     "quotes": []
   },
   {
