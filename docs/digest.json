@@ -1,51 +1,59 @@
 {
-  "top_story_en": "Hungary's backing of EU sanctions on Israeli settlers — reversing years of Orbán-era vetoes — dominated global coverage on May 12, with outlets from Washington to Paris treating the vote as the clearest proof yet that Magyar's foreign policy realignment is concrete and trackable, not merely symbolic.",
-  "top_story_hu": "Magyarország támogatása az EU izraeli telepesek elleni szankcióihoz — megfordítva az Orbán-korszak évekig tartó vétópolitikáját — uralta a globális hírfolyamot május 12-én; a washingtoni és párizsi lapok egyaránt ezt tekintik a Magyar-kormány külpolitikai fordultának legszilárdabb bizonyítékaként.",
+  "top_story_en": "Hungary's new government cast the decisive vote enabling EU sanctions on Israeli settlers — the clearest single act of foreign policy realignment since Magyar's inauguration, covered simultaneously by WaPo, BBC, Guardian, DW, Le Monde, and Euronews.",
+  "top_story_hu": "Magyarország új kormánya leadta a döntő szavazatot az izraeli telepesek elleni uniós szankciókhoz — ez az Orbán-éra utáni külpolitikai irányvált legkonkrétabb, legszélesebb körben lefedett lépése.",
   "key_developments_en": [
-    "Hungary backed EU sanctions on violent Israeli West Bank settlers, ending Budapest's habitual veto and drawing positive coverage across WaPo, BBC, Guardian, DW, Le Monde, and Euronews.",
-    "Former Polish justice minister Zbigniew Ziobro, sheltered under Orbán, fled Hungary for the US — Poland is formally demanding answers, cementing the case as the week's defining rule-of-law moment.",
-    "A ministerial nominee confirmed Hungary will review the Paks nuclear plant expansion, the most direct energy-sector signal of disengagement from Russian and Chinese infrastructure deals.",
-    "Reuters reports EU officials now describe Hungary accessing the €10.4bn frozen funding package as 'ambitious but possible' — a notable tonal shift from earlier impasse language.",
-    "Euractiv flags nepotism allegations as an active, escalating threat to Magyar's transition narrative, with European Commission scrutiny intensifying just days after inauguration."
+    "Hungary backed EU sanctions on violent Israeli settlers, dropping Orbán's long-standing veto and marking Hungary's most concrete EU foreign-policy realignment to date.",
+    "Justice minister nominee publicly committed to revising Orbán-era anti-LGBTQ legislation — the first government-agenda signal on a previously unaddressed reform priority.",
+    "Fugitive former Polish justice minister Ziobro confirmed he fled Hungary for the US; Poland formally demanded answers, constituting the first bilateral rule-of-law test for the Magyar government.",
+    "EU officials now describe Hungary's access to the frozen €10.4bn funding package as 'ambitious but possible' — a tonal shift from earlier characterisations of a deteriorating standoff.",
+    "A ministerial nominee announced Hungary will review the Paks nuclear plant expansion, the sharpest energy-sector signal yet of disengagement from Russian-financed infrastructure deals."
   ],
   "key_developments_hu": [
-    "Magyarország támogatta az EU szankcióit az izraeli ciszjordániai telepesek ellen, megszüntetve Budapest szokásos vétójogát — a döntés pozitív visszhangot kapott a WaPo-tól a Le Monde-ig.",
-    "A Ziobro-ügy: az Orbán-kormány menedékjogát élvező volt lengyel igazságügyminiszter az USA-ba menekült Magyarországról — Varsó hivatalos magyarázatot követel.",
-    "Egy miniszterjelölt megerősítette, hogy Magyarország felülvizsgálja a Paks-bővítést, ami az orosz és kínai energetikai kötöttségektől való elszakadás eddigi legkonkrétabb jelzése.",
-    "A Reuters szerint uniós tisztviselők már 'ambiciózusnak, de lehetségesnek' tartják a befagyasztott 10,4 milliárd eurós forrásokhoz való hozzáférést — érzékelhető hangnemváltás.",
-    "Az Euractiv a nepotizmusvádakat a Magyar-kormány átmeneti narratívájának aktív fenyegetéseként értékeli, miközben az Európai Bizottság figyelme is fokozódik."
+    "Magyarország megszavazta az erőszakos izraeli telepesek elleni uniós szankciókat, visszavonva Orbán tartós vétóját — ez a legkonkrétabb külpolitikai fordulat az eddigi uniós igazodás terén.",
+    "Az igazságügyi miniszter-jelölt nyilvánosan vállalta az Orbán-kori LMBTQ-ellenes jogszabályok felülvizsgálatát — ez az első kormányzati szintű jelzés ebben a korábban elhallgatott reformterületen.",
+    "A szökésben lévő Zbigniew Ziobro volt lengyel igazságügyi miniszter megerősítette, hogy Magyarországról az Egyesült Államokba menekült; Varsó hivatalos magyarázatot követel.",
+    "Az uniós tisztviselők szerint Magyarország hozzáférése a befagyasztott 10,4 milliárd eurós forrásokhoz 'ambiciózus, de lehetséges' — érezhető hangnembeli változás az előző jellemzésekhez képest.",
+    "Egy miniszterjelölt bejelentette a paksi bővítés felülvizsgálatát — ez az eddigi legerősebb energetikai jelzés az orosz finanszírozású infrastruktúrától való elszakadásra."
   ],
   "narrative_shifts_en": [
-    "The Israeli settler sanctions story has shifted Hungary's international image from 'transition in progress' to 'EU member in action' — coverage is no longer about promises but measurable votes.",
-    "Nepotism has graduated from a pre-inauguration cabinet episode to a standalone systemic-governance risk narrative, signalling that Western scrutiny of Magyar is entering a more critical phase."
+    "Nepotism allegations (Euractiv) have crystallised into a standalone governance-risk narrative alongside the democratic-restoration story — Western scrutiny is now bifurcated rather than uniformly celebratory.",
+    "The supermajority-as-democratic-risk frame (Visegrad Insight) is consolidating: winning the election is increasingly framed as the easier half of the transition, with institutional reform the harder test."
   ],
   "narrative_shifts_hu": [
-    "Az izraeli telepesek elleni szankciók szavazata nyomán Magyarország nemzetközi megítélése 'folyamatban lévő átmenetből' 'aktív uniós szereplővé' alakult — a tudósítások már nem ígéretekről, hanem mérhető döntésekről szólnak.",
-    "A nepotizmus-téma kinőtte az avatás előtti kabinetválság keretét, és önálló rendszerszintű kormányzati kockázatként jelenik meg a nyugati elemzésekben."
+    "A nepotizmusvádak (Euractiv) önálló kormányzati kockázati narratívává szilárdultak — a nyugati megfigyelők értékelése ma már nem egységesen ünneplő, hanem kettős: demokratikus fordulat és intézményi aggályok egyszerre.",
+    "A kétharmados többség mint demokratikus kockázat keretezése erősödik: a választási győzelem egyre inkább az átmenet könnyebb felének tűnik, az intézményi reform a valódi próbatétel."
   ],
   "quotes_en": [
     {
       "quote": "I will serve my homeland.",
-      "speaker": "Péter Magyar, at his swearing-in as Prime Minister (EUobserver, May 11)"
+      "speaker": "Péter Magyar, upon being sworn in as Prime Minister (EUobserver)"
+    },
+    {
+      "quote": "Ambitious but possible.",
+      "speaker": "EU officials on Hungary's prospects for accessing the €10.4bn frozen funding package (Reuters)"
     }
   ],
   "quotes_hu": [
     {
       "quote": "Hazámat fogom szolgálni.",
-      "speaker": "Magyar Péter, miniszterelnöki beiktatásán (EUobserver, május 11.)"
+      "speaker": "Magyar Péter, miniszterelnöki beiktatásakor (EUobserver)"
+    },
+    {
+      "quote": "Ambiciózus, de lehetséges.",
+      "speaker": "Uniós tisztviselők Magyarország 10,4 milliárd eurós forrásokhoz való hozzáféréséről (Reuters)"
     }
   ],
   "what_to_watch_en": [
-    "Whether the nepotism narrative consolidates into a formal European Commission conditionality concern — or fades as Magyar's team responds — will define the next phase of EU funds negotiations.",
-    "Poland's formal demand for answers on the Ziobro departure sets up a bilateral diplomatic test; Magyar's response will signal how Hungary handles inherited asylum obligations.",
-    "The Paks review timeline and scope: markets and Brussels will be watching for specifics on how Magyar unwinds the Russian-financed expansion without triggering contractual or financial penalties."
+    "Whether nepotism allegations gain documented specifics or fade — Euractiv's framing will determine if this becomes a durable governance scandal or a transitional noise story.",
+    "Poland's formal demand for answers on the Ziobro departure: Hungary's response will be the first concrete bilateral rule-of-law test under Magyar.",
+    "EU funds conditionality negotiations: the 'ambitious but possible' tonal shift needs a timeline — watch for any Brussels briefing on benchmark milestones."
   ],
   "what_to_watch_hu": [
-    "A nepotizmus-narratíva esetleges beépülése az Európai Bizottság feltételrendszerébe meghatározhatja az uniós forrásokról szóló tárgyalások következő szakaszát.",
-    "Lengyelország hivatalos választ vár a Ziobro-ügyről — Magyar reakciója jelzi, hogyan kezeli a kormány az örökölt menedékjogi kötelezettségeket.",
-    "A Paks-felülvizsgálat menetrendje és terjedelme: Brüsszel és a piacok konkrét részleteket várnak arról, hogyan bontja le Magyar az orosz finanszírozású bővítést szerződéses szankciók nélkül."
+    "A nepotizmusvádak konkrét bizonyítékokat nyernek-e, vagy elhalnak — az Euractiv keretezése dönti el, hogy tartós kormányzati botrányról vagy átmeneti zajról van-e szó.",
+    "Lengyelország hivatalos magyarázatkérése a Ziobro-ügyben: Magyarország válasza lesz az első konkrét kétoldalú jogállamisági teszt Magyar alatt.",
+    "Az uniós forrástárgyalások feltételrendszere: az 'ambiciózus, de lehetséges' hangnembeli változáshoz határidőre van szükség — figyelni kell a brüsszeli mérföldkő-bejelentésekre."
   ],
   "date": "2026-05-12",
-  "article_count": 17,
-  "generated_at": "2026-05-12T06:15:22.189303+00:00"
+  "article_count": 19,
+  "generated_at": "2026-05-12T10:15:01.955739+00:00"
 }

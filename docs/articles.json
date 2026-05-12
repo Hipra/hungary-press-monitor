@@ -1,5 +1,63 @@
 [
   {
+    "id": "de6c7c2e62182ba9",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's new government must revise anti-LGBTQ laws, says justice minister nominee - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWQxaHNRZTFBXzBVY0RFOGtvY29oNFZhQllqMUNiLXVyemdFbGxHX1RiS05XVjVjaWx0UnR6ajg4aDdSczk3dl9vSUg0Q0JFRm5Ca0pjUWxYczFJM1dsSm1FdGlHRmtSczN1TUpxb1F2ZlMyMGk2bEhyQjFkQllqUzRtV2RPT1lETDBCTldfRWh0SUdGN0pSQ0JHNXJvNU9CWkJxSUN3d2pTaExDTFFxemdrMXByZw?oc=5",
+    "published_at": "2026-05-12T09:14:44+00:00",
+    "fetched_at": "2026-05-12T10:00:06.599688+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "human rights"
+    ],
+    "actors": [
+      "Justice Minister Nominee",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "rule_of_law",
+    "summary_en": "Hungary's new justice minister nominee commits to revising anti-LGBTQ legislation, signaling the Magyar government's determination to dismantle Orbán-era discrimination. This directly addresses a major international reporting gap regarding LGBTQ+ legislative reform specifics.",
+    "title_hu": "Az új magyar kormánynak felül kell vizsgálnia az LMBTQ-ellenes törvényeket, mondja az igazságügyi miniszter jelölt",
+    "summary_hu": "Az új magyar igazságügyi miniszter jelölt az LMBTQ-ellenes törvények felülvizsgálatára kötelezi el magát, jelezve a Magyar kormány szándékát az Orbán-korszak diszkriminációjának felszámolására. Ez közvetlenül a nemzetközi sajtó által feldolgozatlan LMBTQ+ jogszabály-reform kérdéseit kezeli.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "736912f767ab63ed",
+    "source": "Visegrad Insight",
+    "region": "cee",
+    "title": "Hungary After Orbán. Winning Power Is Easier Than Limiting It - Visegrad Insight",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LeGpEcGxGTDRqa1pjTGtJT25KT0tBN0hySGRiLWtxak14LU0xcVU3LWRlaEZFTGdvMi1zWFNuVUhfaDltZVpvT0FCbjR3RTk4RXkzSjZWanFfR05OTjdtelRqaU5PSXBrbUlVRmtaRFVGTHIwbXJlMg?oc=5",
+    "published_at": "2026-05-12T08:09:14+00:00",
+    "fetched_at": "2026-05-12T10:00:47.746730+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "judicial reform"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's new government under Péter Magyar faces the core challenge of not merely winning elections but actually dismantling Viktor Orbán's 15-year institutional apparatus and constraining executive power. The article frames the Tisza Party's two-thirds majority victory as the easier phase; implementing genuine democratic reforms and institutional checks on the supermajority will prove far more difficult. This reflects growing Western skepticism that the transition, despite early anti-corruption gestures, can succeed in permanently limiting the concentrated executive authority Orbán established.",
+    "title_hu": "Orbán utáni Magyarország. A hatalom meghódítása könnyebb, mint annak korlátozása",
+    "summary_hu": "Magyar Péter új kormánya az alapvető kihívással néz szembe: nem csupán választásokat megnyerni, hanem Orbán 15 éves intézményi rendszerét felszámolni és a végrehajtó hatalom korlátozása. A cikk a Tisza Párt kétharmados többsége-győzelmét az könnyebb szakaszként keretezi; a valódi demokratikus reformok megvalósítása és az intézményi korlátok bevezetése sokkal nagyobb nehézséget fog jelenteni. Ez tükrözi a nyugati szkepticizmust: hogy a demokratikus átmenet, korai korrupcióellenes gesztusok ellenére, sem tud véglegesen korlátot szabni az Orbán által létrehozott koncentrált végrehajtó hatalmaknak.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "bf026d2f5b3a3e4b",
     "source": "Euractiv",
     "region": "eu",
@@ -752,6 +810,36 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b118f2927041ab3f",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Budapest celebrates Europe with a massive festival under new government era - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1B4STFyVDcyalU1TDFzMmlteFdlbk5tQ2JDQVJiRG93VGRnaWJha0oxRUgyOTl0bGRsdXNmNUhNdlFYeU9VblNUZmNmRDBpQVZkdjhDaVZRcEVnR3NmYUZyYU9COGpkMWhJWnI0Z1Z5SVcwTWNzX1R2bTloUUFSUUVFSi1XZ1FQa2psaWdWT1JDRnNweU5Ja3hRT0c5Y2VHZTlWbjdobWdUVGluY3c?oc=5",
+    "published_at": "2026-05-10T14:47:34+00:00",
+    "fetched_at": "2026-05-12T10:00:40.418032+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Budapest",
+      "European Union"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "On May 10, 2026, as Péter Magyar was sworn in as Prime Minister, Budapest hosted a major festival celebrating Europe under Hungary's new democratic government. The celebration symbolizes Hungary's reintegration with the European mainstream following Viktor Orbán's 15-year rule.",
+    "title_hu": "Budapest Európát ünnepli - hatalmas fesztivál az új kormányzati korszakban",
+    "summary_hu": "2026. május 10-én, amikor Péter Magyart miniszterelnökké eskettették, Budapest egy nagy fesztivál keretében ünnepelte az új kormányzat alatt Magyarország Európához való visszatérését. Az ünneplés szimbolizálja az ország reintegrációját az európai politika főáramába, amely Viktor Orbán 15 éves uralma után valósult meg.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   },

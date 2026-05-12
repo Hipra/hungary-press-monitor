@@ -1,18 +1,18 @@
 {
-  "total_articles": 421,
-  "analyzed_articles": 421,
+  "total_articles": 424,
+  "analyzed_articles": 424,
   "tone": {
-    "critical": 67,
-    "positive": 134,
+    "positive": 136,
+    "critical": 68,
     "neutral": 179,
     "mixed": 40,
     "hopeful": 1
   },
   "framing": {
-    "rule_of_law": 49,
+    "rule_of_law": 50,
+    "democracy_restoration": 103,
     "eu_integration": 69,
     "geopolitics": 103,
-    "democracy_restoration": 101,
     "other": 13,
     "EU_integration": 6,
     "russia_china": 7,
@@ -27,20 +27,20 @@
     "energy": 3
   },
   "region": {
-    "eu": 147,
+    "wire": 75,
+    "cee": 19,
+    "eu": 148,
     "us": 39,
     "uk": 76,
     "think": 2,
     "de": 50,
-    "fr": 15,
-    "wire": 74,
-    "cee": 18
+    "fr": 15
   },
   "source": {
-    "Reuters": 60,
+    "Reuters": 61,
     "DW English": 49,
     "Politico Europe": 45,
-    "Euronews": 39,
+    "Euronews": 40,
     "Euractiv": 38,
     "The Guardian": 26,
     "Financial Times": 25,
@@ -52,10 +52,10 @@
     "BBC": 13,
     "New York Times": 12,
     "The Times": 9,
+    "Visegrad Insight": 4,
     "Wall Street Journal": 4,
     "Foreign Policy": 4,
     "The Parliament Magazine": 3,
-    "Visegrad Insight": 3,
     "The Economist": 3,
     "ECFR": 2,
     "Politico US": 2,
@@ -64,37 +64,37 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 340,
-    "EU relations": 237,
-    "democracy": 176,
+    "government transition": 343,
+    "EU relations": 238,
+    "democracy": 179,
     "geopolitics": 157,
-    "rule of law": 119,
+    "rule of law": 121,
     "foreign policy": 103,
     "EU funds": 75,
     "elections": 57,
     "economy": 54,
     "corruption": 37,
+    "human rights": 30,
     "Russia deals": 30,
-    "human rights": 29,
     "energy": 29,
     "Fidesz opposition": 28,
-    "society": 20,
-    "judicial reform": 16,
+    "society": 21,
+    "judicial reform": 17,
     "V4 diplomacy": 12,
     "media freedom": 11,
     "NATO": 6,
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 334,
-    "Viktor Orbán": 203,
+    "Péter Magyar": 337,
+    "Viktor Orbán": 204,
     "European Commission": 57,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 34,
     "Ukraine": 32,
     "Ursula von der Leyen": 30,
+    "European Union": 21,
     "Volodymyr Zelenskyy": 21,
-    "European Union": 20,
     "Hungary": 20,
     "Donald Tusk": 16,
     "Russia": 15,
@@ -108,8 +108,8 @@
     "Vladimir Putin": 6
   },
   "main_actor": {
-    "magyar_peter": 151,
-    "hungary_country": 117,
+    "magyar_peter": 153,
+    "hungary_country": 118,
     "eu_institutions": 39,
     "other": 33,
     "orban_viktor": 73,
@@ -161,11 +161,21 @@
     "2026-05-07": 20,
     "2026-05-08": 22,
     "2026-05-09": 21,
-    "2026-05-10": 12,
+    "2026-05-10": 13,
     "2026-05-11": 19,
-    "2026-05-12": 2
+    "2026-05-12": 4
   },
   "tone_by_source": {
+    "Reuters": {
+      "positive": 20,
+      "neutral": 33,
+      "mixed": 2,
+      "critical": 6
+    },
+    "Visegrad Insight": {
+      "critical": 2,
+      "neutral": 2
+    },
     "Euractiv": {
       "critical": 10,
       "positive": 7,
@@ -201,7 +211,7 @@
     },
     "Euronews": {
       "neutral": 20,
-      "positive": 11,
+      "positive": 12,
       "critical": 4,
       "mixed": 4
     },
@@ -209,12 +219,6 @@
       "positive": 10,
       "critical": 2,
       "neutral": 3
-    },
-    "Reuters": {
-      "neutral": 33,
-      "mixed": 2,
-      "positive": 19,
-      "critical": 6
     },
     "AP News": {
       "neutral": 9,
@@ -273,10 +277,6 @@
       "mixed": 1,
       "neutral": 1
     },
-    "Visegrad Insight": {
-      "neutral": 2,
-      "critical": 1
-    },
     "Foreign Policy": {
       "neutral": 3,
       "positive": 1
@@ -294,6 +294,16 @@
     }
   },
   "source_bias": {
+    "Reuters": {
+      "positive": 33,
+      "neutral": 54,
+      "mixed": 3,
+      "critical": 10
+    },
+    "Visegrad Insight": {
+      "critical": 50,
+      "neutral": 50
+    },
     "Euractiv": {
       "critical": 26,
       "positive": 18,
@@ -324,8 +334,8 @@
       "hopeful": 2
     },
     "Euronews": {
-      "neutral": 51,
-      "positive": 28,
+      "neutral": 50,
+      "positive": 30,
       "critical": 10,
       "mixed": 10
     },
@@ -333,12 +343,6 @@
       "positive": 67,
       "critical": 13,
       "neutral": 20
-    },
-    "Reuters": {
-      "neutral": 55,
-      "mixed": 3,
-      "positive": 32,
-      "critical": 10
     },
     "AP News": {
       "neutral": 64,
@@ -390,10 +394,6 @@
       "critical": 67,
       "positive": 33
     },
-    "Visegrad Insight": {
-      "neutral": 67,
-      "critical": 33
-    },
     "Foreign Policy": {
       "neutral": 75,
       "positive": 25
@@ -405,5 +405,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-12T06:15:22.342128+00:00"
+  "last_updated": "2026-05-12T10:15:02.107452+00:00"
 }
