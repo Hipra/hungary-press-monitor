@@ -1,5 +1,74 @@
 [
   {
+    "id": "28d561c7e735d1cb",
+    "source": "The Times",
+    "region": "uk",
+    "title": "We are Moscow’s Trojan horse no more, Hungarian minister declares - The Times",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmZzelJhMzY4TWZaVDJuTlFoaGNIZ0h3WFhpQnBxWUN3U3gxeGQ0V0RGMWxIaV93WThWSWkwUm1sdXZOY0NUMk52OVJsTHdaSGp1Vmx6eHB6Y0twWWloQ2NELXJTMGhmNko3TjRaZ1Y3dGMyVVRVYjlFZWNzZ3k3TF9GWjNzcGpQNVFFQlc3cw?oc=5",
+    "published_at": "2026-05-12T13:50:04+00:00",
+    "fetched_at": "2026-05-12T14:00:13.186613+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "Russia deals",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungarian government",
+      "Viktor Orbán",
+      "Russia"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "A Hungarian government minister declared that Hungary is no longer serving as Russia's 'Trojan horse,' signaling the Magyar administration's decisive break from Orbán-era alignment with Moscow. The statement reinforces Hungary's geopolitical realignment toward EU and Western integration.",
+    "title_hu": "Már nem vagyunk Moszkva trójai lova - nyilatkozott a magyar miniszter",
+    "summary_hu": "Egy magyar kormányzati miniszter kijelentette, hogy Magyarország már nem \"Moszkva trójai lova\", jelezve az új Magyar-kormány döntő szakítását az Orbán-korszak Moszkvával való összefonódásából. A nyilatkozat megerősíti Magyarország geopolitikai fordulását az EU és a nyugati integráció felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Russia"
+    ],
+    "quotes": [
+      "We are Moscow's Trojan horse no more"
+    ]
+  },
+  {
+    "id": "fb5a1836c3bc8ea2",
+    "source": "Notes from Poland",
+    "region": "cee",
+    "title": "Poland seeks answers from US on how wanted former justice minister was able to enter the country - Notes From Poland",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZWpVQnJqZnpCTW1MQ053Mndlc294RGwtTW9RUlgtanlmTkYyZ3dxM2taTVM3SzBFRTluUkdXekZOMlZkLTZtQkxvbGdFclV5MDY2ZlZPd2VwY2w2X3czb0RkSG1VUDRjVUdRVy1FMllDeDM3U21nSEdmX0lPODlpcUFZUmlkMWM0TkRFS2lGb0kxNUtaVVRxejQ2NHh5OS1aQkstZXBiMHVUZV9ZU09Td3l2Q3RzLUhGd2hHWDNLQTdoRVJjSWRoYlcxdE9jMjJYbVE?oc=5",
+    "published_at": "2026-05-12T11:00:02+00:00",
+    "fetched_at": "2026-05-12T14:00:46.531837+00:00",
+    "topics": [
+      "rule of law",
+      "government transition",
+      "foreign policy",
+      "human rights"
+    ],
+    "actors": [
+      "Zbigniew Ziobro",
+      "Péter Magyar",
+      "Poland",
+      "United States"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "Zbigniew Ziobro, a former Polish justice minister granted asylum by Viktor Orbán, fled Hungary after Péter Magyar's new government signaled it would not harbor people wanted by foreign authorities. Poland is now seeking clarification from the United States about how Ziobro entered the country, underscoring Hungary's rule-of-law pivot and the consequences of Orbán-era asylum decisions.",
+    "title_hu": "Lengyelország választ kér az Egyesült Államoktól, hogyan tudott belépni az ország keresett egykori igazságügyi minisztere",
+    "summary_hu": "Zbigniew Ziobro, az egykori lengyel igazságügyi miniszter, akit Viktor Orbán menedékjogot adományozott, elmenekült Magyarországról, miután Péter Magyar új kormánya jelezte, hogy nem fogja befogadni az idegen hatóságok által keresett személyeket. Lengyelország most az Egyesült Államoktól kér tisztázást arról, hogyan tudott Ziobro belépni az országba, ami alátámasztja Magyarország jogállamiság irányú fordulóját és az Orbán-féle menedékjogi döntések következményeit.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland",
+      "United States"
+    ],
+    "quotes": []
+  },
+  {
     "id": "de6c7c2e62182ba9",
     "source": "Reuters",
     "region": "wire",
@@ -170,6 +239,35 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "0b4df0f9fb43f655",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "EU to blacklist West Bank settlers, amid Israel’s wider ‘war of terror’ - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMzdaa2RObThTU2NzdExEU3pLQ1BfNzRMMVVTTnhnb1YxbUc2MUZpN0pZMllVNUhpZGwxUWlvWlVuRzdjMnVObk1XMjdxdU00NVNKMXBjSHhGUWdWR3dhYVZPWjZRUWMzeERPSVdlUzVrb2dKeUVEd2tWU004NDRaNXpfUWNhNklzSlVNQ0JFOS16eU50SWRIZVBqSlZHTVU?oc=5",
+    "published_at": "2026-05-11T18:38:22+00:00",
+    "fetched_at": "2026-05-12T14:00:30.608228+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "European Commission",
+      "Péter Magyar",
+      "Hungary"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "The EU moved to blacklist West Bank settlers as part of sanctions measures. Hungary's backing of these EU sanctions represents a significant foreign policy signal of its reintegration into mainstream EU policy-making, marking a sharp departure from Orbán-era alignment patterns.",
+    "title_hu": "Az EU kitiltja a Nyugati Part telepeseit, Izrael széleskörű 'terrorháborúja' közepette",
+    "summary_hu": "Az EU szankciós intézkedéseket vezetett be a Nyugati part telepeseitől. Magyarország EU-szankciók támogatása a magyar külpolitika kulcsfontosságú jeleként működik, amely az ország EU-szintű reintegrációját jelzi és éles eltérést mutat az Orbán-korszak politikájától.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
     "comparison_countries": [],
     "quotes": []
   },
@@ -570,6 +668,36 @@
     "comparison_countries": [
       "Poland"
     ],
+    "quotes": []
+  },
+  {
+    "id": "6f347aad50f04903",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Hungary's new government sparks hopes of billions in Ukraine military aid repayments - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkRJMWFJalItdFVsUFk2Mk5hOTJaLVhPZjZKUVBEUG1Kckp3cGFKallCWWFJVW9Zc2I3SGxvZndaWEt5Qm5Ub1NSeFNwaVFMRnBQcUxNRDVROGh2NjNmd1loQ3dEZmp6MFlMUUZTeU54RGEtMVVTbWxwTGVRTFRheHczNXd1R3lUaDdGOFBGeU1TQV8wUklIRW51clJIMEtuZDJMbEQtMUhLV0FSSkxvcEpmeEc?oc=5",
+    "published_at": "2026-05-11T07:00:00+00:00",
+    "fetched_at": "2026-05-12T14:00:28.632000+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "foreign policy",
+      "EU relations",
+      "corruption"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's new government under Péter Magyar has raised expectations for repaying billions in seized Ukrainian military aid funds, signaling deeper EU reintegration and normalization of relations with Kyiv. The move reverses Orbán-era policies that damaged Hungary-Ukraine ties and aligns with Magyar's commitment to EU compliance and geopolitical realignment. Earlier returns of $82 million and proposed June bilateral talks underscore the diplomatic reset.",
+    "title_hu": "Magyarország új kormánya reményt kelt a milliárdos ukrajnai katonai segély visszafizetésével kapcsolatban",
+    "summary_hu": "Péter Magyar új magyarországi kormánya reményt kelt a megfékezett ukrajnai katonai segély milliárdainak visszafizetésére, amely mélyebb EU-reintegrációt és Kijev-vel való kapcsolatok normalizálódását jelzi. A lépés az Orbán-korszak Magyarország-Ukrajna kapcsolatokat károsító politikáit fordítja meg, összhangban Magyar EU-megfelelőségi és geopolitikai átalakulási elkötelezettségével. A korábbi 82 milliós dollár visszaadása és a tervezett júniusi bilaterális tárgyalások a diplomáciai fordulat jelzéseiként funkcionálnak.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
     "quotes": []
   },
   {
@@ -1294,6 +1422,34 @@
     "summary_en": "Péter Magyar was sworn in as Prime Minister of Hungary on May 10, 2026, ending Viktor Orbán's 15-year rule in what is widely characterized as a 'regime change.' With the Tisza Party holding a two-thirds parliamentary majority, Magyar's government begins a transition focused on democratic restoration and EU reintegration. The swearing-in marks a symbolic end to the Orbán era and the beginning of Hungary's democratic renewal.",
     "title_hu": "Péter Magyart beiktatták Magyarország 'rendszerváltás' miniszterelnökeként",
     "summary_hu": "Péter Magyart 2026. május 10-én beiktatták Magyarország miniszterelnökeként, ezzel véget vetett Viktor Orbán 15 éves uralomnak, amit széles körben 'rendszerváltásként' jellemeznek. A Tisza Párt kétharmados parlamentári többsége mellett Magyar kormánya a demokratikus helyreállítás és az EU-val való újraintegráció felé irányuló átmenetet kezdi. A beiktatás szimbolikusan az Orbán-korszak végét és Magyarország demokratikus megújulásának kezdetét jelöli.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "247a937c69f40e55",
+    "source": "AP News",
+    "region": "wire",
+    "title": "On day of Magyar swearing in, EU flag flies on Hungary parliament building for first time since 2014 - AP News",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVk5fRlNiVXZNTkk2UzRHOFlWc3E1Q0p0b3phTTcwZ1VOeUNxMEVmaFNhWElRN0hTeFB0eVFFWGJndkpKWnc0cEtVMlBBT1c0UmsydFc1T3pVQWIxOTJfMXhjaDRKU0pHRFpFRTJ4VHNqOU1KaVFFYnRZb25JM0V1WDJHMEFiNGl4OTk4OHN4UmxxbU15Vk1xRlVIYlVJS2xMSkFNTmgwdUF1eVJBc0Q5SXlnUElfcXE5NDVsaDBnc3Y0NF9oNFdlQ2ZhbUMzRGk3SEgyNGFfNXZxUFVuemkwRE5SRElvTDVXSzdrRmJR?oc=5",
+    "published_at": "2026-05-09T14:10:00+00:00",
+    "fetched_at": "2026-05-12T14:00:03.201677+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Union"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "On Péter Magyar's swearing-in day as Prime Minister, the EU flag was raised on Hungary's parliament building for the first time since 2014, symbolizing the country's return to EU democratic norms and institutional integration after Viktor Orbán's 15-year rule.",
+    "title_hu": "Magyar Péter beiktatásának napján az EU zászló először 2014 óta lobog a magyar parlament épületén",
+    "summary_hu": "Péter Magyar miniszterelnökké beiktatásakor az EU zászló először jelent meg a parlament épületén 2014 óta, szimbolizálva Magyarország visszatérését az EU demokratikus normáihoz és integrációjához Viktor Orbán 15 éves uralma után.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
