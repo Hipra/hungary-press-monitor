@@ -1,24 +1,24 @@
 {
-  "total_articles": 429,
-  "analyzed_articles": 429,
+  "total_articles": 431,
+  "analyzed_articles": 431,
   "tone": {
-    "positive": 139,
-    "neutral": 181,
+    "neutral": 182,
+    "positive": 140,
     "critical": 68,
     "mixed": 40,
     "hopeful": 1
   },
   "framing": {
+    "economy": 23,
+    "democracy_restoration": 104,
     "geopolitics": 105,
     "rule_of_law": 51,
-    "democracy_restoration": 103,
     "eu_integration": 71,
     "other": 13,
     "EU_integration": 6,
     "russia_china": 7,
     "government transition": 3,
     "corruption": 21,
-    "economy": 22,
     "regional": 9,
     "media_freedom": 9,
     "Fidesz opposition": 3,
@@ -27,9 +27,9 @@
     "energy": 3
   },
   "region": {
+    "wire": 78,
     "uk": 77,
     "cee": 20,
-    "wire": 76,
     "eu": 150,
     "us": 39,
     "think": 2,
@@ -37,7 +37,7 @@
     "fr": 15
   },
   "source": {
-    "Reuters": 61,
+    "Reuters": 62,
     "DW English": 49,
     "Politico Europe": 45,
     "Euronews": 40,
@@ -45,9 +45,9 @@
     "The Guardian": 26,
     "Financial Times": 25,
     "EUobserver": 23,
+    "AP News": 16,
     "Washington Post": 16,
     "Le Monde": 15,
-    "AP News": 15,
     "Balkan Insight": 14,
     "BBC": 13,
     "New York Times": 12,
@@ -64,33 +64,33 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 348,
+    "government transition": 350,
     "EU relations": 241,
-    "democracy": 180,
+    "democracy": 181,
     "geopolitics": 159,
-    "rule of law": 122,
+    "rule of law": 123,
     "foreign policy": 107,
     "EU funds": 75,
     "elections": 57,
-    "economy": 54,
+    "economy": 55,
     "corruption": 38,
+    "human rights": 32,
     "Russia deals": 31,
-    "human rights": 31,
     "energy": 29,
     "Fidesz opposition": 28,
     "society": 21,
-    "judicial reform": 17,
+    "judicial reform": 18,
     "V4 diplomacy": 12,
     "media freedom": 11,
     "NATO": 6,
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 342,
-    "Viktor Orbán": 205,
+    "Péter Magyar": 344,
+    "Viktor Orbán": 206,
     "European Commission": 58,
     "Volodymyr Zelenskiy": 39,
-    "Tisza Party": 34,
+    "Tisza Party": 35,
     "Ukraine": 32,
     "Ursula von der Leyen": 30,
     "European Union": 22,
@@ -108,8 +108,8 @@
     "Vladimir Putin": 6
   },
   "main_actor": {
+    "magyar_peter": 157,
     "hungary_country": 120,
-    "magyar_peter": 155,
     "eu_institutions": 40,
     "other": 33,
     "orban_viktor": 73,
@@ -163,9 +163,20 @@
     "2026-05-09": 22,
     "2026-05-10": 13,
     "2026-05-11": 21,
-    "2026-05-12": 6
+    "2026-05-12": 8
   },
   "tone_by_source": {
+    "Reuters": {
+      "neutral": 34,
+      "positive": 20,
+      "mixed": 2,
+      "critical": 6
+    },
+    "AP News": {
+      "positive": 6,
+      "neutral": 9,
+      "mixed": 1
+    },
     "The Times": {
       "positive": 5,
       "mixed": 1,
@@ -175,12 +186,6 @@
     "Notes from Poland": {
       "neutral": 1,
       "critical": 1
-    },
-    "Reuters": {
-      "positive": 20,
-      "neutral": 33,
-      "mixed": 2,
-      "critical": 6
     },
     "Visegrad Insight": {
       "critical": 2,
@@ -236,11 +241,6 @@
       "critical": 2,
       "neutral": 3
     },
-    "AP News": {
-      "neutral": 9,
-      "positive": 5,
-      "mixed": 1
-    },
     "New York Times": {
       "neutral": 5,
       "critical": 2,
@@ -295,17 +295,22 @@
     }
   },
   "source_bias": {
+    "Reuters": {
+      "neutral": 55,
+      "positive": 32,
+      "mixed": 3,
+      "critical": 10
+    },
+    "AP News": {
+      "positive": 38,
+      "neutral": 56,
+      "mixed": 6
+    },
     "The Times": {
       "positive": 50,
       "mixed": 10,
       "critical": 10,
       "neutral": 30
-    },
-    "Reuters": {
-      "positive": 33,
-      "neutral": 54,
-      "mixed": 3,
-      "critical": 10
     },
     "Visegrad Insight": {
       "critical": 50,
@@ -357,11 +362,6 @@
       "critical": 13,
       "neutral": 20
     },
-    "AP News": {
-      "neutral": 60,
-      "positive": 33,
-      "mixed": 7
-    },
     "New York Times": {
       "neutral": 42,
       "critical": 17,
@@ -406,5 +406,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-12T14:16:04.103481+00:00"
+  "last_updated": "2026-05-12T18:14:13.042451+00:00"
 }

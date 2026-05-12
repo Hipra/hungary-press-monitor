@@ -1,5 +1,62 @@
 [
   {
+    "id": "eba3c76807884622",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary PM Magyar targets new economic model, gives key ministers veto over legislation - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnMzZHFIYXJnZEN1U0ZzVndPc0U1b05BaFUwZi1oa1NPeU1IQjUwTXBOMGNSTEw5Ty1VY2I1X2VtYW9OQUduekx3LTJja0NWMnU0dGRyc0lscFZBRm84ZmF3WS1PVVBZaGh6N3hLSXAteE92dnQxOXN0d0t3dnR5c3VoTVZVTWNrWVQ4VF8xUmNzU3FfRnBYSDBlUURKbGpvbW81aWVYM3BtMzFrSmhaNmRFT3dTU1RY?oc=5",
+    "published_at": "2026-05-12T17:34:10+00:00",
+    "fetched_at": "2026-05-12T18:00:03.524990+00:00",
+    "topics": [
+      "government transition",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "PM Péter Magyar is implementing a new economic model and restructuring ministerial governance by granting key ministers veto power over legislation, signaling institutional reforms accompanying his administration's policy agenda.",
+    "title_hu": "Magyar Péter miniszterelnök új gazdasági modellt céloz meg, és kulcsminisztereknek vétójogot ad a jogalkotásban",
+    "summary_hu": "Péter Magyar miniszterelnök új gazdasági modellt valósít meg, és miniszteri szerkezetet átszervezi azzal, hogy kulcsminisztereknek vétójogot ad a jogalkotásban. Ez intézményi reformokat jelez, amelyek kormánya politikai programját kiegészítik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "62b874dfea48d572",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Ministers take office in Hungary’s first non-Orbán government in 16 years - AP News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkF0cHNQSHNsS3hvX1o5aXF3NFI2RnU0Qy11X2pwLVFSZ1BBRzRva2pXUTFwOTdUUXhldEhORDN0dGhPYkV2dzNkM095Snk0TFhsQkdXREpsM3hFVUZORDNZcWhoU1pQWW1fZkczdmNXcVJWd3ZCaV9tS2tqNlNtWlB5QnA1Q2I1UnRKdEFJMHpGN2JHbk5oLXIzdi1WYlVPNkgyc2p0dw?oc=5",
+    "published_at": "2026-05-12T16:17:00+00:00",
+    "fetched_at": "2026-05-12T18:00:05.399758+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "judicial reform",
+      "human rights"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's first non-Orbán government was formally established with ministers taking office, marking the end of Viktor Orbán's 16-year rule. Péter Magyar's cabinet includes commitments to judicial reform and protection of minority rights, including pledges to revise anti-LGBTQ legislation. The transition represents Hungary's democratic renewal and shift toward EU integration.",
+    "title_hu": "Miniszterek lépnek hivatalba Magyarország első nem-Orbán kormányában 16 év után",
+    "summary_hu": "Magyarország első nem-Orbán kormánya hivatalosan megalakult a miniszteri kinevezésekkel, amivel véget ért Viktor Orbán 16 éves uralma. Péter Magyar kormánya kötelezettségeket vállal a bírósági reformra és a kisebbségek jogvédelmére, beleértve az LMBTQ-ellenes jogszabályok módosítását. Az átmenet Magyarország demokratikus megújulásának és az EU-integrációs törekvésének szimbóluma.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "28d561c7e735d1cb",
     "source": "The Times",
     "region": "uk",
