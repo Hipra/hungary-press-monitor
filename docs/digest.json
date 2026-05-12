@@ -1,59 +1,53 @@
 {
-  "top_story_en": "The Ziobro case crystallised as today's dominant story across six outlets: the former Polish justice minister's flight from Hungary to the US marks the first concrete, internationally visible test of Magyar's rule-of-law break with Orbán — and Hungary passed it.",
-  "top_story_hu": "A Ziobro-ügy lett a nap meghatározó sztorijává hat orgánumnál: a volt lengyel igazságügyi miniszter Magyarországról az USA-ba menekülése az első kézzel fogható, nemzetközileg látható próbája Magyar jogállamisági szakításának az Orbán-érával — és Magyarország megfelelt.",
+  "top_story_en": "Hungary's backing of EU sanctions on Israeli settlers — reversing years of Orbán-era vetoes — dominated global coverage across six major outlets on May 12, cementing the view that Magyar's foreign policy realignment is concrete and vote-trackable, not merely symbolic.",
+  "top_story_hu": "Magyarország támogatása az EU izraeli telepesekkel szembeni szankcióihoz – amely évek óta tartó Orbán-kori vétók után következett be – uralta a globális sajtót hat nagy orgánumban, megerősítve azt a képet, hogy Magyar külpolitikai fordulata kézzelfogható és szavazáson is nyomon követhető.",
   "key_developments_en": [
-    "Zbigniew Ziobro confirmed he fled Hungary to the US after PM Magyar stated Hungary will no longer shelter individuals sought by foreign authorities — covered by Reuters, Guardian, AP, WaPo, Euractiv, and Euronews.",
-    "Hungary backed EU sanctions on Israeli West Bank settlers, a unanimous vote that four outlets (BBC, DW, Euronews, Le Monde) framed as a concrete, vote-trackable measure of EU foreign policy reintegration.",
-    "Reuters reported officials now describe Hungary's access to the EU's €10.4bn frozen funding package as 'ambitious but possible' — a notable tonal softening from recent characterisations of the standoff as deteriorating.",
-    "A ministerial nominee confirmed Hungary will review the Orbán-era Paks nuclear expansion — the first concrete energy-sector signal of disentanglement from Russian and Chinese strategic dependencies.",
-    "Péter Magyar was formally confirmed as Prime Minister by EUobserver's weekly roundup, cementing inauguration coverage as a fixture across European institutional media for a second consecutive day."
+    "Hungary backed EU sanctions on violent Israeli West Bank settlers, with Washington Post, BBC, Guardian, DW, Le Monde, and Euronews all framing it as the clearest proof yet of Magyar's EU reintegration.",
+    "Former Polish justice minister Zbigniew Ziobro confirmed he has left Orbán-era asylum in Hungary for the US; Poland is now formally demanding answers, and Reuters, AP, Guardian, Euronews, and WaPo all covered the case.",
+    "Reuters reports EU officials now describe Hungary accessing the €10.4bn frozen funding package as 'ambitious but possible' — a notable tonal softening from previous deadlock language.",
+    "A ministerial nominee confirmed Hungary will review the Paks nuclear plant expansion, the flagship Russian-financed, Chinese-involved energy project — the clearest geopolitical-energy signal of the week.",
+    "ECFR published a firsthand dispatch from Budapest framing the transition as an 'unprecedented opportunity' for institutional reform, while The Guardian podcast raised the countervailing question of whether fascism is returning to Europe."
   ],
   "key_developments_hu": [
-    "Zbigniew Ziobro megerősítette, hogy elhagyta Magyarországot és az USA-ba utazott, miután Magyar PM közölte: Magyarország nem nyújt menedéket más országok által keresett személyeknek — hat orgánum foglalkozott az üggyel.",
-    "Magyarország megszavazta az EU izraeli telepesek elleni szankcióit; négy lap (BBC, DW, Euronews, Le Monde) ezt az EU-s külpolitikai reintegráció kézzelfogható, szavazattal igazolható bizonyítékaként értékelte.",
-    "A Reuters szerint illetékesek most már 'ambiciózusnak, de lehetségesnek' tartják a befagyasztott 10,4 milliárd eurós EU-s forrásokhoz való hozzáférést — ez érzékelhető hangnemváltás a korábbi patthelyzet-narratívához képest.",
-    "Egy miniszterjelölt megerősítette, hogy Magyarország felülvizsgálja az Orbán-kori paksi bővítési megállapodást — ez az energiaszektorban az első konkrét jel az orosz és kínai stratégiai függőség lebontásáról.",
-    "Az EUobserver heti összefoglalója Magyar Pétert formálisan megerősítette miniszterelnökként, az avatási tudósítás immár két egymást követő napja meghatározó téma az európai intézményi médiában."
+    "Magyarország megszavazta az EU izraeli telepesek elleni szankcióit; a Washington Post, a BBC, a Guardian, a DW, a Le Monde és az Euronews egyaránt ezt tartja Magyar EU-integrációs fordulata legszilárdabb bizonyítékának.",
+    "Zbigniew Ziobro volt lengyel igazságügyi miniszter megerősítette, hogy elhagyta az Orbán-rezsim által biztosított menedékhelyet, és az USA-ba utazott; Lengyelország formálisan magyarázatot kér.",
+    "A Reuters szerint uniós tisztviselők most már 'ambiciózusnak, de lehetségesnek' tartják, hogy Magyarország hozzáférjen a befagyasztott 10,4 milliárd eurós forráshoz – ez lényegesen enyhébb hangnem a korábbi holtpontnál.",
+    "Egy miniszterjelölt megerősítette, hogy Magyarország felülvizsgálja a Paksi Atomerőmű bővítését, az Orbán-korszak zászlóshajó orosz-kínai energiaprojektjét.",
+    "Az ECFR elemzése az átmenetet páratlan lehetőségként ünnepli, miközben a Guardian podcastja azt kérdezi, hogy visszatér-e a fasizmus Európába."
   ],
   "narrative_shifts_en": [
-    "The Guardian introduced a new critical register today with a podcast explicitly asking whether Hungary's transition signals a return of fascism — the first time this framing appears, sharply contrasting the dominant democratic-restoration narrative that has defined coverage since the election.",
-    "Reuters' EU funds language shifted from 'deteriorating standoff' to 'ambitious but possible' — the first optimistic signal from official sources, potentially opening a new phase in the Brussels–Budapest funding narrative."
+    "Israeli settler sanctions story has graduated from 'Hungary reverses veto' to a global proof-of-concept narrative: outlets now frame it as evidence that Magyar's EU reintegration is structurally real, not performative.",
+    "The Guardian's fascism podcast introduces a new critical register that cuts against the dominant democratic-restoration framing — the first time this rhetorical level has appeared in coverage this cycle.",
+    "EU funds coverage has shifted from stalemate to cautious optimism: Reuters' 'ambitious but possible' framing marks a measurable tonal change from prior 'deteriorating standoff' language."
   ],
   "narrative_shifts_hu": [
-    "A Guardian ma egy új kritikai hangnemet vezetett be: egy podcast nyíltan felteszi a kérdést, hogy Magyarország átmenete a fasizmus visszatérését jelzi-e — ez az első ilyen keretezés, amely élesen szemben áll az eddigi demokratikus restauráció-narratívával.",
-    "A Reuters EU-s forrásokról szóló nyelvezete 'romló patthelyzet'-ről 'ambiciózus, de lehetséges'-re váltott — ez az első optimista jelzés a hivatalos forrásokból, amely új fejezetet nyithat a Brüsszel–Budapest finanszírozási történetben."
+    "Az izraeli telepesekkel kapcsolatos szankciók híre globális bizonyítéktörténetté vált: az orgánumok most már strukturálisan valósnak, nem performatívnak látják Magyar EU-integrációját.",
+    "A Guardian fasizmus-podcastja új kritikai hangnemet vezet be, amely szemben áll a domináns demokratikus-restaurációs narratívával – ez az első ilyen hang ebben a lefedettségi ciklusban.",
+    "Az uniós forrásokról szóló tudósítás a holtpontról óvatos optimizmus felé mozdult: a Reuters 'ambiciózus, de lehetséges' megfogalmazása érzékelhető hangnembeli változást jelez."
   ],
   "quotes_en": [
     {
       "quote": "I will serve my homeland.",
-      "speaker": "Péter Magyar, upon being sworn in as Prime Minister (EUobserver)"
-    },
-    {
-      "quote": "Hungary's race to access the EU's 10.4 billion euros is ambitious but possible.",
-      "speaker": "EU officials, as reported by Reuters"
+      "speaker": "Péter Magyar, at his swearing-in as Prime Minister (EUobserver)"
     }
   ],
   "quotes_hu": [
     {
       "quote": "Hazámat fogom szolgálni.",
-      "speaker": "Magyar Péter, miniszterelnöki eskütételén (EUobserver)"
-    },
-    {
-      "quote": "Magyarország versenye a 10,4 milliárd eurós EU-s forrásokért ambiciózus, de lehetséges.",
-      "speaker": "EU-s tisztviselők, a Reuters tudósítása szerint"
+      "speaker": "Magyar Péter, miniszterelnöki beiktatásán (EUobserver)"
     }
   ],
   "what_to_watch_en": [
-    "Poland has formally demanded answers about Ziobro's departure; whether Hungary provides an official diplomatic response — and its substance — will be an early test of Magyar's bilateral legal-cooperation posture.",
-    "The Paks nuclear review has been announced but no timeline or scope published; watch for the terms of reference and whether Russian state energy contracts are formally suspended or merely paused.",
-    "The Reuters tonal shift on EU funds warrants monitoring: if Brussels officials begin speaking publicly in the same register, it could signal that conditionality negotiations are entering a settlement phase before summer."
+    "Poland's formal demand for answers on the Ziobro departure — watch for Budapest's official response and whether it produces a bilateral diplomatic statement or joint legal cooperation mechanism.",
+    "EU funds conditionality talks: the 'ambitious but possible' signal needs a follow-up — next technical negotiation round and any benchmark list leak will be the key tell.",
+    "Paks nuclear review: no timeline or scope has been announced — first ministerial detail on what the review covers and how Russia will respond will define this story's geopolitical weight."
   ],
   "what_to_watch_hu": [
-    "Lengyelország formálisan kért magyarázatot Ziobro távozásával kapcsolatban; Magyar válasza — és annak tartalma — korai próbája lesz az új kormány bilaterális jogi együttműködési irányultságának.",
-    "A paksi felülvizsgálatot bejelentették, de sem határidő, sem hatókör nem ismert; figyelni kell a vizsgálat feltételrendszerére, és arra, hogy az orosz állami energiaszerződéseket formálisan felfüggesztik-e vagy csupán halasztják.",
-    "A Reuters hangnemváltása az EU-s forrásoknál figyelmet érdemel: ha brüsszeli tisztviselők nyilvánosan is hasonló regiszterben kezdenek nyilatkozni, az jelezheti, hogy a feltételességi tárgyalások nyár előtt rendezési fázisba lépnek."
+    "Lengyelország formális magyarázatkérése a Ziobro-ügyben – figyelni kell Budapest hivatalos válaszára és arra, hogy kétoldalú diplomáciai nyilatkozat vagy jogi együttműködési mechanizmus születik-e.",
+    "Az uniós forrástárgyalások: az 'ambiciózus, de lehetséges' jelzés után a következő technikai tárgyalási kör és az esetleges benchmarklista-szivárogtatás lesznek a kulcsmozzanatok.",
+    "A paksi felülvizsgálat: még nincs bejelentett ütemterv vagy hatókör – az első miniszteri részlet arról, hogy mit vizsgálnak, és Oroszország hogyan reagál, meghatározza a történet geopolitikai súlyát."
   ],
-  "date": "2026-05-11",
-  "article_count": 17,
-  "generated_at": "2026-05-11T22:15:26.815027+00:00"
+  "date": "2026-05-12",
+  "article_count": 18,
+  "generated_at": "2026-05-12T02:14:39.597867+00:00"
 }

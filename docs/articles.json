@@ -1,5 +1,63 @@
 [
   {
+    "id": "ac0cd23d768c86eb",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "EU puts sanctions on Israeli settlers after Hungary drops Orban’s veto - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTnN4ZUxucHV1ZndLRHBiT1M0Wm5WVFloYlRqdDV1Y3lrT0tXV3hMaTJtRE1Tdzh2dlhTOTViTkdqZDhIOGZkVkZuS0tzT2V3UUxuVDl1OXV4UWxSU1RrcEtzUF9LYldTQkZMTnZnN2xNMkVwOUZ6NXpMRWxjc1hhdnF3?oc=5",
+    "published_at": "2026-05-12T01:33:53+00:00",
+    "fetched_at": "2026-05-12T02:00:16.635608+00:00",
+    "topics": [
+      "foreign policy",
+      "EU relations",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "European Union"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new government under Péter Magyar drops its long-standing veto on EU sanctions targeting Israeli settlers, enabling the European Union to proceed with the measure. This represents a concrete break from Viktor Orbán's obstructionist foreign policy and signals Hungary's reintegration with EU mainstream positions on geopolitical issues.",
+    "title_hu": "Az EU szankciókat vet ki izraeli telepesek ellen, miután Magyarország feloldja Orbán vétóját",
+    "summary_hu": "Magyarország új kormánya Péter Magyar vezetésével feloldja hosszú ideje fennálló vétóját az izraeli telepesekre vonatkozó EU-szankciók ellen, lehetővé téve a blokk számára a szankciók meghozatalát. Ez megtöri Viktor Orbán obstrukcionista külpolitikájának hagyományát, és Magyarország EU-s mainstream geopolitikai pozícióba való visszaintegrálódását jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "84dd591b5f0df741",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "EU announces sanctions against violent Israel settlers - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQREVGaXo2VGhjeGZQb3p2Uy1JQUc0X2ZGZHZzRVhuLThlaDJDVUxuRGZhYTl0U1dXUFFKbHpYNlpiNkt0b052ZnVGVlU3OUllMjVYT1BTY2JiTW5DZUF2RGh2WXN2ZmV3cGlrVmFCYm54TnlIdTcxRW95Z1RROUFRemgyeXE3TS01WUxHWkhNdUd1ZjQ1WUN4LUFHZHVGejU3VXc?oc=5",
+    "published_at": "2026-05-11T19:54:00+00:00",
+    "fetched_at": "2026-05-12T02:00:07.205280+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "European Commission",
+      "Péter Magyar",
+      "EU member states"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "The EU announced sanctions against violent Israeli settlers. Hungary's backing of the sanctions represents a significant policy departure from the Orbán era, when Budapest regularly vetoed EU foreign policy consensus, signaling the new Magyar government's alignment with mainstream European policy.",
+    "title_hu": "Az EU szankciókat jelent be az erőszakos izraeli telepesek ellen",
+    "summary_hu": "Az EU szankciókat jelent be az erőszakos izraeli telepesek ellen. Magyarország támogatása jelentős eltérés az Orbán-korétól, amikor Budapest szokásosan vetózott az EU közös döntéseket, jelezve az új magyar kormányzat európai integrációs fordulatát.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "803cedf682bd53df",
     "source": "BBC",
     "region": "uk",

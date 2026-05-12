@@ -1,15 +1,15 @@
 {
-  "total_articles": 417,
-  "analyzed_articles": 417,
+  "total_articles": 419,
+  "analyzed_articles": 419,
   "tone": {
-    "positive": 131,
+    "positive": 133,
     "neutral": 179,
     "mixed": 40,
     "critical": 66,
     "hopeful": 1
   },
   "framing": {
-    "eu_integration": 67,
+    "eu_integration": 69,
     "democracy_restoration": 101,
     "geopolitics": 102,
     "other": 13,
@@ -27,11 +27,11 @@
     "energy": 3
   },
   "region": {
-    "uk": 75,
+    "us": 39,
+    "uk": 76,
     "think": 2,
     "de": 50,
     "eu": 145,
-    "us": 38,
     "fr": 15,
     "wire": 74,
     "cee": 18
@@ -42,10 +42,10 @@
     "Politico Europe": 45,
     "Euronews": 39,
     "Euractiv": 36,
-    "The Guardian": 25,
+    "The Guardian": 26,
     "Financial Times": 25,
     "EUobserver": 22,
-    "Washington Post": 15,
+    "Washington Post": 16,
     "Le Monde": 15,
     "AP News": 14,
     "Balkan Insight": 14,
@@ -64,12 +64,12 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 337,
-    "EU relations": 234,
+    "government transition": 338,
+    "EU relations": 236,
     "democracy": 175,
-    "geopolitics": 155,
+    "geopolitics": 156,
     "rule of law": 118,
-    "foreign policy": 100,
+    "foreign policy": 102,
     "EU funds": 75,
     "elections": 57,
     "economy": 54,
@@ -86,30 +86,30 @@
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 330,
-    "Viktor Orbán": 202,
-    "European Commission": 54,
+    "Péter Magyar": 332,
+    "Viktor Orbán": 203,
+    "European Commission": 55,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 34,
     "Ukraine": 32,
     "Ursula von der Leyen": 30,
+    "European Union": 20,
     "Volodymyr Zelenskyy": 20,
     "Hungary": 20,
-    "European Union": 19,
     "Donald Tusk": 16,
     "Russia": 15,
     "EU institutions": 13,
     "Hungarian government": 12,
     "Rumen Radev": 10,
     "EU officials": 8,
+    "EU member states": 7,
     "Benjamin Netanyahu": 7,
     "EU Court of Justice": 7,
-    "EU member states": 6,
     "Vladimir Putin": 6
   },
   "main_actor": {
-    "hungary_country": 115,
-    "eu_institutions": 38,
+    "hungary_country": 116,
+    "eu_institutions": 39,
     "magyar_peter": 150,
     "other": 33,
     "orban_viktor": 73,
@@ -162,9 +162,21 @@
     "2026-05-08": 22,
     "2026-05-09": 21,
     "2026-05-10": 12,
-    "2026-05-11": 17
+    "2026-05-11": 18,
+    "2026-05-12": 1
   },
   "tone_by_source": {
+    "Washington Post": {
+      "positive": 10,
+      "neutral": 5,
+      "critical": 1
+    },
+    "The Guardian": {
+      "positive": 14,
+      "critical": 4,
+      "neutral": 7,
+      "mixed": 1
+    },
     "BBC": {
       "positive": 6,
       "neutral": 6,
@@ -187,11 +199,6 @@
       "critical": 4,
       "mixed": 4
     },
-    "Washington Post": {
-      "positive": 9,
-      "neutral": 5,
-      "critical": 1
-    },
     "Le Monde": {
       "positive": 10,
       "critical": 2,
@@ -212,12 +219,6 @@
       "neutral": 6,
       "positive": 4,
       "critical": 11,
-      "mixed": 1
-    },
-    "The Guardian": {
-      "critical": 4,
-      "neutral": 7,
-      "positive": 13,
       "mixed": 1
     },
     "Euractiv": {
@@ -293,6 +294,17 @@
     }
   },
   "source_bias": {
+    "Washington Post": {
+      "positive": 62,
+      "neutral": 31,
+      "critical": 6
+    },
+    "The Guardian": {
+      "positive": 54,
+      "critical": 15,
+      "neutral": 27,
+      "mixed": 4
+    },
     "BBC": {
       "positive": 46,
       "neutral": 46,
@@ -310,11 +322,6 @@
       "positive": 28,
       "critical": 10,
       "mixed": 10
-    },
-    "Washington Post": {
-      "positive": 60,
-      "neutral": 33,
-      "critical": 7
     },
     "Le Monde": {
       "positive": 67,
@@ -337,12 +344,6 @@
       "positive": 18,
       "critical": 50,
       "mixed": 5
-    },
-    "The Guardian": {
-      "critical": 16,
-      "neutral": 28,
-      "positive": 52,
-      "mixed": 4
     },
     "Euractiv": {
       "critical": 25,
@@ -404,5 +405,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-11T22:15:26.897865+00:00"
+  "last_updated": "2026-05-12T02:14:39.731089+00:00"
 }
