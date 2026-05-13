@@ -1,5 +1,35 @@
 [
   {
+    "id": "8ee8ad8bf27a40fa",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "EU says countries, not Brussels, should ban LGBTQ+ conversion therapy - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTZKMXY2ejFEZ1A4ejZ2bms2Tko0c05GS1gzSEo4aVNWNTBXYnRqV0gzZUQ0MU9KYWIyS0FiR3hzMEhnbmFDTXlkNUZVdGY5Y1ZXOURMOXRDaS0tUmlYZEtZdk1GYllDWHZQcktFZ2EwclVzOE5WSDR0TDBQNFNwemhpUDZ3ckFPTXlha2djb0tLeXlYbW9CNDNROHRyTllwblI0?oc=5",
+    "published_at": "2026-05-13T17:44:00+00:00",
+    "fetched_at": "2026-05-13T22:00:27.240267+00:00",
+    "topics": [
+      "rule of law",
+      "EU relations",
+      "human rights",
+      "democracy"
+    ],
+    "actors": [
+      "European Commission",
+      "Péter Magyar",
+      "EU member states"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "The EU has positioned LGBTQ+ conversion therapy bans as a matter for national-level decision-making rather than centralized Brussels policy. This subsidiarity approach aligns with Hungary's new government under Péter Magyar, which has committed to revising anti-LGBTQ+ legislation as part of its democratic reform agenda. The stance reflects broader EU tensions between member-state autonomy and European-level human rights standards.",
+    "title_hu": "Az EU szerint az országoknak, nem Brüsszelnek, meg kell tiltaniuk az LGBTQ+ megtérítési terápiákat",
+    "summary_hu": "Az EU az LGBTQ+ megtérítési terápiák betiltását nemzeti szintű döntésnek, nem pedig központosított brüsszeli politikának minősítette. Ez a szubszidiaritási megközelítés összhangban van Péter Magyar új kormányával, amely az anti-LGBTQ+ jogszabályok felülvizsgálatát ígérte demokratikus reformjaként. Az álláspont az EU-s tagállamok autonómiája és az európai szintű emberi jogok szabványai közötti mélyebb feszültséget tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "e9d994a2f382df48",
     "source": "Reuters",
     "region": "wire",
@@ -271,6 +301,40 @@
     "is_relevant": 1,
     "main_actor": "magyar_peter",
     "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "de7d90cd88414d61",
+    "source": "DW English",
+    "region": "de",
+    "title": "2026 Rainbow Map delivers mixed picture on LGBTQ+ rights - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVW5BeWpkRzRDdVIzNlVEX29DcjhCZnIxZ3JFRjBjMVJ3UjhSS0Vvb2h1dm1wSWV3aXdWNDRsclZjdHR5alpVQzhPbG84cFNhNVRST3E1cEN5U1JKa3o1Mm5NN3RmQnB4SXFpWHRCbmtvbHFVWmhkZTlQWnZ3blFYellycHhoeVVDLWpObkQ0UFJ1d9IBkgFBVV95cUxOV3pDRXlRbXd6dXdRcVNZR01ZTV94MWwwQURHSjA2dVoyNE5XR0xJTUlqYzNFdEdIT0MtTzhzZWJHblowWVFxTzJWQmdWZW9rcHJvTjdaZzRtMDNiaU1mUU8wdFRIVURSQXRfcEdrU1dYbDd3elQtZjhiS0JZTEI4OUV6UUtMY0FvZXh6T0lVSF9fZw?oc=5",
+    "published_at": "2026-05-12T15:10:07+00:00",
+    "fetched_at": "2026-05-13T22:00:38.442805+00:00",
+    "topics": [
+      "democracy",
+      "human rights",
+      "government transition",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "ILGA-Europe",
+      "Ursula von der Leyen"
+    ],
+    "tone": "mixed",
+    "framing": "human rights",
+    "summary_en": "The 2026 Rainbow Map reflects mixed progress across Europe on LGBTQ+ rights, with Hungary emerging as a notable case of policy reversal following the Magyar government transition. Hungary's justice minister nominee has publicly committed to revising Orbán-era anti-LGBTQ legislation, signaling potential improvement in the country's standing, though broader CEE momentum remains inconsistent.",
+    "title_hu": "A 2026-os Szivárvány Térkép vegyes képet mutat az LMBTQ+ jogokról",
+    "summary_hu": "A 2026-os Szivárvány Térkép Európa-szerte vegyes előrehaladást tükröz az LMBTQ+ jogok terén, Magyarország pedig a Magyar-kormány átmenete után végbement politikafordulat érdekes eseteként emelkedik ki. Magyarország igazságügyi miniszter-jelöltje nyilvánosan elkötelezte magát az Orbán-era homofób jogszabályok revíziója mellett, ami a ország lehetséges javulásáról szól, bár a szélesebb közép-európai lendület továbbra is ellentmondásos.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland",
+      "Romania",
+      "Slovakia"
+    ],
     "quotes": []
   },
   {
