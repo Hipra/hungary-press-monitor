@@ -1,5 +1,36 @@
 [
   {
+    "id": "3cd0b4cb44078ac6",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "What are the main policy plans of Hungary's new government? - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaW83SmtFX3lhU2hwTlVGbGNoM3NiX2F0THdCSFJCMnNYaWd6d3F1QzNwRGt6RzBlb01fYlRNa1NvRVdQcExRNWZ4LXgzaGRKRXRwVUQ3d3F4eTk3LXZYS0podEt0alMtbEg4emRUUlhocGhaY1gyaE9PY19TV0ZfT3U0eTFIdEtFUVYwbGZ4b2wwaFB4Z3hBNF9nZw?oc=5",
+    "published_at": "2026-05-13T10:53:45+00:00",
+    "fetched_at": "2026-05-13T14:00:03.324513+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Péter Szijjártó",
+      "János Martonyi"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Reuters outlines the new Hungarian government's core policy agenda following Péter Magyar's May 2026 transition away from Viktor Orbán's 15-year rule. The article likely focuses on Magyar's stated priorities: EU fund negotiations, euro adoption by 2030, judicial and LGBTQ+ legislative reforms, Ukrainian relations normalisation, and institutional restructuring including distributed ministerial authority.",
+    "title_hu": "Mik a magyar új kormány fő politikai tervei?",
+    "summary_hu": "A Reuters a magyar új kormány fő politikai agendáját ismerteti Péter Magyar május 2026-ban kezdődött kormányzata alatt, amely szakított Viktor Orbán 15 éves uralmával. A cikk valószínűleg Magyar prioritásait tárgyalja: az EU-s alapok tárgyalásait, 2030-ig az euró bevezetését, a bírósági és LGBTQ+ jogszabály-módosításokat, Ukrajna-kapcsolatok normalizálódását, valamint az intézmények átalakítását, beleértve az elosztott miniszteri hatáskört.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "9be3b4408f7affb8",
     "source": "Euractiv",
     "region": "eu",
@@ -24,6 +55,34 @@
     "summary_en": "Hungary's new cabinet under Péter Magyar is signaling a decisive departure from Viktor Orbán's 15-year governance model and institutional practices. Euractiv frames the transition as a structural reset toward democratic norms and EU alignment, with the cabinet's policy agenda focused on reversing Orbán-era rule-of-law erosion and judicial capture. The cabinet's mandate reflects voter demand for progressive reform and reintegration into mainstream European institutions.",
     "title_hu": "Az új magyar kabinet éles szakítást tesz az Orbán-korszakkal",
     "summary_hu": "Péter Magyar új kabinettje döntő szakítást jelez Viktor Orbán 15 éves kormányzati modelljével és intézményi gyakorlataival. Az Euractiv az átmenetet a demokratikus normák és az EU-val való összhang felé irányuló szerkezetváltásként értelmezi, ahol a kabinet politikai programja az Orbán-korszak jogállamiság-eróziójának és bírósági elfogultságának megfordítására összpontosít. A kabinet mandátuma a választók progresszív reformra és a mainstream európai intézmények közé való visszatérésre vonatkozó igényét tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "9977253d852fc43b",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Ministers take office in Hungary's first non-Orbán government in 16 years - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaTRaamRuV0R6NnR0R29DeXZjUHdfQlVnOG8zMWUyMnBWSHZ5RlI0MERNdTJwYV9fSXJYXzc2VFk3VTk2bHJBaDJiblYxekV3WVRZVWVvRjdkcElnRUwxMlFJb2lfSWdsNkNxNUVHQ2dMTWlYZ1pHaFdKNDVwQWRWZjFsTGpodEJUOFBwMXpFT3Y5Q09sWHZ1UVB1YU4yUmxuVFAtQjBoOUlFTUxsZ1hxb1BobTBYeXZ6cnplam1YZjFmWWFNbnE3aVJZMHh0NXVVbDNxX2pDQXphQ00?oc=5",
+    "published_at": "2026-05-12T23:18:58+00:00",
+    "fetched_at": "2026-05-13T14:00:19.317528+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's first non-Orbán government in 16 years formally takes office, marking the end of Viktor Orbán's unprecedented 15-year reign and the beginning of Péter Magyar's Tisza Party-led administration. The cabinet transition represents a historic democratic reset following the April 2026 elections, which gave Magyar's coalition a two-thirds parliamentary majority. The new government immediately signaled institutional breaks with Orbán-era governance through ministerial appointments emphasizing democratic restoration and rule-of-law reform.",
+    "title_hu": "Miniszterek léptek hivatalba Magyarország első nem-Orbán kormányában – 16 év után",
+    "summary_hu": "Magyarország első nem-Orbán kormánya 16 év után hivatalosan megalakult, amely Viktor Orbán 15 éves példa nélküli uralmi periódusának végét jelenti Péter Magyar Tisza Pártja vezette új adminisztrációval. A kabinet átformálódása az áprilisi 2026-os választások után történt, amelyek Magyar koalíciójának kétharmados parlamenti többséget adtak. Az új kormány azonnal jelzett az Orbán-korszak kormányzatától való eltérést a miniszteri kinevezéseken keresztül, amelyek a demokratikus helyreállítás és a jogállamiság megerősítésére összpontosítanak.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",

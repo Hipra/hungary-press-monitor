@@ -1,15 +1,15 @@
 {
-  "total_articles": 435,
-  "analyzed_articles": 435,
+  "total_articles": 437,
+  "analyzed_articles": 437,
   "tone": {
-    "positive": 141,
-    "neutral": 184,
+    "neutral": 185,
+    "positive": 142,
     "critical": 68,
     "mixed": 41,
     "hopeful": 1
   },
   "framing": {
-    "democracy_restoration": 106,
+    "democracy_restoration": 108,
     "economy": 23,
     "geopolitics": 106,
     "rule_of_law": 51,
@@ -27,17 +27,17 @@
     "energy": 3
   },
   "region": {
+    "wire": 80,
     "eu": 152,
-    "wire": 79,
+    "us": 40,
     "uk": 77,
     "cee": 20,
-    "us": 39,
     "think": 2,
     "de": 51,
     "fr": 15
   },
   "source": {
-    "Reuters": 62,
+    "Reuters": 63,
     "DW English": 50,
     "Politico Europe": 45,
     "Euractiv": 41,
@@ -45,8 +45,8 @@
     "The Guardian": 26,
     "Financial Times": 25,
     "EUobserver": 23,
+    "Washington Post": 17,
     "AP News": 17,
-    "Washington Post": 16,
     "Le Monde": 15,
     "Balkan Insight": 14,
     "BBC": 13,
@@ -64,12 +64,12 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 353,
-    "EU relations": 243,
-    "democracy": 183,
+    "government transition": 355,
+    "EU relations": 244,
+    "democracy": 185,
     "geopolitics": 160,
-    "rule of law": 124,
-    "foreign policy": 108,
+    "rule of law": 126,
+    "foreign policy": 109,
     "EU funds": 75,
     "elections": 58,
     "economy": 55,
@@ -86,8 +86,8 @@
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 346,
-    "Viktor Orbán": 209,
+    "Péter Magyar": 348,
+    "Viktor Orbán": 210,
     "European Commission": 58,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 36,
@@ -108,7 +108,7 @@
     "Vladimir Putin": 6
   },
   "main_actor": {
-    "magyar_peter": 159,
+    "magyar_peter": 161,
     "hungary_country": 120,
     "eu_institutions": 41,
     "other": 33,
@@ -162,21 +162,26 @@
     "2026-05-09": 23,
     "2026-05-10": 14,
     "2026-05-11": 22,
-    "2026-05-12": 8,
-    "2026-05-13": 1
+    "2026-05-12": 9,
+    "2026-05-13": 2
   },
   "tone_by_source": {
+    "Reuters": {
+      "neutral": 35,
+      "positive": 20,
+      "mixed": 2,
+      "critical": 6
+    },
     "Euractiv": {
       "positive": 9,
       "critical": 10,
       "neutral": 16,
       "mixed": 6
     },
-    "Reuters": {
-      "neutral": 34,
-      "positive": 20,
-      "mixed": 2,
-      "critical": 6
+    "Washington Post": {
+      "positive": 11,
+      "neutral": 5,
+      "critical": 1
     },
     "AP News": {
       "positive": 6,
@@ -196,11 +201,6 @@
     "Visegrad Insight": {
       "critical": 2,
       "neutral": 2
-    },
-    "Washington Post": {
-      "positive": 10,
-      "neutral": 5,
-      "critical": 1
     },
     "The Guardian": {
       "positive": 14,
@@ -295,17 +295,22 @@
     }
   },
   "source_bias": {
+    "Reuters": {
+      "neutral": 56,
+      "positive": 32,
+      "mixed": 3,
+      "critical": 10
+    },
     "Euractiv": {
       "positive": 22,
       "critical": 24,
       "neutral": 39,
       "mixed": 15
     },
-    "Reuters": {
-      "neutral": 55,
-      "positive": 32,
-      "mixed": 3,
-      "critical": 10
+    "Washington Post": {
+      "positive": 65,
+      "neutral": 29,
+      "critical": 6
     },
     "AP News": {
       "positive": 35,
@@ -321,11 +326,6 @@
     "Visegrad Insight": {
       "critical": 50,
       "neutral": 50
-    },
-    "Washington Post": {
-      "positive": 62,
-      "neutral": 31,
-      "critical": 6
     },
     "The Guardian": {
       "positive": 54,
@@ -406,5 +406,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-13T10:13:59.309160+00:00"
+  "last_updated": "2026-05-13T14:14:32.013595+00:00"
 }

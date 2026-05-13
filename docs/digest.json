@@ -1,53 +1,43 @@
 {
-  "top_story_en": "Hungary's first non-Orbán cabinet was formally sworn in on May 12, completing the governmental transition — but the day's coverage split between historic milestone and immediate institutional scrutiny, as nepotism allegations and supermajority concentration concerns entered EU-facing outlets within 48 hours of inauguration.",
-  "top_story_hu": "Magyarország első Orbán utáni kormánya 2026. május 12-én letette az esküt, lezárva az átmeneti időszakot — ugyanakkor az EU-s sajtóban az első 48 órán belül megjelentek a nepotizmus-vádak és a kétharmados többség intézményi kockázataival kapcsolatos aggályok.",
+  "top_story_en": "International coverage crossed a threshold today: Reuters published the first consolidated overview of Magyar's full policy programme, signalling that the global press has moved from inauguration reporting to governance accountability mode. The question is no longer whether Hungary changed — it is whether Magyar can deliver without replicating Orbán's concentration of power.",
+  "top_story_hu": "A nemzetközi sajtó ma egy küszöböt lépett át: a Reuters közölte az első összefoglaló elemzést Magyar kormányának teljes szakpolitikai programjáról, jelezve, hogy a globális média a beiktatási tudósításokról a kormányzati számonkérésre vált. A kérdés már nem az, hogy Magyarország megváltozott-e — hanem az, hogy Magyar képes-e teljesíteni anélkül, hogy Orbán hatalomkoncentrációját ismételné meg.",
   "key_developments_en": [
-    "Hungary's new cabinet ministers were formally sworn in, marking the first non-Orbán government in 16 years (AP News).",
-    "Justice minister nominee publicly committed to revising Orbán-era anti-LGBTQ legislation, the first concrete government-agenda signal on the issue (Reuters).",
-    "A Hungarian government minister declared Hungary is 'Moscow's Trojan horse no more,' cementing the geopolitical break from Orbán-era Russia alignment (The Times).",
-    "Magyar granted key ministers veto power over legislation as part of a restructured governance model (Reuters).",
-    "Poland formally sought US clarification on how Zbigniew Ziobro — who fled Hungary after Magyar's inauguration — was able to enter the United States (Notes from Poland)."
+    "Hungary's first non-Orbán cabinet in 16 years formally took office, covered simultaneously by AP, Reuters, and Washington Post.",
+    "Reuters synthesised Magyar's full policy agenda: EU funds access, euro adoption by 2030, judicial reform, LGBTQ legislation revision, and Ukraine normalisation.",
+    "Magyar granted key ministers veto power over legislation, now framed by Reuters as a deliberate horizontal power-distribution model rather than a governance weakness.",
+    "Euractiv characterises the new cabinet as a structural institutional break with Orbán-era governance, not merely a personnel change.",
+    "Washington Post and AP both emphasise the justice minister's public commitment to revising anti-LGBTQ legislation as the clearest concrete policy signal of day one."
   ],
   "key_developments_hu": [
-    "Az új kormány miniszterei letették az esküt — ez az első Orbán nélküli kabinet 16 év után (AP News).",
-    "Az igazságügyi miniszter-jelölt nyilvánosan vállalta az Orbán-korszak LMBTQ-ellenes törvényeinek felülvizsgálatát (Reuters).",
-    "Egy magyar kormányminiszter kijelentette: Magyarország 'többé nem Moszkva trójai falova' — határozott szakítás az Orbán-éra Oroszország-politikájával (The Times).",
-    "Magyar fontos minisztereknek vétójogot adott a jogszabályok felett, új kormányzati modellt jelezve (Reuters).",
-    "Lengyelország az Egyesült Államoktól kért magyarázatot, hogyan léphetett be Ziobro — aki Magyar beiktatása után menekült el Magyarországról (Notes from Poland)."
+    "Magyarország 16 év óta első, Orbán-mentes kormánya hivatalosan is megkezdte működését — az AP, a Reuters és a Washington Post egyidejűleg tudósított.",
+    "A Reuters összefoglalta Magyar teljes szakpolitikai programját: uniós források, euró 2030-ra, igazságügyi reform, LMBTQ-jogszabályok felülvizsgálata és az Ukrajnával való kapcsolat normalizálása.",
+    "Magyar fontos minisztereknek vétójogot adott a jogszabályok felett — a Reuters ezt tudatos horizontális hatalommegosztásként, nem gyengeségként értelmezi.",
+    "Az Euractiv az új kabinetet az orbáni kormányzási modellel való strukturális intézményi szakításként jellemzi, nem csupán személycserének.",
+    "A Washington Post és az AP egyaránt az igazságügyi miniszter-jelölt nyilvános LMBTQ-vállalását emeli ki az első nap legkonkrétabb szakpolitikai jelzéseként."
   ],
   "narrative_shifts_en": [
-    "The nepotism frame, previously confined to brief mentions, is now the lead story in Euractiv — a sign that EU institutional observers are actively testing Magyar's reform credibility rather than extending goodwill.",
-    "Visegrad Insight's 'winning power is easier than limiting it' framing signals a shift among Central European analytical outlets from transition optimism to structural skepticism about the supermajority.",
-    "The 'Moscow's Trojan horse' declaration moves Hungarian foreign policy reorientation from background signalling to explicit, quotable government doctrine — elevating its newsworthiness in security-focused Western media."
+    "Coverage frame is shifting from 'historic transition' to 'governance stress-test': outlets are beginning to ask whether Magyar's institutional reforms will hold, not just whether they were announced.",
+    "The ministerial veto mechanism — initially flagged as a potential cabinet friction point — is now being reframed positively as a distributed-power safeguard against Orbán-style executive capture.",
+    "Supermajority risk language is intensifying: what was a cautionary footnote in earlier coverage is becoming a central analytical frame in EU-facing outlets."
   ],
   "narrative_shifts_hu": [
-    "A nepotizmus-narratíva, amely eddig csak futólag jelent meg, az Euractiv főcímévé vált — az EU intézményi megfigyelői tehát már aktívan tesztelik Magyar reformhitelességét, nem csupán jóindulatúan figyelnek.",
-    "A Visegrad Insight 'könnyebb hatalmat szerezni, mint korlátozni' kerete a közép-európai elemzői körök átmeneti optimizmusának szkeptikussá válását jelzi a kétharmados többséggel kapcsolatban.",
-    "A 'trójai faló' nyilatkozat a magyar külpolitikai újraorientációt háttérszignálból explicit, idézhető kormánydoktrínává emelte."
+    "A tudósítások kerete a 'történelmi átmenetről' a 'kormányzati stressztesztre' vált: a lapok már azt firtatják, hogy Magyar intézményi reformjai tartósak lesznek-e, nem csak azt, hogy bejelentették-e őket.",
+    "A miniszteri vétómechanizmust — amelyet kezdetben potenciális kabinetes súrlódásként értékeltek — most pozitívan, az orbáni végrehajtói hatalomkoncentráció elleni biztosítékként keretezik.",
+    "A kétharmados többség kockázatát hangsúlyozó nyelvezet erősödik: ami korábban óvatos lábjegyzet volt, az EU-fókuszú lapokban egyre inkább központi elemzési keretté válik."
   ],
-  "quotes_en": [
-    {
-      "quote": "We are Moscow's Trojan horse no more.",
-      "speaker": "Hungarian government minister (The Times, May 12)"
-    }
-  ],
-  "quotes_hu": [
-    {
-      "quote": "Többé nem vagyunk Moszkva trójai falova.",
-      "speaker": "Magyar kormányminiszter (The Times, május 12.)"
-    }
-  ],
+  "quotes_en": [],
+  "quotes_hu": [],
   "what_to_watch_en": [
-    "Whether the nepotism narrative gains traction in mainstream Western wire services — if Reuters or AP pick it up, it becomes a durable counter-frame to Magyar's democratic restoration messaging.",
-    "The anti-LGBTQ legislative revision: the commitment is now on record; watch for a draft bill, timeline, or parliamentary calendar entry that converts the pledge into a trackable process.",
-    "EU funds negotiation signals following the formal cabinet installation — conditionality compliance will now be measured against a sworn-in government, not a transition team."
+    "First concrete legislative moves: which reform bills — LGBTQ revision, judicial composition, state media — are tabled first will define whether governance-accountability coverage turns supportive or adversarial.",
+    "EU funds negotiations: with Reuters framing the €10bn deal as 'ambitious but possible,' any signal from Brussels on conditionality timelines will be the dominant economic story.",
+    "Nepotism counter-narrative durability: the brother-in-law withdrawal story has not faded — a second personnel controversy would solidify it as a structural Magyar vulnerability in Western outlets."
   ],
   "what_to_watch_hu": [
-    "A nepotizmus-narratíva begyűrűzése a nagy angolszász hírügynökségekbe — ha a Reuters vagy az AP átveszi, tartós ellennarratívává válik Magyar demokratikus megújulás-üzenetével szemben.",
-    "Az LMBTQ-ellenes törvények felülvizsgálata: a vállalás rögzítve van; figyelni kell a törvénytervezetre, ütemtervre vagy parlamenti naptári bejegyzésre, amely a fogadalmat nyomon követhető folyamattá alakítja.",
-    "EU-alapok tárgyalásai a kabinetalakítást követően — a kondícionalitás teljesítését mostantól beiktatott kormánnyal szemben mérik, nem átmeneti csapattal."
+    "Első törvényhozási lépések: az LMBTQ-reform, az igazságügyi átszervezés és az állami média átalakítása közül melyiket nyújtják be elsőként — ez dönti el, hogy a számonkérő tudósítások támogató vagy ellenséges hangnemet vesznek-e fel.",
+    "Uniós tárgyalások: a Reuters 'ambiciózus, de lehetséges'-ként értékeli a ~10 milliárd eurós megállapodást — bármely brüsszeli jelzés a feltételrendszer ütemezéséről azonnal a vezető gazdasági hírré válik.",
+    "A nepotizmus-narratíva tartóssága: a sógor visszalépésének története nem csillapodott — egy második személyzeti botrány Magyar szerkezeti sebezhetőségét rögzítené a nyugati sajtóban."
   ],
   "date": "2026-05-13",
-  "article_count": 7,
-  "generated_at": "2026-05-13T02:14:39.588592+00:00"
+  "article_count": 5,
+  "generated_at": "2026-05-13T14:14:31.806454+00:00"
 }
