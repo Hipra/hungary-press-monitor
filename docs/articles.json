@@ -329,6 +329,37 @@
     "quotes": []
   },
   {
+    "id": "fda13ad32cb36943",
+    "source": "AP News",
+    "region": "wire",
+    "title": "EU diplomats agree to sanction Hamas leaders and Israeli settlers but fail to pressure Israel - AP News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkRoSTFqeGtyVTVmZWtBTy1GWkpLS2NOd210NkFkNzlDWXNDMFFSeU42bjJleUFNcVNBQllSZ19CVXQ3bXI1by1yaDFaMFFqRkRBdVBJbFFqbFFzQ1hPY2Jfa25CejJ1d2tKSDEtMkd5RHNSYmhqU2JhSWVicGdpc3hZTUEtTWFpTXJsQ0pRUkhBYWl1cWVDSGFqdVJnV1BnNzRV?oc=5",
+    "published_at": "2026-05-11T17:46:00+00:00",
+    "fetched_at": "2026-05-13T02:00:05.158838+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "EU relations"
+    ],
+    "actors": [
+      "EU diplomats",
+      "Israeli government",
+      "Hungarian government"
+    ],
+    "tone": "mixed",
+    "framing": "geopolitics",
+    "summary_en": "EU diplomats agreed on sanctions against Hamas leaders and Israeli settlers, with Hungary's backing cementing its reintegration into EU foreign policy consensus under the new Magyar government. However, the EU's broader effort to pressure Israel on settlement expansion fell short, revealing persistent divisions among member states.",
+    "title_hu": "Az EU-s diplomáták megegyeztek a Hamász vezetőinek és az izraeli telepeseknek szankciójáról, de nem tudtak nyomást gyakorolni Izraelre",
+    "summary_hu": "Az EU-s diplomáták szankciókat szavaztak meg a Hamász vezetői és az izraeli telepesek ellen, és Magyarország támogatása megerősítette az EU külpolitikai konszenzusba való integrációját az új Magyar-kormány alatt. Az EU azonban nem sikerült szélesebb nyomást gyakorolnia Izraelre a telepesbővítéssel kapcsolatban, ami a tagállamok közötti megosztottságot tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [
+      "Israel"
+    ],
+    "quotes": []
+  },
+  {
     "id": "7fe0713e2c80e6c2",
     "source": "Euractiv",
     "region": "eu",

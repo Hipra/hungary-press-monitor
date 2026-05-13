@@ -1,17 +1,17 @@
 {
-  "total_articles": 431,
-  "analyzed_articles": 431,
+  "total_articles": 432,
+  "analyzed_articles": 432,
   "tone": {
     "neutral": 182,
     "positive": 140,
     "critical": 68,
-    "mixed": 40,
+    "mixed": 41,
     "hopeful": 1
   },
   "framing": {
     "economy": 23,
     "democracy_restoration": 104,
-    "geopolitics": 105,
+    "geopolitics": 106,
     "rule_of_law": 51,
     "eu_integration": 71,
     "other": 13,
@@ -27,7 +27,7 @@
     "energy": 3
   },
   "region": {
-    "wire": 78,
+    "wire": 79,
     "uk": 77,
     "cee": 20,
     "eu": 150,
@@ -45,7 +45,7 @@
     "The Guardian": 26,
     "Financial Times": 25,
     "EUobserver": 23,
-    "AP News": 16,
+    "AP News": 17,
     "Washington Post": 16,
     "Le Monde": 15,
     "Balkan Insight": 14,
@@ -65,11 +65,11 @@
   },
   "topics": {
     "government transition": 350,
-    "EU relations": 241,
+    "EU relations": 242,
     "democracy": 181,
-    "geopolitics": 159,
+    "geopolitics": 160,
     "rule of law": 123,
-    "foreign policy": 107,
+    "foreign policy": 108,
     "EU funds": 75,
     "elections": 57,
     "economy": 55,
@@ -98,7 +98,7 @@
     "Hungary": 21,
     "Russia": 16,
     "Donald Tusk": 16,
-    "Hungarian government": 13,
+    "Hungarian government": 14,
     "EU institutions": 13,
     "Rumen Radev": 10,
     "EU officials": 8,
@@ -110,7 +110,7 @@
   "main_actor": {
     "magyar_peter": 157,
     "hungary_country": 120,
-    "eu_institutions": 40,
+    "eu_institutions": 41,
     "other": 33,
     "orban_viktor": 73,
     "fidesz": 6,
@@ -123,7 +123,7 @@
     "Slovakia": 16,
     "Bulgaria": 9,
     "United States": 7,
-    "Israel": 6,
+    "Israel": 7,
     "France": 3,
     "Serbia": 3,
     "Italy": 3,
@@ -162,7 +162,7 @@
     "2026-05-08": 22,
     "2026-05-09": 22,
     "2026-05-10": 13,
-    "2026-05-11": 21,
+    "2026-05-11": 22,
     "2026-05-12": 8
   },
   "tone_by_source": {
@@ -174,8 +174,8 @@
     },
     "AP News": {
       "positive": 6,
-      "neutral": 9,
-      "mixed": 1
+      "mixed": 2,
+      "neutral": 9
     },
     "The Times": {
       "positive": 5,
@@ -302,9 +302,9 @@
       "critical": 10
     },
     "AP News": {
-      "positive": 38,
-      "neutral": 56,
-      "mixed": 6
+      "positive": 35,
+      "mixed": 12,
+      "neutral": 53
     },
     "The Times": {
       "positive": 50,
@@ -406,5 +406,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-12T22:13:22.913521+00:00"
+  "last_updated": "2026-05-13T02:14:39.678194+00:00"
 }
