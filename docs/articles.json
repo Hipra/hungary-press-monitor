@@ -1602,6 +1602,33 @@
     "quotes": []
   },
   {
+    "id": "19c0cd84b866b36f",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary: Peter Magyar sworn in as prime minister - DW.com - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHBWQnB5NHY2NnJXMGJqaFhPWjVmb2RIOFMtczIzY2UwN2xxVGNhTFg4OWtOTlc2X1ZjSkZZM0FvZHVVRUVIVkptczlOcVhJMm1Tb2tmMVZVY2tkTmx1bjI2VmMwczB0Z3pYRXJ2ZTFWczZKM0FwbVozUGZSb0Z4aXo4WEtQWkZXaFhEbU40MUlZZTh0RXozSHlMdzVUdlNDLUxWcWFPdHA1dzRB?oc=5",
+    "published_at": "2026-05-09T13:38:34+00:00",
+    "fetched_at": "2026-05-13T10:00:39.949307+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar was sworn in as Prime Minister on May 9, 2026, marking the end of Viktor Orbán's 15-year rule and the beginning of Hungary's democratic transition. With the Tisza Party's two-thirds parliamentary majority, the new government can pursue significant institutional reforms.",
+    "title_hu": "Magyarország: Péter Magyar miniszterelnökké esküttek fel",
+    "summary_hu": "Péter Magyar miniszterelnökké esküdött fel 2026. május 9-én, amely Viktor Orbán 15 éves uralma végét jelenti és Magyarország demokratikus átmenetének kezdetét. A Tisza Párt kétharmados parlamenti többsége lehetővé teszi a jelentős intézményi reformokat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "c78e8676092c93d4",
     "source": "DW English",
     "region": "de",

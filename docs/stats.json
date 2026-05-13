@@ -1,15 +1,15 @@
 {
-  "total_articles": 434,
-  "analyzed_articles": 434,
+  "total_articles": 435,
+  "analyzed_articles": 435,
   "tone": {
     "positive": 141,
-    "neutral": 183,
+    "neutral": 184,
     "critical": 68,
     "mixed": 41,
     "hopeful": 1
   },
   "framing": {
-    "democracy_restoration": 105,
+    "democracy_restoration": 106,
     "economy": 23,
     "geopolitics": 106,
     "rule_of_law": 51,
@@ -33,12 +33,12 @@
     "cee": 20,
     "us": 39,
     "think": 2,
-    "de": 50,
+    "de": 51,
     "fr": 15
   },
   "source": {
     "Reuters": 62,
-    "DW English": 49,
+    "DW English": 50,
     "Politico Europe": 45,
     "Euractiv": 41,
     "Euronews": 40,
@@ -64,9 +64,9 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 352,
+    "government transition": 353,
     "EU relations": 243,
-    "democracy": 182,
+    "democracy": 183,
     "geopolitics": 160,
     "rule of law": 124,
     "foreign policy": 108,
@@ -86,8 +86,8 @@
     "regional": 5
   },
   "actors": {
-    "Péter Magyar": 345,
-    "Viktor Orbán": 208,
+    "Péter Magyar": 346,
+    "Viktor Orbán": 209,
     "European Commission": 58,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 36,
@@ -108,7 +108,7 @@
     "Vladimir Putin": 6
   },
   "main_actor": {
-    "magyar_peter": 158,
+    "magyar_peter": 159,
     "hungary_country": 120,
     "eu_institutions": 41,
     "other": 33,
@@ -159,7 +159,7 @@
     "2026-05-06": 21,
     "2026-05-07": 20,
     "2026-05-08": 22,
-    "2026-05-09": 22,
+    "2026-05-09": 23,
     "2026-05-10": 14,
     "2026-05-11": 22,
     "2026-05-12": 8,
@@ -226,7 +226,7 @@
     "DW English": {
       "positive": 19,
       "mixed": 5,
-      "neutral": 22,
+      "neutral": 23,
       "critical": 2,
       "hopeful": 1
     },
@@ -345,9 +345,9 @@
       "mixed": 4
     },
     "DW English": {
-      "positive": 39,
+      "positive": 38,
       "mixed": 10,
-      "neutral": 45,
+      "neutral": 46,
       "critical": 4,
       "hopeful": 2
     },
@@ -406,5 +406,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-13T06:13:45.475987+00:00"
+  "last_updated": "2026-05-13T10:13:59.309160+00:00"
 }
