@@ -1,5 +1,102 @@
 [
   {
+    "id": "e9d994a2f382df48",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary summons Russian ambassador over drone strikes on western Ukraine - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEowNGRlRGJVejk1MVp1NTIyOFBLSWQxZHdUOF9vYjBDbWoxbjN3cjByQktHdk40RHM4Zjk2RHNqa3hkbGl4WFVlclVDTmlIT0dsVHkyd2d4T2Iwek1QUGc4TTIxdTBVNUZVR1BxcHNzNEhpb3Z6MnJWd0N0UmFVZmNRVC03WUZhM2F6b2E0X25nYkYyaGljMnJlOXdoWTJMMmJma0s0NTZZVC1vdzBPVg?oc=5",
+    "published_at": "2026-05-13T17:04:50+00:00",
+    "fetched_at": "2026-05-13T18:00:02.105887+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "EU integration",
+      "Russia deals"
+    ],
+    "actors": [
+      "Hungarian government",
+      "Russian ambassador",
+      "Russia",
+      "Ukraine"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary summoned the Russian ambassador to protest Russian drone strikes on western Ukraine, signaling the Magyar government's firm alignment with Western and Ukrainian positions and marking a decisive diplomatic shift from Orbán-era Russia accommodation.",
+    "title_hu": "Magyarország összehívja az orosz nagykövetet az Ukrajna nyugati részét érő dróncsapások miatt",
+    "summary_hu": "Magyarország összehívta az orosz nagykövetet az Ukrajna nyugati részét érő dróncsapások miatti tiltakozásul, amely a Magyar kormány határozott nyugati és ukrán pozícióval való összhangját jelzi, és az Orbán-kori oroszbarátsággal szembeni diplomáciai fordulópontot mutatja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "cf9f4da94639f560",
+    "source": "Visegrad Insight",
+    "region": "cee",
+    "title": "Lessons from Hungary on Europe’s Democratic Security Future - Visegrad Insight",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmxlamFrSGlscFhjRWdSZmJ5Yl9QVmlfWWVOcmg5cEZsUjZ5UjRhcHdRXzJHd2J2aWthYkkyWTBTVWZPcXk2cmQ4M1ZtbWw1NHZvbDFRWXhiSFVrYU5qTW9hbGlxSGtPZWVNZm1ZRTNWcUpocWhSWENfdnFON3NqNVlXOFVuTlc5LWQ5NFU1Zw?oc=5",
+    "published_at": "2026-05-13T15:11:29+00:00",
+    "fetched_at": "2026-05-13T18:00:42.851687+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "rule of law",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "European institutions"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Visegrad Insight positions Hungary's democratic transition as an instructive case study for Europe's democratic and security future. The analysis likely examines Magyar's institutional reforms, EU reintegration, and break with Orbán-era authoritarianism as lessons for broader European democratic resilience amid regional geopolitical tensions.",
+    "title_hu": "Magyarország tanulságai Európa demokratikus biztonsági jövőjéről",
+    "summary_hu": "A Visegrad Insight Magyarország demokratikus átmenetét vizsgálja az európai demokrácia és biztonság jövője szempontjából. Az elemzés valószínűleg Magyar intézményi reformjait, EU-s újrainteggrációját és az Orbán-korszak autoritarianizmustól való szakítást az európai demokrácia ellenálló képességének tanulságaiként értelmezi a regionális geopolitikai feszültségek közepette.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland",
+      "Czech Republic",
+      "Slovakia"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "2af4ad70a3d8f0b2",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Can Hungary’s Magyar​ deliver on his promise​s of reform a​nd restore a relationship to the EU? - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0ROUDhmNmhsazNsNU1QcG15MjdXTzc2a0kyN2JGc00zQ1hQc0tiSjZGWUI0djlUTE9LZTZJOHJzVHdTbkhFLURVZy1xOUlsaUs5Y2VlZXBYMUgyaWJSSk5fMmlCOHY2bkt5UlR5a05sdGRuZTdwMFZfdXhycUwyUFl2RmxMdVlnRzUxczBaVnNSdjFuRExoRnJJVGFoZnl4bHNkWVBNeElGQ3RkSThITXFfaVJBcDQ3VHRDTjRSR0JVX3Qyc2lQVDNGWjhIQQ?oc=5",
+    "published_at": "2026-05-13T14:27:00+00:00",
+    "fetched_at": "2026-05-13T18:00:07.941389+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy",
+      "rule of law",
+      "judicial reform"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Commission",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "democracy_restoration",
+    "summary_en": "The Guardian examines whether Péter Magyar can deliver on his reform promises and restore Hungary's fractured relationship with the EU. The article investigates whether his new government's stated agenda—judicial reform, rule of law restoration, and EU reintegration—can overcome structural political and economic challenges inherited from Orbán's rule.",
+    "title_hu": "Teljesítheti-e Magyar Péter reformígéreteit és helyreállíthatja az EU-val való kapcsolatot?",
+    "summary_hu": "A Guardian azt vizsgálja, hogy Péter Magyar teljesítheti-e reformígéreteit és helyreállíthatja-e Magyarország szakadt viszonyát az EU-val. A cikk azt elemzi, hogy az új kormány nyilatkozott programja—igazságszolgáltatási reform, a jogállamiság helyreállítása és az EU-s visszaintegráció—megoldhatja-e az Orbán-korszakból örökölt strukturális politikai és gazdasági kihívásokat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "3cd0b4cb44078ac6",
     "source": "Reuters",
     "region": "wire",
@@ -29,6 +126,36 @@
     "main_actor": "magyar_peter",
     "comparison_countries": [],
     "quotes": []
+  },
+  {
+    "id": "c5a18f2b1fdb54a4",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "‘No question’ EU funds must not be misused, Estonian minister says - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTXM4aGxyWjBuaU1rNWwxV1ZwRHM2d1NTc0Y1UXB5bW11M0pWTVN1ejFhNDI0TThKVWtZaUdVT0Q2VGhyak01VkJVYmhQeE9fLUxRbzY0V01TQ3Q2aFkwMHdRd2gxSTdrcnhaSnNRX3p4U09fcmRKOEdBLXZsTE1uaUhiOU9XUlV6Qk15NF9LVkQwdnZjczFhb0JtUDN3NUp4b000NDU5S0l2TUE4Z1E?oc=5",
+    "published_at": "2026-05-13T07:29:16+00:00",
+    "fetched_at": "2026-05-13T18:00:35.316014+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "rule of law"
+    ],
+    "actors": [
+      "Estonian minister",
+      "Ursula von der Leyen"
+    ],
+    "tone": "critical",
+    "framing": "eu_integration",
+    "summary_en": "An Estonian minister has reaffirmed that EU funds must not be misused, signaling firm EU member state insistence on governance oversight for Hungary's access to €10bn in frozen funds. The statement reinforces Brussels' non-negotiable position that reforms and compliance are conditions for fund release, amid ongoing negotiations with the Magyar government.",
+    "title_hu": "Az EU-s alapokat nem szabad felhasználni - 'nincs vita' - estóniai miniszter szerint",
+    "summary_hu": "Egy estóniai miniszter megerősítette, hogy az EU-s alapokat nem szabad felhasználni, jelezve az EU tagállamok szigorú felügyeletét Magyarország fagyasztott alapjaira vonatkozóan. A nyilatkozat Brüsszel nem tárgyalható feltételét erősíti meg: az alapok csak reformok és megfelelőség mellett kerülhetnek felszabadításra.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": [
+      "'No question' EU funds must not be misused"
+    ]
   },
   {
     "id": "9be3b4408f7affb8",
