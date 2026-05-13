@@ -1,5 +1,36 @@
 [
   {
+    "id": "9be3b4408f7affb8",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "New Hungarian cabinet to make sharp break with Orbán era - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0lyNzVFUlBhdnM5OEd1RkNjdWt2Z19SSDYwTlA3eXBaMEYyb3M0eG05YmpUTndkWDhqXzVnMGFxNkJIbzdqY3JHcjBfNG5GUndWdFFIMVZtaGpTTGVrc2FOSlI4U1hsZ2p0XzBHN2NOdVdZZ1owMUowUUhCZFNQOFIxNjFWdHlMSU1mbGN3dEc?oc=5",
+    "published_at": "2026-05-13T04:06:37+00:00",
+    "fetched_at": "2026-05-13T06:00:33.468137+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "rule of law",
+      "corruption"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's new cabinet under Péter Magyar is signaling a decisive departure from Viktor Orbán's 15-year governance model and institutional practices. Euractiv frames the transition as a structural reset toward democratic norms and EU alignment, with the cabinet's policy agenda focused on reversing Orbán-era rule-of-law erosion and judicial capture. The cabinet's mandate reflects voter demand for progressive reform and reintegration into mainstream European institutions.",
+    "title_hu": "Az új magyar kabinet éles szakítást tesz az Orbán-korszakkal",
+    "summary_hu": "Péter Magyar új kabinettje döntő szakítást jelez Viktor Orbán 15 éves kormányzati modelljével és intézményi gyakorlataival. Az Euractiv az átmenetet a demokratikus normák és az EU-val való összhang felé irányuló szerkezetváltásként értelmezi, ahol a kabinet politikai programja az Orbán-korszak jogállamiság-eróziójának és bírósági elfogultságának megfordítására összpontosít. A kabinet mandátuma a választók progresszív reformra és a mainstream európai intézmények közé való visszatérésre vonatkozó igényét tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "eba3c76807884622",
     "source": "Reuters",
     "region": "wire",
@@ -908,6 +939,32 @@
       "Poland",
       "United States"
     ],
+    "quotes": []
+  },
+  {
+    "id": "7b1d3cfe7e3cd2a9",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Viktor Orbán Archives | Page 142 of 152 - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VZklVV0VpejlXbkNNUk9MNm9KWm02Tmt5bVdyRkhGdENXN2JNc1k0X0pIQmpIX0pVNWhNZndvYVVSSGFSTGViRzlYUXhzTkxwc0VxcHBPQk0wUmtpSXplYmRXVkpjQmx1MThnTUp3?oc=5",
+    "published_at": "2026-05-10T20:36:54+00:00",
+    "fetched_at": "2026-05-13T06:00:33.468210+00:00",
+    "topics": [
+      "government transition",
+      "elections"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "other",
+    "summary_en": "This is an archive index page (page 142 of 152) from Euractiv listing articles about Viktor Orbán, rather than a substantive news article. It reflects the extensive international media coverage of Orbán's legacy and Hungary's 2026 government transition.",
+    "title_hu": "Viktor Orbán Archívum | 142. oldal az 152-ből - Euractiv",
+    "summary_hu": "Ez az Euractiv archívumoldala (142. oldal az 152-ből), amely Viktor Orbánnal kapcsolatos cikkeket sorol fel. Az archív tükrözi a nemzetközi média Orbán örökségéről és a 2026-os kormányváltozásról szóló cikkeinek terjedelmét.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
     "quotes": []
   },
   {
