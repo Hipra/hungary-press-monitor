@@ -1,5 +1,35 @@
 [
   {
+    "id": "ffb609168f9d8242",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Ukraine war briefing: New Hungary PM signals shift away from Kremlin after massive drone attack on Ukraine - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnI3WlA0WXpiRGtlTlZDbWZhRzA3amVLbEYzMzlESFo1cFlCOC0tRTBET1ZFQXoteFVHRHZhZ0RxMmU0c2lFZjBNS3hLUGh3aHlaWXZ3SWhjTVhtbVpwbUR3d3c0R043RVd6dVRBNkVUcGJmWXBPVmg5WUx1YVVQektXOXFtOHJvSTAzU2hYR1pEYzZfOEtrdnZVZkxmcjdiYXQ3dHdtWU1hdlZRWXNpMXE1YkZES2NhT210S2FtbmlUdm9KMG93ZFFOU3g?oc=5",
+    "published_at": "2026-05-14T00:43:00+00:00",
+    "fetched_at": "2026-05-14T02:00:07.743695+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "government transition",
+      "NATO"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskyy",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "The new Hungarian Prime Minister Péter Magyar has signaled a significant geopolitical shift away from the Kremlin, marking a sharp break from Viktor Orbán's Russia-aligned foreign policy. This reorientation toward NATO and EU alignment comes in response to Russia's escalating drone attacks on Ukraine. The move demonstrates Hungary's early commitment to post-Orbán foreign policy realignment.",
+    "title_hu": "Ukrajna háborús briefing: Az új magyar miniszterelnök eltávolodást jelez a Kremltől az Ukrajna elleni masszív drón-támadás után",
+    "summary_hu": "Az új magyar miniszterelnök, Péter Magyar a Kremltől való jelentős geopolitikai eltávolodást jelzett, amely markáns szakítást jelent Viktor Orbán Oroszország-barát külpolitikájával szemben. Ez az újraorientálódás a NATO és az EU-irányzat felé Oroszország Ukrajna elleni eszkalálódó drón-támadásainak válaszaként születik. A lépés az Orbán utáni kormányzat korai külpolitikai átpozicionálódásra irányuló elkötelezettségét mutatja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "8ee8ad8bf27a40fa",
     "source": "Politico Europe",
     "region": "eu",

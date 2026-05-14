@@ -1,16 +1,16 @@
 {
-  "total_articles": 443,
-  "analyzed_articles": 443,
+  "total_articles": 444,
+  "analyzed_articles": 444,
   "tone": {
+    "positive": 145,
     "neutral": 186,
-    "positive": 144,
     "mixed": 43,
     "critical": 69,
     "hopeful": 1
   },
   "framing": {
+    "geopolitics": 108,
     "eu_integration": 73,
-    "geopolitics": 107,
     "democracy_restoration": 110,
     "economy": 23,
     "human rights": 1,
@@ -28,10 +28,10 @@
     "energy": 3
   },
   "region": {
+    "uk": 79,
     "eu": 154,
     "wire": 81,
     "cee": 21,
-    "uk": 78,
     "us": 40,
     "de": 52,
     "think": 2,
@@ -43,7 +43,7 @@
     "Politico Europe": 46,
     "Euronews": 41,
     "Euractiv": 41,
-    "The Guardian": 27,
+    "The Guardian": 28,
     "Financial Times": 25,
     "EUobserver": 23,
     "Washington Post": 17,
@@ -65,12 +65,12 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 358,
+    "government transition": 359,
     "EU relations": 248,
     "democracy": 189,
-    "geopolitics": 162,
+    "geopolitics": 163,
     "rule of law": 131,
-    "foreign policy": 110,
+    "foreign policy": 111,
     "EU funds": 76,
     "elections": 58,
     "economy": 55,
@@ -83,19 +83,19 @@
     "judicial reform": 19,
     "V4 diplomacy": 12,
     "media freedom": 11,
-    "NATO": 6,
+    "NATO": 7,
     "EU integration": 5
   },
   "actors": {
-    "Péter Magyar": 352,
-    "Viktor Orbán": 211,
+    "Péter Magyar": 353,
+    "Viktor Orbán": 212,
     "European Commission": 60,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 36,
     "Ukraine": 33,
     "Ursula von der Leyen": 33,
+    "Volodymyr Zelenskyy": 23,
     "European Union": 22,
-    "Volodymyr Zelenskyy": 22,
     "Hungary": 21,
     "Russia": 17,
     "Donald Tusk": 16,
@@ -109,9 +109,9 @@
     "Vladimir Putin": 6
   },
   "main_actor": {
+    "magyar_peter": 163,
     "eu_institutions": 42,
     "hungary_country": 124,
-    "magyar_peter": 162,
     "other": 33,
     "orban_viktor": 74,
     "fidesz": 6,
@@ -135,7 +135,6 @@
     "USA": 1
   },
   "daily": {
-    "2026-04-13": 12,
     "2026-04-14": 4,
     "2026-04-15": 4,
     "2026-04-16": 4,
@@ -164,9 +163,16 @@
     "2026-05-10": 14,
     "2026-05-11": 22,
     "2026-05-12": 10,
-    "2026-05-13": 7
+    "2026-05-13": 7,
+    "2026-05-14": 1
   },
   "tone_by_source": {
+    "The Guardian": {
+      "positive": 15,
+      "mixed": 2,
+      "critical": 4,
+      "neutral": 7
+    },
     "Politico Europe": {
       "neutral": 17,
       "mixed": 8,
@@ -183,12 +189,6 @@
       "positive": 1,
       "critical": 2,
       "neutral": 2
-    },
-    "The Guardian": {
-      "mixed": 2,
-      "positive": 14,
-      "critical": 4,
-      "neutral": 7
     },
     "Euronews": {
       "critical": 5,
@@ -297,6 +297,12 @@
     }
   },
   "source_bias": {
+    "The Guardian": {
+      "positive": 54,
+      "mixed": 7,
+      "critical": 14,
+      "neutral": 25
+    },
     "Politico Europe": {
       "neutral": 37,
       "mixed": 17,
@@ -313,12 +319,6 @@
       "positive": 20,
       "critical": 40,
       "neutral": 40
-    },
-    "The Guardian": {
-      "mixed": 7,
-      "positive": 52,
-      "critical": 15,
-      "neutral": 26
     },
     "Euronews": {
       "critical": 12,
@@ -409,5 +409,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-13T22:14:31.162921+00:00"
+  "last_updated": "2026-05-14T02:14:11.784993+00:00"
 }
