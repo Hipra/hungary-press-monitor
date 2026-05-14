@@ -1,5 +1,61 @@
 [
   {
+    "id": "910456e30c09e446",
+    "source": "The Economist",
+    "region": "uk",
+    "title": "Peter Magyar takes office pledging to clean up Hungary’s mess - The Economist",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRxeTZQV05BWDUzRXBvTEMyWWFfaVpQU2l6dlZIdmlpa08ydnJOaTJGaGt1d1FhWXBQalVTaHYtRGZnMTF5Rl9ENXp0RVlHS2Z6Xzh2UGJHckNNbWI1cEZxRDBPazRDcGZlbXNTUDJvWFRXVm5rYXJrRkJPa0pELXBJZVZEMDM4R1pucF9hU3ZQV05NVXg1LUxTUmR1ZmhkU1lhV2dXYw?oc=5",
+    "published_at": "2026-05-14T12:55:15+00:00",
+    "fetched_at": "2026-05-14T14:00:10.521885+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "corruption",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar officially assumes office as Hungary's new Prime Minister, pledging comprehensive reforms to address the legacy of corruption and democratic decline under Viktor Orbán's 15-year rule. His government, with a two-thirds parliamentary majority, begins implementing reforms across judicial independence, media freedom, and rule of law. The Economist likely scrutinizes whether Magyar can deliver on these ambitious promises amid a politically charged transition.",
+    "title_hu": "Péter Magyar átveszi a kormányzást és megtisztítani ígéri Magyarország zűrzavarát",
+    "summary_hu": "Péter Magyar új miniszterelnökként hivatalosan átveszi a hatalmat, és ígéri Viktor Orbán 15 éves uralma alatt kialakult korrupció és demokratikus hanyatlás kezelésének átfogó reformjait. Kétharmados parlamenti többséggel rendelkező kormánya a bírósági függetlenség, a sajtószabadság és a jogállamiság terén hajt végre reformokat. Az Economist valószínűleg azt vizsgálja, hogy Magyar teljesíteni tudja-e ezeket a nagyratörő ígéreteket a politikailag feszült átmenetben.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "bd113b1c4fe1cfbb",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Hungary's Orbán-era wartime state of emergency ended, PM Péter Magyar says - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ090d0pYY1ROdkxUQy1TckdRZXk2bklIeWVjLWJ0cjRkT0JCQ3BMZ1ROVnNqd3labHJYTFZCN0xTa29pQWhZSWpHdURlMWs2STd2MUYzcVh1MUppazNSMm1Ca3JqNmZmQmlFVjhEYWwtcnI1TWZWVDZIdGtPSXNwdkVoREFMVzhVSzN0ZTBwMGxhenQzWU9CSGppLUhkRXpQdi15Ym5UdXpaSEZoZjM1aDVZOXAyMXRjUUE?oc=5",
+    "published_at": "2026-05-14T10:05:37+00:00",
+    "fetched_at": "2026-05-14T18:00:36.427190+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "PM Péter Magyar announces the termination of Hungary's wartime state of emergency declared during the Orbán era, marking a symbolic break with emergency governance. The move signals the normalization of democratic procedures following the historic transition of power.",
+    "title_hu": "Magyarország: Orbán-korszakának hadiállapota végét ért – Péter Magyar",
+    "summary_hu": "Péter Magyar miniszterelnök bejelenti az Orbán-korszakban bevezetett hadiállapot feloldását, amely szimbolikusan jelzi a vészhelyzeti kormányzás végét. A döntés a 15 év után bekövetkezett hatalom átadása után a demokrácia normalizálódásának jele.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "51eaa29e6fc0f39a",
     "source": "Washington Post",
     "region": "us",
@@ -2082,6 +2138,33 @@
     "summary_en": "Péter Magyar was sworn in as Prime Minister of Hungary on May 10, 2026, ending Viktor Orbán's 15-year rule in what is widely characterized as a 'regime change.' With the Tisza Party holding a two-thirds parliamentary majority, Magyar's government begins a transition focused on democratic restoration and EU reintegration. The swearing-in marks a symbolic end to the Orbán era and the beginning of Hungary's democratic renewal.",
     "title_hu": "Péter Magyart beiktatták Magyarország 'rendszerváltás' miniszterelnökeként",
     "summary_hu": "Péter Magyart 2026. május 10-én beiktatták Magyarország miniszterelnökeként, ezzel véget vetett Viktor Orbán 15 éves uralomnak, amit széles körben 'rendszerváltásként' jellemeznek. A Tisza Párt kétharmados parlamentári többsége mellett Magyar kormánya a demokratikus helyreállítás és az EU-val való újraintegráció felé irányuló átmenetet kezdi. A beiktatás szimbolikusan az Orbán-korszak végét és Magyarország demokratikus megújulásának kezdetét jelöli.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "8cd0afd14cf0f45b",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary’s Péter Magyar sworn in as prime minister, ending Viktor Orbán’s 16-year rule - AP News",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMlozVnVRRS15cXNjbkNlaE96SDRxYmdUWG14bTFCRUNrbF9RUElpOHpoTGZMMkdOcE9zNktrcFdISUVUdzROTW1uTzVPR21qUXctZGJWc1ZPLTFhdVNObllaSFJGUWtpS3BuOGkzbm9xLU5UX3hxdHUwVDIyQkUyNks1bGgyRWZwZTV1THluMmFwTTRYbDJrUU45SGtOd0J0TEI5M044Yks1dnpVZUZxaU1kTHdSX0lBZUZGb1NZTkJadzVfLUR3SnlRcVBqelNGbEdLZV9Rcw?oc=5",
+    "published_at": "2026-05-09T14:36:00+00:00",
+    "fetched_at": "2026-05-14T14:00:04.738282+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "AP reports Péter Magyar's swearing-in as Prime Minister on May 9, 2026, ending Viktor Orbán's 16-year rule. Magyar's Tisza Party holds a two-thirds parliamentary majority, enabling Hungary's democratic transition after Orbán's long tenure.",
+    "title_hu": "Péter Magyar letette az esküt miniszterelnökként, végét érte Viktor Orbán 16 éves uralma",
+    "summary_hu": "Az AP hírügynökség beszámol arról, hogy 2026. május 9-én Péter Magyar letette az esküt Magyarország miniszterelnökeként, amely Viktor Orbán 16 éves uralma végét jelenti. Magyar Tisza Pártja kétharmados parlamentáris többséggel rendelkezik, amely Magyarország demokratikus átmenetét teszi lehetővé.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
