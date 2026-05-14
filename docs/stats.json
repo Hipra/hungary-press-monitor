@@ -1,15 +1,15 @@
 {
-  "total_articles": 455,
-  "analyzed_articles": 455,
+  "total_articles": 456,
+  "analyzed_articles": 456,
   "tone": {
+    "positive": 149,
     "mixed": 44,
-    "positive": 148,
     "neutral": 192,
     "critical": 70,
     "hopeful": 1
   },
   "framing": {
-    "democracy_restoration": 114,
+    "democracy_restoration": 115,
     "geopolitics": 111,
     "corruption": 22,
     "economy": 25,
@@ -28,7 +28,7 @@
     "energy": 3
   },
   "region": {
-    "uk": 81,
+    "uk": 82,
     "eu": 158,
     "us": 41,
     "wire": 83,
@@ -43,7 +43,7 @@
     "Politico Europe": 46,
     "Euronews": 45,
     "Euractiv": 41,
-    "The Guardian": 29,
+    "The Guardian": 30,
     "Financial Times": 25,
     "EUobserver": 23,
     "AP News": 19,
@@ -65,11 +65,11 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 368,
-    "EU relations": 251,
-    "democracy": 193,
+    "government transition": 369,
+    "EU relations": 252,
+    "democracy": 194,
     "geopolitics": 166,
-    "rule of law": 134,
+    "rule of law": 135,
     "foreign policy": 115,
     "EU funds": 78,
     "elections": 58,
@@ -87,8 +87,8 @@
     "EU integration": 6
   },
   "actors": {
-    "Péter Magyar": 362,
-    "Viktor Orbán": 217,
+    "Péter Magyar": 363,
+    "Viktor Orbán": 218,
     "European Commission": 61,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 37,
@@ -109,7 +109,7 @@
     "Vladimir Putin": 6
   },
   "main_actor": {
-    "magyar_peter": 169,
+    "magyar_peter": 170,
     "hungary_country": 127,
     "orban_viktor": 75,
     "eu_institutions": 43,
@@ -164,9 +164,15 @@
     "2026-05-11": 22,
     "2026-05-12": 10,
     "2026-05-13": 10,
-    "2026-05-14": 8
+    "2026-05-14": 9
   },
   "tone_by_source": {
+    "The Guardian": {
+      "positive": 16,
+      "critical": 5,
+      "mixed": 2,
+      "neutral": 7
+    },
     "The Economist": {
       "mixed": 2,
       "neutral": 1,
@@ -192,12 +198,6 @@
       "neutral": 3,
       "positive": 1,
       "critical": 2
-    },
-    "The Guardian": {
-      "critical": 5,
-      "positive": 15,
-      "mixed": 2,
-      "neutral": 7
     },
     "DW English": {
       "positive": 20,
@@ -297,6 +297,12 @@
     }
   },
   "source_bias": {
+    "The Guardian": {
+      "positive": 53,
+      "critical": 17,
+      "mixed": 7,
+      "neutral": 23
+    },
     "The Economist": {
       "mixed": 50,
       "neutral": 25,
@@ -322,12 +328,6 @@
       "neutral": 50,
       "positive": 17,
       "critical": 33
-    },
-    "The Guardian": {
-      "critical": 17,
-      "positive": 52,
-      "mixed": 7,
-      "neutral": 24
     },
     "DW English": {
       "positive": 38,
@@ -409,5 +409,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-14T18:14:10.237517+00:00"
+  "last_updated": "2026-05-14T22:10:18.749741+00:00"
 }
