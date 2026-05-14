@@ -1,5 +1,124 @@
 [
   {
+    "id": "51eaa29e6fc0f39a",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Hungary summons Russian ambassador to protest attack in Ukraine near its border - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZmRYcUd5TUFqTTQxbEt0SzczTmNwOVZ2LWFGZDltZlJ4cDJHU2FDWG05VVB4clZxaldYTmRwcWVaUnYxQXJ0Z25HTkxLVDZyMHZRUkRadHF3dm80Skh3Z1hjSWNMNUpoNG0yVmJYRUswQ250WkZZRFdIMzJZRGRuOTVZS0RKQnpWZzJ3N1M5aldEVUttb3pCSnM1MEJIeTBwX1hSd25TMmRhNVlzMkJJdVdseGZkUVlCZUV4dzFNTDBvNXh6RFpGSGtWRjdLc1FaQTZuZHRYU0pacTFtUU1MNGxuQUN5SU01eWc?oc=5",
+    "published_at": "2026-05-14T09:31:46+00:00",
+    "fetched_at": "2026-05-14T10:00:19.107205+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "government transition"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Russia",
+      "Ukraine"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's new government summoned the Russian ambassador to protest drone strikes on western Ukraine near its border. This action signals a significant geopolitical realignment away from Viktor Orbán's pro-Russia stance. The move strengthens ties with NATO allies and Ukraine, marking a historic shift in Hungary's foreign policy orientation.",
+    "title_hu": "Magyarország meghívja az orosz nagykövetét az Ukrajna határánál történt támadás miatt",
+    "summary_hu": "Magyarország új kormánya tiltakozásul meghívta az orosz nagykövetét az Ukrajna határánál végzett dróntámadások miatt. Ez jelentős geopolitikai fordulat Orbán Oroszország-barát politikájához képest. A lépés a NATO-szövetségesek és Ukrajna felé való elfordulást mutatja, amely magyar külpolitika történeti irányváltásáról tanúskodik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Russia",
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "5b28e2def82d86ba",
+    "source": "Visegrad Insight",
+    "region": "cee",
+    "title": "How Orbán’s Informal Power Machine Cracked From Within - Visegrad Insight",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnRlMDkxS01YZ2pkOS1yX0R0bXRqVk8wbWtycEEwOFF0bi1mMXlaOTJ2eGkySUFzekFiT2JUbmpaeHRLYmdwbUs3cUVBNDhsQmd3bDc2T3JXcUxoNGhvLXczTVJSM1ZtYkNYb3Q2M2VhZkVFTlRJbl9ZU3ZFUmZfeEtTMksybFpw?oc=5",
+    "published_at": "2026-05-14T08:41:13+00:00",
+    "fetched_at": "2026-05-14T10:00:45.942131+00:00",
+    "topics": [
+      "government transition",
+      "corruption",
+      "rule of law",
+      "Fidesz opposition"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "corruption",
+    "summary_en": "A Visegrad Insight analysis examining how Viktor Orbán's informal governance network and patronage machine internally fractured, contributing to the collapse of his 15-year rule. The piece explores the structural vulnerabilities of Orbán's personalized power system that enabled Péter Magyar's Tisza Party to achieve a historic electoral majority and end the Fidesz era.",
+    "title_hu": "Hogyan szakadt szét Orbán informális hatalmi gépezete belülről",
+    "summary_hu": "A Visegrad Insight elemzése azt vizsgálja, hogyan szakadt szét belülről Viktor Orbán informális irányítási hálózata és patrónusi gépezete, ami hozzájárult 15 éves uralma összeomlásához. A cikk Orbán személyre szabott hatalmi rendszerének szerkezeti sebezhetőségeit vizsgálja, amelyek lehetővé tették Péter Magyar Tisza Pártjának történelmi szavazattöbbségét és a Fidesz era végét.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "699322fb01d43bdf",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Who is the Coalition targeting in their response to the budget? | Fiona Katauskas - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUExXazRWcW93d3hDMlhsLVFKM1QxREctazFEY2FxV0NmZXRKMUU5REJaX3R2RFRxQ1hYUGdQYUt4bklQVXBwNUpYelV1VndlU3FUNENOOFFkdFVfRG1UQ2xPNTE4SkEycGhiZ2QzSUphRm9RR3RMT1FuazZUY2ZqbVpZaUF2dm9FcmZjQjdwNFVrbnFZdFpxWldxOHh0SmpuQ3A0cGNHUExOWUZFUk8ta2o5UWx6SVZQUGYwY0hDNlZqZw?oc=5",
+    "published_at": "2026-05-14T06:13:00+00:00",
+    "fetched_at": "2026-05-14T10:00:09.098902+00:00",
+    "topics": [
+      "government transition",
+      "economy",
+      "corruption"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungarian Coalition government"
+    ],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "The article examines which interests or groups the new Hungarian government is targeting in its budget response, analyzing the Coalition's fiscal policy direction following the democratic transition.",
+    "title_hu": "Kit céloz meg a Koalíció költségvetési válaszában?",
+    "summary_hu": "A cikk azt vizsgálja, mely érdekcsoportokat vagy csoportokat céloz meg az új magyar kormány költségvetési válaszában, elemezve a Koalíció fiskális politikai irányát a demokratikus átmenet után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "09f61c20f9f3b525",
+    "source": "DW English",
+    "region": "de",
+    "title": "'Regime change': Hungary's Magyar exposes Orban's decadence - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3Q4YVRzbmo3c0ZNV3BTYlpVNVB4T0dMNEZORVJrZ2hPSGFVMzBvRWhzWUtxQXRKMklrRDFjYXRJQ0o4UERaYkxOWWJDemNTVHZOV2J2S2Y5YkVLWFpvbVVVeHU5UE53RmpyUWFiNWNtMmhNN1g2WlBFQmo3YzQ2anFISVZhV3pCUEo5dFM1QnfSAZABQVVfeXFMT3cxOGk4RWZBeTVWTkotUno0aHN2VU4zZHh3T2lnOHpxNUx1Vm5ra2pacE1uZ1BYQ1dnQVFHUlh6WTVyd3dETHpSS0g2bEFWV1lyMDU1Z0JoYmRXbHpXb0RnVEt6dWNWelhrSnM4VXdsTzl5enBNbjg1VWRMa251VUFOaEtUYXN6TU5jYnlXTzBV?oc=5",
+    "published_at": "2026-05-14T06:11:57+00:00",
+    "fetched_at": "2026-05-14T10:00:42.182814+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "corruption",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "DW frames Péter Magyar's government transition as a 'regime change' that exposes systematic failures in Viktor Orbán's 15-year rule, emphasizing the new administration's role in revealing Orbán-era decadence and corruption.",
+    "title_hu": "'Rendszerváltás': Magyar feltárja Orbán romlottságát",
+    "summary_hu": "A DW Péter Magyar kormányzati átmenetét 'rendszerváltásként' jellemzi, amely feltárja Viktor Orbán 15 éves kormányzásának szisztematikus kudarcait és romlottságát, hangsúlyozva az Orbán-korszak korruptságának feltárásában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "ffb609168f9d8242",
     "source": "The Guardian",
     "region": "uk",
@@ -55,6 +174,35 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "3b29259a735e750f",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Hungary's Magyar set to outline his red lines over EU funding talks in a letter to von der Leyen - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV3I3SjgtMmZFUG00Wmt5SmxKbUJMVklmYmRMWW1VTTZad3BwaUdBVm9nazZGUERwUjE2aFNtVy1pcXJqMlUyQUsyeEo2UkdpNUh3STNlekpRaTZXSkREMmVSYjk4Wnpab3lpc0JpbmgyTmc0VzlDMEZtYzJLV1M5d2tLaTRXU0ZqZndnNkg5ZVpMakZzczlhbGdPYUdmbHVZZnlmaVRjNUZmalFENDVVdHRFaTM2ajBUUHdkcXU4Vk1EOVJuRXZKZ0JJOVFnbkY0TVE?oc=5",
+    "published_at": "2026-05-13T18:24:05+00:00",
+    "fetched_at": "2026-05-14T10:00:37.541998+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "government transition",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar is preparing to communicate Hungary's negotiating positions to European Commission President Ursula von der Leyen in a letter regarding the EU's frozen €10.4 billion funding package. The letter signals Magyar's intention to define clear boundaries in ongoing EU conditionality talks, as Hungary seeks to access desperately needed EU recovery funds while meeting EU rule-of-law requirements.",
+    "title_hu": "Magyar kijelöli piros vonalait az EU-s finanszírozási tárgyalások során von der Leyen-nek küldött levélben",
+    "summary_hu": "Péter Magyar levélben közli az Európai Bizottság Ursula von der Leyen elnökével Magyarország tárgyalási pozícióit a 10,4 milliárd eurós EU-s finanszírozási csomagról. A levél jelzi Magyar szándékát világos határok kijelölésére az EU feltétel-szerűségi tárgyalások során, miközben Magyarország az EU helyreállítási alapokhoz való hozzáféréshez szükséges EU jogállamiság-követelmények teljesítésére törekszik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
     "comparison_countries": [],
     "quotes": []
   },
