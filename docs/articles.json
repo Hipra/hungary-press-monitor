@@ -32,6 +32,36 @@
     "quotes": []
   },
   {
+    "id": "4fc7038fbcc9e9ef",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary summons Russian ambassador to protest attack in Ukraine near its border - AP News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGVoZ3JaN2o5ejlyZW5vc3Z0ZFNjR3pBN0RTeWV6MWdhR01VUkk0eERuTFZTX3QxUmhVVjBFdWxURjZKQUMwNXFkWS15NUhXTTExSDhCaENyR1dqX1l2cTdQLXpfRXpUSmVTNGVtd3JEVlR6bFMwbTY5LXFLeVk2RUFUak5DMGlPTHhXMHBVcEk0NlZLbjh5OGtwMUlfVU5wdVdCeXAwUGl1UVpDZXRSR2t6ZFRWNW05Ymc?oc=5",
+    "published_at": "2026-05-14T09:09:00+00:00",
+    "fetched_at": "2026-05-14T10:00:05.006002+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "government transition",
+      "NATO"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Russian ambassador",
+      "Hungarian government"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Hungary's new government summoned Russia's ambassador to protest drone strikes on western Ukraine near its border, marking a dramatic reversal of Orbán's Russia-friendly diplomacy. The action reflects Budapest's geopolitical realignment toward NATO and EU positions on Ukraine. This move underscores Magyar's commitment to ending Hungary's role as a Russian ally within the Western alliance.",
+    "title_hu": "Magyarország felszólította az orosz nagykövet az Ukrajna közelében elkövetett támadások miatt",
+    "summary_hu": "Magyarország új kormánya felszólította Oroszország nagykövete, hogy tiltakozzon az Ukrajna nyugati részén, a magyar határhoz közeli terület elleni dróntámadások miatt. A lépés Orbán Oroszország-barát politikájának drasztikus megfordulását jelenti. Az intézkedés tükrözi Magyar elkötelezettségét, hogy véget vessen Magyarország nato-n belüli orosz szövetséges szerepének.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "5b28e2def82d86ba",
     "source": "Visegrad Insight",
     "region": "cee",

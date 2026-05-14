@@ -1,15 +1,15 @@
 {
-  "total_articles": 451,
-  "analyzed_articles": 451,
+  "total_articles": 452,
+  "analyzed_articles": 452,
   "tone": {
     "positive": 147,
-    "neutral": 190,
+    "neutral": 191,
     "critical": 70,
     "mixed": 43,
     "hopeful": 1
   },
   "framing": {
-    "geopolitics": 110,
+    "geopolitics": 111,
     "corruption": 22,
     "economy": 25,
     "democracy_restoration": 111,
@@ -29,11 +29,11 @@
   },
   "region": {
     "us": 41,
+    "wire": 82,
     "cee": 22,
     "uk": 80,
     "de": 53,
     "eu": 157,
-    "wire": 81,
     "think": 2,
     "fr": 15
   },
@@ -47,7 +47,7 @@
     "Financial Times": 25,
     "EUobserver": 23,
     "Washington Post": 18,
-    "AP News": 17,
+    "AP News": 18,
     "Le Monde": 15,
     "Balkan Insight": 14,
     "BBC": 13,
@@ -65,12 +65,12 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 364,
+    "government transition": 365,
     "EU relations": 251,
     "democracy": 190,
-    "geopolitics": 165,
+    "geopolitics": 166,
     "rule of law": 133,
-    "foreign policy": 114,
+    "foreign policy": 115,
     "EU funds": 78,
     "elections": 58,
     "economy": 57,
@@ -83,11 +83,11 @@
     "judicial reform": 19,
     "V4 diplomacy": 12,
     "media freedom": 11,
-    "NATO": 7,
+    "NATO": 8,
     "EU integration": 6
   },
   "actors": {
-    "Péter Magyar": 358,
+    "Péter Magyar": 359,
     "Viktor Orbán": 214,
     "European Commission": 61,
     "Volodymyr Zelenskiy": 39,
@@ -98,8 +98,8 @@
     "Hungary": 22,
     "European Union": 22,
     "Russia": 18,
+    "Hungarian government": 16,
     "Donald Tusk": 16,
-    "Hungarian government": 15,
     "EU institutions": 13,
     "Rumen Radev": 10,
     "EU member states": 8,
@@ -109,7 +109,7 @@
     "Vladimir Putin": 6
   },
   "main_actor": {
-    "hungary_country": 126,
+    "hungary_country": 127,
     "orban_viktor": 75,
     "magyar_peter": 166,
     "eu_institutions": 43,
@@ -164,13 +164,18 @@
     "2026-05-11": 22,
     "2026-05-12": 10,
     "2026-05-13": 10,
-    "2026-05-14": 5
+    "2026-05-14": 6
   },
   "tone_by_source": {
     "Washington Post": {
       "positive": 12,
       "neutral": 5,
       "critical": 1
+    },
+    "AP News": {
+      "neutral": 10,
+      "positive": 6,
+      "mixed": 2
     },
     "Visegrad Insight": {
       "neutral": 3,
@@ -213,11 +218,6 @@
       "critical": 10,
       "neutral": 16,
       "mixed": 6
-    },
-    "AP News": {
-      "positive": 6,
-      "mixed": 2,
-      "neutral": 9
     },
     "The Times": {
       "positive": 5,
@@ -302,6 +302,11 @@
       "neutral": 28,
       "critical": 6
     },
+    "AP News": {
+      "neutral": 56,
+      "positive": 33,
+      "mixed": 11
+    },
     "Visegrad Insight": {
       "neutral": 50,
       "positive": 17,
@@ -343,11 +348,6 @@
       "critical": 24,
       "neutral": 39,
       "mixed": 15
-    },
-    "AP News": {
-      "positive": 35,
-      "mixed": 12,
-      "neutral": 53
     },
     "The Times": {
       "positive": 50,
@@ -409,5 +409,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-14T10:17:14.321538+00:00"
+  "last_updated": "2026-05-14T14:15:26.418203+00:00"
 }
