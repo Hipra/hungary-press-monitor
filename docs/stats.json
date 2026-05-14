@@ -1,18 +1,18 @@
 {
-  "total_articles": 444,
-  "analyzed_articles": 444,
+  "total_articles": 446,
+  "analyzed_articles": 446,
   "tone": {
     "positive": 145,
-    "neutral": 186,
+    "neutral": 188,
     "mixed": 43,
     "critical": 69,
     "hopeful": 1
   },
   "framing": {
-    "geopolitics": 108,
+    "geopolitics": 109,
     "eu_integration": 73,
+    "economy": 24,
     "democracy_restoration": 110,
-    "economy": 23,
     "human rights": 1,
     "rule_of_law": 51,
     "other": 14,
@@ -29,7 +29,7 @@
   },
   "region": {
     "uk": 79,
-    "eu": 154,
+    "eu": 156,
     "wire": 81,
     "cee": 21,
     "us": 40,
@@ -41,7 +41,7 @@
     "Reuters": 64,
     "DW English": 51,
     "Politico Europe": 46,
-    "Euronews": 41,
+    "Euronews": 43,
     "Euractiv": 41,
     "The Guardian": 28,
     "Financial Times": 25,
@@ -66,14 +66,14 @@
   },
   "topics": {
     "government transition": 359,
-    "EU relations": 248,
+    "EU relations": 250,
     "democracy": 189,
-    "geopolitics": 163,
+    "geopolitics": 164,
     "rule of law": 131,
-    "foreign policy": 111,
-    "EU funds": 76,
+    "foreign policy": 112,
+    "EU funds": 77,
     "elections": 58,
-    "economy": 55,
+    "economy": 56,
     "corruption": 39,
     "human rights": 34,
     "Russia deals": 32,
@@ -84,19 +84,19 @@
     "V4 diplomacy": 12,
     "media freedom": 11,
     "NATO": 7,
-    "EU integration": 5
+    "EU integration": 6
   },
   "actors": {
     "Péter Magyar": 353,
     "Viktor Orbán": 212,
-    "European Commission": 60,
+    "European Commission": 61,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 36,
     "Ukraine": 33,
     "Ursula von der Leyen": 33,
     "Volodymyr Zelenskyy": 23,
+    "Hungary": 22,
     "European Union": 22,
-    "Hungary": 21,
     "Russia": 17,
     "Donald Tusk": 16,
     "Hungarian government": 15,
@@ -110,8 +110,8 @@
   },
   "main_actor": {
     "magyar_peter": 163,
-    "eu_institutions": 42,
-    "hungary_country": 124,
+    "eu_institutions": 43,
+    "hungary_country": 125,
     "other": 33,
     "orban_viktor": 74,
     "fidesz": 6,
@@ -163,7 +163,7 @@
     "2026-05-10": 14,
     "2026-05-11": 22,
     "2026-05-12": 10,
-    "2026-05-13": 7,
+    "2026-05-13": 9,
     "2026-05-14": 1
   },
   "tone_by_source": {
@@ -172,6 +172,12 @@
       "mixed": 2,
       "critical": 4,
       "neutral": 7
+    },
+    "Euronews": {
+      "neutral": 22,
+      "critical": 5,
+      "positive": 12,
+      "mixed": 4
     },
     "Politico Europe": {
       "neutral": 17,
@@ -189,12 +195,6 @@
       "positive": 1,
       "critical": 2,
       "neutral": 2
-    },
-    "Euronews": {
-      "critical": 5,
-      "neutral": 20,
-      "positive": 12,
-      "mixed": 4
     },
     "Euractiv": {
       "positive": 9,
@@ -303,6 +303,12 @@
       "critical": 14,
       "neutral": 25
     },
+    "Euronews": {
+      "neutral": 51,
+      "critical": 12,
+      "positive": 28,
+      "mixed": 9
+    },
     "Politico Europe": {
       "neutral": 37,
       "mixed": 17,
@@ -319,12 +325,6 @@
       "positive": 20,
       "critical": 40,
       "neutral": 40
-    },
-    "Euronews": {
-      "critical": 12,
-      "neutral": 49,
-      "positive": 29,
-      "mixed": 10
     },
     "Euractiv": {
       "positive": 22,
@@ -409,5 +409,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-14T02:14:11.784993+00:00"
+  "last_updated": "2026-05-14T06:13:31.360841+00:00"
 }

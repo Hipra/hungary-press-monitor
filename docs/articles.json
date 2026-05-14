@@ -30,6 +30,35 @@
     "quotes": []
   },
   {
+    "id": "4f68845545f6a334",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Is Global Europe the answer to shifting alliances? MEPs in The Ring - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXI1WEJBTk9wZUdfY3JEaW1iejBZNDJhQ1ZVYmdWZXIyWHdHb0RtcWc3eDBTcXV3Q2N1YXVobFdDOGNOaHhFOEsxT3gwWHNNdnk0amhrOHp5VlRrWWFPNEJWdkNuWDlhb2g0dnd1YUxBUU9VdlJ4Y2lPRndoalgweU12UVRXRFRETE9odDl3em9vNDZpbnNQVm45RVp0YnpScUJZYndJRkIzYzlVNFNMbzgyYk12UFQtN29z?oc=5",
+    "published_at": "2026-05-13T18:30:02+00:00",
+    "fetched_at": "2026-05-14T06:00:36.149514+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "foreign policy",
+      "EU integration"
+    ],
+    "actors": [
+      "European Parliament",
+      "MEPs"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "MEPs discuss the 'Global Europe' strategic concept in response to shifting international alliances, likely including implications of Hungary's geopolitical realignment and reintegration into EU mainstream following the Péter Magyar government transition.",
+    "title_hu": "A globális Európa a válasz a változó szövetségekre? Európai Parlament képviselői a Gyűrűben",
+    "summary_hu": "Az Európai Parlament képviselői a 'Globális Európa' stratégiai koncepciót vitatják meg a nemzetközi szövetségek átalakulásához kapcsolódóan, valószínűleg beleértve Magyarország geopolitikai átrendeződésének és az EU főáramába való visszaintegrálódásának következményeit a Péter Magyar-kormány átmenete után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "8ee8ad8bf27a40fa",
     "source": "Politico Europe",
     "region": "eu",
@@ -84,6 +113,34 @@
     "summary_en": "Hungary summoned the Russian ambassador to protest Russian drone strikes on western Ukraine, signaling the Magyar government's firm alignment with Western and Ukrainian positions and marking a decisive diplomatic shift from Orbán-era Russia accommodation.",
     "title_hu": "Magyarország összehívja az orosz nagykövetet az Ukrajna nyugati részét érő dróncsapások miatt",
     "summary_hu": "Magyarország összehívta az orosz nagykövetet az Ukrajna nyugati részét érő dróncsapások miatti tiltakozásul, amely a Magyar kormány határozott nyugati és ukrán pozícióval való összhangját jelzi, és az Orbán-kori oroszbarátsággal szembeni diplomáciai fordulópontot mutatja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b51f5b3c80cb88b2",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "ways to cash payments for Hungary, sends team to Budapest - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnpNREZrWFE4UUhUdVNySXh0N2xFRWF3YmEwc0p2V05fTEd5aXRDVC0weGEtbDYycTN6aXFPQVRjUlVEazNqUHVoOWo5V2V2a1VqZzRrbGFJMTRMblZJOGl4dENwbkowZWkyWG1CX3JkYlJLZU5Nc2JJcWo2eU4zamVRRWhtVFJMeE10c0k0RHNEeGxpQS04bXdMc3JGa1VJeXpRX2RZWFhBZXdzdEQwZjB4YkpuSWdkMkJTM2xmcTZ0YWxzcmE5Q1BobzJJbHNYVFE?oc=5",
+    "published_at": "2026-05-13T16:36:48+00:00",
+    "fetched_at": "2026-05-14T06:00:36.149247+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "economy"
+    ],
+    "actors": [
+      "European Commission",
+      "Hungary"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "The European Union has dispatched a negotiating team to Budapest to advance discussions on Hungary's frozen €10.4 billion EU funding package. The visit represents continued EU engagement on resolving conditionality disputes between Budapest and Brussels as Péter Magyar's government seeks access to blocked economic support.",
+    "title_hu": "Magyarország finanszírozásáról szóló tárgyalások: EU delegáció Budapestre érkezik",
+    "summary_hu": "Az Európai Unió tárgyalócsapatot küldött Budapestre a magyar kormány fagyott 10,4 milliárd eurós EU-s finanszírozási csomagjáról szóló viták előrehaladása érdekében. A látogatás az EU folyamatos elköteleződését mutatja Péter Magyar kormánya felé a feltételek vita rendezése tekintetében, amely a gazdasági támogatás eléréshez szükséges.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
