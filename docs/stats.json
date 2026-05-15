@@ -1,15 +1,15 @@
 {
-  "total_articles": 456,
-  "analyzed_articles": 456,
+  "total_articles": 457,
+  "analyzed_articles": 457,
   "tone": {
-    "positive": 149,
+    "positive": 150,
     "mixed": 44,
     "neutral": 192,
     "critical": 70,
     "hopeful": 1
   },
   "framing": {
-    "democracy_restoration": 115,
+    "democracy_restoration": 116,
     "geopolitics": 111,
     "corruption": 22,
     "economy": 25,
@@ -28,7 +28,7 @@
     "energy": 3
   },
   "region": {
-    "uk": 82,
+    "uk": 83,
     "eu": 158,
     "us": 41,
     "wire": 83,
@@ -43,7 +43,7 @@
     "Politico Europe": 46,
     "Euronews": 45,
     "Euractiv": 41,
-    "The Guardian": 30,
+    "The Guardian": 31,
     "Financial Times": 25,
     "EUobserver": 23,
     "AP News": 19,
@@ -65,9 +65,9 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 369,
+    "government transition": 370,
     "EU relations": 252,
-    "democracy": 194,
+    "democracy": 195,
     "geopolitics": 166,
     "rule of law": 135,
     "foreign policy": 115,
@@ -75,11 +75,11 @@
     "elections": 58,
     "economy": 57,
     "corruption": 43,
-    "human rights": 34,
+    "human rights": 35,
     "Russia deals": 32,
     "Fidesz opposition": 29,
     "energy": 29,
-    "society": 21,
+    "society": 22,
     "judicial reform": 19,
     "V4 diplomacy": 12,
     "media freedom": 11,
@@ -110,7 +110,7 @@
   },
   "main_actor": {
     "magyar_peter": 170,
-    "hungary_country": 127,
+    "hungary_country": 128,
     "orban_viktor": 75,
     "eu_institutions": 43,
     "other": 33,
@@ -164,11 +164,11 @@
     "2026-05-11": 22,
     "2026-05-12": 10,
     "2026-05-13": 10,
-    "2026-05-14": 9
+    "2026-05-14": 10
   },
   "tone_by_source": {
     "The Guardian": {
-      "positive": 16,
+      "positive": 17,
       "critical": 5,
       "mixed": 2,
       "neutral": 7
@@ -298,9 +298,9 @@
   },
   "source_bias": {
     "The Guardian": {
-      "positive": 53,
-      "critical": 17,
-      "mixed": 7,
+      "positive": 55,
+      "critical": 16,
+      "mixed": 6,
       "neutral": 23
     },
     "The Economist": {
@@ -409,5 +409,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-15T02:07:31.049029+00:00"
+  "last_updated": "2026-05-15T06:07:41.080115+00:00"
 }

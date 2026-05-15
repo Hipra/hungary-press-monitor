@@ -29,6 +29,36 @@
     "quotes": []
   },
   {
+    "id": "8a086f2e9857b772",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Roma children make history by performing Roma hymn at Hungarian parliament – video - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYldncTQzYW9YQ3p2dlB5QXk1Ykpka2NoNmUxMWRXMUtHMHFRNDlvc1RIbE40Vy1DQnY4Qm15MF9sS1ZXLVVYbUdoLVhBMFBJMVl0NkY5UTNjbzd2bVFyNDBxTkJadUt4dDhWOHdxMUV2X05SemRIRmdSUlNYMk5CX25vRmZaZzdNaldmcW8taVdLUFRlel9PbmRBYWNQTnpHSXlQOHdiNFdRbkVVX1QwOHBMT2xhY0FOX1piTXhfY3ZxWFVKd092WmFsRlQ?oc=5",
+    "published_at": "2026-05-14T17:56:00+00:00",
+    "fetched_at": "2026-05-15T06:00:08.655751+00:00",
+    "topics": [
+      "government transition",
+      "society",
+      "human rights",
+      "democracy"
+    ],
+    "actors": [
+      "Roma children",
+      "Hungarian Parliament",
+      "Péter Magyar government"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Roma children performed the Roma hymn at the Hungarian parliament, fulfilling a campaign promise by Péter Magyar's new government and marking a symbolic turning point in minority inclusion. The performance represents a stark departure from Orbán-era policies that marginalized Roma communities and signals the restoration of democratic values centered on pluralism and human rights.",
+    "title_hu": "Roma gyermekek történelmet írtak egy roma himnusz előadásával a magyar parlamentben – videó",
+    "summary_hu": "Roma gyermekek roma himnuszt adtak elő a magyar parlamentben, teljesítve Péter Magyar új kormányának kampánygáját, és szimbolikus fordulópontot jelent a kisebbségi bevonás terén. Az előadás markáns eltérés az Orbán-era politikájától, amely a roma közösségeket marginalizálta, és a kisebbségeket és pluralizmust tisztelő demokratikus értékek visszaállítását jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "910456e30c09e446",
     "source": "The Economist",
     "region": "uk",
