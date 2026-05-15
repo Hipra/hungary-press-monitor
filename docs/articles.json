@@ -1,5 +1,93 @@
 [
   {
+    "id": "59bb079b78589156",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Hungary's new PM symbolically removes fences erected around Orbán's former offices - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2RtYjNjRzZsWEVrR1BXZFlfSDgtM2k2LWRXYjlXX1lVZnVwQWEtRW0yVjZEbGVLV0Y2MTBUSDBuWGxyY0JoUVFCQ21MdERpUTlfM2p2RTRJUFk1UzFIeU1IUmV6MjNwNnRta19GcU8xOC1XZy1MRktWWGY5dUF1XzV5dFQwSGVTaUd1RWEtNmJ4eWxNQmxOaG0wMmZzektQYVd0ckNUS3BNYzZYVnlUR0FCZ3dKdnNrVnllSXdzY0pucUM1VnJfLWJIanNlOTRLN0Zv?oc=5",
+    "published_at": "2026-05-15T17:42:45+00:00",
+    "fetched_at": "2026-05-15T18:00:15.477193+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "corruption"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's new PM Péter Magyar has symbolically removed fences erected around Viktor Orbán's former offices, a public accountability measure signaling the government's commitment to transparency and democratic restoration following Orbán's 15-year rule. The gesture reinforces Magyar's broader effort to dismantle authoritarian symbols and establish new democratic norms.",
+    "title_hu": "A magyar miniszterelnök szimbolikusan eltávolítja az Orbán korábbi irodái körül felépített kerítéseket",
+    "summary_hu": "Péter Magyar magyar miniszterelnök szimbolikusan eltávolította az Orbán korábbi irodái körül felépített kerítéseket, amely a kormány átláthatóságot és demokratikus helyreállítást jelző nyilvános intézkedése. A gesztus Magyar szélesebb körű törekvéseit tükrözi az autoritér szimbólumok felszámolására és az új demokratikus normák megteremtésére Orbán 15 éves uralma után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "cd66b56016aa23ec",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary’s new PM symbolically removes fences erected around Orbán’s former offices - AP News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0swcjFBem5BR0xQN0JacVc2Ync3Q2VVX0ZPRzU0TF9KVWVGWl9oWWlXQ3VsY2dmVDVpRnd2eUVIWWp4bThvSUt4MUhUV3Rvdm5DeGwyeXM4UmJmWUJ2UjdxRjdxX0lIUG9JTGQwRVEzb2NtRzNMUFJOQnN1NllmVTc1S0h5UDcwcktCQVhpZ0xjTGlMN3ZiRXhRMVZkbzRHd0Jv?oc=5",
+    "published_at": "2026-05-15T14:32:00+00:00",
+    "fetched_at": "2026-05-15T18:00:03.177122+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's government symbolically removes barriers around Viktor Orbán's former offices, continuing efforts to restore transparency and democratic accountability after 15 years of Orbán's rule. The gesture reinforces the new administration's decisive break with authoritarian secrecy and consolidation of power.",
+    "title_hu": "Az új magyar miniszterelnök szimbolikusan eltávolítja Orbán volt irodái körüli kerítéseket",
+    "summary_hu": "Péter Magyar kormánya szimbolikusan eltávolítja Viktor Orbán volt irodái körüli kerítéseket, a transzparencia és demokratikus elszámoltatás helyreállítása felé irányuló erőfeszítéseket folytatva. A gesztus az új vezetés határozott szakítását jelzi az Orbán-korszak titkosságával és hatalom-koncentrációjával.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "647d999bfcfe7a6c",
+    "source": "Foreign Policy",
+    "region": "us",
+    "title": "Hungary’s Power Shift Opens Door for EU Sanctions on Israel - Foreign Policy",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVV0VjlLaFlGQUZEX0RNX01maDdZZGVEUHcxOTRubWdzdkxob1NybFl1Z0RBRUdGVGNPTjA5LURyR2RpdUZfT2hGUlF2X01xUHJTbFFSdGZXbzRWNElfdEh1bmk2b29sYXl1M3QzMzZfTy1NaEJPSnNEQ0RVNS0yeWp2ZUZEUG9UWVY5YVVyLWd0UQ?oc=5",
+    "published_at": "2026-05-15T14:29:40+00:00",
+    "fetched_at": "2026-05-15T18:00:17.289360+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "foreign policy",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "European Commission",
+      "Israel"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Hungary's new government under Péter Magyar is reversing Viktor Orbán's historic veto of EU sanctions on Israeli settlers. This marks a significant shift in Hungary's alignment with EU foreign policy and signals its broader reintegration into European institutions following the May 2026 transition.",
+    "title_hu": "Magyarország hatalomváltása ajtót nyit az EU izraeli szankcióira",
+    "summary_hu": "Péter Magyar új kormánya visszavonja Orbán hosszú évekig tartó vétóját az EU izraeli telepesek elleni szankcióira. Ez fordulópontot jelent Magyarország EU-integrációjában és az európai intézmények közé való visszatérésében a 2026. május-i hatalomváltás után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "9329ae6dbdb901de",
     "source": "Reuters",
     "region": "wire",

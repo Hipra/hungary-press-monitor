@@ -1,20 +1,20 @@
 {
-  "total_articles": 461,
-  "analyzed_articles": 461,
+  "total_articles": 464,
+  "analyzed_articles": 464,
   "tone": {
+    "positive": 153,
     "critical": 72,
     "mixed": 45,
     "neutral": 193,
-    "positive": 150,
     "hopeful": 1
   },
   "framing": {
+    "democracy_restoration": 118,
+    "eu_integration": 75,
     "economy": 27,
     "corruption": 23,
     "media_freedom": 10,
-    "democracy_restoration": 116,
     "geopolitics": 111,
-    "eu_integration": 74,
     "human rights": 1,
     "rule_of_law": 51,
     "other": 14,
@@ -28,10 +28,10 @@
     "energy": 3
   },
   "region": {
-    "wire": 86,
+    "us": 43,
+    "wire": 87,
     "eu": 159,
     "uk": 83,
-    "us": 41,
     "cee": 22,
     "de": 53,
     "think": 2,
@@ -46,17 +46,17 @@
     "The Guardian": 31,
     "Financial Times": 25,
     "EUobserver": 24,
-    "AP News": 19,
-    "Washington Post": 18,
+    "AP News": 20,
+    "Washington Post": 19,
     "Le Monde": 15,
     "Balkan Insight": 14,
     "BBC": 13,
     "New York Times": 12,
     "The Times": 10,
     "Visegrad Insight": 6,
+    "Foreign Policy": 5,
     "The Economist": 4,
     "Wall Street Journal": 4,
-    "Foreign Policy": 4,
     "The Parliament Magazine": 3,
     "Notes from Poland": 2,
     "ECFR": 2,
@@ -65,16 +65,16 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 372,
-    "EU relations": 252,
-    "democracy": 196,
-    "geopolitics": 166,
-    "rule of law": 136,
-    "foreign policy": 115,
+    "government transition": 375,
+    "EU relations": 253,
+    "democracy": 198,
+    "geopolitics": 167,
+    "rule of law": 138,
+    "foreign policy": 116,
     "EU funds": 78,
     "economy": 59,
     "elections": 58,
-    "corruption": 45,
+    "corruption": 46,
     "human rights": 35,
     "Russia deals": 32,
     "energy": 30,
@@ -87,9 +87,9 @@
     "regional": 6
   },
   "actors": {
-    "Péter Magyar": 365,
-    "Viktor Orbán": 220,
-    "European Commission": 61,
+    "Péter Magyar": 368,
+    "Viktor Orbán": 223,
+    "European Commission": 62,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 37,
     "Ukraine": 34,
@@ -106,10 +106,10 @@
     "EU officials": 8,
     "Benjamin Netanyahu": 7,
     "EU Court of Justice": 7,
-    "Vladimir Putin": 6
+    "Israel": 6
   },
   "main_actor": {
-    "magyar_peter": 172,
+    "magyar_peter": 175,
     "orban_viktor": 76,
     "hungary_country": 129,
     "eu_institutions": 43,
@@ -164,9 +164,23 @@
     "2026-05-12": 10,
     "2026-05-13": 10,
     "2026-05-14": 10,
-    "2026-05-15": 4
+    "2026-05-15": 7
   },
   "tone_by_source": {
+    "Washington Post": {
+      "positive": 13,
+      "neutral": 5,
+      "critical": 1
+    },
+    "AP News": {
+      "positive": 7,
+      "neutral": 11,
+      "mixed": 2
+    },
+    "Foreign Policy": {
+      "positive": 2,
+      "neutral": 3
+    },
     "Reuters": {
       "critical": 8,
       "neutral": 36,
@@ -195,16 +209,6 @@
       "neutral": 23,
       "critical": 5,
       "mixed": 4
-    },
-    "Washington Post": {
-      "positive": 12,
-      "neutral": 5,
-      "critical": 1
-    },
-    "AP News": {
-      "neutral": 11,
-      "positive": 6,
-      "mixed": 2
     },
     "Visegrad Insight": {
       "neutral": 3,
@@ -285,10 +289,6 @@
       "mixed": 1,
       "neutral": 1
     },
-    "Foreign Policy": {
-      "neutral": 3,
-      "positive": 1
-    },
     "Süddeutsche": {
       "positive": 1
     },
@@ -297,6 +297,20 @@
     }
   },
   "source_bias": {
+    "Washington Post": {
+      "positive": 68,
+      "neutral": 26,
+      "critical": 5
+    },
+    "AP News": {
+      "positive": 35,
+      "neutral": 55,
+      "mixed": 10
+    },
+    "Foreign Policy": {
+      "positive": 40,
+      "neutral": 60
+    },
     "Reuters": {
       "critical": 12,
       "neutral": 54,
@@ -325,16 +339,6 @@
       "neutral": 51,
       "critical": 11,
       "mixed": 9
-    },
-    "Washington Post": {
-      "positive": 67,
-      "neutral": 28,
-      "critical": 6
-    },
-    "AP News": {
-      "neutral": 58,
-      "positive": 32,
-      "mixed": 11
     },
     "Visegrad Insight": {
       "neutral": 50,
@@ -402,12 +406,8 @@
     "The Parliament Magazine": {
       "critical": 67,
       "positive": 33
-    },
-    "Foreign Policy": {
-      "neutral": 75,
-      "positive": 25
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-15T14:15:09.216957+00:00"
+  "last_updated": "2026-05-15T18:14:58.504337+00:00"
 }
