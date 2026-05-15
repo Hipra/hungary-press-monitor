@@ -1,6 +1,6 @@
 ## Political situation
 
-Péter Magyar was sworn in May 10, 2026, ending Orbán's 15-year rule. The Tisza Party holds a two-thirds parliamentary majority; the full cabinet took office May 12. Magyar's inaugural speech included a public apology to Orbán-era victims; Roma children performed their hymn in parliament. Hungary's first blind minister was appointed. The wartime state of emergency was formally ended (Euronews, May 14). The first cabinet crisis — Magyar's brother-in-law withdrew from the justice minister bid amid nepotism criticism — remains a durable counter-narrative. Magyar granted key ministers veto power over legislation. May 15: Magyar symbolically removed fences around Orbán's former offices (WaPo, AP). Coverage has shifted from inauguration celebration to delivery scrutiny. The non-EU worker visa halt (May 15) signals a new internal policy friction, alarming the business community.
+Péter Magyar was sworn in May 10, 2026, ending Orbán's 15-year rule. The Tisza Party holds a two-thirds parliamentary majority; the full cabinet took office May 12. Magyar's inaugural speech included a public apology to Orbán-era victims; Roma children performed their hymn in parliament. Hungary's first blind minister was appointed. The wartime state of emergency was formally ended (Euronews, May 14). The first cabinet crisis — Magyar's brother-in-law withdrew from the justice minister bid amid nepotism criticism — remains a durable counter-narrative. Magyar granted key ministers veto power over legislation. May 15: Magyar symbolically removed fences around Orbán's former offices and opened Orbán's former palaces to guided public tours (WaPo, AP, EUobserver). Coverage has shifted from inauguration celebration to delivery scrutiny. The non-EU worker visa halt (May 15) signals new internal policy friction alarming the business community.
 
 ## Geopolitics
 
@@ -8,34 +8,34 @@ Hungary summoned the Russian ambassador to protest drone strikes on western Ukra
 
 ## Economy
 
-Magyar is preparing a letter to von der Leyen outlining Hungary's red lines in EU funding talks (Euronews, May 13); an EU negotiating team has arrived in Budapest. Reuters characterises the €10.4bn access goal as "ambitious but possible"; Euractiv counters with scepticism on conditionality terms. An Estonian minister reaffirmed non-negotiable EU conditionality. S&P Global assigned a negative credit outlook citing fiscal transition risks but flagged euro-adoption steps as a potential reversal trigger. Euro adoption by 2030 is government policy. German investor morale improved post-election. The banking sector faces structural drag from bad loans, legacy bank taxes, and Swiss franc-denominated household debt. A severe drought threatens agricultural output. The non-EU visa halt (Reuters, May 15) adds a new labor-supply risk dimension, generating business-sector alarm.
+Magyar is preparing a letter to von der Leyen outlining Hungary's red lines in EU funding talks (Euronews, May 13); an EU negotiating team has arrived in Budapest. Reuters characterises the €10.4bn access goal as "ambitious but possible"; Euractiv counters with scepticism on conditionality terms. An Estonian minister reaffirmed non-negotiable EU conditionality. S&P Global assigned a negative credit outlook citing fiscal transition risks but flagged euro-adoption steps as a potential reversal trigger. Euro adoption by 2030 is government policy. German investor morale improved post-election. The banking sector faces structural drag from bad loans, legacy bank taxes, and Swiss franc-denominated household debt. A severe drought threatens agricultural output. The non-EU visa halt (Reuters, May 15) adds a new labor-supply risk dimension generating business-sector alarm. Hundreds of Hungarian roads may be contaminated with asbestos, raising infrastructure liability and public health cost questions (Euronews, May 15).
 
 ## Rule of law & human rights
 
-The Ziobro case — former Polish justice minister who fled Hungary to the US after Magyar signalled Hungary will not shelter people sought by foreign authorities — remains the defining rule-of-law story. Hungary's Constitutional Court voided key provisions of an Orbán tax decree. Police froze assets of an Orbán-era media mogul; a competition watchdog probe was launched into Indamedia's acquisition of Ringier assets. Reuters (May 15) provides detailed wire-service coverage of Orbán's media empire fragmenting under asset freezes and competition investigations. The Guardian critically questions whether state media reform will be genuine. Hungary's justice minister nominee publicly committed to revising anti-LGBTQ legislation. Public demand for Orbán's criminal prosecution is intensifying (EUobserver). The 2026 Rainbow Map (DW, May 12) reflects Hungary as an improving-but-unresolved LGBTQ rights case.
+The Ziobro case — former Polish justice minister who fled Hungary to the US after Magyar signalled Hungary will not shelter people sought by foreign authorities — remains the defining rule-of-law story. Hungary's Constitutional Court voided key provisions of an Orbán tax decree. Police froze assets of an Orbán-era media mogul; a competition watchdog probe was launched into Indamedia's acquisition of Ringier assets. Reuters (May 15) provides detailed coverage of Orbán's media empire fragmenting under asset freezes and competition investigations. The Guardian critically questions whether state media reform will be genuine. Hungary's justice minister nominee publicly committed to revising anti-LGBTQ legislation. Public demand for Orbán's criminal prosecution is intensifying (EUobserver). The 2026 Rainbow Map (DW, May 12) reflects Hungary as an improving-but-unresolved LGBTQ rights case. Judicial appointment reform mechanics remain unreported.
 
 ## Key actors
 
-- **Péter Magyar** — PM; advancing EU funds access, euro adoption, Ukraine rapprochement, Paks review, Israeli settler sanctions, LGBTQ reform, palace and office transparency measures, non-EU visa halt; under nepotism scrutiny and supermajority concentration criticism
+- **Péter Magyar** — PM; advancing EU funds access, euro adoption, Ukraine rapprochement, Paks review, Israeli settler sanctions, LGBTQ reform, palace transparency measures, non-EU visa halt; under nepotism scrutiny and supermajority concentration criticism
 - **Viktor Orbán** — Vacated parliamentary seat; offered Fidesz chief resignation; reportedly seeking EU Parliament seat for immunity; media empire actively fragmenting under asset freezes and competition investigations
 - **Ursula von der Leyen** — Awaiting Magyar's red-lines letter; maintaining EU conditionality on frozen €10.4bn
 - **Volodymyr Zelenskyy** — Received returned $82m; pushing for June bilateral with Budapest on minority rights
 - **Giorgia Meloni** — Cemented as Magyar's primary peer bilateral partner in EU diplomatic reset
-- **Zbigniew Ziobro** — Former Polish justice minister; fled Hungary for US; most-reported rule-of-law story
+- **Zbigniew Ziobro** — Former Polish justice minister; fled Hungary for US; leading rule-of-law story
 - **S&P Global** — Negative credit outlook assigned; euro-adoption path flagged as potential reversal trigger
 - **Cas Mudde** — Guardian analyst: European far right structurally resilient despite Orbán's defeat
 
 ## Emerging narratives
 
-**Systematic dismantling of authoritarian symbols** (WaPo, AP, May 15): Magyar's removal of fences around Orbán's former offices — following palace tours — signals a deliberate, sequenced public accountability campaign targeting physical symbols of the old regime. Coverage is framing this as a distinct communications strategy, not one-off gestures.
+**Systematic dismantling of authoritarian symbols** (WaPo, AP, EUobserver, May 15): Magyar's removal of fences around Orbán's former offices and public palace tours signal a deliberate, sequenced accountability campaign targeting physical and symbolic remnants of the old regime. Coverage frames this as a communications strategy, not isolated gestures.
 
-**Orbán's media empire actively dismantling** (Reuters, May 15): First detailed wire-service coverage of Orbán's consolidated media network fragmenting under asset freezes and competition investigations — moved from background context to active institutional story with named targets.
+**Orbán's media empire actively dismantling** (Reuters, May 15): First detailed wire-service coverage of Orbán's consolidated media network fragmenting under named asset freezes and competition investigations — elevated from background context to an active institutional story.
 
-**Non-EU worker visa halt alarms business community** (Reuters, May 15): First coverage of Magyar's government restricting non-EU labor immigration, generating business-sector pushback and raising questions about workforce capacity during economic transition — creates a new internal policy friction absent from earlier coverage.
+**Non-EU worker visa halt alarms business community** (Reuters, May 15): Magyar's government restricts non-EU labor immigration, generating business-sector pushback and raising workforce capacity questions during economic transition — a new internal policy friction with no precedent in earlier coverage.
+
+**Asbestos-contaminated road infrastructure** (Euronews, May 15): Hundreds of Hungarian roads potentially contaminated with asbestos — a first-time public health and infrastructure liability story with no prior coverage.
 
 **Hungary as European democratic case study** (Visegrad Insight, May 13): Coverage framing shifts from "can Magyar win?" to "what can Europe learn?" — Hungary's transition positioned as a replicable model for democratic resilience continent-wide.
-
-**Orbán's patronage machine: internal fracture narrative** (Visegrad Insight, May 14): Analysis reframes Orbán's fall as structural self-destruction from within, not solely electoral defeat.
 
 ## Coverage gaps
 
@@ -46,6 +46,6 @@ The Ziobro case — former Polish justice minister who fled Hungary to the US af
 - **Euro-adoption mechanics** — Target announced; no fiscal convergence analysis or domestic political resistance covered
 - **Migration pact specifics** — Early Euractiv clash flagged (May 8); no follow-up on specific demands or timeline
 - **Paks nuclear review specifics** — Ministerial nominee statement noted; no timeline or Russian contract implications covered
-- **Drought-economy linkage** — Severe dry spell reported in isolation; fiscal transition connection absent
+- **Drought-economy linkage** — Severe dry spell and asbestos road story both reported in isolation; fiscal transition connection absent
+- **Non-EU visa halt details** — Business alarm noted but no coverage of policy scope, sectoral breakdown, or timeline
 - **Balkan regional fallout** — Balkan Insight flagged consequences for Hungarian-aligned parties in Serbia; no substantive follow-up
-- **Non-EU visa halt details** — Business alarm noted (May 15) but no coverage of policy scope, timeline, or sectoral breakdown

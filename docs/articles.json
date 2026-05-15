@@ -1,5 +1,28 @@
 [
   {
+    "id": "ba5b974b46dbab11",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Hundreds of Hungarian roads may be contaminated with asbestos - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkVid3RrcTFVYS0xdERRNENBbHhXUV95VzRKZDRoOWktdC1PTndwTXl2c2tSYWJFMHRvMFNwa01SN0NYSlllVWNKZjRSS252OTlDeENrT3Vkc0tmeWxiandhMUZUYVp6UnhtTUR5RnBGQkhaRVlkR3QxejdGcFpFa2VIbTIzTkZSWnRoWmNuZ2FQR0tFUGU0QV9UWmhsZ3lKWWl0WVRxZEI4OFE?oc=5",
+    "published_at": "2026-05-15T18:28:51+00:00",
+    "fetched_at": "2026-05-15T22:00:33.255874+00:00",
+    "topics": [
+      "other"
+    ],
+    "actors": [],
+    "tone": "critical",
+    "framing": "other",
+    "summary_en": "Hundreds of Hungarian roads are contaminated with asbestos, raising public health concerns and questions about infrastructure oversight.",
+    "title_hu": "Több száz magyar út lehet aszbeszt-szennyezettséggel terhelve - Euronews.com",
+    "summary_hu": "Több száz magyar út aszbeszt-szennyezettséggel terhelve van, ami közegészségügyi aggályokat és infrastruktúra-felügyeleti kérdéseket vet fel.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "59bb079b78589156",
     "source": "Washington Post",
     "region": "us",

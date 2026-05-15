@@ -1,14 +1,15 @@
 {
-  "total_articles": 464,
-  "analyzed_articles": 464,
+  "total_articles": 465,
+  "analyzed_articles": 465,
   "tone": {
+    "critical": 73,
     "positive": 153,
-    "critical": 72,
     "mixed": 45,
     "neutral": 193,
     "hopeful": 1
   },
   "framing": {
+    "other": 15,
     "democracy_restoration": 118,
     "eu_integration": 75,
     "economy": 27,
@@ -17,7 +18,6 @@
     "geopolitics": 111,
     "human rights": 1,
     "rule_of_law": 51,
-    "other": 14,
     "EU_integration": 6,
     "russia_china": 7,
     "government transition": 3,
@@ -28,9 +28,9 @@
     "energy": 3
   },
   "region": {
+    "eu": 160,
     "us": 43,
     "wire": 87,
-    "eu": 159,
     "uk": 83,
     "cee": 22,
     "de": 53,
@@ -40,8 +40,8 @@
   "source": {
     "Reuters": 67,
     "DW English": 52,
+    "Euronews": 46,
     "Politico Europe": 46,
-    "Euronews": 45,
     "Euractiv": 41,
     "The Guardian": 31,
     "Financial Times": 25,
@@ -109,9 +109,9 @@
     "Israel": 6
   },
   "main_actor": {
+    "hungary_country": 130,
     "magyar_peter": 175,
     "orban_viktor": 76,
-    "hungary_country": 129,
     "eu_institutions": 43,
     "other": 33,
     "fidesz": 6,
@@ -164,9 +164,15 @@
     "2026-05-12": 10,
     "2026-05-13": 10,
     "2026-05-14": 10,
-    "2026-05-15": 7
+    "2026-05-15": 8
   },
   "tone_by_source": {
+    "Euronews": {
+      "critical": 6,
+      "positive": 13,
+      "neutral": 23,
+      "mixed": 4
+    },
     "Washington Post": {
       "positive": 13,
       "neutral": 5,
@@ -203,12 +209,6 @@
       "mixed": 2,
       "neutral": 1,
       "critical": 1
-    },
-    "Euronews": {
-      "positive": 13,
-      "neutral": 23,
-      "critical": 5,
-      "mixed": 4
     },
     "Visegrad Insight": {
       "neutral": 3,
@@ -297,6 +297,12 @@
     }
   },
   "source_bias": {
+    "Euronews": {
+      "critical": 13,
+      "positive": 28,
+      "neutral": 50,
+      "mixed": 9
+    },
     "Washington Post": {
       "positive": 68,
       "neutral": 26,
@@ -333,12 +339,6 @@
       "mixed": 50,
       "neutral": 25,
       "critical": 25
-    },
-    "Euronews": {
-      "positive": 29,
-      "neutral": 51,
-      "critical": 11,
-      "mixed": 9
     },
     "Visegrad Insight": {
       "neutral": 50,
@@ -409,5 +409,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-15T18:14:58.504337+00:00"
+  "last_updated": "2026-05-15T22:14:31.520748+00:00"
 }
