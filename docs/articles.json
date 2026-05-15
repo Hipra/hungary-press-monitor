@@ -1,5 +1,94 @@
 [
   {
+    "id": "3f8f3c9d5c3a8181",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Magyar gives guided tour of Orbán’s palaces and work begins dismantling Hungary’s previous regime (33 days post-election) - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZmlDMEV0Nm9hckwwaEM4LXMybkVKR3phLV9SUTVYWFkyc2xUa0F2TjVSbTFWLWllRGRoMmYzb08zRjI0TXZUQlNkMThrQjQ4YmJzeklyMVFZZk9yTEM5VVFWV3NWSDQwbVZqcG5MYTUyODEzc2pETjQ2aEtFaHlLdzhvV3MwTzh2eWl3eEFYSEVxZFBUWVp3ckFUblAzbkctSzFaeUo4TEhORTJjc1BtMjREdTQ5d3dlakJjM0N1ZnFXUUItR28xLTlldUdITHBJMmxLcUJVSko3b2czUlB3NUt3?oc=5",
+    "published_at": "2026-05-15T09:33:18+00:00",
+    "fetched_at": "2026-05-15T10:00:32.059021+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "corruption",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "corruption",
+    "summary_en": "Péter Magyar has begun guided tours of Orbán's former palaces, symbolizing the new government's commitment to dismantling the previous regime and exposing its wealth and excesses. This public accountability measure represents a tangible step toward democratic restoration and transparency, occurring 33 days after the Tisza Party's election victory.",
+    "title_hu": "Magyar Péter bemutatja Orbán palotáit, és megkezdődik az előző rendszer felszámolása",
+    "summary_hu": "Péter Magyar körbesétálja az Orbán-korszak palotáit, szimbolizálva az új kormány elkötelezettsége az előző rendszer felszámolása és annak vagyona feltárása irányában. Ez a nyilvános felelősségvállalási intézkedés a demokratikus helyreállítás és átláthatóság irányában tett konkrét lépés, amely a Tisza Párt választási győzelme után 33 nappal történt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "6c2c55adb5d3c67b",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Orban's media empire crumbles after Hungary election defeat - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2YydG1MMnNZMzViLVZVU2FFQTNmVmlnbXdBR1FrZk1VcXhNcDg2RGxyc2dpMW8wcUdJVVNwYjFudkRXME5zX1cwMDl2d3BXRUNuUEtvUzhYbndhS1RaYTdmclVyZE1sTmNhZWpHaEt6SVQtaldocFVTYUpmaHhLbHl5cXdsYi1DQnozRzR2ZnpIdVlOWFZkenNWOFJCMUpITHVCTTRsQUNTM0ZSMDZGMlNKV01LM2pF?oc=5",
+    "published_at": "2026-05-15T08:39:51+00:00",
+    "fetched_at": "2026-05-15T10:00:03.472143+00:00",
+    "topics": [
+      "media freedom",
+      "corruption",
+      "government transition"
+    ],
+    "actors": [
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "media_freedom",
+    "summary_en": "Orbán's consolidated media empire is fragmenting following his electoral defeat in April 2026 and the ascension of the Magyar government. The new authorities are pursuing asset freezes and competition investigations targeting Orbán-era media moguls and monopolistic acquisitions. This dismantling of state media control represents a defining institutional challenge for Hungary's democratic transition.",
+    "title_hu": "Orbán médiaimpériuma összeomlott Magyarország választási veresége után",
+    "summary_hu": "Orbán konszolidált médiaimpériuma szétesik a választási vereség után és a Magyar kormány hatalomra lépésével. Az új hatóságok vagyonbefagyasztásokat és versenyfelügyeleti vizsgálatokat indítottak az Orbán-korszak médiamóguljainak és monopolisztikus akvizícióinak ellen. A közszolgálati médiaellenőrzés felszámolása a magyar demokratikus átalakulás kritikus intézményi kihívása.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "orban_viktor",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "92b9f785bded6c82",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Serbia to submit final proposal on NIS to Hungary's MOL, energy minister says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczJlSk15czVyeUhkWE45UFRGeU1EVkpZbHVwUGhOZWYxbUl5SERhc2JBWmdCTm5yMmZGZnpOcE9kR1cwTzVtSEhyVG5DVnRBNW5tTFBDZVg2T2lZQ3JWclZEY3VYYUFKOEREZ001RFFDakRPOV83WXZIQ0F2cHRqMEJMbDZaeUdsMVgxczZVVEtaT3Fmd0tYOVk3a0QtM3FzRW5MUjd1WHZFX01BX05MOTNISUZvbWZPT2c?oc=5",
+    "published_at": "2026-05-15T08:24:16+00:00",
+    "fetched_at": "2026-05-15T10:00:03.472169+00:00",
+    "topics": [
+      "energy",
+      "economy",
+      "regional"
+    ],
+    "actors": [
+      "MOL",
+      "NIS",
+      "Serbia",
+      "Hungary",
+      "Serbian energy minister"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Serbia's energy minister announced the submission of a final proposal for NIS (Serbian national oil company) assets or operations to Hungary's MOL. The bilateral energy deal represents regional integration and potential consolidation aligned with Magyar's post-Orbán pivot toward EU energy partnerships and reduced Russian energy dependence.",
+    "title_hu": "Szerbia végső javaslatot nyújt be az NIS-ről Magyarország MOL-ához, mondja az energiaminister",
+    "summary_hu": "Szerbia energiaminisztere bejelentette a Szerb Nemzeti Olajvállalat (NIS) végső javaslatának benyújtását Magyarország MOL-ához. A kétoldalú energetikai üzlet a regionális integráció és Magyarország orbáni utáni, az uniós energiapartnerség felé fordulásával összhangban álló konszolidációt képvisel.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Serbia"
+    ],
+    "quotes": []
+  },
+  {
     "id": "39518d2555042d20",
     "source": "The Guardian",
     "region": "uk",
