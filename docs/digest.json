@@ -1,43 +1,61 @@
 {
-  "top_story_en": "Hungary's new government summoned the Russian ambassador to protest drone strikes on western Ukraine near its border — covered simultaneously by AP, Reuters, Washington Post, and The Guardian — marking the most concrete, datable diplomatic act of Magyar's foreign policy realignment so far.",
-  "top_story_hu": "Magyarország új kormánya beidézte az orosz nagykövetet a határhoz közeli ukrajnai dróncsapások miatt — az AP, a Reuters, a Washington Post és a Guardian egyidejű tudósítása szerint — ez Magyar Péter külpolitikai fordulójának eddig legkézzelfoghatóbb diplomáciai lépése.",
+  "top_story_en": "Hungary formally ended Orbán's wartime state of emergency and summoned the Russian ambassador to protest drone strikes near its border — twin signals in a single day that the Magyar government is dismantling emergency-era governance while pivoting firmly away from Moscow.",
+  "top_story_hu": "Magyarország formálisan megszüntette Orbán háborús rendkívüli állapotát, és beidézte az orosz nagykövetet az ukrán határ közelében végrehajtott dróncsapások miatt — mindkét lépés ugyanazon a napon jelezte, hogy a Magyar-kormány szakít a vészhelyzeti kormányzással és Moszkvával egyaránt.",
   "key_developments_en": [
-    "Hungary summoned Russia's ambassador to protest drone strikes on western Ukraine, with the foreign minister declaring Hungary is 'Moscow's Trojan horse no more' (AP, Reuters, Washington Post, Guardian).",
-    "Magyar is drafting a formal letter to Commission President von der Leyen outlining Hungary's red lines in €10.4bn EU funding negotiations (Euronews).",
-    "An EU negotiating team has arrived in Budapest to advance conditionality talks on the frozen funding package (Euronews).",
-    "Visegrad Insight published a structural autopsy of how Orbán's informal patronage network fractured from within, framing the collapse as systemic rather than electoral.",
-    "DW explicitly labels the transition a 'regime change,' the strongest editorial framing yet applied by a major Western broadcaster."
+    "PM Magyar announced the termination of Hungary's Orbán-era wartime state of emergency, restoring normal constitutional governance.",
+    "Hungary summoned Russia's ambassador to protest drone strikes on western Ukraine near its border, a direct reversal of Orbán's pro-Kremlin posture.",
+    "DW framed the transition as a full 'regime change,' with Magyar's government publicly documenting Orbán-era corruption and decadence.",
+    "Visegrad Insight published a structural analysis arguing Orbán's patronage network had already begun fracturing internally before the electoral defeat.",
+    "The Guardian examined the coalition budget's fiscal targeting, marking the first sustained international analysis of domestic political economy winners and losers."
   ],
   "key_developments_hu": [
-    "Magyarország beidézte Oroszország nagykövetét a nyugat-ukrajnai dróncsapások miatt; a külügyminiszter kijelentette, hogy Magyarország többé nem Moszkva trójai falova (AP, Reuters, Washington Post, Guardian).",
-    "Magyar Péter formális levelet készül küldeni von der Leyennek, amelyben rögzíti Magyarország alkupozícióit a befagyasztott 10,4 milliárd eurós uniós tárgyalásokon (Euronews).",
-    "Uniós tárgyalócsapat érkezett Budapestre a feltételességi vita rendezésére (Euronews).",
-    "A Visegrad Insight szerkezeti elemzést közölt arról, hogyan roppant össze Orbán informális klientúrahálózata belülről.",
-    "A DW nyíltan 'rendszerváltásként' nevezi meg az átmenetet — ez a legerőteljesebb szerkesztői minősítés, amit eddig nyugati fősodrású média alkalmazott."
+    "Magyar miniszterelnök bejelentette az Orbán-korszakból örökölt háborús rendkívüli állapot megszüntetését, helyreállítva az alkotmányos rendet.",
+    "Magyarország beidézte az orosz nagykövetet a nyugat-ukrajnai, határhoz közeli dróncsapások miatt — közvetlen szakítás Orbán Kreml-barát irányvonalával.",
+    "A DW teljes 'rendszerváltásként' értelmezte az átmenetet; a Magyar-kormány nyilvánosan dokumentálja az Orbán-korszak korrupcióját.",
+    "A Visegrad Insight strukturális elemzése szerint Orbán patronázsrendszere már belülről repedezni kezdett a választási vereség előtt.",
+    "A Guardian a koalíció költségvetési intézkedéseit elemezte — ez az első mélyebb nemzetközi vizsgálat a belpolitikai gazdasági nyertesekről és vesztesekről."
   ],
   "narrative_shifts_en": [
-    "The ambassador summons transforms Hungarian geopolitical realignment from rhetorical positioning into documented state action — coverage shifts from 'signals' to 'acts.'",
-    "DW's 'regime change' label marks a tonal escalation: Western broadcasters now deploy the language of systemic rupture, not merely government change.",
-    "Visegrad Insight pivots from 'can Magyar win?' to 'what can Europe learn?' — Hungary's transition is being reframed as a continental democratic case study, not a local story."
+    "Western liberal press has explicitly moved from inauguratory praise to delivery scrutiny: the Guardian editorial frames Magyar's 'fast start' as promising but implicitly benchmarks future performance.",
+    "The Visegrad Insight analysis introduces a counter-narrative to the Magyar-as-hero frame — Orbán's fall had endogenous structural causes, not only electoral ones.",
+    "The summoning of the Russian ambassador elevated geopolitical realignment from diplomatic signal to concrete diplomatic action, sharpening the 'Moscow's Trojan horse no more' narrative."
   ],
   "narrative_shifts_hu": [
-    "A nagykövet-beidézés a geopolitikai átrendeződést retorikai szintről konkrét állami cselekvéssé emeli — a tudósítások 'jelzésekről' 'tettekre' váltanak.",
-    "A DW 'rendszerváltás' minősítése tónusváltást jelez: a nyugati műsorszórók most a rendszerszintű szakítás nyelvét alkalmazzák, nem csupán kormányváltásét.",
-    "A Visegrad Insight keretezése 'tud-e Magyar nyerni?' kérdésről 'mit tanulhat Európa?' kérdésre vált — Magyarország átmenete kontinentális demokratikus esetpéldaként jelenik meg."
+    "A nyugati liberális sajtó egyértelműen áttért az ünnepi hangvételről a teljesítményszámonkéréses megközelítésre: a Guardian szerkesztőségi cikke ígéretesnek értékeli Magyar gyors rajtját, de implicit mércét állít a jövőre nézve.",
+    "A Visegrad Insight elemzése alternatív narratívát kínál a Magyar-mint-hős kerettel szemben: Orbán bukásának belső, strukturális okai is voltak, nem csupán választási tényezők.",
+    "Az orosz nagykövet beidézése a geopolitikai átrendeződést diplomáciai jelzésből konkrét diplomáciai cselekménnyé emelte."
   ],
-  "quotes_en": [],
-  "quotes_hu": [],
+  "quotes_en": [
+    {
+      "quote": "Regime change: Hungary's Magyar exposes Orban's decadence.",
+      "speaker": "DW headline characterisation"
+    },
+    {
+      "quote": "Peter Magyar's fast start bodes well for Hungary and for Europe.",
+      "speaker": "The Guardian editorial board"
+    }
+  ],
+  "quotes_hu": [
+    {
+      "quote": "Rendszerváltás: Magyar Péter leplezi Orbán dekadenciáját.",
+      "speaker": "A DW megfogalmazása"
+    },
+    {
+      "quote": "Magyar Péter gyors rajtja jó előjel Magyarország és Európa számára.",
+      "speaker": "A Guardian szerkesztősége"
+    }
+  ],
   "what_to_watch_en": [
-    "Content and timing of Magyar's red lines letter to von der Leyen — will define whether EU funding talks move toward a framework deal or stall on conditionality.",
-    "Russian diplomatic response to the ambassador summons — any retaliatory signal would sharpen the foreign policy realignment narrative further.",
-    "Whether the Guardian's 'Can Magyar deliver?' framing consolidates into a sustained accountability cycle, or is displaced by continued inauguration-phase coverage."
+    "Whether the summoning of the Russian ambassador produces a formal Russian response or triggers further diplomatic escalation.",
+    "The Guardian's budget analysis opens a new scrutiny lane — watch for follow-up coverage on fiscal losers pushing back against coalition policy.",
+    "Visegrad Insight's internal-fracture thesis will gain or lose traction depending on whether Fidesz succession reporting emerges; the party restructuring gap remains uncovered."
   ],
   "what_to_watch_hu": [
-    "Magyar von der Leyennek írt levelének tartalma és időzítése — ez dönti el, hogy az uniós tárgyalások keretmegállapodás felé mozdulnak-e, vagy elakadnak a feltételességi vitában.",
-    "Oroszország diplomáciai reakciója a nagykövet-beidézésre — bármilyen megtorló jelzés tovább élesítené a külpolitikai fordulat narratíváját.",
-    "Meggyökeresedik-e a Guardian 'tud-e Magyar teljesíteni?' keretezése tartós számonkérési ciklussá, vagy a beiktatási fázis pozitív hírei háttérbe szorítják."
+    "Az orosz nagykövet beidézése kivált-e formális orosz választ vagy további diplomáciai eszkalációt.",
+    "A Guardian költségvetési elemzése új számonkérési irányt nyit — érdemes figyelni, megjelenik-e a koalíciós politika kárvallottjainak visszajelzése a sajtóban.",
+    "A Visegrad Insight belső törésvonalakra vonatkozó tézise megerősítést vagy cáfolatot kap, ha megjelennek a Fidesz-utódlásról szóló hírek — ez a téma egyelőre lefedetlen maradt."
   ],
-  "date": "2026-05-14",
-  "article_count": 13,
-  "generated_at": "2026-05-14T14:15:26.223873+00:00"
+  "date": "2026-05-15",
+  "article_count": 8,
+  "generated_at": "2026-05-15T02:07:30.850049+00:00"
 }
