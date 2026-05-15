@@ -1,5 +1,32 @@
 [
   {
+    "id": "9329ae6dbdb901de",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's visa halt plan for non-EU workers alarms businesses - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmpVWHBQS0VJOTZwb01sZ2VwM1BEMkFnWHJ4aGE2NzJtWDkyM2hqOElfYkQ1NVJLb2tPZjY1SGhLTnE1VS03bGQ0eXFnZDVEdnN5TDUyMk1jdjRLYmlWWlpwY0pDVlBQRzRGUl9BYXZBZ1JIaUZ2TkxuWjhyYTA5LWhPY09LcFhWWnZCd2Z5eTJSR3otbjVITWdXOVQyVVk?oc=5",
+    "published_at": "2026-05-15T10:52:02+00:00",
+    "fetched_at": "2026-05-15T14:00:02.435699+00:00",
+    "topics": [
+      "migration",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungarian businesses"
+    ],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "Hungary's new government has announced plans to halt visas for non-EU workers, triggering concern from the business community over potential labor shortages and economic disruption. The policy marks a significant shift in Magyar's labor approach and raises questions about Hungary's workforce capacity during its economic transition.",
+    "title_hu": "Magyarország visa-tilalmi terve a nem EU-s munkavállalók számára felkavaróan hat a vállalkozásokra",
+    "summary_hu": "Magyarország új kormánya bejelentette a nem EU-s munkavállalók visa-tilalmát, amely aggodalmat kelt a vállalkozások körében a munkaerőhiány és gazdasági felbolydulás miatt. A politika jelentős eltolódást jelent Magyar munkaerő-megközelítésében, és kérdéseket vet fel Magyarország munkaerő-kapacitásáról a gazdasági átmenet során.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "3f8f3c9d5c3a8181",
     "source": "EUobserver",
     "region": "eu",

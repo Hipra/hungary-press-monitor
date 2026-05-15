@@ -1,17 +1,17 @@
 {
-  "total_articles": 460,
-  "analyzed_articles": 460,
+  "total_articles": 461,
+  "analyzed_articles": 461,
   "tone": {
+    "critical": 72,
     "mixed": 45,
-    "critical": 71,
     "neutral": 193,
     "positive": 150,
     "hopeful": 1
   },
   "framing": {
+    "economy": 27,
     "corruption": 23,
     "media_freedom": 10,
-    "economy": 26,
     "democracy_restoration": 116,
     "geopolitics": 111,
     "eu_integration": 74,
@@ -28,8 +28,8 @@
     "energy": 3
   },
   "region": {
+    "wire": 86,
     "eu": 159,
-    "wire": 85,
     "uk": 83,
     "us": 41,
     "cee": 22,
@@ -38,7 +38,7 @@
     "fr": 15
   },
   "source": {
-    "Reuters": 66,
+    "Reuters": 67,
     "DW English": 52,
     "Politico Europe": 46,
     "Euronews": 45,
@@ -72,7 +72,7 @@
     "rule of law": 136,
     "foreign policy": 115,
     "EU funds": 78,
-    "economy": 58,
+    "economy": 59,
     "elections": 58,
     "corruption": 45,
     "human rights": 35,
@@ -87,7 +87,7 @@
     "regional": 6
   },
   "actors": {
-    "Péter Magyar": 364,
+    "Péter Magyar": 365,
     "Viktor Orbán": 220,
     "European Commission": 61,
     "Volodymyr Zelenskiy": 39,
@@ -109,7 +109,7 @@
     "Vladimir Putin": 6
   },
   "main_actor": {
-    "magyar_peter": 171,
+    "magyar_peter": 172,
     "orban_viktor": 76,
     "hungary_country": 129,
     "eu_institutions": 43,
@@ -164,20 +164,20 @@
     "2026-05-12": 10,
     "2026-05-13": 10,
     "2026-05-14": 10,
-    "2026-05-15": 3
+    "2026-05-15": 4
   },
   "tone_by_source": {
+    "Reuters": {
+      "critical": 8,
+      "neutral": 36,
+      "positive": 21,
+      "mixed": 2
+    },
     "EUobserver": {
       "mixed": 2,
       "neutral": 7,
       "positive": 4,
       "critical": 11
-    },
-    "Reuters": {
-      "critical": 7,
-      "neutral": 36,
-      "positive": 21,
-      "mixed": 2
     },
     "The Guardian": {
       "positive": 17,
@@ -297,17 +297,17 @@
     }
   },
   "source_bias": {
+    "Reuters": {
+      "critical": 12,
+      "neutral": 54,
+      "positive": 31,
+      "mixed": 3
+    },
     "EUobserver": {
       "mixed": 8,
       "neutral": 29,
       "positive": 17,
       "critical": 46
-    },
-    "Reuters": {
-      "critical": 11,
-      "neutral": 55,
-      "positive": 32,
-      "mixed": 3
     },
     "The Guardian": {
       "positive": 55,
@@ -409,5 +409,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-15T10:15:18.172091+00:00"
+  "last_updated": "2026-05-15T14:15:09.216957+00:00"
 }
