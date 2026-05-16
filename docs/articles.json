@@ -1,5 +1,37 @@
 [
   {
+    "id": "b2cf024831df58a9",
+    "source": "DW English",
+    "region": "de",
+    "title": "Could Slovakia replace Hungary as EU's main disruptor? - dw.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzIybElrTDkybGhPUkg0R09pTlc4ZDgtUVozRjhmUDM5WVh2ZEt1c01KQ1c1dG91dkstbnhBLVJIQTAyenBsQngtY0lqRXltOEh3bGZjaTdJR3c3QWJ0b1JPa3pEU0U5TUhULU9lZ0xCd1VWbXJZb191MjJndWlVVml0dHpKUG1WZWhrc0Y5aHUyVHM?oc=5",
+    "published_at": "2026-05-16T10:31:55+00:00",
+    "fetched_at": "2026-05-16T14:00:38.071515+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "V4 diplomacy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Slovakia",
+      "EU institutions"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "As Péter Magyar's government moves to reintegrate Hungary into EU mainstream, DW analysis questions whether Slovakia will now assume Hungary's former role as the bloc's principal disruptor under Robert Fico. This reflects Hungary's dramatic political transition from Orbán's EU-skeptical governance to Magyar's proactive EU alignment, raising questions about Central European regional dynamics and the future of nationalist disruption within the European Union.",
+    "title_hu": "Válthatja-e Szlovákia Magyarországot az EU fő zavargójaként?",
+    "summary_hu": "Mivel Magyar Péter kormánya Magyarország uniós főáramra való visszaintegrációjára törekszik, a DW-elemzés azt kérdezi meg, hogy Szlovákia átveszi-e Magyarország korábbi szerepét az unió fő zavargójaként Robert Fico vezetésével. Ez Magyarország drámai politikai átalakulását tükrözi Orbán uniószkeptikus kormányzásából Magyar proaktív uniós igazodása felé, és felvet kérdéseket a közép-európai regionális dinamikáról és a nacionalista zavargás jövőjéről az Európai Unióban.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Slovakia"
+    ],
+    "quotes": []
+  },
+  {
     "id": "ba5b974b46dbab11",
     "source": "Euronews",
     "region": "eu",
@@ -252,6 +284,30 @@
     "comparison_countries": [
       "Serbia"
     ],
+    "quotes": []
+  },
+  {
+    "id": "63494b796fd5c909",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Lack of maize to slow Hungary's bioethanol expansion - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3R3aXFMLTJBWGRWc1F4b2hLdFpiaTFzWHpSdnVYNHByWmhjMVJpXzhSS0hjOGNQNF9SWjhYWTdHQ2FqWjUtMFhRTDcyc3ZsamR5bGoyc3lGY05QSVF1dFlPN0VYdWhWVUpZWjAzQ3VDeWVLcU5vTDU1WVFMalg1OG1fS29Sb3pVUVdXdDlWbjFXMjBGOWcxSU1tZTRVTVhoLVdyWGtETQ?oc=5",
+    "published_at": "2026-05-15T03:11:10+00:00",
+    "fetched_at": "2026-05-16T14:00:01.089140+00:00",
+    "topics": [
+      "economy",
+      "energy"
+    ],
+    "actors": [],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "Hungary's bioethanol expansion faces constraints due to maize shortage, likely linked to the severe drought affecting agricultural output. This energy sector bottleneck adds economic pressure on the Magyar government as it navigates fiscal transition and EU fund negotiations.",
+    "title_hu": "A kukorica hiánya lassítja Magyarország bioetanol-bővítésének ütemét",
+    "summary_hu": "Magyarország bioetanol-bővítésének terveire a kukoricaellátás hiánya árnyékot vet, amely valószínűleg az agrártermelést érintő aszályhoz köthető. Ez az energiaszektort érintő gazdasági korlát további nyomást helyez a Magyar kormányra a szélesebb fiskális átmenet és az EU-s finanszírozási tárgyalások során.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
     "quotes": []
   },
   {
