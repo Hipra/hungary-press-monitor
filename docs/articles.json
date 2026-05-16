@@ -2286,6 +2286,33 @@
     "quotes": []
   },
   {
+    "id": "25676dd4b0fe78b6",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's banks want government to share burden of fx loan plan -paper - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOXR0NDZfSHZQVzB0TkxBcF93SFIwdmJrazNLaV9FZk9na1hIZGk0djlxWXhjN1NWeFBKdUpwdjJ4YjF0N2YtRW9oazJoUVJaQ1ZrU1pHMFRlZVpMdGFoX3ZTbVhjNFI1djk0X21aMU9GQkRta0FPeTVSYkZLZmZmTFpNODEyd3E3QV9iMTVMR2x3b0hBNXEwZVcwbVdVVTNsTjRQel91czhSRFpUU09nNF9ZYjNUdEZlMzRxSVZQazY?oc=5",
+    "published_at": "2026-05-10T03:08:37+00:00",
+    "fetched_at": "2026-05-16T22:00:03.984279+00:00",
+    "topics": [
+      "economy",
+      "government transition"
+    ],
+    "actors": [
+      "Hungarian banks",
+      "Government of Hungary"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Hungary's banking sector is requesting the government share the financial burden of its foreign exchange loan exposure. The appeal highlights fiscal pressures facing the newly-elected Magyar administration during its economic transition.",
+    "title_hu": "Magyarország bankjai azt szeretnék, hogy a kormány ossza meg az FX-hitel terheit",
+    "summary_hu": "A magyar bankszektor azt kéri a kormánytól, hogy megosztsa a devizahitelek terheit. A kérés az újonnan megválasztott kormányzat fiskális nyomására utal a gazdasági átmenet időszakában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "5bb79c0ea674081b",
     "source": "BBC",
     "region": "uk",

@@ -29,7 +29,7 @@ The Ziobro case — former Polish justice minister who fled Hungary to the US af
 
 **Slovakia as Hungary's EU disruptor successor** (DW, May 16): First explicit framing of a regional role transfer — with Hungary reintegrating into EU mainstream, Fico's Slovakia is positioned to inherit the bloc's primary obstruction role, reframing Central European dynamics.
 
-**Non-EU worker visa halt alarms business community** (Reuters, May 15): Magyar's government restricts non-EU labor immigration, generating business-sector pushback and raising workforce capacity questions — internal policy friction with no precedent in earlier coverage.
+**Non-EU worker visa halt alarms business community** (Reuters, May 15): Magyar's government restricts non-EU labor immigration, generating business-sector pushback and raising workforce capacity questions — internal policy friction absent from earlier coverage.
 
 **Orbán's media empire actively dismantling** (Reuters, May 15): First detailed wire-service coverage of Orbán's consolidated media network fragmenting under named asset freezes and competition investigations — elevated from background to active institutional story.
 

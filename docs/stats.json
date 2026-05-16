@@ -1,8 +1,8 @@
 {
-  "total_articles": 469,
-  "analyzed_articles": 469,
+  "total_articles": 470,
+  "analyzed_articles": 470,
   "tone": {
-    "neutral": 195,
+    "neutral": 196,
     "critical": 74,
     "positive": 154,
     "mixed": 45,
@@ -13,7 +13,7 @@
     "other": 15,
     "democracy_restoration": 119,
     "geopolitics": 112,
-    "economy": 28,
+    "economy": 29,
     "corruption": 23,
     "media_freedom": 10,
     "human rights": 1,
@@ -31,14 +31,14 @@
     "de": 54,
     "eu": 160,
     "us": 43,
-    "wire": 89,
+    "wire": 90,
     "fr": 16,
     "uk": 83,
     "cee": 22,
     "think": 2
   },
   "source": {
-    "Reuters": 68,
+    "Reuters": 69,
     "DW English": 53,
     "Euronews": 46,
     "Politico Europe": 46,
@@ -65,14 +65,14 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 377,
+    "government transition": 378,
     "EU relations": 255,
     "democracy": 199,
     "geopolitics": 169,
     "rule of law": 138,
     "foreign policy": 117,
     "EU funds": 78,
-    "economy": 60,
+    "economy": 61,
     "elections": 58,
     "corruption": 46,
     "human rights": 35,
@@ -109,7 +109,7 @@
     "Israel": 6
   },
   "main_actor": {
-    "hungary_country": 132,
+    "hungary_country": 133,
     "magyar_peter": 176,
     "eu_institutions": 44,
     "orban_viktor": 76,
@@ -158,7 +158,7 @@
     "2026-05-07": 20,
     "2026-05-08": 22,
     "2026-05-09": 25,
-    "2026-05-10": 14,
+    "2026-05-10": 15,
     "2026-05-11": 22,
     "2026-05-12": 10,
     "2026-05-13": 10,
@@ -201,7 +201,7 @@
     },
     "Reuters": {
       "critical": 9,
-      "neutral": 36,
+      "neutral": 37,
       "positive": 21,
       "mixed": 2
     },
@@ -331,8 +331,8 @@
     },
     "Reuters": {
       "critical": 13,
-      "neutral": 53,
-      "positive": 31,
+      "neutral": 54,
+      "positive": 30,
       "mixed": 3
     },
     "EUobserver": {
@@ -409,5 +409,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-16T18:06:10.924192+00:00"
+  "last_updated": "2026-05-16T22:06:26.186260+00:00"
 }
