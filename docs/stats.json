@@ -1,21 +1,21 @@
 {
-  "total_articles": 465,
-  "analyzed_articles": 465,
+  "total_articles": 466,
+  "analyzed_articles": 466,
   "tone": {
     "critical": 73,
     "positive": 153,
+    "neutral": 194,
     "mixed": 45,
-    "neutral": 193,
     "hopeful": 1
   },
   "framing": {
     "other": 15,
     "democracy_restoration": 118,
     "eu_integration": 75,
+    "geopolitics": 112,
     "economy": 27,
     "corruption": 23,
     "media_freedom": 10,
-    "geopolitics": 111,
     "human rights": 1,
     "rule_of_law": 51,
     "EU_integration": 6,
@@ -31,11 +31,11 @@
     "eu": 160,
     "us": 43,
     "wire": 87,
+    "fr": 16,
     "uk": 83,
     "cee": 22,
     "de": 53,
-    "think": 2,
-    "fr": 15
+    "think": 2
   },
   "source": {
     "Reuters": 67,
@@ -48,7 +48,7 @@
     "EUobserver": 24,
     "AP News": 20,
     "Washington Post": 19,
-    "Le Monde": 15,
+    "Le Monde": 16,
     "Balkan Insight": 14,
     "BBC": 13,
     "New York Times": 12,
@@ -66,11 +66,11 @@
   },
   "topics": {
     "government transition": 375,
-    "EU relations": 253,
+    "EU relations": 254,
     "democracy": 198,
-    "geopolitics": 167,
+    "geopolitics": 168,
     "rule of law": 138,
-    "foreign policy": 116,
+    "foreign policy": 117,
     "EU funds": 78,
     "economy": 59,
     "elections": 58,
@@ -92,7 +92,7 @@
     "European Commission": 62,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 37,
-    "Ukraine": 34,
+    "Ukraine": 35,
     "Ursula von der Leyen": 34,
     "Hungary": 23,
     "Volodymyr Zelenskyy": 23,
@@ -102,7 +102,7 @@
     "Donald Tusk": 16,
     "EU institutions": 13,
     "Rumen Radev": 10,
-    "EU member states": 8,
+    "EU member states": 9,
     "EU officials": 8,
     "Benjamin Netanyahu": 7,
     "EU Court of Justice": 7,
@@ -111,8 +111,8 @@
   "main_actor": {
     "hungary_country": 130,
     "magyar_peter": 175,
+    "eu_institutions": 44,
     "orban_viktor": 76,
-    "eu_institutions": 43,
     "other": 33,
     "fidesz": 6,
     "EU_institutions": 2
@@ -164,7 +164,7 @@
     "2026-05-12": 10,
     "2026-05-13": 10,
     "2026-05-14": 10,
-    "2026-05-15": 8
+    "2026-05-15": 9
   },
   "tone_by_source": {
     "Euronews": {
@@ -186,6 +186,11 @@
     "Foreign Policy": {
       "positive": 2,
       "neutral": 3
+    },
+    "Le Monde": {
+      "neutral": 4,
+      "positive": 10,
+      "critical": 2
     },
     "Reuters": {
       "critical": 8,
@@ -253,11 +258,6 @@
       "positive": 1,
       "neutral": 1
     },
-    "Le Monde": {
-      "positive": 10,
-      "critical": 2,
-      "neutral": 3
-    },
     "New York Times": {
       "neutral": 5,
       "critical": 2,
@@ -317,6 +317,11 @@
       "positive": 40,
       "neutral": 60
     },
+    "Le Monde": {
+      "neutral": 25,
+      "positive": 62,
+      "critical": 12
+    },
     "Reuters": {
       "critical": 12,
       "neutral": 54,
@@ -375,11 +380,6 @@
       "neutral": 46,
       "critical": 8
     },
-    "Le Monde": {
-      "positive": 67,
-      "critical": 13,
-      "neutral": 20
-    },
     "New York Times": {
       "neutral": 42,
       "critical": 17,
@@ -409,5 +409,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-16T02:14:00.565525+00:00"
+  "last_updated": "2026-05-16T06:11:33.883539+00:00"
 }

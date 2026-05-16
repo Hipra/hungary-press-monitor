@@ -111,6 +111,34 @@
     "quotes": []
   },
   {
+    "id": "71702f85ec4dbf40",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "Thirty-six countries approve creation of special tribunal for Ukraine to try Russian invasion - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZXhSRVpsdTBYWGwzeGxjTXRCa2VLREZLcEZhUTdCbGxMSWdLVXl1ckM0eU1JTTVRRnJwdWpTTV9HNEdNZU5QdjJrcGs5bjVUaVlLV19MN0hacm5QR29RRERaaE1ISUNhUVc1Q21zOWluWEhDNWFnc1JtMGhYOFNLcldJa1hHaDJqSlcxSUVHc1p3S0taUUZaTkVpM0pLczBvZDI1RUdSZEhiNDNNTER3X1k4ZXVYeGJRczRLa3ExdG9lOHdWcW9xRFdhbDFCaGgtMUZSaWhMV193eEhJWUdiandn?oc=5",
+    "published_at": "2026-05-15T13:20:07+00:00",
+    "fetched_at": "2026-05-16T06:00:39.607955+00:00",
+    "topics": [
+      "foreign policy",
+      "EU relations",
+      "geopolitics"
+    ],
+    "actors": [
+      "EU member states",
+      "Ukraine"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Thirty-six countries approved creation of a special tribunal to prosecute crimes from Russia's invasion of Ukraine. Hungary's participation in this EU-coordinated accountability mechanism reflects its alignment with Western foreign policy on Ukraine under the new government.",
+    "title_hu": "Harminchat ország jóváhagyja az ukrajnai különleges bíróság felállítását az orosz invázió bűneiért",
+    "summary_hu": "Harminchat ország jóváhagyotta egy különleges bíróság felállítását az orosz invázió során elkövetett bűncselekmények tárgyalására. Magyarország részvétele ebben az EU által koordinált felelősségre vonási mechanizmusban az új kormányzat alatt az ukrajnai kérdésben a nyugati külpolitikával való igazodást tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "9329ae6dbdb901de",
     "source": "Reuters",
     "region": "wire",
