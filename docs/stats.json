@@ -1,17 +1,17 @@
 {
-  "total_articles": 468,
-  "analyzed_articles": 468,
+  "total_articles": 469,
+  "analyzed_articles": 469,
   "tone": {
     "neutral": 195,
     "critical": 74,
-    "positive": 153,
+    "positive": 154,
     "mixed": 45,
     "hopeful": 1
   },
   "framing": {
     "eu_integration": 76,
     "other": 15,
-    "democracy_restoration": 118,
+    "democracy_restoration": 119,
     "geopolitics": 112,
     "economy": 28,
     "corruption": 23,
@@ -31,7 +31,7 @@
     "de": 54,
     "eu": 160,
     "us": 43,
-    "wire": 88,
+    "wire": 89,
     "fr": 16,
     "uk": 83,
     "cee": 22,
@@ -46,7 +46,7 @@
     "The Guardian": 31,
     "Financial Times": 25,
     "EUobserver": 24,
-    "AP News": 20,
+    "AP News": 21,
     "Washington Post": 19,
     "Le Monde": 16,
     "Balkan Insight": 14,
@@ -65,9 +65,9 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 376,
+    "government transition": 377,
     "EU relations": 255,
-    "democracy": 198,
+    "democracy": 199,
     "geopolitics": 169,
     "rule of law": 138,
     "foreign policy": 117,
@@ -87,7 +87,7 @@
     "regional": 6
   },
   "actors": {
-    "Péter Magyar": 369,
+    "Péter Magyar": 370,
     "Viktor Orbán": 223,
     "European Commission": 62,
     "Volodymyr Zelenskiy": 39,
@@ -110,7 +110,7 @@
   },
   "main_actor": {
     "hungary_country": 132,
-    "magyar_peter": 175,
+    "magyar_peter": 176,
     "eu_institutions": 44,
     "orban_viktor": 76,
     "other": 33,
@@ -157,7 +157,7 @@
     "2026-05-06": 21,
     "2026-05-07": 20,
     "2026-05-08": 22,
-    "2026-05-09": 24,
+    "2026-05-09": 25,
     "2026-05-10": 14,
     "2026-05-11": 22,
     "2026-05-12": 10,
@@ -186,7 +186,7 @@
       "critical": 1
     },
     "AP News": {
-      "positive": 7,
+      "positive": 8,
       "neutral": 11,
       "mixed": 2
     },
@@ -316,8 +316,8 @@
       "critical": 5
     },
     "AP News": {
-      "positive": 35,
-      "neutral": 55,
+      "positive": 38,
+      "neutral": 52,
       "mixed": 10
     },
     "Foreign Policy": {
@@ -409,5 +409,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-16T14:10:40.554462+00:00"
+  "last_updated": "2026-05-16T18:06:10.924192+00:00"
 }

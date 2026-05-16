@@ -2315,6 +2315,34 @@
     "quotes": []
   },
   {
+    "id": "1b6182765d22f27e",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Magyar hails ‘wonderful day’ in address to crowd after inauguration as Hungary PM - AP News",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaWgzVzBweEJuU2ZRUkI5OFRMTHRBMEZYeEszcnZiUk91MG1QVmszQjJlT1dwQlo5WUdaWUNKZ0JDaV9BbmswWVZJSmhQNFcwbHM4ZkxVLXZhOHJsM0NDNVNLUFBFQnRnaWdyZFdMLS0yWU9BVld4U1ZkMTBkQm9CeHhYcXVKWnp4TUVyRTBfeEY2MURuRXNxdEdKeEVObTJsSVZGYmhYSnZDT0pXdlNickpEZEVTRHRkbURQVWZvTDBlUV9vaTgtOGJBZ0hlTDZLSzY4?oc=5",
+    "published_at": "2026-05-09T19:40:00+00:00",
+    "fetched_at": "2026-05-16T18:00:05.960403+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar celebrated his inauguration as Hungary's new Prime Minister, marking the end of Viktor Orbán's 15-year rule. In his address to crowds, Magyar hailed the transition as a 'wonderful day,' signaling optimism for Hungary's democratic renewal and EU reintegration. The inauguration represents the culmination of the Tisza Party's two-thirds electoral victory in April 2026.",
+    "title_hu": "Magyar egy 'csodálatos napot' ünnepel a magyar miniszterelnöki beiktatása után - AP News",
+    "summary_hu": "Péter Magyar ünnepelte a magyar miniszterelnöki beiktatást, amely Viktor Orbán 15 éves uralmának végét jelenti. Beszédében Magyar 'csodálatos napnak' nevezte a történelmi átmenetet, ami a demokratikus megújulásra és az EU-ba való visszaintegrálódásra utal. A beiktatás a Tisza Párt 2026 áprilisában elért kétharmados választási győzelmének csúcspontja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "wonderful day"
+    ]
+  },
+  {
     "id": "656ea0aa2f3d2c77",
     "source": "Reuters",
     "region": "wire",
