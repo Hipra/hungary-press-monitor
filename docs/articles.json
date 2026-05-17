@@ -517,6 +517,35 @@
     "quotes": []
   },
   {
+    "id": "83d6bbe71d3c463e",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "LGBTQI+ conversion therapy is 'torture', EU commissioner slams - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkJaQXNBQV93WFZ0Vm84SVdjMjh0NmIwQUFYZmNWN09nNW9nd0d4VEd0ajdqRU4yUEM2R3ZHajZqampKZ1BpbklqVnN6ak05NmRhaVJhTkZYaFZFX194c0I2NnJGZFd3Z3c4ZEU5MGZLV21OWHowRXpIaWV0WXhiazNqWWNvc2ZiM2daTWhiR29nU3JuRHhnX2xkcXhOaHJDT0w4Rm5ENDZoYXM4Y1Z5bFFLdTk2V0JEZUVfX0xwV2NKbVhDanc?oc=5",
+    "published_at": "2026-05-14T07:09:04+00:00",
+    "fetched_at": "2026-05-17T02:00:33.853076+00:00",
+    "topics": [
+      "human rights",
+      "rule of law",
+      "democracy",
+      "society"
+    ],
+    "actors": [
+      "EU Commissioner",
+      "Hungarian government"
+    ],
+    "tone": "positive",
+    "framing": "human_rights",
+    "summary_en": "An EU commissioner condemns LGBTQI+ conversion therapy as torture, reinforcing the international human rights framework that underpins the new Hungarian government's stated commitment to revising anti-LGBTQ legislation. The statement aligns with and amplifies the justice minister nominee's public commitment to LGBTQ rights reform announced as part of Hungary's democratic transition.",
+    "title_hu": "Az LGBTQI+ konverziós terápia 'kínzás', az EU biztos elítél",
+    "summary_hu": "Egy EU biztos elítéli az LGBTQI+ konverziós terápiát kínzásként, amely az új magyar kormánynak az LGBTQ-ellenes jogszabályok felülvizsgálatára vonatkozó nyilatkozott kötelezettségét támogató nemzetközi emberi jogi keretet erősíti. A nyilatkozat összhangban van az igazságügyi miniszter-jelölt által a magyar demokratikus átmenet részeként meghirdetett LGBTQ-jogok reform iránti nyilvánosított elköteleződésével.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "699322fb01d43bdf",
     "source": "The Guardian",
     "region": "uk",

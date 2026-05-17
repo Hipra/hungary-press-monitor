@@ -1,10 +1,10 @@
 {
-  "total_articles": 470,
-  "analyzed_articles": 470,
+  "total_articles": 471,
+  "analyzed_articles": 471,
   "tone": {
     "neutral": 196,
     "critical": 74,
-    "positive": 154,
+    "positive": 155,
     "mixed": 45,
     "hopeful": 1
   },
@@ -16,6 +16,7 @@
     "economy": 29,
     "corruption": 23,
     "media_freedom": 10,
+    "human_rights": 1,
     "human rights": 1,
     "rule_of_law": 51,
     "EU_integration": 6,
@@ -29,7 +30,7 @@
   },
   "region": {
     "de": 54,
-    "eu": 160,
+    "eu": 161,
     "us": 43,
     "wire": 90,
     "fr": 16,
@@ -40,7 +41,7 @@
   "source": {
     "Reuters": 69,
     "DW English": 53,
-    "Euronews": 46,
+    "Euronews": 47,
     "Politico Europe": 46,
     "Euractiv": 41,
     "The Guardian": 31,
@@ -67,19 +68,19 @@
   "topics": {
     "government transition": 378,
     "EU relations": 255,
-    "democracy": 199,
+    "democracy": 200,
     "geopolitics": 169,
-    "rule of law": 138,
+    "rule of law": 139,
     "foreign policy": 117,
     "EU funds": 78,
     "economy": 61,
     "elections": 58,
     "corruption": 46,
-    "human rights": 35,
+    "human rights": 36,
     "Russia deals": 32,
     "energy": 31,
     "Fidesz opposition": 29,
-    "society": 22,
+    "society": 23,
     "judicial reform": 19,
     "V4 diplomacy": 13,
     "media freedom": 12,
@@ -98,7 +99,7 @@
     "Volodymyr Zelenskyy": 23,
     "European Union": 22,
     "Russia": 18,
-    "Hungarian government": 16,
+    "Hungarian government": 17,
     "Donald Tusk": 16,
     "EU institutions": 14,
     "Rumen Radev": 10,
@@ -111,7 +112,7 @@
   "main_actor": {
     "hungary_country": 133,
     "magyar_peter": 176,
-    "eu_institutions": 44,
+    "eu_institutions": 45,
     "orban_viktor": 76,
     "other": 33,
     "fidesz": 6,
@@ -162,7 +163,7 @@
     "2026-05-11": 22,
     "2026-05-12": 10,
     "2026-05-13": 10,
-    "2026-05-14": 10,
+    "2026-05-14": 11,
     "2026-05-15": 10,
     "2026-05-16": 1
   },
@@ -176,7 +177,7 @@
     },
     "Euronews": {
       "critical": 6,
-      "positive": 13,
+      "positive": 14,
       "neutral": 23,
       "mixed": 4
     },
@@ -306,8 +307,8 @@
     },
     "Euronews": {
       "critical": 13,
-      "positive": 28,
-      "neutral": 50,
+      "positive": 30,
+      "neutral": 49,
       "mixed": 9
     },
     "Washington Post": {
@@ -409,5 +410,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-16T22:06:26.186260+00:00"
+  "last_updated": "2026-05-17T02:03:53.693972+00:00"
 }
