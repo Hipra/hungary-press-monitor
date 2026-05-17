@@ -1,5 +1,37 @@
 [
   {
+    "id": "7a183a097e6a0f3b",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "‘The real work begins now’: Roma take centre stage as Hungary brings in new government - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVZ0TDBDMTlMNy1lSDlkb2RPX3lsOHBNNzdXbjY2blJ1WVk0dXVqY3ZaLS1ZX3FPSWRwOUkzUW83SGpRaGJjNUU2VjM0QWlJQzN2dHhsaHhRVE1ieFZxalFlTWlkeGs4U0IxT2txOFczQ2ktQWlQZWVSTnQ4OTJscTZIYkthbGVrZjBrbXM0Q2loamNpcDU5dQ?oc=5",
+    "published_at": "2026-05-17T13:10:00+00:00",
+    "fetched_at": "2026-05-17T14:00:09.860440+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "human rights",
+      "society"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Roma representatives",
+      "The Guardian"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "The Guardian highlights Roma representation in Péter Magyar's new government, positioning their prominent role as emblematic of democratic restoration and inclusive governance following Viktor Orbán's 15-year rule. The article frames Roma participation as a symbolic shift toward pluralism and minority rights protection under the new administration.",
+    "title_hu": "'Az igazi munka most kezdődik': A romák a középpontban Magyarország új kormányában",
+    "summary_hu": "A Guardian a Péter Magyar új kormányában a romák képviseletét hangsúlyozza, szerepüket a demokrácia helyreállítása és inkluzív kormányzás szimbólumaként pozicionálja Viktor Orbán 15 éves uralma után. A cikk a romák részvételét a pluralizmus és a kisebbségek jogainak védelme irányában való szimbolikus elmozdulásként ábrázolja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "The real work begins now"
+    ]
+  },
+  {
     "id": "b2cf024831df58a9",
     "source": "DW English",
     "region": "de",

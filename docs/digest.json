@@ -1,39 +1,47 @@
 {
-  "top_story_en": "With only one article published in the last 24 hours, today's coverage consolidates around a single analytical question: as Magyar's Hungary accelerates EU reintegration, will Slovakia under Fico inherit the role of Brussels' principal disruptor?",
-  "top_story_hu": "Az elmúlt 24 órában mindössze egyetlen cikk jelent meg: a DW elemzése azt feszegeti, hogy miközben Magyar Péter Magyarországa az uniós főáramba tér vissza, Fico Szlovákiája veszi-e át Brüsszel legfőbb megzavarójaként Orbán örökségét.",
+  "top_story_en": "The Guardian frames Roma representation in Magyar's new government not as symbolic gesture but as a structural signal of pluralist governance — marking a shift from inauguration coverage to substantive democratic restoration scrutiny.",
+  "top_story_hu": "A Guardian a Roma közösség részvételét Magyar kormányában nem puszta szimbolikus gesztusként, hanem a pluralista kormányzás strukturális jelzéseként értékeli — ezzel az újságírás a beiktatási ünneplésről a valódi demokratikus helyreállítás vizsgálatára tér át.",
   "key_developments_en": [
-    "DW analysis frames Hungary's EU reintegration under Magyar as a regional power shift, positioning Slovakia as the new epicentre of nationalist disruption within the bloc.",
-    "No new concrete government decisions, ministerial statements, or diplomatic events were reported in Hungarian coverage today.",
-    "All active story threads from prior days — visa halt, Orbán media asset freezes, Ziobro, drought, asbestos — remain unresolved but generated no new reporting today.",
-    "Coverage volume is at a 7-day low, suggesting a brief news lull following the dense post-inauguration cycle."
+    "The Guardian's May 17 piece positions Roma inclusion in Magyar's cabinet as emblematic of a governing philosophy centred on minority rights and democratic pluralism.",
+    "Coverage has fully transitioned from inaugural celebration to delivery scrutiny, with the Roma story serving as the first substantive test case for Magyar's pluralism pledge.",
+    "No new geopolitical, economic, or rule-of-law developments were reported in the past 24 hours beyond the continuing Roma governance narrative."
   ],
   "key_developments_hu": [
-    "A DW elemzése Magyarország uniós visszatérését regionális hatalmi átrendeződésként értékeli, és Szlovákiát jelöli meg az új nacionalista störfaktor-szerep várományosaként.",
-    "Az elmúlt 24 órában nem jelent meg új kormányzati döntés, miniszteri nyilatkozat vagy diplomáciai esemény a magyarországi tudósításokban.",
-    "A korábbi napok aktív szálai — vízumstop, Orbán médiavagyonának befagyasztása, Ziobro-ügy, aszály, aszfalt-azbesztbotrány — megoldatlanok maradtak, de új fejlemény nem érkezett.",
-    "A cikkek száma hétnapos mélypontra esett, ami az inauguraciós ciklus utáni rövid hírcsendet jelez."
+    "A Guardian május 17-i cikke a Roma közösség kormányzati részvételét a kisebbségi jogokra és demokratikus pluralizmusra épülő kormányzati filozófia szimbólumaként értékeli.",
+    "A sajtófigyelem teljes mértékben átváltott a beiktatási ünnepségek közvetítéséről a teljesítmény számonkérésére — a Roma-történet az első érdemi próbakő Magyar pluralizmus-ígéretének.",
+    "Az elmúlt 24 órában nem érkezett új geopolitikai, gazdasági vagy jogállamisági fejlemény a folyamatban lévő Roma kormányzati narratíván túl."
   ],
   "narrative_shifts_en": [
-    "Coverage has moved from event-driven inauguration reporting to structural analysis — today's sole piece asks systemic questions about Central European politics rather than reporting new facts.",
-    "The Hungary-as-disruptor frame has effectively closed; international media is now reassigning that role to Fico's Slovakia, marking a symbolic endpoint to the Orbán-era narrative."
+    "Coverage tone has moved from celebratory (inauguration, symbolic gestures) to analytical: The Guardian treats Roma inclusion as a governing-philosophy test, not a photo-opportunity.",
+    "International scrutiny is now focused on whether structural pluralism will be institutionalised, rather than simply documented as a break from Orbán-era exclusion."
   ],
   "narrative_shifts_hu": [
-    "A tudósítás az eseményvezérelt inaugurációs híradásról strukturális elemzés felé tolódott — a mai egyetlen cikk rendszerszintű kérdéseket tesz fel új tények közlése helyett.",
-    "A 'Magyarország mint uniós bomlasztó' narratívakeret lezárult; a nemzetközi sajtó e szerepet már Fico Szlovákiájára ruházza át, jelképesen lezárva az Orbán-korszak meghatározó narratíváját."
+    "A tudósítások hangvétele az ünnepi (beiktatás, szimbolikus gesztusok) keretből elemző keretbe váltott: a Guardian a Roma-részvételt kormányzati filozófia próbájaként kezeli, nem fotóalkalomként.",
+    "A nemzetközi figyelem arra összpontosul, hogy a strukturális pluralizmus intézményesül-e, nem csupán az Orbán-korszak kizárási politikájától való elszakadás dokumentálására."
   ],
-  "quotes_en": [],
-  "quotes_hu": [],
+  "quotes_en": [
+    {
+      "quote": "The real work begins now",
+      "speaker": "Attributed to Roma community voices in The Guardian's reporting"
+    }
+  ],
+  "quotes_hu": [
+    {
+      "quote": "A valódi munka most kezdődik",
+      "speaker": "Roma közösségi hangok, a Guardian tudósítása alapján"
+    }
+  ],
   "what_to_watch_en": [
-    "Magyar's letter to von der Leyen outlining Hungary's red lines on the frozen €10.4bn — expected imminently and will set the tone for the EU funds negotiation.",
-    "Slovakia's response to the DW framing: whether Fico actively courts or deflects the 'new disruptor' label will signal Central European dynamics for months.",
-    "Any judicial or prosecutorial move against Orbán — public pressure is documented but no legal mechanism has been reported."
+    "Whether Magyar's letter to von der Leyen outlining EU funding red lines is submitted this week — its content will define the next phase of economic coverage.",
+    "Orbán prosecution pathway: public pressure is intensifying but no legal timeline has emerged internationally; first substantive reporting expected imminently.",
+    "Slovakia's Fico as EU disruptor successor — watch for whether Central European press consolidates this framing or treats it as a one-off DW observation."
   ],
   "what_to_watch_hu": [
-    "Magyar levele Ursula von der Leyennek a befagyasztott 10,4 milliárd eurós uniós forrásokról — a vártnál hamarabb érkezhet, és meghatározza a tárgyalások hangnemét.",
-    "Fico reakciója a DW által felállított keretre: ha Szlovákia tudatosan vállalja vagy elutasítja az 'új bomlasztó' szerepet, az hónapokra meghatározza a közép-európai dinamikát.",
-    "Bármilyen jogi vagy ügyészségi lépés Orbán ellen — a közfelháborodás dokumentált, de a jogi mechanizmusról még egyetlen tudósítás sem született."
+    "Magyar von der Leyennek szóló levele az uniós finanszírozási vörös vonalakról várhatóan e héten érkezik — tartalma meghatározza a gazdasági tudósítások következő szakaszát.",
+    "Orbán büntetőjogi felelősségre vonásának útja: a társadalmi nyomás erősödik, de nemzetközileg még nem körvonalazódott jogi határidő; az első érdemi tudósítás hamarosan várható.",
+    "Fico Szlovákiája mint az EU új rendbontója — érdemes figyelni, hogy a közép-európai sajtó tartós keretté teszi-e ezt az értékelést, vagy egyszeri DW-megfigyelésként kezeli."
   ],
   "date": "2026-05-17",
   "article_count": 1,
-  "generated_at": "2026-05-17T10:05:13.633552+00:00"
+  "generated_at": "2026-05-17T14:05:23.046348+00:00"
 }

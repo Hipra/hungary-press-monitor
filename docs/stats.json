@@ -1,17 +1,17 @@
 {
-  "total_articles": 471,
-  "analyzed_articles": 471,
+  "total_articles": 472,
+  "analyzed_articles": 472,
   "tone": {
+    "positive": 156,
     "neutral": 196,
     "critical": 74,
-    "positive": 155,
     "mixed": 45,
     "hopeful": 1
   },
   "framing": {
+    "democracy_restoration": 120,
     "eu_integration": 76,
     "other": 15,
-    "democracy_restoration": 119,
     "geopolitics": 112,
     "economy": 29,
     "corruption": 23,
@@ -29,12 +29,12 @@
     "energy": 3
   },
   "region": {
+    "uk": 84,
     "de": 54,
     "eu": 161,
     "us": 43,
     "wire": 90,
     "fr": 16,
-    "uk": 83,
     "cee": 22,
     "think": 2
   },
@@ -44,7 +44,7 @@
     "Euronews": 47,
     "Politico Europe": 46,
     "Euractiv": 41,
-    "The Guardian": 31,
+    "The Guardian": 32,
     "Financial Times": 25,
     "EUobserver": 24,
     "AP News": 21,
@@ -66,9 +66,9 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 378,
+    "government transition": 379,
     "EU relations": 255,
-    "democracy": 200,
+    "democracy": 201,
     "geopolitics": 169,
     "rule of law": 139,
     "foreign policy": 117,
@@ -76,11 +76,11 @@
     "economy": 61,
     "elections": 58,
     "corruption": 46,
-    "human rights": 36,
+    "human rights": 37,
     "Russia deals": 32,
     "energy": 31,
     "Fidesz opposition": 29,
-    "society": 23,
+    "society": 24,
     "judicial reform": 19,
     "V4 diplomacy": 13,
     "media freedom": 12,
@@ -88,7 +88,7 @@
     "regional": 6
   },
   "actors": {
-    "Péter Magyar": 370,
+    "Péter Magyar": 371,
     "Viktor Orbán": 223,
     "European Commission": 62,
     "Volodymyr Zelenskiy": 39,
@@ -110,8 +110,8 @@
     "Israel": 6
   },
   "main_actor": {
+    "magyar_peter": 177,
     "hungary_country": 133,
-    "magyar_peter": 176,
     "eu_institutions": 45,
     "orban_viktor": 76,
     "other": 33,
@@ -136,7 +136,6 @@
     "USA": 1
   },
   "daily": {
-    "2026-04-16": 4,
     "2026-04-17": 8,
     "2026-04-18": 20,
     "2026-04-19": 8,
@@ -165,9 +164,16 @@
     "2026-05-13": 10,
     "2026-05-14": 11,
     "2026-05-15": 10,
-    "2026-05-16": 1
+    "2026-05-16": 1,
+    "2026-05-17": 1
   },
   "tone_by_source": {
+    "The Guardian": {
+      "positive": 18,
+      "critical": 5,
+      "mixed": 2,
+      "neutral": 7
+    },
     "DW English": {
       "neutral": 24,
       "positive": 20,
@@ -211,12 +217,6 @@
       "neutral": 7,
       "positive": 4,
       "critical": 11
-    },
-    "The Guardian": {
-      "positive": 17,
-      "critical": 5,
-      "mixed": 2,
-      "neutral": 7
     },
     "The Economist": {
       "mixed": 2,
@@ -298,6 +298,12 @@
     }
   },
   "source_bias": {
+    "The Guardian": {
+      "positive": 56,
+      "critical": 16,
+      "mixed": 6,
+      "neutral": 22
+    },
     "DW English": {
       "neutral": 45,
       "positive": 38,
@@ -341,12 +347,6 @@
       "neutral": 29,
       "positive": 17,
       "critical": 46
-    },
-    "The Guardian": {
-      "positive": 55,
-      "critical": 16,
-      "mixed": 6,
-      "neutral": 23
     },
     "The Economist": {
       "mixed": 50,
@@ -410,5 +410,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-17T10:05:13.882258+00:00"
+  "last_updated": "2026-05-17T14:05:23.268688+00:00"
 }
