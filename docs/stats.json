@@ -1,18 +1,18 @@
 {
-  "total_articles": 472,
-  "analyzed_articles": 472,
+  "total_articles": 473,
+  "analyzed_articles": 473,
   "tone": {
+    "critical": 75,
     "positive": 156,
     "neutral": 196,
-    "critical": 74,
     "mixed": 45,
     "hopeful": 1
   },
   "framing": {
+    "geopolitics": 113,
     "democracy_restoration": 120,
     "eu_integration": 76,
     "other": 15,
-    "geopolitics": 112,
     "economy": 29,
     "corruption": 23,
     "media_freedom": 10,
@@ -29,7 +29,7 @@
     "energy": 3
   },
   "region": {
-    "uk": 84,
+    "uk": 85,
     "de": 54,
     "eu": 161,
     "us": 43,
@@ -53,7 +53,7 @@
     "Balkan Insight": 14,
     "BBC": 13,
     "New York Times": 12,
-    "The Times": 10,
+    "The Times": 11,
     "Visegrad Insight": 6,
     "Foreign Policy": 5,
     "The Economist": 4,
@@ -69,14 +69,14 @@
     "government transition": 379,
     "EU relations": 255,
     "democracy": 201,
-    "geopolitics": 169,
+    "geopolitics": 170,
     "rule of law": 139,
-    "foreign policy": 117,
+    "foreign policy": 118,
     "EU funds": 78,
     "economy": 61,
     "elections": 58,
     "corruption": 46,
-    "human rights": 37,
+    "human rights": 38,
     "Russia deals": 32,
     "energy": 31,
     "Fidesz opposition": 29,
@@ -88,8 +88,8 @@
     "regional": 6
   },
   "actors": {
-    "Péter Magyar": 371,
-    "Viktor Orbán": 223,
+    "Péter Magyar": 372,
+    "Viktor Orbán": 224,
     "European Commission": 62,
     "Volodymyr Zelenskiy": 39,
     "Tisza Party": 37,
@@ -110,8 +110,8 @@
     "Israel": 6
   },
   "main_actor": {
+    "hungary_country": 134,
     "magyar_peter": 177,
-    "hungary_country": 133,
     "eu_institutions": 45,
     "orban_viktor": 76,
     "other": 33,
@@ -119,9 +119,9 @@
     "EU_institutions": 2
   },
   "comparison_countries": {
-    "Ukraine": 29,
+    "Ukraine": 30,
     "Poland": 28,
-    "Russia": 20,
+    "Russia": 21,
     "Slovakia": 19,
     "Bulgaria": 9,
     "United States": 7,
@@ -165,9 +165,15 @@
     "2026-05-14": 11,
     "2026-05-15": 10,
     "2026-05-16": 1,
-    "2026-05-17": 1
+    "2026-05-17": 2
   },
   "tone_by_source": {
+    "The Times": {
+      "critical": 2,
+      "positive": 5,
+      "mixed": 1,
+      "neutral": 3
+    },
     "The Guardian": {
       "positive": 18,
       "critical": 5,
@@ -240,12 +246,6 @@
       "neutral": 16,
       "mixed": 6
     },
-    "The Times": {
-      "positive": 5,
-      "mixed": 1,
-      "critical": 1,
-      "neutral": 3
-    },
     "Notes from Poland": {
       "neutral": 1,
       "critical": 1
@@ -298,6 +298,12 @@
     }
   },
   "source_bias": {
+    "The Times": {
+      "critical": 18,
+      "positive": 45,
+      "mixed": 9,
+      "neutral": 27
+    },
     "The Guardian": {
       "positive": 56,
       "critical": 16,
@@ -370,12 +376,6 @@
       "neutral": 39,
       "mixed": 15
     },
-    "The Times": {
-      "positive": 50,
-      "mixed": 10,
-      "critical": 10,
-      "neutral": 30
-    },
     "BBC": {
       "positive": 46,
       "neutral": 46,
@@ -410,5 +410,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-17T14:05:23.268688+00:00"
+  "last_updated": "2026-05-17T18:12:19.020162+00:00"
 }

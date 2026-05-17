@@ -1,5 +1,37 @@
 [
   {
+    "id": "0a68fd25cc2b75ce",
+    "source": "The Times",
+    "region": "uk",
+    "title": "Why Hungarians in Ukraine no longer feel safe from Putin’s wrath - The Times",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMS15dHRseThreXdyTk1ySXVRQWJnNTVKc0pmNmNGZkdmd2xtdHRNV3FWQzB2eE5wY1owMVRfd0l1elFHMEVDbzFKdFY0dTBuMHZSeXBfUjZ4c0Y5SXZ4RmFFTHY4UjNLRU1pYlh1RGxWVnBOR05aclI1Z2RydmNrM3BoTDRTbW91bjVR?oc=5",
+    "published_at": "2026-05-17T15:20:14+00:00",
+    "fetched_at": "2026-05-17T18:00:13.380293+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "human rights"
+    ],
+    "actors": [
+      "Putin",
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "The article examines security threats facing Hungarian minorities in Ukraine as Russian drone strikes intensify near Hungary's border. Under Péter Magyar's EU-reoriented foreign policy, Hungary has shifted from its former pro-Russia alignment, creating new vulnerabilities for Hungarian communities in Ukraine exposed to Russian military operations.",
+    "title_hu": "Miért nem érzik már biztonságban magukat az Ukrajnában élő magyarok Putyin haragja előtt",
+    "summary_hu": "A cikk az Ukrajnában élő magyar kisebbségek biztonságát vizsgálja, mivel az orosz dróncsapások erősödnek Magyarország határához közel. Péter Magyar EU-orientált külpolitikája alatt Magyarország eltávolodott addigi oroszpárti politikájától, amely az ukrajnai magyar közösségeket fokozottan fenyegeti.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Ukraine",
+      "Russia"
+    ],
+    "quotes": []
+  },
+  {
     "id": "7a183a097e6a0f3b",
     "source": "The Guardian",
     "region": "uk",
