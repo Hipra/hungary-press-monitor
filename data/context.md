@@ -1,6 +1,6 @@
 ## Political situation
 
-Péter Magyar was sworn in May 10, 2026, ending Orbán's 15-year rule. The Tisza Party holds a two-thirds parliamentary majority; the full cabinet took office May 12. Magyar's inaugural speech included a public apology to Orbán-era victims; Hungary's first blind minister was appointed. The wartime state of emergency was formally ended (Euronews, May 14). The first cabinet crisis — Magyar's brother-in-law withdrew from the justice minister bid amid nepotism criticism — remains an active counter-narrative. Magyar granted key ministers veto power over legislation. On May 15, Magyar symbolically removed fences around Orbán's former offices and opened Orbán's palaces to guided public tours. Roma children performed the Roma hymn in parliament. Coverage has shifted from inauguration celebration to delivery scrutiny; supermajority concentration risks draw sustained critical attention (The Times, Visegrad Insight). The Guardian (May 17) frames Roma inclusion as structural pluralism signal, not mere gesture.
+Péter Magyar was sworn in May 10, 2026, ending Orbán's 15-year rule. The Tisza Party holds a two-thirds parliamentary majority; the full cabinet took office May 12. Magyar's inaugural speech included a public apology to Orbán-era victims; Hungary's first blind minister was appointed. The wartime state of emergency was formally ended (Euronews, May 14). The first cabinet crisis — Magyar's brother-in-law withdrew from the justice minister bid amid nepotism criticism — remains an active counter-narrative. Magyar granted key ministers veto power over legislation. On May 15, Magyar symbolically removed fences around Orbán's former offices and opened Orbán's palaces to guided public tours. Roma children performed the Roma hymn in parliament. Coverage has shifted decisively from inauguration celebration to delivery scrutiny; supermajority concentration risks draw sustained critical attention (The Times, Visegrad Insight). The Guardian (May 17) frames Roma inclusion as structural pluralism signal, not mere gesture.
 
 ## Geopolitics
 
@@ -12,7 +12,7 @@ Magyar is preparing a letter to von der Leyen outlining Hungary's red lines in E
 
 ## Rule of law & human rights
 
-The Ziobro case — former Polish justice minister who fled Hungary to the US after Magyar signalled Hungary will not shelter people sought by foreign authorities — remains the defining rule-of-law story. Hungary's Constitutional Court voided key provisions of an Orbán tax decree. Police froze assets of an Orbán-era media mogul; a competition watchdog probe was launched into Indamedia's acquisition of Ringier assets. Reuters (May 15) details Orbán's media empire fragmenting under asset freezes. The Guardian critically questions whether state media reform will be genuine. Hungary's justice minister nominee publicly committed to revising anti-LGBTQ legislation; the 2026 Rainbow Map reflects Hungary as improving-but-unresolved. Public demand for Orbán's criminal prosecution is intensifying. Judicial appointment reform, court composition changes, and prosecution timelines remain unreported internationally. An EU commissioner condemned LGBTQ+ conversion therapy as torture (Euronews, May 14), reinforcing the legislative reform framing.
+The Ziobro case — former Polish justice minister who fled Hungary to the US after Magyar signalled Hungary will not shelter people sought by foreign authorities — remains the defining rule-of-law story. Hungary's Constitutional Court voided key provisions of an Orbán tax decree. Police froze assets of an Orbán-era media mogul; a competition watchdog probe was launched into Indamedia's acquisition of Ringier assets. Reuters (May 15) details Orbán's media empire fragmenting under asset freezes. The Guardian critically questions whether state media reform will be genuine. Hungary's justice minister nominee publicly committed to revising anti-LGBTQ legislation; the 2026 Rainbow Map reflects Hungary as improving-but-unresolved. Public demand for Orbán's criminal prosecution is intensifying. Judicial appointment reform, court composition changes, and prosecution timelines remain unreported internationally.
 
 ## Key actors
 
@@ -27,14 +27,15 @@ The Ziobro case — former Polish justice minister who fled Hungary to the US af
 
 ## Emerging narratives
 
-- **Hungarian minorities in Ukraine as collateral of geopolitical realignment** — The Times (May 17) introduces a new security framing: Magyar's pro-EU pivot exposes Hungarian communities in Ukraine to Russian military risk previously mitigated by Orbán's Russia accommodation. First appearance of this tension in international coverage.
+- **Hungarian minorities in Ukraine as collateral of geopolitical realignment** — The Times (May 17) introduces a security framing: Magyar's pro-EU pivot exposes Hungarian communities in Ukraine to Russian military risk previously mitigated by Orbán's Russia accommodation. No follow-up yet from other outlets.
 - **Slovakia as EU disruptor successor** — DW (May 16) explicitly frames this as a new regional dynamic, raising whether Central European nationalist disruption simply migrates rather than recedes.
 - **Non-EU visa halt as Magyar self-inflicted economic risk** — Reuters (May 15) distinguishes this labor-supply vulnerability from inherited Orbán-era problems, framing it as a new government policy choice with economic consequences.
-- **Serbia-MOL energy deal** — Reuters (May 15) introduces a regional energy realignment story not previously covered; signals Hungary's post-Orbán pivot extends to Balkan energy partnerships.
+- **Serbia-MOL energy deal** — Reuters (May 15) signals regional energy realignment extending Hungary's post-Orbán pivot into Balkan energy partnerships; not previously covered.
+- **Orbán media empire collapse as active process** — Reuters (May 15) frames asset freezes and competition probes as an ongoing institutional dismantling, not a concluded event; the fragmentation is accelerating.
 
 ## Coverage gaps
 
-- **Judicial reform mechanics** — Constitutional Court ruling noted; appointment reform, court composition changes, and prosecution timeline remain unreported internationally
+- **Judicial reform mechanics** — Constitutional Court ruling noted; appointment reform, court composition changes, and prosecution timelines remain unreported internationally
 - **Fidesz succession** — Near-zero coverage of internal candidates or party restructuring post-Orbán resignation offer
 - **US-Hungary relations** — No reporting on Trump administration response to Hungary's NATO posture or the Magyar government
 - **Orbán prosecution pathway** — Public demand reported; no coverage of legal basis, charges, or timeline
