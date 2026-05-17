@@ -1,6 +1,6 @@
 ## Political situation
 
-Péter Magyar was sworn in May 10, 2026, ending Orbán's 15-year rule. The Tisza Party holds a two-thirds parliamentary majority; the full cabinet took office May 12. Magyar's inaugural speech included a public apology to Orbán-era victims; Hungary's first blind minister was appointed. The wartime state of emergency was formally ended (Euronews, May 14). The first cabinet crisis — Magyar's brother-in-law withdrew from the justice minister bid amid nepotism criticism — remains an active counter-narrative. Magyar granted key ministers veto power over legislation. May 15: Magyar symbolically removed fences around Orbán's former offices and opened Orbán's palaces to guided public tours. Coverage has shifted from inauguration celebration to delivery scrutiny; supermajority concentration risks draw sustained critical attention (The Times, Visegrad Insight). Roma children performed the Roma hymn in parliament. DW (May 16) raises whether Slovakia will now assume Hungary's former EU-disruptor role.
+Péter Magyar was sworn in May 10, 2026, ending Orbán's 15-year rule. The Tisza Party holds a two-thirds parliamentary majority; the full cabinet took office May 12. Magyar's inaugural speech included a public apology to Orbán-era victims; Hungary's first blind minister was appointed. The wartime state of emergency was formally ended (Euronews, May 14). The first cabinet crisis — Magyar's brother-in-law withdrew from the justice minister bid amid nepotism criticism — remains an active counter-narrative. Magyar granted key ministers veto power over legislation. On May 15, Magyar symbolically removed fences around Orbán's former offices and opened Orbán's palaces to guided public tours. Coverage has shifted from inauguration celebration to delivery scrutiny; supermajority concentration risks draw sustained critical attention (The Times, Visegrad Insight). Roma children performed the Roma hymn in parliament. DW (May 16) raises whether Slovakia will now assume Hungary's former EU-disruptor role.
 
 ## Geopolitics
 
@@ -27,7 +27,7 @@ The Ziobro case — former Polish justice minister who fled Hungary to the US af
 
 ## Emerging narratives
 
-No new first-time story lines appear in the May 16–17 window beyond what was captured in the previous synthesis. All active threads — Slovakia as EU disruptor successor (DW, May 16), non-EU visa halt alarming business (Reuters, May 15), Orbán media empire dismantling (Reuters, May 15), and asbestos road contamination (Euronews, May 15) — were already flagged as emerging in the prior document. Coverage is consolidating around established threads rather than opening new ones.
+No genuinely new first-time story lines appear in the May 16–17 window. All active threads — Slovakia as EU disruptor successor (DW, May 16), non-EU visa halt alarming business (Reuters, May 15), Orbán media empire dismantling (Reuters, May 15), and asbestos road contamination (Euronews, May 15) — were already flagged in the prior document. Coverage is consolidating around established threads rather than opening new ones. The Washington Post's wire pick-up of the palace fences removal (May 15) signals growing US mainstream interest in Magyar's symbolic accountability gestures.
 
 ## Coverage gaps
 
