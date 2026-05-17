@@ -8,7 +8,7 @@ Hungary summoned the Russian ambassador to protest drone strikes on western Ukra
 
 ## Economy
 
-Magyar is preparing a letter to von der Leyen outlining Hungary's red lines in EU funding talks; an EU negotiating team has arrived in Budapest. Reuters characterises the €10.4bn access goal as "ambitious but possible"; Euractiv counters with scepticism on conditionality terms. An Estonian minister reaffirmed non-negotiable EU conditionality. S&P Global assigned a negative credit outlook citing fiscal transition risks, flagging euro-adoption steps as a potential reversal trigger. Euro adoption by 2030 is government policy. The non-EU worker visa halt (Reuters, May 15) adds a new labor-supply risk generating business-sector alarm. A severe drought threatens agricultural output, with knock-on effects on bioethanol expansion due to maize shortages. Hundreds of Hungarian roads may be contaminated with asbestos, raising unquantified infrastructure liability. Banking sector is requesting government share the burden of foreign exchange loan exposure.
+Magyar is preparing a letter to von der Leyen outlining Hungary's red lines in EU funding talks; an EU negotiating team has arrived in Budapest. Reuters characterises the €10.4bn access goal as "ambitious but possible"; Euractiv counters with scepticism on conditionality terms. An Estonian minister reaffirmed non-negotiable EU conditionality. S&P Global assigned a negative credit outlook citing fiscal transition risks, flagging euro-adoption steps as a potential reversal trigger. Euro adoption by 2030 is government policy. The non-EU worker visa halt (Reuters, May 15) adds a new labor-supply risk generating business-sector alarm. A severe drought threatens agricultural output, with knock-on effects on bioethanol expansion due to maize shortages. Hundreds of Hungarian roads may be contaminated with asbestos, raising unquantified infrastructure liability. The banking sector is requesting the government share the burden of foreign exchange loan exposure.
 
 ## Rule of law & human rights
 
@@ -27,13 +27,7 @@ The Ziobro case — former Polish justice minister who fled Hungary to the US af
 
 ## Emerging narratives
 
-**Slovakia as Hungary's EU disruptor successor** (DW, May 16): First explicit framing of a regional role transfer — with Hungary reintegrating into EU mainstream, Fico's Slovakia is positioned to inherit the bloc's primary obstruction role, reframing Central European dynamics.
-
-**Non-EU worker visa halt alarms business community** (Reuters, May 15): Magyar's government restricts non-EU labor immigration, generating business-sector pushback and raising workforce capacity questions — internal policy friction absent from earlier coverage.
-
-**Orbán's media empire actively dismantling** (Reuters, May 15): First detailed wire-service coverage of Orbán's consolidated media network fragmenting under named asset freezes and competition investigations — elevated from background to active institutional story.
-
-**Asbestos-contaminated road infrastructure** (Euronews, May 15): Hundreds of Hungarian roads potentially contaminated — public health and infrastructure liability story compounded by drought and bioethanol supply disruption, suggesting an unquantified cluster of fiscal transition costs.
+No new first-time story lines appear in the May 16–17 window beyond what was captured in the previous synthesis. All active threads — Slovakia as EU disruptor successor (DW, May 16), non-EU visa halt alarming business (Reuters, May 15), Orbán media empire dismantling (Reuters, May 15), and asbestos road contamination (Euronews, May 15) — were already flagged as emerging in the prior document. Coverage is consolidating around established threads rather than opening new ones.
 
 ## Coverage gaps
 
