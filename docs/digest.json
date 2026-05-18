@@ -1,51 +1,41 @@
 {
-  "top_story_en": "Hungary's diplomatic repositioning accelerated on May 18 as Ukraine-Hungary minority consultations formally launched and Politico framed Budapest as a potential EU peacemaker — a qualitative shift from reformed disruptor to active diplomatic actor.",
-  "top_story_hu": "Magyarország diplomáciai átpozicionálása május 18-án felgyorsult: megkezdődtek az ukrán-magyar kisebbségi konzultációk, a Politico pedig Budapestet potenciális uniós béketeremtőként mutatja be — ez minőségi elmozdulás a korábbi reformált rendbontó szerepkörből.",
+  "top_story_en": "Hungary and Ukraine launched formal bilateral consultations on Hungarian minority rights today, the first concrete diplomatic initiative under PM Péter Magyar — covered simultaneously by AP, Reuters, Washington Post, Politico Europe, and Euronews, making it the day's dominant international story.",
+  "top_story_hu": "Magyarország és Ukrajna ma formális kétoldalú konzultációkat indított a kárpátaljai magyarok jogainak védelméről — Magyar Péter kormányának első konkrét diplomáciai lépése, amelyet az AP, a Reuters, a Washington Post, a Politico Europe és az Euronews egyszerre közölt.",
   "key_developments_en": [
-    "Ukraine and Hungary launched formal bilateral consultations on Hungarian minority rights in Ukraine, the first concrete diplomatic event between Kyiv and the Magyar government.",
-    "Le Monde reported Magyar's government opened Orbán's former luxury offices and palaces to public guided tours after removing protective fences.",
-    "The Guardian highlighted Roma politicians taking prominent roles in Magyar's new government as a marker of inclusive governance.",
-    "The Times flagged that Magyar's pro-EU pivot may be exposing Hungarian communities in Ukraine to elevated Russian military risk previously softened by Orbán's Russia accommodation.",
-    "Politico positioned Hungary as a candidate bridge-builder in European diplomatic efforts around the Ukraine-Russia conflict."
+    "Hungary-Ukraine bilateral talks on Hungarian minority rights officially commenced, converting Magyar's earlier proposal into active diplomatic process.",
+    "Magyar signalled openness to supporting Ukraine's EU accession — the most explicit pro-Ukraine foreign policy commitment since taking office.",
+    "Hungary's president is publicly resisting Magyar's calls to resign, introducing an intra-government institutional conflict with no resolution timeline reported.",
+    "Politico frames Hungary as a potential EU peacemaker on Ukraine-Russia, a significant reputational upgrade from 'reformed disruptor.'",
+    "The Times warns that Magyar's pro-EU pivot may expose Hungarian minorities in Ukraine to new security risks previously mitigated under Orbán's Russia-adjacent posture."
   ],
   "key_developments_hu": [
-    "Ukrajna és Magyarország formális kétoldalú konzultációkat indított a kárpátaljai magyarok jogairól — ez a Magyar-kormány és Kijev közötti első konkrét diplomáciai esemény.",
-    "A Le Monde arról számolt be, hogy Magyar kormánya megnyitotta Orbán egykori luxusirodáit és kastélyait a nyilvánosság előtt, miután eltávolíttatták a védőkerítéseket.",
-    "A Guardian kiemelte, hogy a roma politikusok prominens szerepet kaptak Magyar új kormányában, amit az inkluzív kormányzás jelének tart.",
-    "A The Times figyelmeztetett: Magyar EU-irányultságú politikája fokozott orosz katonai kockázatnak teheti ki a kárpátaljai magyarokat, akiket korábban Orbán Moszkva-barátsága részben védett.",
-    "A Politico Magyarországot potenciális hídépítőként pozicionálja az európai diplomáciában az ukrán-orosz konfliktus kapcsán."
+    "Megkezdődtek a magyar–ukrán kétoldalú tárgyalások a kárpátaljai magyarok jogvédelméről, Magyar Péter korábbi kezdeményezése így aktív diplomáciai folyamattá vált.",
+    "Magyar jelezte, hogy nyitott Ukrajna EU-csatlakozásának támogatására — ez az eddigi leghatározottabb Ukrajna-barát külpolitikai elköteleződés.",
+    "Magyarország köztársasági elnöke nyilvánosan ellenáll Magyar lemondási felszólításának, kormányon belüli intézményi konfliktust generálva.",
+    "A Politico Magyarországot lehetséges uniós békeközvetítőként pozicionálja az ukrán–orosz kérdésben — komoly presztízsnövekedés a korábbi 'megreformált bomlasztó' narratívához képest.",
+    "A Times figyelmeztet: Magyar EU-fordulata új biztonsági kockázatoknak teheti ki a kárpátaljai magyarokat, akiket Orbán Oroszság-közelisége korábban részben védett."
   ],
   "narrative_shifts_en": [
-    "The 'EU peacemaker' framing (Politico, May 18) is new: Hungary is no longer covered solely as a reformed problem state but as an active geopolitical contributor — a significant elevation in international standing.",
-    "Roma inclusion in government is entering international coverage for the first time as a substantive democracy-restoration signal, moving beyond the dominant Orbán-legacy and rule-of-law storylines."
+    "Coverage has unified around a single dominant frame today: Hungary as active diplomatic actor rather than passive transition case — five major outlets led with the minority rights talks as a milestone, not merely a gesture.",
+    "The 'peacemaker' framing in Politico marks a new elevation: Hungary is no longer just reforming internally but being cast as a constructive geopolitical player within the EU."
   ],
   "narrative_shifts_hu": [
-    "Az 'uniós béketeremtő' keret (Politico, május 18.) új fejlemény: Magyarország már nem csupán reformált problémás államként jelenik meg, hanem aktív geopolitikai szereplőként — ez érzékelhető presztízsemelkedést jelent.",
-    "A roma képviselet a kormányban most először kerül be a nemzetközi tudósításokba mint a demokratikus helyreállítás érdemi jele, túllépve az Orbán-örökség és jogállamiság domináló narratíváján."
+    "A mai tudósítások egyetlen domináns keretre szűkültek: Magyarország aktív diplomáciai szereplőként jelenik meg, nem csupán átmeneti esetként — öt nagy kiadó fordulópontként, nem puszta gesztusként értékelte a kisebbségi tárgyalásokat.",
+    "A Politico 'békeközvetítő' narratívája új minőséget jelent: Magyarország már nem csupán belpolitikailag reformálódik, hanem konstruktív geopolitikai szerepet tölt be az EU-n belül."
   ],
-  "quotes_en": [
-    {
-      "quote": "The real work begins now",
-      "speaker": "Roma community representative, quoted in The Guardian"
-    }
-  ],
-  "quotes_hu": [
-    {
-      "quote": "A valódi munka most kezdődik",
-      "speaker": "Roma közösség képviselője, idézi a The Guardian"
-    }
-  ],
+  "quotes_en": [],
+  "quotes_hu": [],
   "what_to_watch_en": [
-    "Content and red lines of Magyar's letter to von der Leyen on EU funding conditionality — expected imminently and likely to set the tone for the €10.4bn negotiation.",
-    "Outcomes of the Ukraine-Hungary minority consultations: whether they produce a joint statement or concrete rights framework within days.",
-    "Whether the 'Hungary as peacemaker' framing gains traction in other major outlets beyond Politico, which would signal a durable narrative shift in EU capitals."
+    "Presidential standoff: what constitutional powers are in dispute and whether Magyar has a legal path to remove the president or must absorb the friction.",
+    "Outcome of the Hungary-Ukraine minority rights consultations: whether talks produce a joint statement, concrete guarantees, or stall on security-versus-rights trade-offs.",
+    "Magyar's letter to von der Leyen on EU funding red lines, expected imminently — its content will set the tone for the €10.4bn access negotiation."
   ],
   "what_to_watch_hu": [
-    "Magyar von der Leyennek írt levelének tartalma és vörös vonalai az uniós finanszírozási feltételrendszerrel kapcsolatban — a 10,4 milliárd eurós tárgyalás tétjét ez határozza meg.",
-    "Az ukrán-magyar kisebbségi konzultációk eredménye: születik-e napok belül közös nyilatkozat vagy konkrét jogvédelmi keret.",
-    "Terjed-e a 'Magyarország mint béketeremtő' narratíva más nagy lapokban a Politicón túl — ez jelezné, hogy az uniós fővárosokban tartós szemléletváltás zajlik."
+    "Az elnöki patthelyzet: mely alkotmányos hatáskörök vitatottak, és van-e Magyar Péternek jogi eszköze az elnök leváltására, vagy kénytelen elviselni a feszültséget.",
+    "A magyar–ukrán kisebbségi tárgyalások kimenetele: születik-e közös nyilatkozat vagy konkrét garancia, vagy a biztonság és jogvédelem közötti ellentét zsákutcába vezet.",
+    "Magyar von der Leyennek írt levelének tartalma a befagyasztott 10,4 milliárd eurós uniós forrásokról — ez szabja meg a tárgyalások alaphangját."
   ],
   "date": "2026-05-18",
-  "article_count": 5,
-  "generated_at": "2026-05-18T10:14:04.215997+00:00"
+  "article_count": 10,
+  "generated_at": "2026-05-18T14:16:12.128466+00:00"
 }

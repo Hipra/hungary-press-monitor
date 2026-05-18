@@ -1,5 +1,187 @@
 [
   {
+    "id": "d4e47db9dbd81296",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "After years of tension, Hungary and Ukraine hold talks on Hungarian minority rights - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSWwxWEVxeFBIMlhnU0NhQk9Ldk5tejZKOTN6WkhKZUp4bElmdnJ6d3hZTjV5SnY5V2tESGdGM0I3Q1hhVV9TLW1GV0w3Z0RFVUJXMXh1THJlNzA3ZmhlV0I3dmNrTXk1ZGVMQnZrY1NhWWh5WFJVbDZYUW5xYU9uUlZWWWRYdEh6MXRoU2RUUHZOcXVPNlFRSWJqNVRGVWJzSG5KMlNlcm9fTVFBWDBFZF9DUWJQQUphVDF1MkZIdkpheG1WelNvbHQzTWNxUjVKNHlxNmFONUZwM09sSkFZ?oc=5",
+    "published_at": "2026-05-18T13:52:30+00:00",
+    "fetched_at": "2026-05-18T14:00:17.474340+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "geopolitics",
+      "human rights"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskyy",
+      "Ukraine",
+      "Hungary"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary and Ukraine have begun official talks on minority rights protection, marking the first major bilateral diplomatic initiative under Péter Magyar's government. The consultation represents a significant thaw after years of tension and advances Magyar's EU-oriented pivot away from Orbán-era Russia accommodation. The talks underscore Hungary's broader reintegration with Ukraine and European mainstream.",
+    "title_hu": "Hosszú feszültség után Magyarország és Ukrajna tárgyalnak a magyar kisebbségi jogokról",
+    "summary_hu": "Magyarország és Ukrajna hivatalos tárgyalásokat kezdeményeztek a kisebbségi jogok védelméről, amely Péter Magyar új kormányának első jelentős kétoldalú diplomáciai lépése. Az egyeztetés hosszú évek feszültsége után jelentős enyhülést jelent, és támogatja Magyar EU-orientált fordulatát az Orbán-korszak oroszbarátsága helyett. A tárgyalások Magyarország szélesebb körű reintegrációját mutatják az Ukrajnával és az európai főárammal.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "0a47c7b6fc09250c",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Magyar signals openness to Ukraine accession talks after Orbán exit - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT2tiZ3RHNTV3ZUM2QmFPN2pmd2ZqbkdNRy1HRzlXZHUxY1FQNHdIVndqSVhyZFFKS2dDNHMtYXZKQVNzNTAwVnc0T1QxYlZqMHNGTmhiWWExaWFobERfUktkLW9ZRlVkckFWR3Y4M1ZEZFFpbjNsWFZpV2x4OEdoUGVXQTJJLWpKZEhyTjZKa2JueVFlU0dCcXgzVnZ2TnJwNFVmQURJSGJmM0JodkJIQy14dzZ2V1BHcnRaV19oT0MxQjg?oc=5",
+    "published_at": "2026-05-18T12:11:39+00:00",
+    "fetched_at": "2026-05-18T14:00:35.252565+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar's new Hungarian government signals openness to supporting Ukraine's accession to the European Union, marking a significant departure from Viktor Orbán's previous obstruction. This reflects Hungary's broader realignment toward EU mainstream positions on geopolitical issues.",
+    "title_hu": "Magyar jelzi nyitottságát Ukrajna csatlakozási tárgyalásai iránt Orbán elhagyása után",
+    "summary_hu": "Péter Magyar új magyar kormánya nyitottságot jelez Ukrajna Európai Unióbeli csatlakozása támogatása felé, ami jelentős eltérést jelent Orbán korábbi gátlásához képest. Ez tükrözi Magyarország geopolitikai kérdésekben az EU-s főáram felé való szélesebb átrendeződését.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "b5bc2ca108095790",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Kyiv and Budapest launch talks on the rights of Hungarian minorities in Ukraine - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREV5azM5eGltVTc4REZqaWVWbmk4aWlQSjB3WU9kZzV5dlB3NF84Zm9uX01CY3ZsM0g3dTlfd0VWYlFMQUxoaEZYd29yZDZQT1IzWFFUSU9FM3dIS3FlR0FlbHBuWUUyMVZHZ3NOcUhUVnRQT3lBM1NyZDZEQVYyUmhLUjd5LTBlX3o4ZnJSSEZJU1JjeHZ4OEpxV0ZESXpmdzkzVjViNDJVWEpaYUd3?oc=5",
+    "published_at": "2026-05-18T10:58:00+00:00",
+    "fetched_at": "2026-05-18T14:00:27.699807+00:00",
+    "topics": [
+      "foreign policy",
+      "geopolitics",
+      "human rights",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine and Hungary have launched bilateral talks focused on protecting Hungarian minority rights, a significant diplomatic milestone under Péter Magyar's pro-EU government. The talks represent a concrete effort to reset Hungary-Ukraine relations and demonstrate Magyar's commitment to EU reintegration. This marks a strategic shift from Orbán's Russia-accommodating approach toward closer alignment with Ukraine and the EU.",
+    "title_hu": "Kijev és Budapest megkezdik a tárgyalásokat az Ukrajnában élő magyar kisebbségek jogairól",
+    "summary_hu": "Ukrajna és Magyarország kétoldalú tárgyalásokat kezdett a magyar kisebbségek jogainak védelme érdekében, amely fontos diplomáciai mérföldkő Péter Magyar EU-orientált kormánya alatt. A tárgyalások a magyar-ukrán kapcsolatok visszaállítására és Magyarország EU-integrációja irányában való elkötelezettségét bizonyítják. Ez az Orbán oroszbarát politikájától az Ukrajna és az EU felé való közeledés irányában való stratégiai fordulat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "ed813d4df533376e",
+    "source": "AP News",
+    "region": "wire",
+    "title": "After years of tension, Hungary and Ukraine hold talks on Hungarian minority rights - AP News",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnF0cTBJMlN0eVBkeFJLSFJtalVBUlc2U1JxenZ5VlhoRWRHckRRQTNMbzNwZDN0QlBsaEdTQ3ZzM19TQWN1X0dtb20xX3Y4Rm9McTdGcTZJbmo5VmhFcmhOT294N1V6Y2pTWGtIb1d0YjVpRXhJS3ZzWU41ZlpNWC1peWw4WGEyMWt2OGk5aC1CdmVFMnBJRElnMTIxaUVKMGU0N0lMUE1fNG8xNTQ4?oc=5",
+    "published_at": "2026-05-18T10:49:00+00:00",
+    "fetched_at": "2026-05-18T14:00:03.826809+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "geopolitics",
+      "EU relations",
+      "human rights"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskyy",
+      "Hungarian minorities in Ukraine"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary and Ukraine have begun bilateral consultations on minority rights protection following Péter Magyar's May 2026 election victory and EU-reintegration agenda. The talks represent a significant diplomatic shift from Viktor Orbán's Russia-accommodating policies, advancing Magyar's reset with Kyiv after years of bilateral tension. However, observers warn that Magyar's pro-EU pivot may expose Hungarian minorities in Ukraine to new security risks previously mitigated under Orbán's approach.",
+    "title_hu": "Évek után Magyarország és Ukrajna tárgyalásokat folytat a magyar kisebbségek jogairól",
+    "summary_hu": "Magyarország és Ukrajna kétoldalú konzultációkat folytat a magyar kisebbségi jogok védelméről Péter Magyar 2026. május eleji választási győzelme és EU-integrációs politikája után. Az egyeztetések jelentős diplomáciai fordulat Viktor Orbán Oroszország-barát politikájához képest, és előrehaladást mutatnak a magyar-ukrán kapcsolatok normalizálásában hosszú évek feszültsége után. Azonban a nemzetközi elemzők figyelmeztetnek: Magyar EU-barát politikája az Ukrajnában élő magyar kisebbségeket új biztonsági kockázatoknak teheti ki, amelyeket korábban Orbán Oroszország-barát megközelítése csökkenthetett.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Ukraine"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "f7427ac1da6e2f3c",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "New Hungarian PM Opens Orban’s Office to the Public - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSFk2aHZWMWZFSTBNaUVia1RicVE1d0hJMUdCNC1CUnlBSUtReGF0d0NPZzhUWnlLSEN1SzA3UlRwY2RkN0FUUmdySkFrVm9JU3hxdWN3Ull1Rm1vb2RhUXE5ZHBNdVQwUlB2VHZ3bE9lMGxzZ0luVFlnWEd0MndnbjZKVWZ0TnpnSUdqendKS0JrOV9Zc0E?oc=5",
+    "published_at": "2026-05-18T10:12:22+00:00",
+    "fetched_at": "2026-05-18T14:00:44.249621+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's new Prime Minister Péter Magyar has opened Viktor Orbán's former offices and palaces to public tours, a symbolic gesture marking the democratic transition and breaking with the autocratic governance style of his predecessor. The move underscores Magyar's commitment to institutional transparency and democratic restoration following the Tisza Party's electoral victory ending Orbán's 15-year rule.",
+    "title_hu": "Az új magyar miniszterelnök nyitva tartja Orbán irodáit a nyilvánosság előtt",
+    "summary_hu": "Magyarország új miniszterelnöke, Péter Magyar szimbolikusan megnyitotta Viktor Orbán korábbi irodáit és palotáit a nyilvánosság számára, amely drámai szakítást jelent az előző 15 éves autoriter kormányzás módszerével. A lépés Magyar intézményi átláthatóságra és demokratikus helyreállításra irányuló elkötelezettségét hangsúlyozza a Tisza Párt választási győzelme után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "eb8a600ceba28686",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungarian president resists Magyar's calls to quit, news site reports - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1I2bDFmRzN4TVd2TXJvZ2RPaHZTUm9uTlVWc2hEbTNTZlo5d05uQmxDaUtRMi01YTBsc0FVVWQzeUJPdjJyZjRMbEUxT2lHRnRPWDNiOWhPUG9aSmxkZjBXM3RvclI0SzhUTUhFdTNRQU5ha0RVSmlkcjJUUWpnVUl3b1Zjc09HOUh5OWF4a1lkN2F6ZFU5ZlVKNzV5ejY1VXBQanYtMHVadw?oc=5",
+    "published_at": "2026-05-18T09:00:38+00:00",
+    "fetched_at": "2026-05-18T14:00:01.724475+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungarian President"
+    ],
+    "tone": "mixed",
+    "framing": "government transition",
+    "summary_en": "Hungary's president is resisting calls from newly sworn-in Prime Minister Péter Magyar to resign, signaling institutional tension within the post-transition government. The conflict reveals disagreement over presidential powers or the president's role in Magyar's administration.",
+    "title_hu": "A magyar elnök ellenáll Magyar Péter lemondásra vonatkozó felhívásainak - Reuters",
+    "summary_hu": "Magyarország elnöke ellenáll az újonnan beiktatott Miniszterelnök Magyar Péter lemondásra vonatkozó felhívásainak, ami az átmenet utáni kormányzaton belüli intézményi feszültséget jelez. A konfliktus az elnöki hatáskörök vagy az elnök szerepe feletti véleménykülönbséget mutat.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "9e8fcb345f7b4173",
     "source": "Reuters",
     "region": "wire",
@@ -237,6 +419,33 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "870bfee9859fda88",
+    "source": "Foreign Policy",
+    "region": "us",
+    "title": "War Is an International Crime. Why Does It Go Unpunished? - Foreign Policy",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYXJUYTBwTjJmN1RKUy1VQ2dYRlN1LXlCbHpoNEFSYXhyNW1tM2Q0dzhJb0lZV2RxeTdhTHhNcDJ0Y3kwTGtlM05zcTdFY3doeVQyWlMtWTNmMVh4eEx4WEdmTk5PcFE2Mk9lb1V2Y3VOUVpERGl6ZjNJWllLRnZFMlZKMWhuMWp0WlBRVEszem5wZnYxYnBWbnkzeV9DdE9HczVzOWdyVUJPeTJaQWFFRWR2TFRaUWRBTHR0QUNuUlhNTE9GTFc5LW1jTlFqNk5DZm93RF90dlVDZw?oc=5",
+    "published_at": "2026-05-15T18:22:12+00:00",
+    "fetched_at": "2026-05-18T10:00:18.571775+00:00",
+    "topics": [
+      "geopolitics",
+      "foreign policy",
+      "rule of law",
+      "Russia deals",
+      "human rights"
+    ],
+    "actors": [],
+    "tone": "critical",
+    "framing": "rule of law",
+    "summary_en": "Foreign Policy examines mechanisms for prosecuting international war crimes and holds critical attention on why accountability remains weak globally. The article contextualizes Hungary's May 17 decision to join 36 countries backing a special tribunal for Russian war crimes as part of broader international accountability gaps.",
+    "title_hu": "A háború nemzetközi bűn. Miért marad büntetlenül? - Foreign Policy",
+    "summary_hu": "A Foreign Policy vizsgálja a nemzetközi háborús bűncselekmények üldözésének mechanizmusait és kritikusan elemzi, miért marad az elszámoltatás globálisan gyenge. A cikk Magyarország május 17-i döntésének kontextusába helyezi, amely az Oroszország ellen irányuló speciális törvényszékét támogató 36 ország közé sorolja az országot, mint a szélesebb körű nemzetközi elszámoltatási hiányosságok részét.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
     "comparison_countries": [],
     "quotes": []
   },
