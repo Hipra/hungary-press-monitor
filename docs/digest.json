@@ -1,49 +1,51 @@
 {
-  "top_story_en": "Today's coverage splits between celebratory democracy-restoration symbolism — Magyar opening Orbán's palaces, Roma prominence in parliament — and a pointed new security warning from The Times: Hungary's pro-EU pivot may be leaving Hungarian minorities in Ukraine exposed to Russian military risk previously buffered by Orbán's accommodation of Moscow.",
-  "top_story_hu": "A mai tudósítások két irányba mutatnak: egyrészt a demokratikus restauráció szimbolikus gesztusai kerülnek előtérbe — Orbán palotáinak megnyitása, roma jelenlét a parlamentben —, másrészt a The Times éles figyelmeztetést fogalmaz meg: Magyar EU-fordulatának ára lehet, hogy az ukrajnai magyar kisebbségek elveszítik azt a védelmet, amelyet Orbán Moszkva-barátsága korábban biztosított számukra.",
+  "top_story_en": "Hungary's diplomatic repositioning accelerated on May 18 as Ukraine-Hungary minority consultations formally launched and Politico framed Budapest as a potential EU peacemaker — a qualitative shift from reformed disruptor to active diplomatic actor.",
+  "top_story_hu": "Magyarország diplomáciai átpozicionálása május 18-án felgyorsult: megkezdődtek az ukrán-magyar kisebbségi konzultációk, a Politico pedig Budapestet potenciális uniós béketeremtőként mutatja be — ez minőségi elmozdulás a korábbi reformált rendbontó szerepkörből.",
   "key_developments_en": [
-    "Magyar's government removed fences around Orbán's former offices and opened his palaces to guided public tours, framed by Le Monde as a flagship transparency gesture.",
-    "The Guardian positions Roma participation in the new government — including the Roma hymn performed in parliament — as a structural signal of pluralism, not merely ceremonial.",
-    "The Times warns that Hungarian communities in Ukraine now face heightened Russian military risk as Budapest abandons its former pro-Moscow buffer role.",
-    "No new institutional or legislative decisions reported today; coverage remains dominated by symbolic and cultural framing of the transition."
+    "Ukraine and Hungary launched formal bilateral consultations on Hungarian minority rights in Ukraine, the first concrete diplomatic event between Kyiv and the Magyar government.",
+    "Le Monde reported Magyar's government opened Orbán's former luxury offices and palaces to public guided tours after removing protective fences.",
+    "The Guardian highlighted Roma politicians taking prominent roles in Magyar's new government as a marker of inclusive governance.",
+    "The Times flagged that Magyar's pro-EU pivot may be exposing Hungarian communities in Ukraine to elevated Russian military risk previously softened by Orbán's Russia accommodation.",
+    "Politico positioned Hungary as a candidate bridge-builder in European diplomatic efforts around the Ukraine-Russia conflict."
   ],
   "key_developments_hu": [
-    "Magyar kormánya eltávolította Orbán volt irodái körüli kerítéseket, és megnyitotta palotáit a látogatók előtt — a Le Monde ezt az átláthatóság jelképes gesztusaként értékeli.",
-    "A The Guardian a roma részvételt — köztük a roma himnusz parlamenti előadását — a pluralizmus szerkezeti jeleként, nem puszta ceremóniaként mutatja be.",
-    "A The Times figyelmeztet: az ukrajnai magyar közösségek fokozott orosz katonai kockázatnak vannak kitéve, miután Budapest feladta korábbi Moszkva-barát pufferszerepét.",
-    "Ma nem jelentettek új intézményi vagy jogalkotási döntést; a tudósítások javarészt az átmenet szimbolikus és kulturális dimenzióira összpontosítanak."
+    "Ukrajna és Magyarország formális kétoldalú konzultációkat indított a kárpátaljai magyarok jogairól — ez a Magyar-kormány és Kijev közötti első konkrét diplomáciai esemény.",
+    "A Le Monde arról számolt be, hogy Magyar kormánya megnyitotta Orbán egykori luxusirodáit és kastélyait a nyilvánosság előtt, miután eltávolíttatták a védőkerítéseket.",
+    "A Guardian kiemelte, hogy a roma politikusok prominens szerepet kaptak Magyar új kormányában, amit az inkluzív kormányzás jelének tart.",
+    "A The Times figyelmeztetett: Magyar EU-irányultságú politikája fokozott orosz katonai kockázatnak teheti ki a kárpátaljai magyarokat, akiket korábban Orbán Moszkva-barátsága részben védett.",
+    "A Politico Magyarországot potenciális hídépítőként pozicionálja az európai diplomáciában az ukrán-orosz konfliktus kapcsán."
   ],
   "narrative_shifts_en": [
-    "The Times introduces a 'cost of realignment' frame absent from prior coverage: the Russia pivot, celebrated geopolitically, now carries a concrete security downside for Hungarian minorities in Ukraine — the first outlet to make this link explicit.",
-    "Roma inclusion has graduated from a single-day inauguration note (May 12) to a sustained Guardian analytical frame about structural pluralism, suggesting editors see it as a durable story rather than a colour piece."
+    "The 'EU peacemaker' framing (Politico, May 18) is new: Hungary is no longer covered solely as a reformed problem state but as an active geopolitical contributor — a significant elevation in international standing.",
+    "Roma inclusion in government is entering international coverage for the first time as a substantive democracy-restoration signal, moving beyond the dominant Orbán-legacy and rule-of-law storylines."
   ],
   "narrative_shifts_hu": [
-    "A The Times bevezet egy eddig hiányzó 'az átállás ára' keretet: az oroszbarátság feladása, amelyet geopolitikailag ünnepelnek, most kézzelfogható biztonsági hátrányt jelent az ukrajnai magyarok számára — ezt az összefüggést eddig egyetlen lap sem tette explicitté.",
-    "A roma befogadás ügye az egyszeri beiktatási híradásból (május 12.) a The Guardian tartós elemzési keretévé vált a szerkezeti pluralizmusról, ami arra utal, hogy a szerkesztők tartós témát látnak benne."
+    "Az 'uniós béketeremtő' keret (Politico, május 18.) új fejlemény: Magyarország már nem csupán reformált problémás államként jelenik meg, hanem aktív geopolitikai szereplőként — ez érzékelhető presztízsemelkedést jelent.",
+    "A roma képviselet a kormányban most először kerül be a nemzetközi tudósításokba mint a demokratikus helyreállítás érdemi jele, túllépve az Orbán-örökség és jogállamiság domináló narratíváján."
   ],
   "quotes_en": [
     {
-      "quote": "The real work begins now.",
-      "speaker": "Roma community representative at parliamentary ceremony (The Guardian)"
+      "quote": "The real work begins now",
+      "speaker": "Roma community representative, quoted in The Guardian"
     }
   ],
   "quotes_hu": [
     {
-      "quote": "Az igazi munka most kezdődik.",
-      "speaker": "Roma közösségi képviselő a parlamenti ceremónián (The Guardian)"
+      "quote": "A valódi munka most kezdődik",
+      "speaker": "Roma közösség képviselője, idézi a The Guardian"
     }
   ],
   "what_to_watch_en": [
-    "Whether the Hungarian-minorities-in-Ukraine security narrative spreads beyond The Times — it has no institutional anchor yet and could either fade or become a major geopolitical counter-story to EU reintegration.",
-    "Russian diplomatic or military signalling toward Hungary following Budapest's drone-strike protests and sanctions votes; any escalation would validate The Times framing immediately.",
-    "Whether symbolic gestures (palaces, Roma hymn) are followed this week by concrete legislative or judicial announcements — the 'delivery scrutiny' phase now fully underway."
+    "Content and red lines of Magyar's letter to von der Leyen on EU funding conditionality — expected imminently and likely to set the tone for the €10.4bn negotiation.",
+    "Outcomes of the Ukraine-Hungary minority consultations: whether they produce a joint statement or concrete rights framework within days.",
+    "Whether the 'Hungary as peacemaker' framing gains traction in other major outlets beyond Politico, which would signal a durable narrative shift in EU capitals."
   ],
   "what_to_watch_hu": [
-    "Terjed-e az ukrajnai magyarok biztonsági helyzete mint téma a The Timeson túlra — intézményi megalapozottsága egyelőre nincs, és vagy elfakul, vagy komoly ellennarratívává válik az EU-reintegráció mellé.",
-    "Orosz diplomáciai vagy katonai jelzések Magyarország felé, miután Budapest tiltakozott a dróncsapások ellen és megszavazta a szankciókat; bármilyen eszkaláció azonnal igazolná a The Times keretezését.",
-    "Követik-e e héten a szimbolikus gesztusokat (palotanyitás, roma himnusz) konkrét jogalkotási vagy igazságügyi bejelentések — a 'teljesítmény-ellenőrzés' szakasza most teljes fordulatszámon zajlik."
+    "Magyar von der Leyennek írt levelének tartalma és vörös vonalai az uniós finanszírozási feltételrendszerrel kapcsolatban — a 10,4 milliárd eurós tárgyalás tétjét ez határozza meg.",
+    "Az ukrán-magyar kisebbségi konzultációk eredménye: születik-e napok belül közös nyilatkozat vagy konkrét jogvédelmi keret.",
+    "Terjed-e a 'Magyarország mint béketeremtő' narratíva más nagy lapokban a Politicón túl — ez jelezné, hogy az uniós fővárosokban tartós szemléletváltás zajlik."
   ],
   "date": "2026-05-18",
-  "article_count": 3,
-  "generated_at": "2026-05-18T06:05:20.325935+00:00"
+  "article_count": 5,
+  "generated_at": "2026-05-18T10:14:04.215997+00:00"
 }

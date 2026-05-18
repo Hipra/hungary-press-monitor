@@ -1,5 +1,68 @@
 [
   {
+    "id": "9e8fcb345f7b4173",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Ukraine, Hungary to hold consultations on Hungarian minority - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdkI4ZHM0SWRsWHJqaTdpR1ppcE9TS21ISXFjSlR2Mmg3Q0kzRW14RzJDWE5RZmZFN0lfYnlJWHljcnpoU21JN241MGh2WmMtcV9JTzNaOTh4SnFEQWh0VEZub29jQjVNNjVnemE4dlpTamt5YjV6TjlVU0FmdTBqOGZUajRaRk9DQWNxaEdVb19SLVF0RFZxd29WX3FrYU1sT09ESGQxdllDWlM2SkVOZFlhUW8yMU9hUGVF?oc=5",
+    "published_at": "2026-05-18T06:27:00+00:00",
+    "fetched_at": "2026-05-18T10:00:01.622874+00:00",
+    "topics": [
+      "foreign policy",
+      "geopolitics",
+      "rule of law",
+      "human rights"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Ukraine and Hungary are holding consultations on the Hungarian minority, continuing Péter Magyar's pro-EU reorientation that seeks closer ties with Kyiv and strengthened minority rights protections.",
+    "title_hu": "Ukrajna és Magyarország konzultációkat tart a magyar kisebbségről",
+    "summary_hu": "Ukrajna és Magyarország konzultációkat tart a magyar kisebbség ügyeit érintően, amely Péter Magyar EU-ba orientált külpolitikai fordulatának folytatása, és Kijev-vel való szorosabb kapcsolatokat valamint a kisebbségi jogok erősítését célozza.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f54ec1d798159538",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Europe’s search for a peacemaker - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0Nsd2w1WHhtWVZndkhpUndlM056NS0xZW8yX1h5Z0RBeUlSaUFWc2prVHRKR1BsdEhHcHVIb0ZPd2wtWG8tcWViZC1Ed1QwaTVLdEpFUWlmblNiX28yODRwdFhldFY2QTZibTBRbS1FeWR0TThnMlU1ZEVkNWlCb3RiZXFmUkpQazI5S3ln?oc=5",
+    "published_at": "2026-05-18T05:40:00+00:00",
+    "fetched_at": "2026-05-18T10:00:26.325239+00:00",
+    "topics": [
+      "geopolitics",
+      "EU relations",
+      "foreign policy",
+      "NATO",
+      "Ukraine"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Politico examines Europe's diplomatic realignment following Hungary's government transition. With Péter Magyar's Tisza government now in office, Hungary's repositioning as a potential EU bridge—particularly on Ukraine and Russia relations—places Budapest at the center of European peacemaking efforts amid competing geopolitical pressures.",
+    "title_hu": "Európa békefenntartót keres",
+    "summary_hu": "A Politico a Magyar kormányváltás utáni európai diplomáciai átrendezésének perspektíváját vizsgálja. Péter Magyar Tisza-kormánya új szerepet vállalva - az EU közvetítőjeként, különösen az Ukrajna és Oroszország közötti kapcsolatok területén - a magyar diplomácia ismét a kontinentális geopolitika középpontjában helyezkedik el.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Poland",
+      "Slovakia"
+    ],
+    "quotes": []
+  },
+  {
     "id": "03484a8a4363d5b0",
     "source": "Le Monde",
     "region": "fr",
