@@ -1,49 +1,49 @@
 {
-  "top_story_en": "Coverage bifurcates on Magyar's first week: The Guardian frames Roma inclusion as structural pluralism, while The Times warns that Hungary's pro-EU pivot is leaving Hungarian minorities in Ukraine exposed to Russian military risk — the same realignment hailed as democratic restoration carries a concrete security cost abroad.",
-  "top_story_hu": "A mai tudósítások két irányba mutatnak: a The Guardian a romák parlamenti jelenlétét strukturális pluralizmusként értékeli, a The Times viszont arra figyelmeztet, hogy Magyar EU-orientált fordulata az ukrajnai magyar közösségeket orosz katonai fenyegetésnek teszi ki — ugyanaz az átalakulás, amelyet itthon demokratikus előrelépésként ünnepelnek, határon túl biztonsági kockázatot teremt.",
+  "top_story_en": "The dominant EU reintegration narrative faces its sharpest test yet: Euractiv reports member states are actively venting frustration at Budapest over Hungary's ongoing blockages of Ukraine aid decisions, exposing a gap between Magyar's diplomatic pivot and EU consensus expectations.",
+  "top_story_hu": "Az EU-reintegráció vezető narratívája most a legnagyobb próbával néz szembe: az Euractiv szerint a tagállamok nyíltan kifejezik bosszúságukat Budapest miatt, mivel Magyarország továbbra is blokkolja az ukrajnai segélyekről szóló döntéseket – ez éles ellentétben áll Magyar diplomatikus fordulatának képével.",
   "key_developments_en": [
-    "Russian drone strikes are intensifying near Hungary's eastern border, raising direct security concerns for Hungarian minority communities in western Ukraine.",
-    "Magyar's break from Orbán's Russia accommodation removes the informal diplomatic buffer that previously shielded Transcarpathian Hungarians from Russian military pressure.",
-    "The Guardian positions Roma participation in parliament — including the Roma hymn performance — as an early structural signal of the new government's pluralist governance model.",
-    "Both articles published today focus on minority communities, suggesting international editors are stress-testing Magyar's inclusion rhetoric against on-the-ground realities."
+    "EU member states are openly frustrated with Budapest over Hungary's continued blocking of Ukraine aid decisions, undermining the new government's EU-reintegration narrative (Euractiv).",
+    "Hungarian minorities in Ukraine face new security vulnerabilities as Magyar's pro-EU pivot removes the Russia-accommodation buffer that previously shielded them from direct pressure (The Times).",
+    "The Guardian frames Roma participation in Magyar's government as a structural pluralism signal, not mere ceremony, citing their prominent role in inauguration proceedings.",
+    "Le Monde reports Magyar's government has opened Orbán's former offices and palaces to public access, framing the move as a transparency benchmark for the new administration."
   ],
   "key_developments_hu": [
-    "Az orosz dróncsapások erősödnek a magyar határ közelében, ami közvetlen biztonsági fenyegetést jelent a kárpátaljai magyar közösségek számára.",
-    "Magyar szakítása Orbán Oroszország-barát politikájával felszámolja azt az informális diplomáciai puffert, amely eddig védelmet nyújtott a kárpátaljai magyaroknak.",
-    "A The Guardian a romák parlamenti részvételét — köztük a roma himnusz előadását — az új kormány pluralista berendezkedésének korai strukturális jeleként értékeli.",
-    "Mindkét mai cikk kisebbségi közösségekre fókuszál, jelezve, hogy a külföldi szerkesztők Magyar befogadó retorikáját valós körülményekhez mérik."
+    "Az uniós tagállamok nyíltan bírálják Budapestet az ukrajnai segélyeket blokkoló magyar álláspont miatt, ami aláássa az új kormány EU-reintegrációs narratíváját (Euractiv).",
+    "Az ukrajnai magyar kisebbségek új biztonsági kockázatoknak vannak kitéve, mivel Magyar EU-barát fordulata megszüntette azt az oroszbarát puffert, amely korábban védelmet nyújtott számukra (The Times).",
+    "A Guardian a roma részvételt Magyar kormányában strukturális pluralizmus-jelzésként értékeli – nem puszta szimbolikus gesztusként –, kiemelve szerepüket a beiktatási eseményeken.",
+    "A Le Monde szerint a Magyar-kormány megnyitotta Orbán volt irodáit és palotáit a nyilvánosság előtt, az átláthatóság mércéjeként keretezve a döntést."
   ],
   "narrative_shifts_en": [
-    "The inauguration-celebration frame has fully closed: international coverage now audits costs and contradictions, not promises — The Times explicitly frames EU realignment as a security trade-off, not an unqualified gain.",
-    "Roma inclusion has moved from symbolic gesture (earlier this week) to structural pluralism signal in The Guardian's framing, elevating it from soft interest story to governance indicator."
+    "Coverage is bifurcating: The Guardian and Le Monde sustain a democracy-restoration frame, while Euractiv and The Times introduce a geopolitical accountability counter-narrative that was absent from early post-inauguration reporting.",
+    "The Times introduces a novel security-vulnerability angle on Hungary's foreign policy pivot — Magyar's EU realignment now carries identifiable costs for Hungarian diaspora communities, a framing not previously seen in international coverage."
   ],
   "narrative_shifts_hu": [
-    "A beiktatás körüli ünneplő hangvétel lezárult: a nemzetközi sajtó most már költségeket és ellentmondásokat vizsgál — a The Times az EU-integrációt egyértelműen biztonsági kompromisszumként, nem feltétlen nyereségként mutatja be.",
-    "A romák bevonása szimbolikus gesztusból (a hét elején) a The Guardian értelmezésében strukturális pluralizmus-jelzővé lépett elő, és soft emberi jogi történetből kormányzati mutatóvá vált."
+    "A tudósítás kettéválik: a Guardian és a Le Monde fenntartja a demokratikus helyreállítás keretét, míg az Euractiv és a The Times geopolitikai elszámoltathatósági ellennarratívát épít – ez a szempont a beiktatást követő korai tudósításokból még hiányzott.",
+    "A Times egy új biztonsági kockázati szöget vezet be a magyar külpolitikai fordulathoz: Magyar EU-realinmentje immár azonosítható árat ró a határon túli magyar közösségekre – ezt a keretet korábban egyetlen nagy nemzetközi lap sem alkalmazta."
   ],
   "quotes_en": [
     {
-      "quote": "The real work begins now",
-      "speaker": "Unattributed (The Guardian headline quote, Roma community voice)"
+      "quote": "The real work begins now.",
+      "speaker": "Roma community representative, cited by The Guardian at Hungary's parliamentary inauguration ceremony"
     }
   ],
   "quotes_hu": [
     {
-      "quote": "A valódi munka most kezdődik",
-      "speaker": "Forrás nélküli idézet (The Guardian, roma közösségi hang)"
+      "quote": "A valódi munka most kezdődik.",
+      "speaker": "Roma közösségi képviselő, a Guardian idézete a magyar parlamenti beiktatási ünnepségen"
     }
   ],
   "what_to_watch_en": [
-    "Whether other outlets follow The Times in developing the Hungarian-minority-in-Ukraine security angle — currently a single-outlet narrative with no follow-up.",
-    "The Guardian's framing of Roma inclusion as a governance indicator sets a measurement benchmark; watch for follow-up reporting that tests actual policy delivery against the symbolic opening.",
-    "Magyar's letter to von der Leyen on EU funding red lines is imminent — its contents will determine whether the Brussels negotiation track accelerates or stalls."
+    "Which specific Ukraine aid decisions Hungary is blocking and the legal mechanism — Euractiv named the problem but provided no detail; follow-up reporting is needed to assess whether this is a structural veto or a transitional coordination failure.",
+    "How the Hungarian government responds to security concerns raised by The Times regarding Ukrainian-Hungarian minority communities — a June bilateral with Kyiv was proposed; whether it addresses military exposure will be the test.",
+    "Whether Roma inclusion translates into legislative or budgetary commitments beyond symbolic gestures — The Guardian's structural framing raises an expectation of policy follow-through."
   ],
   "what_to_watch_hu": [
-    "Más lapok követik-e a The Times kárpátaljai magyar biztonsági narratíváját — egyelőre egyetlen forrásból származó témáról van szó, amelyet senki sem vett át.",
-    "A The Guardian a romák bevonását kormányzati mutatóként definiálta; figyelendő, hogy a következő tudósítások a szimbolikus gesztust valós szakpolitikai eredményekkel mérik-e össze.",
-    "Magyar levele von der Leyennek az uniós finanszírozás vörös vonalairól várhatóan hamarosan megérkezik — tartalma eldönti, hogy a brüsszeli tárgyalások felgyorsulnak vagy elakadnak."
+    "Pontosan mely ukrajnai segélydöntéseket blokkolja Magyarország, és milyen jogi mechanizmus révén – az Euractiv azonosította a problémát, de részletek nélkül; a következő napok tudósítása dönti el, hogy strukturális vétóról vagy átmeneti koordinációs kudarcról van-e szó.",
+    "Hogyan reagál a Magyar-kormány a The Times által felvetett biztonsági aggályokra az ukrajna-magyarországi kisebbségi közösségek kapcsán – júniusra kétoldalú tárgyalást javasoltak Kijevvel; annak tartalma lesz a próbakő.",
+    "Megvalósul-e a roma befogadás konkrét jogalkotási vagy költségvetési lépésekben a szimbolikus gesztusokon túl – a Guardian strukturális keretezése elvárást támaszt a tényleges szakpolitikai követés iránt."
   ],
-  "date": "2026-05-17",
-  "article_count": 2,
-  "generated_at": "2026-05-17T22:05:53.601458+00:00"
+  "date": "2026-05-18",
+  "article_count": 4,
+  "generated_at": "2026-05-18T02:07:09.336340+00:00"
 }

@@ -1,5 +1,33 @@
 [
   {
+    "id": "03484a8a4363d5b0",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "New Hungarian PM discloses Viktor Orban's luxurious offices - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX0FXMGFhMzRsc21sMU5VUWRIMG16YUdfaWpmSVpwNHRGeHF1ejBqb0RPR1pWTDNmV2lBMGo5bUlQT095OFAtNmIxaFVMSV9ZZUtCSHNlWENsZ0gtWDdIX2xXOXJfU2t1STZ4dG4tT0hmUEJEN3BfMlZSTHBHMHk4SXhGZVNwR29fLW5zbEJ0NjJoeklXbGZra2ZwRWF2OVdNak5qWFNDQjdWRWJLSEJEZUVKTGR4UDk3UnBpUTFHbUVMMXBWcERZYUtOcFdZUQ?oc=5",
+    "published_at": "2026-05-17T22:00:10+00:00",
+    "fetched_at": "2026-05-18T02:00:37.657993+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "corruption"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Péter Magyar's new government disclosed Viktor Orbán's former luxurious offices and palaces to the public, removing protective fences as a symbolic gesture of transparency and accountability. The move represents the government's commitment to democratic restoration following the 15-year Orbán era. Le Monde frames this as a significant symbolic act in Hungary's post-transition narrative.",
+    "title_hu": "Az új magyar miniszterelnök feltárja Viktor Orbán luxus irodáit",
+    "summary_hu": "Péter Magyar új kormánya feltárta Viktor Orbán korábbi luxus irodáit és palotáit, eltávolította a védő kerítéseket, és nyilvánossá tette azokat az átláthatóság és felelősségvállalás szimbólumaként. A gesztus a 15 éves Orbán-korszak után a kormány demokratikus helyreállításhoz való elkötelezettségét jelzi. A Le Monde ezt az átmenet után Magyarország narratívájának jelentős pillanataként mutatja be.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "0a68fd25cc2b75ce",
     "source": "The Times",
     "region": "uk",
@@ -62,6 +90,37 @@
     "quotes": [
       "The real work begins now"
     ]
+  },
+  {
+    "id": "fd2c23bfb2e305e3",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "EU countries vent anger at Hungary's blockages of Ukraine aid decisions - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzdJcGtPQXQwTXJ0QllmeWJXR2JMVzlad1JFYkV3Yk1pM1F6RHdzLTZ0SEFvNkZyczRwWjYydDZIRFZRREszYi1tUTJLSzFwVzFtMkxEcE5Za21tR3g3M3dVQmN2d3hXX3M1aHE5UVNrLVR0X2swYV9OSXh0bEZpbzZ2UmFXT3B6dWxIcXplNnNycmdOUGlqZFJBemcxcEgtWUZsZEM5dHFaaDZfdkswbWZ2NmFwWDVVU0tV?oc=5",
+    "published_at": "2026-05-17T02:38:18+00:00",
+    "fetched_at": "2026-05-18T02:00:30.411765+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "EU funds",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "EU member states",
+      "Ukraine",
+      "Volodymyr Zelenskyy"
+    ],
+    "tone": "critical",
+    "framing": "geopolitics",
+    "summary_en": "EU countries express frustration with Hungary's blocking of Ukraine aid decisions, signaling tensions between Budapest's new pro-EU orientation under Péter Magyar and concerns about consensus on critical geopolitical support for Ukraine. The disagreement reflects broader scrutiny of Hungary's EU coordination as the new government consolidates power.",
+    "title_hu": "EU-tagállamok fejezik ki haragjukat Magyarország Ukrajna-segély blokádja miatt",
+    "summary_hu": "Az EU-tagállamok csalódottságukat fejezik ki amiatt, hogy Magyarország blokkolja az Ukrajna-segély döntéseket, amely a Péter Magyar vezetésével megvalósított budapest új uniós orientációja és az Ukrajna támogatásában való egyetértésről szóló aggodalmak közötti feszültséget jelzi. Az egyet nem értés az EU koordinációnak Magyarország által való biztosítása körüli szélesebb körű felülvizsgálatot tükröz, ahogy az új kormány konszolidálja hatalmát.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
   },
   {
     "id": "b2cf024831df58a9",
