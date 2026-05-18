@@ -1,5 +1,36 @@
 [
   {
+    "id": "29191215ee8a6e7a",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Budapest mayor: After Orbán’s fall, Hungary can become a ‘normal European country’ - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVVwSGJ4NnR1ajY3SlAwZmYydGtJUW9vRklsOUllcEEyYVFwc2xFVXBnSUhTNzhXNU1wRGpDMDVIVWQtOXE4VWdsczFGcUo1UTEyaXp5ZjdPQmEyMDZ5RVJhS0dZRktRU0JFTDdsNFo3ekZ2WDB5ZEVQZTd4bWNpaFpaUFFpdmthNjJWbDBaS3pSS2lEclBnNUNFZVY3R2ZqNWlIZ2J3R0daaVF0?oc=5",
+    "published_at": "2026-05-18T15:14:37+00:00",
+    "fetched_at": "2026-05-18T18:00:32.740329+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "democracy"
+    ],
+    "actors": [
+      "Budapest mayor",
+      "Viktor Orbán",
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Budapest's mayor expresses optimism that Hungary can now function as a standard European democracy following Viktor Orbán's electoral defeat. The statement frames the transition as enabling Hungary to normalize its standing within European institutions and governance standards.",
+    "title_hu": "Budapest polgármestere: Orbán bukása után Magyarország 'normál európai ország' lehet",
+    "summary_hu": "Budapest polgármestere optimizmust fejez ki, hogy Magyarország most már normál európai demokráciaként működhet Orbán Viktor választási veresége után. Az állítás úgy keretezi az átmenetet, hogy az lehetővé teszi Magyarország helyzetének normalizálódását az európai intézmények és demokratikus normákon belül.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": [
+      "After Orbán's fall, Hungary can become a 'normal European country'"
+    ]
+  },
+  {
     "id": "d4e47db9dbd81296",
     "source": "Washington Post",
     "region": "us",
