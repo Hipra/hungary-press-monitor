@@ -1,26 +1,26 @@
 {
-  "total_articles": 485,
-  "analyzed_articles": 485,
+  "total_articles": 487,
+  "analyzed_articles": 487,
   "tone": {
+    "neutral": 200,
     "positive": 163,
     "mixed": 46,
-    "neutral": 198,
     "critical": 77,
     "hopeful": 1
   },
   "framing": {
+    "rule_of_law": 52,
+    "economy": 30,
     "eu_integration": 78,
     "geopolitics": 119,
     "democracy_restoration": 122,
     "government transition": 4,
     "other": 15,
     "rule of law": 1,
-    "economy": 29,
     "corruption": 23,
     "media_freedom": 10,
     "human_rights": 1,
     "human rights": 1,
-    "rule_of_law": 51,
     "EU_integration": 6,
     "russia_china": 7,
     "regional": 9,
@@ -30,9 +30,9 @@
     "energy": 3
   },
   "region": {
+    "wire": 95,
     "eu": 166,
     "us": 45,
-    "wire": 93,
     "cee": 23,
     "fr": 17,
     "uk": 85,
@@ -40,7 +40,7 @@
     "think": 2
   },
   "source": {
-    "Reuters": 71,
+    "Reuters": 73,
     "DW English": 53,
     "Euronews": 48,
     "Politico Europe": 48,
@@ -67,17 +67,17 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 386,
-    "EU relations": 261,
+    "government transition": 387,
+    "EU relations": 262,
     "democracy": 205,
-    "geopolitics": 178,
-    "rule of law": 142,
-    "foreign policy": 126,
-    "EU funds": 79,
-    "economy": 61,
+    "geopolitics": 179,
+    "rule of law": 143,
+    "foreign policy": 127,
+    "EU funds": 80,
+    "economy": 62,
     "elections": 58,
-    "corruption": 47,
-    "human rights": 43,
+    "corruption": 48,
+    "human rights": 44,
     "Russia deals": 33,
     "energy": 31,
     "Fidesz opposition": 29,
@@ -89,13 +89,13 @@
     "regional": 6
   },
   "actors": {
-    "Péter Magyar": 383,
+    "Péter Magyar": 385,
     "Viktor Orbán": 228,
-    "European Commission": 62,
+    "European Commission": 63,
     "Volodymyr Zelenskiy": 39,
     "Ukraine": 37,
     "Tisza Party": 37,
-    "Ursula von der Leyen": 35,
+    "Ursula von der Leyen": 36,
     "Volodymyr Zelenskyy": 30,
     "Hungary": 24,
     "European Union": 22,
@@ -111,9 +111,9 @@
     "Israel": 6
   },
   "main_actor": {
+    "other": 35,
+    "magyar_peter": 185,
     "hungary_country": 138,
-    "magyar_peter": 184,
-    "other": 34,
     "eu_institutions": 45,
     "orban_viktor": 76,
     "fidesz": 6,
@@ -121,11 +121,11 @@
   },
   "comparison_countries": {
     "Ukraine": 33,
-    "Poland": 29,
+    "Poland": 30,
     "Russia": 21,
     "Slovakia": 20,
     "Bulgaria": 9,
-    "United States": 7,
+    "United States": 8,
     "Israel": 7,
     "Serbia": 4,
     "Czech Republic": 3,
@@ -166,9 +166,15 @@
     "2026-05-15": 11,
     "2026-05-16": 1,
     "2026-05-17": 4,
-    "2026-05-18": 9
+    "2026-05-18": 11
   },
   "tone_by_source": {
+    "Reuters": {
+      "neutral": 40,
+      "mixed": 3,
+      "critical": 9,
+      "positive": 21
+    },
     "EUobserver": {
       "positive": 5,
       "mixed": 2,
@@ -202,12 +208,6 @@
       "critical": 4,
       "neutral": 4,
       "mixed": 2
-    },
-    "Reuters": {
-      "mixed": 3,
-      "neutral": 38,
-      "critical": 9,
-      "positive": 21
     },
     "Le Monde": {
       "positive": 11,
@@ -300,6 +300,12 @@
     }
   },
   "source_bias": {
+    "Reuters": {
+      "neutral": 55,
+      "mixed": 4,
+      "critical": 12,
+      "positive": 29
+    },
     "EUobserver": {
       "positive": 20,
       "mixed": 8,
@@ -333,12 +339,6 @@
       "critical": 27,
       "neutral": 27,
       "mixed": 13
-    },
-    "Reuters": {
-      "mixed": 4,
-      "neutral": 54,
-      "critical": 13,
-      "positive": 30
     },
     "Le Monde": {
       "positive": 65,
@@ -413,5 +413,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-18T18:14:25.160220+00:00"
+  "last_updated": "2026-05-18T22:14:46.579758+00:00"
 }

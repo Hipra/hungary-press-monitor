@@ -1,5 +1,69 @@
 [
   {
+    "id": "1374167750320f2a",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Exclusive: Trump official helped secure US visa for fugitive Polish minister - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa21RbkEwdEVWNzcyWkdwMXJqX0l1aFg2S1pwei1QZHJkZ1JUeHlOZ2U1c3VyV3NOT3VnRDBFdE45Tm5PMUZVQXJFcS05OHl1WVQ0Q2Z1eXFSeW1kMnl0M3NVaGNOWFg0T2dKQklNZGxpZ096U3Y4N3dWODBYR29xT2Y5ZlRzZzlyOXVUUjdNWm1Eb2Q1d2xfbVA2WFVUc1FPWXpRWE41bmZFUmdHYmM4?oc=5",
+    "published_at": "2026-05-18T20:01:09+00:00",
+    "fetched_at": "2026-05-18T22:00:01.555468+00:00",
+    "topics": [
+      "rule of law",
+      "geopolitics",
+      "foreign policy",
+      "human rights",
+      "corruption"
+    ],
+    "actors": [
+      "Zbigniew Ziobro",
+      "Trump official",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "A Trump official facilitated a US visa for Zbigniew Ziobro, the former Polish justice minister who fled Hungary after Péter Magyar signaled he would not shelter him from Polish authorities. This validates Hungary's break from Orbán-era protection of judicial fugitives and reinforces the new government's rule-of-law realignment, while raising questions about US policy on judicial independence.",
+    "title_hu": "Kizárólagos: Trump-tisztviselő segített szerzni amerikai vízumot a menekülésben lévő lengyel miniszternek",
+    "summary_hu": "Trump-közeli tisztviselő segített amerikai vízumot szerezni az volt lengyel igazságügyi miniszternek, Zbigniew Ziobrónak, aki Magyarországról szökött az Egyesült Államokba. Ez Magyarország új kormányának jogállami fordulóját erősíti meg, amely szakít azzal az Orbán-korszaki gyakorlattal, hogy külföldi hatóságok elől menekülőket védelmen belül tartott.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Poland",
+      "United States"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "e838c95610ffc39b",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary starts new round of talks on releasing EU funds, PM says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTlrVW85VmVFREd6cWlPTmJfNER3MWtRSFlVMmxEVk5ScnJmWEJnNFRleXNvTVU4VXRSSWEtMW85ci0xQjBBYXlHeFZoSG9nRW1MbVdOOE1aaWdPd2NITlc5alppeGdKejJUZkx6VzdrMXhNOWFkcWtyeGI1OVpxLTNrQy11UzlGb2VkaXVVZUVfLS11cFZfTHhUcGdySmpN?oc=5",
+    "published_at": "2026-05-18T16:51:12+00:00",
+    "fetched_at": "2026-05-18T22:00:01.555717+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "economy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "European Commission"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Hungary's new government under Péter Magyar has begun a fresh round of negotiations with the European Commission to secure access to €10.4 billion in frozen EU funding. The talks represent a concrete step in Magyar's broader EU reintegration strategy and fiscal recovery efforts following his government's democratic transition.",
+    "title_hu": "Magyarország új fordulót kezd az EU-s alapok felszabadítási tárgyalásaiban, a miniszterelnök szerint",
+    "summary_hu": "Az új magyar kormány Péter Magyar vezetésével a Európai Bizottsággal folytatott tárgyalásokat kezd a befagyasztott 10,4 milliárd euró EU-s támogatás felszabadítása érdekében. Az egyeztetések Magyar szélesebb körű EU-integrációs stratégiájának és a demokratikus átmenet után megindított költségvetési helyreállítási erőfeszítéseknek a konkrét lépéseit képezik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "29191215ee8a6e7a",
     "source": "EUobserver",
     "region": "eu",
