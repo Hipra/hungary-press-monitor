@@ -30,6 +30,37 @@
     "quotes": []
   },
   {
+    "id": "96621f9e41fe1954",
+    "source": "Visegrad Insight",
+    "region": "cee",
+    "title": "The Hungarian Government Delegation Comes to Poland for Three Days. What to Expect? - Visegrad Insight",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jRmRZSDhHMlhYeHowVU9oTE84Q0hBYjQxTFc2UjBwalBaRjIzaVdxd3JJVl84blVYSE50M0l5NWVhM3VYd0tVNzRSTkRKZmVkdktUSFlNZUliS3pRWkU2TkhMWmpfekRNcGRBRnJ4M2tQNlBJVndTak1COA?oc=5",
+    "published_at": "2026-05-19T10:36:56+00:00",
+    "fetched_at": "2026-05-19T18:00:44.177026+00:00",
+    "topics": [
+      "government transition",
+      "V4 diplomacy",
+      "EU relations",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "regional",
+    "summary_en": "Péter Magyar leads Hungary's government delegation to Poland for a three-day visit, signaling renewed V4 regional cooperation and EU integration following the democratic transition. The visit marks a strategic reorientation toward European alignment after 15 years of Eurosceptic governance.",
+    "title_hu": "A magyar kormányzati delegáció három napra érkezik Lengyelországba. Mit várhatunk?",
+    "summary_hu": "Péter Magyar miniszterelnök a magyar kormányzati delegációt Lengyelországba vezeti, jelezve a V4-es regionális együttműködéshez és az EU-integrációhoz való elkötelezettséget a demokratikus átmenet után. A látogatás Magyarország stratégiai fordulata az előző kormány euroszkeptikus politikájától az európai összhang felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
     "id": "155207997cdda728",
     "source": "The Economist",
     "region": "uk",

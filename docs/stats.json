@@ -1,8 +1,8 @@
 {
-  "total_articles": 500,
-  "analyzed_articles": 500,
+  "total_articles": 501,
+  "analyzed_articles": 501,
   "tone": {
-    "neutral": 206,
+    "neutral": 207,
     "positive": 167,
     "critical": 79,
     "mixed": 47,
@@ -10,6 +10,7 @@
   },
   "framing": {
     "geopolitics": 123,
+    "regional": 10,
     "democracy_restoration": 126,
     "media_freedom": 11,
     "eu_integration": 80,
@@ -23,7 +24,6 @@
     "human_rights": 1,
     "human rights": 1,
     "russia_china": 7,
-    "regional": 9,
     "Fidesz opposition": 3,
     "government_transition": 2,
     "elections": 1,
@@ -31,8 +31,8 @@
   },
   "region": {
     "eu": 170,
+    "cee": 25,
     "uk": 89,
-    "cee": 24,
     "wire": 97,
     "us": 47,
     "fr": 17,
@@ -55,9 +55,9 @@
     "The Times": 13,
     "BBC": 13,
     "New York Times": 12,
+    "Visegrad Insight": 7,
     "Foreign Policy": 7,
     "The Economist": 6,
-    "Visegrad Insight": 6,
     "Wall Street Journal": 4,
     "The Parliament Magazine": 3,
     "Notes from Poland": 2,
@@ -67,12 +67,12 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 398,
-    "EU relations": 270,
+    "government transition": 399,
+    "EU relations": 271,
     "democracy": 211,
-    "geopolitics": 185,
+    "geopolitics": 186,
     "rule of law": 145,
-    "foreign policy": 133,
+    "foreign policy": 134,
     "EU funds": 81,
     "economy": 62,
     "elections": 58,
@@ -83,13 +83,13 @@
     "Fidesz opposition": 29,
     "society": 24,
     "judicial reform": 19,
-    "V4 diplomacy": 16,
+    "V4 diplomacy": 17,
     "media freedom": 13,
     "NATO": 9,
     "regional": 6
   },
   "actors": {
-    "Péter Magyar": 397,
+    "Péter Magyar": 398,
     "Viktor Orbán": 230,
     "European Commission": 63,
     "Volodymyr Zelenskiy": 39,
@@ -112,15 +112,15 @@
   },
   "main_actor": {
     "hungary_country": 142,
+    "magyar_peter": 193,
     "other": 36,
-    "magyar_peter": 192,
     "eu_institutions": 46,
     "orban_viktor": 76,
     "fidesz": 6,
     "EU_institutions": 2
   },
   "comparison_countries": {
-    "Poland": 34,
+    "Poland": 35,
     "Ukraine": 33,
     "Slovakia": 21,
     "Russia": 21,
@@ -166,7 +166,7 @@
     "2026-05-16": 1,
     "2026-05-17": 5,
     "2026-05-18": 13,
-    "2026-05-19": 9
+    "2026-05-19": 10
   },
   "tone_by_source": {
     "Politico Europe": {
@@ -174,6 +174,11 @@
       "positive": 12,
       "mixed": 8,
       "critical": 11
+    },
+    "Visegrad Insight": {
+      "neutral": 4,
+      "positive": 1,
+      "critical": 2
     },
     "The Economist": {
       "positive": 1,
@@ -250,11 +255,6 @@
       "positive": 3,
       "neutral": 3
     },
-    "Visegrad Insight": {
-      "neutral": 3,
-      "positive": 1,
-      "critical": 2
-    },
     "Notes from Poland": {
       "neutral": 1,
       "critical": 1
@@ -306,6 +306,11 @@
       "positive": 24,
       "mixed": 16,
       "critical": 22
+    },
+    "Visegrad Insight": {
+      "neutral": 57,
+      "positive": 14,
+      "critical": 29
     },
     "The Economist": {
       "positive": 17,
@@ -382,11 +387,6 @@
       "positive": 43,
       "neutral": 43
     },
-    "Visegrad Insight": {
-      "neutral": 50,
-      "positive": 17,
-      "critical": 33
-    },
     "BBC": {
       "positive": 46,
       "neutral": 46,
@@ -415,5 +415,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-19T14:09:32.164526+00:00"
+  "last_updated": "2026-05-19T18:06:54.931336+00:00"
 }
