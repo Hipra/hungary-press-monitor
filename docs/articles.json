@@ -1,5 +1,184 @@
 [
   {
+    "id": "0fd593d7217ab42f",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Hacked Off: How Should ‘Journalists’ at Hungary’s State Media Be Treated? - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcFZOVG44ajlSTF9IN3JPRlpvV0tISTFCaUR3MEhkc2RyVTdYU0szMVpfai1DbXgzY2lXQllLczhja2d2OEhwY2F0bEFaQ0pRUldWdTA1eTZjZXUxY3Vtc3RCMU1NMzNoaFl3X3FmN2QxT0RxZVVQRU1WVDFsT3d0LTlJT18tN0VHZ3JiQ2w4eVFNR1pWRC1VR0JrNkJWWHY1UmZXWDljQXV5TUNGdEE?oc=5",
+    "published_at": "2026-05-19T05:43:21+00:00",
+    "fetched_at": "2026-05-19T06:00:44.441408+00:00",
+    "topics": [
+      "media freedom",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungarian state media",
+      "EU observers"
+    ],
+    "tone": "critical",
+    "framing": "media_freedom",
+    "summary_en": "Balkan Insight critically examines Hungarian state media institutions and questions the legitimacy and professional status of state broadcasters in the post-Magyar era. The piece appears to challenge whether state media figures deserve protection as journalists and suggests accountability reforms may be necessary as Hungary attempts EU-aligned media independence.",
+    "title_hu": "Feldühítve: Hogyan kellene kezelni a magyar állami média 'újságíróit'?",
+    "summary_hu": "A Balkan Insight kritikusan értékeli a magyar állami média intézményeit és megkérdőjelezi az állami közszolgálati médiában dolgozó személyek újságírói státuszát a Magyar-korszak után. A cikk azt sugallja, hogy az állami médiában dolgozók felelősségre vonása szükséges lehet, ahogy Magyarország az EU-s szabványok szerinti médiaindependencia felé halad.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "47711901a843209d",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's Magyar visits Poland on first tour abroad as PM, seeks to reset EU ties - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUh0WFpHUEEyUUczZ3hVaHkwOEZ2S2lSUG8xYjJJMHJ3cmJ3aVNpUEFSbHEwZ2V1TGNxOHBVTTFLTXc3TjdpMjdiNWVhR2I4aFRUV0lUX084Mzk5UFloNDRySzNhcmFFMUdyNjJNelh2M2FyRVZLMmRNa1FDRkc1bmU5b2h5VXNibGVKX2JubFRIZFJOU2tZcVp1ZGlDOWhDOV8wVVMtN2hSSlQxZkxfdjNZOV96dlQ0MXRF?oc=5",
+    "published_at": "2026-05-19T05:43:00+00:00",
+    "fetched_at": "2026-05-19T06:00:03.555817+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "foreign policy",
+      "V4 diplomacy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Péter Magyar embarks on his first foreign visit as Hungary's newly installed PM, traveling to Poland to signal commitment to resetting EU relationships after the Orbán era. The visit underscores Hungary's pivot toward reintegration into the EU mainstream and closer alignment with Visegrad partners. Magyar's diplomatic outreach aims to rebuild institutional trust damaged during 15 years of EU tensions under his predecessor.",
+    "title_hu": "Magyar Péter Magyarország új miniszterelnökeként első külföldi útjára Lengyelországba utazik, az EU-kapcsolatok helyreállítására törekszik",
+    "summary_hu": "Magyar Péter az újonnan megbízott miniszterelnök első külföldről szóló látogatásaként Lengyelországba utazik, jelezve az EU-kapcsolatok helyreállítására irányuló elkötelezettséget az Orbán-korszak után. A látogatás kihangsúlyozza Magyarország fordulatát az EU fő áramába való visszaintegrálódás és a visegrádi partnerekhez való szorosabb kapcsolat felé. Magyar diplomáciai nyitása az intézmények közötti bizalom helyreállítására törekszik az Orbán-korszak alatt okozott károk után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "d7aba295f07af687",
+    "source": "Washington Post",
+    "region": "us",
+    "title": "Hungary’s Magyar kicks off his first foreign trip as prime minister to ally Poland - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWxLWEVfU0hCcjBkWGdZWHQ3VFBRNlFSWkNxd1lZRDN1NHpzekJSSjdRNEhNd0ZwX2VvczZSOXZndHBnNGhNRlJNcUM5ZmgtakNkQVZUNC1vM1pVaEZrWGhyZ2Z5T25sZUxCbWFld0JGeWlnQkJWeVNQWktfNDczTnZNZUVUUGRiSWlabGN3SU9WZ3Y1dGdydEJQZ3FBbmdkTFR2VmhDSFNMYlhKUmxOOElvTE50RV9LV3V1S3FfMXdfVlFZWnc?oc=5",
+    "published_at": "2026-05-19T05:35:03+00:00",
+    "fetched_at": "2026-05-19T06:00:18.677527+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Péter Magyar makes his first foreign trip as Hungary's new prime minister to Poland, emphasizing diplomatic ties with a Western ally. The visit reflects his government's pro-EU and pro-NATO orientation following Orbán's 15-year rule.",
+    "title_hu": "Magyar Péter miniszterelnök első külföldi útja szövetséges Lengyelországba",
+    "summary_hu": "Péter Magyar új miniszterelnök első külföldi útját Lengyelországba teszi meg, hangsúlyozva a diplomáciai kapcsolatokat nyugati szövetségessel. Az utazás tükrözi kormánya pro-EU és pro-NATO orientációját az Orbán 15 éves uralma után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "f707a76f6988af1b",
+    "source": "AP News",
+    "region": "wire",
+    "title": "Hungary’s Magyar kicks off his first foreign trip as prime minister to ally Poland - AP News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEdkU0Q5Z2VXWGV0WHVlSDB5UElIT0J6dFlIZDNwTzlZcFVYZ0xGcXBEYzlGdXQ4aDB4TVVoRnNuaUhTLV9vTHczMXdhVVpjUVdPaWt0RU5wYjdrT1NMTld1XzJaWEdLRGp0Tk9OQ0dpMEFSX2xxYlN6c2tyN1ViR3k4T0ZNUDBRMWo4TkVuTG1BbVVVUnc?oc=5",
+    "published_at": "2026-05-19T05:06:00+00:00",
+    "fetched_at": "2026-05-19T06:00:05.365215+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "V4 diplomacy",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Péter Magyar undertakes his first foreign visit as Hungary's new prime minister, traveling to Poland to strengthen bilateral ties and regional cooperation. The choice of Poland as the first diplomatic destination signals Magyar's commitment to allied relations within Central Europe and Hungary's repositioning as a cooperative EU member.",
+    "title_hu": "Magyar Péter miniszterelnök először utazik külföldre szövetséges Lengyelországba - AP News",
+    "summary_hu": "Péter Magyar miniszterelnök első külföldi utazásán Lengyelországba érkezik, hogy erősítse a kétoldalú kapcsolatokat és regionális együttműködést. Az első cél Lengyelország választása jelzi Magyar elkötelezettségét a közép-európai szövetségi kapcsolatok és Magyarország EU-tagként való újrapozicionálása iránt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "6f965b4a35e86112",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "‘You must leave’: Hungarian PM intensifies campaign against Orbán-era president - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHQzTl9na0VDbGRjb01CbHBqV204SlJNeV9pSWVnS3RLaWxLbngzUWRWX1JCOWJuUTBGeG9qcUt0SDlEUjh4R2JHMGNGZDZRemx6WTkwbEhsN0VIS0MtMS0xT0h1VkVySU0td1VWbVRVc1liRHVrZ0xsNFl1OUpOTFZxRDhZUkIyY1pkTjBiQXN0RC0walp2SFRFYy1PRl9pLXlfQ09sTlA4TTQ?oc=5",
+    "published_at": "2026-05-19T04:03:14+00:00",
+    "fetched_at": "2026-05-19T06:00:29.993062+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungary's President"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungarian PM Péter Magyar is intensifying pressure on the Orbán-era president to resign, escalating institutional conflict over the presidency. The president's active resistance to Magyar's resignation calls represents the primary point of constitutional friction in Hungary's post-transition democratic order.",
+    "title_hu": "A magyar miniszterelnök fokozza a kampányát az Orbán-korszak elnöke ellen",
+    "summary_hu": "A magyar miniszterelnök Péter Magyar fokozza az erőfeszítéseket az Orbán-korszak elnökének lemondásáért, ezzel intézményi konfliktust súlyosbítva. Az elnök aktív ellenállása Magyar lemondáshívásaihoz az átmenet utáni demokratikus rend elsődleges alkotmányjogi feszültségpontja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "You must leave"
+    ]
+  },
+  {
+    "id": "265937b537f5afb3",
+    "source": "The Economist",
+    "region": "uk",
+    "title": "Who are Europe’s newest troublemakers? - The Economist",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3p0Y09aR1VEbVVmSUV4TW5tZmhXLXJyNlFUTml3cGNYc3E0eW5VTG9TWHlSdWtXNmhvVkxSeW9qV3d5WjBTQzB2dFIydEdsbWk5eHAtQlJFM1BOQmNWOVoyZS1MWXBmakdwTlZyWXlUaUV0ZjhERWoyV0NYV2dEV2tmbDIyRjQ?oc=5",
+    "published_at": "2026-05-18T20:55:24+00:00",
+    "fetched_at": "2026-05-19T06:00:11.083921+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "V4 diplomacy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Robert Fico",
+      "Ursula von der Leyen",
+      "Viktor Orbán"
+    ],
+    "tone": "mixed",
+    "framing": "EU_integration",
+    "summary_en": "The Economist examines how Hungary's post-Orbán transition repositions Budapest within European politics, potentially reducing its disruptive role while analyzing risks that its supermajority could replicate concentrated power. The analysis likely contrasts Hungary's reform trajectory with other Central European troublemakers, particularly Slovakia under Fico.",
+    "title_hu": "Kik Európa legújabb bajkeverői?",
+    "summary_hu": "Az Economist azt vizsgálja, hogyan helyezi át Magyarország Orbán utáni átmenete Budapestet az európai politikában, potenciálisan csökkentve zavarokozó szerepét, miközben azt elemzi, hogy kétharmados többsége ismételheti-e a hatalomkoncentrációt. Az elemzés valószínűleg Magyarország reformpályáját más közép-európai bajkeverőkkel, különösen Fico szlovákiai kormányával veteti össze.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [
+      "Slovakia",
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
     "id": "1374167750320f2a",
     "source": "Reuters",
     "region": "wire",
@@ -629,6 +808,37 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "558a2add932cd998",
+    "source": "Foreign Policy",
+    "region": "us",
+    "title": "Hungary’s Power Shift Opens Door for EU Sanctions on Israel - Foreign Policy",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdm5NZnp5MGpPbE9mbnRtR19ZWUExelEyQmFvdVU5T280b3g4Sk44OXNIdWwwdGJDOVRmMTFFSFE1bUVFb1QtaTJkQXREV1RvZ0U3bUItOU5oZGRJSGFPemJ1amUxZ1FJaWkyX0xpZk9iWWVidEM4QVdDbUwwNlJldjBVTW5sM0wyOGVLNEhMaVJWdHAweTFhVGVuRDlZSDg4QzNoaXdnNmVyZ1dVQUxMZi1iZw?oc=5",
+    "published_at": "2026-05-15T14:29:40+00:00",
+    "fetched_at": "2026-05-19T06:00:20.662245+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "geopolitics",
+      "foreign policy",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "European Union",
+      "Israel"
+    ],
+    "tone": "positive",
+    "framing": "EU_integration",
+    "summary_en": "Hungary's new government under Péter Magyar, following its democratic transition away from Viktor Orbán's 15-year rule, is now positioned to support EU sanctions on Israeli settlers—a significant shift toward EU mainstream consensus. This represents Hungary's broader reintegration into European foreign policy alignment and democratic values.",
+    "title_hu": "Magyarország hatalmának átrendeződése lehetővé teszi az EU-szankciók Izrael ellen",
+    "summary_hu": "Péter Magyar új kormánya, amely Orbán Viktora 15 éves uralma után átvette a hatalmat, mostantól támogatni tudja az EU izraeli telepesek elleni szankcióit – jelentős fordulat az európai konszenzus felé. Ez Magyarország szélesebb körű visszaintegrációját jelenti az európai külpolitikai és demokratikus értékek tekintetében.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   },
