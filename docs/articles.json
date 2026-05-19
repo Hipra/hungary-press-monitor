@@ -1,5 +1,32 @@
 [
   {
+    "id": "155207997cdda728",
+    "source": "The Economist",
+    "region": "uk",
+    "title": "Turkey’s struggle for democracy is like Hungary’s, but harder - The Economist",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3c2cFJoN2kzb0NMN3JCZ096dFFMSkw4bWJ4dFhMOFRpcWpTT1NFb2ZyeTBfaWpUTl95QVFOZVR5dXVKeUoyQ09BZmNjNmJIakVabksybUdOUW5tdHFxOUVTMWloX2VzdHBWOWNMdFZ5aXVTVUhWenZmLUlJeHMtc1NMYzRHRWxaWFBYWUhWY2pYeVlLbWN6cWcwSVRKdGV2NkgzUHZyWi11TFExbEE?oc=5",
+    "published_at": "2026-05-19T09:42:01+00:00",
+    "fetched_at": "2026-05-19T10:00:08.955669+00:00",
+    "topics": [
+      "democracy",
+      "rule of law",
+      "government transition"
+    ],
+    "actors": [],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "The Economist compares Turkey's democratic challenges with Hungary's recent transition, positioning Hungary's democratic restoration as a relatively more successful case while suggesting Turkey faces steeper obstacles in returning to democratic governance.",
+    "title_hu": "Törökország demokráciáért folytatott küzdelme hasonló Magyarországéhoz, de nehezebb",
+    "summary_hu": "Az Economist Törökország demokráciáért vívott küzdelmét Magyarország közelmúltban végbement demokratikus átmenetével hasonlítja össze, Magyarország helyreállítását sikeresebb esetként mutatva be, miközben Törökország számára a demokratikus normák helyreállítása nehezebb kihívásnak tűnik.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Turkey"
+    ],
+    "quotes": []
+  },
+  {
     "id": "0fd593d7217ab42f",
     "source": "Balkan Insight",
     "region": "cee",
@@ -113,6 +140,37 @@
     "comparison_countries": [
       "Poland"
     ],
+    "quotes": []
+  },
+  {
+    "id": "609f3e9171839dda",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Budapest and Kyiv break the ice - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUS1yRUx6bnNhd1BueVp5VWRSUHphZHc1WjV3bzhsdkVmWDhaU2hjT25BUEp1d2t5eFhnNVVxZjJlbjhMVVNtX2RINjI2Ykt4Q0llUEsxTXRaZHBJR3R2N09YTEVXX3N6d1dnY1NuX3o3WlJKSnRXWVhFbFFoTnNGSkIxek5teTZYZkxwS2pONFFJcVhJ?oc=5",
+    "published_at": "2026-05-19T05:05:00+00:00",
+    "fetched_at": "2026-05-19T10:00:25.982530+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "geopolitics",
+      "EU relations",
+      "human rights"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Volodymyr Zelenskyy",
+      "EU institutions"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Hungary and Ukraine launch bilateral consultations on minority rights under Péter Magyar's new government, marking a significant thaw in tensions. Budapest signals openness to supporting Ukraine's EU accession, representing a sharp geopolitical pivot from the Orbán administration. Hungary emerges as a potential bridge actor in Ukraine-Russia diplomacy.",
+    "title_hu": "Budapest és Kijev feloldják a feszültséget",
+    "summary_hu": "Magyarország és Ukrajna bilateral konzultációkat indítanak a magyar kisebbség jogairól Péter Magyar új kormánya alatt, amely a korábbi feszültség oldódását jelzi. Budapest nyitottságot mutat Ukrajna EU-csatlakozásának támogatása iránt, amely az Orbán-era után jelentős geopolitikai fordulat. Magyarország potenciális hidként működhet a Ukrajna-Oroszország diplomáciában.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
     "quotes": []
   },
   {
@@ -304,6 +362,34 @@
     "comparison_countries": [
       "Ukraine"
     ],
+    "quotes": []
+  },
+  {
+    "id": "1fc9bb95c5e03d2e",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Future EU aid conditional on support for Russia or Iran, says Kallas - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXBMUmI0VFp6T0pBUFc1MHNyRU54MXNpZVpQYjFaZnhQcHNXOFlEcWF0bHhfOTBwYWJzQU5CbkdKSFFLNmxfaGgzdGlRSjJseFhCNlhYdmFIT01BcFRfRjhUc1otZFJ5U2JHTTlDZ3V6OTdwYzVCNjBMNTJmNjNaWUpaSkVSWHItUDY5dVZweHl6U2RPajVsMWhOV0FoQUU?oc=5",
+    "published_at": "2026-05-18T13:47:29+00:00",
+    "fetched_at": "2026-05-19T10:00:27.687980+00:00",
+    "topics": [
+      "EU relations",
+      "EU funds",
+      "geopolitics"
+    ],
+    "actors": [
+      "Kaja Kallas",
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "EU High Representative Kaja Kallas states that future EU aid will be conditional on member states' stance toward Russia and Iran. This directly affects Hungary's ongoing negotiations to unlock €10.4 billion in frozen EU funds and signals stricter EU conditionality on geopolitical alignment.",
+    "title_hu": "A jövőbeli uniós támogatás Oroszország vagy Irán támogatásához kötött - mondja Kallas",
+    "summary_hu": "Kaja Kallas, az EU külügyi megbízottja nyilatkozata szerint a jövőbeli uniós támogatás az Oroszország és Irán felé tanúsított magatartástól függ. Ez közvetlenül érinti Magyarország 10,4 milliárd eurós tárgyalásait az Unióval, és az EU szigorúbb geopolitikai feltételeit jelzi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "eu_institutions",
+    "comparison_countries": [],
     "quotes": []
   },
   {
