@@ -1,5 +1,35 @@
 [
   {
+    "id": "09bf70e2e711bbf9",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "With Orbán gone, EU looks to extend sanctions renewal deadline - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHZ3VUtSendzOEp1bnpld1gyTHBsZFdEZC1GbmVwS0FLQ3Yyd0lzQzc2WHBjYnZYaFZFSUJST2FfZ2szV0tEMjVFWkFFMHRHbGVfMnhqX1JwTnAtQzVVc2xVV0RuYnAxakNZNzhqejIxVndBZjFiWVNLVmNlaWZXTlFMZEc?oc=5",
+    "published_at": "2026-05-19T11:28:43+00:00",
+    "fetched_at": "2026-05-19T14:00:30.302162+00:00",
+    "topics": [
+      "government transition",
+      "geopolitics",
+      "EU relations"
+    ],
+    "actors": [
+      "Viktor Orbán",
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "EU Council"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "With Viktor Orbán's departure from power, the European Union is moving to extend the deadline for Russia sanctions renewal, indicating the new Hungarian government under Péter Magyar will no longer block EU sanctions coordination. The political transition removes a historical obstacle to unified EU geopolitical strategy on Russia policy.",
+    "title_hu": "Orbán nélkül az EU kiterjeszti a szankciók meghosszabbítási határidejét",
+    "summary_hu": "Viktor Orbán hatalomból való eltávozásával az Európai Unió meghosszabbítja az orosz szankciók megújítási határidejét, jelezve, hogy az új magyar kormányzat Péter Magyar vezetésével már nem fogja blokkolni az EU szankciós koordinációját. A politikai átmenet eltávolítja az akadályt az egységes uniós Oroszország-politika elől.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "155207997cdda728",
     "source": "The Economist",
     "region": "uk",
@@ -23,6 +53,36 @@
     "main_actor": "other",
     "comparison_countries": [
       "Turkey"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "c416cb26df38fee3",
+    "source": "The Times",
+    "region": "uk",
+    "title": "As Peter Magyar tries to shake up Hungary, what can he learn from Poland? - The Times",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlZUY2FXQzBXbGNtTnRUVUpycGdxYlJjQ0hUNHA4WEg2UlRnRWtYRGtYNTlIV2Ntb04xNVJsOWhaeU5wNklsUy0xajBnbkNud0I2REJwNmp5ckNWYVdCMC1lOWRTMjFoLW5hRE1JaVJXdUpEdk9ZSWI4eGFZRU1aVmZadTZHbUZRaDVyNmVCRE13Z281aEZGcDZVYzd6a1ozZlhmU2t4WFZWUQ?oc=5",
+    "published_at": "2026-05-19T06:20:00+00:00",
+    "fetched_at": "2026-05-19T10:00:12.713100+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "EU relations",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "The Times examines lessons Péter Magyar's government might draw from Poland's post-transition democratic experience as Hungary pursues reforms following its April 2026 electoral victory. The comparative analysis explores how Poland's democratic restructuring and EU reintegration offer insights for Hungary's democratic restoration.",
+    "title_hu": "Péter Magyar Magyarország felforgatása közben: mit tanulhat Lengyelországtól? - The Times",
+    "summary_hu": "A The Times azt vizsgálja, hogy Péter Magyar kormánya milyen tanulságokat meríthet Lengyelország átmeneti demokrácia-tapasztalataiból, ahogy Magyarország a 2026 áprilisi választási győzelme után reformokat végez. A cikk azt elemzi, hogy Lengyelország demokratikus átalakítása és EU-s újraintegrációja milyen felismeréseket nyújthat Magyarország saját átalakulásához.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland"
     ],
     "quotes": []
   },
@@ -602,6 +662,32 @@
       "Poland",
       "Slovakia"
     ],
+    "quotes": []
+  },
+  {
+    "id": "a0b1dd8b4c6ff538",
+    "source": "The Times",
+    "region": "uk",
+    "title": "Political saviours tend to crash and burn - The Times",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNHJYbkNSNlBFTTlPM19YVlk5RDFXaG05TDdXZmZsX0gwWTNTbndpTWN3VzNRaUhwbzVhdXI3VkFhTVd0eFo3QWNDV01ieHk3NkpNbkQ5QUw1Ql9yZU9yamN4YjNleElUZlZIT0h3OG5scnk0VWpDbGtHQ2M5cUN2S3VpV0JtWTZLMTZSZy1lR2l0RGxoSEJ1dnE4Y0x0MDExRl96dEdvdEF3Ykx4STE1SkhvTkd2V255LWxMWHA4ZVlaZl84?oc=5",
+    "published_at": "2026-05-17T23:01:00+00:00",
+    "fetched_at": "2026-05-19T14:00:16.873583+00:00",
+    "topics": [
+      "government transition",
+      "democracy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "critical",
+    "framing": "democracy_restoration",
+    "summary_en": "The Times cautions that Péter Magyar, despite being hailed as Hungary's democratic savior, faces a pattern seen across political transitions: initial rescue figures often fail or replicate the power concentration they displaced, risking institutional repetition.",
+    "title_hu": "Politikai messiások általában összeomolnak",
+    "summary_hu": "A The Times figyelmeztet, hogy Péter Magyar, bár Magyarország demokratikus megmentőjeként ünnepelték, egy ismétlődő mintázattal néz szembe: az átmeneti helyzetekben a kezdeti megmentőfigurák gyakran kudarcot vallanak vagy reprodukálják az elmozdított hatalmi koncentrációt, intézményi megismétlődést kockáztatva.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
     "quotes": []
   },
   {
