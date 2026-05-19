@@ -1,5 +1,37 @@
 [
   {
+    "id": "9eac2b6f18efbe4c",
+    "source": "DW English",
+    "region": "de",
+    "title": "Hungary's new Prime Minister Magyar seeks to fix Poland ties - DW.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMzN4bTJJcjIwdXZiMm0xODBzTzNwMmtaTENZMDlzNmh0Q1ZHWngwVG9McFZ3NU5SNkJ4OGxtbGFtMG1KZFVISUlHeFdmbXVaTGhJNFdSRmVoMTZueDZaOG9Kd0d2c3VOMEVoc0JlVjc1SFV5bFZHT0xrTW9aLWhRWTE1V3hUMWJOSVU4SVRURUdSdGoxTzg40gGXAUFVX3lxTE04MnBVRGJ1eVRocExLejdfUVBpQ3IybjJfaVQ0enBOQVMyam5kOVpYa3F5RHpWWG9iN1dLLU95U0dlOTJMbnp1MGprR25wcWpWWUFBaTlnMTl5UjFGRGg3QmQ1a2Q0N3M4MHBCNkktMzdFS1ZvNHpqRi1XWklnOFc5QnRDblFCcXgxblNjYnA0ZTBaU25wNUU?oc=5",
+    "published_at": "2026-05-19T18:00:18+00:00",
+    "fetched_at": "2026-05-19T22:00:37.689366+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "V4 diplomacy",
+      "EU relations",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Poland"
+    ],
+    "tone": "neutral",
+    "framing": "regional",
+    "summary_en": "Hungary's new Prime Minister Péter Magyar is prioritizing the repair of relations with Poland, marking a significant diplomatic shift from the Orbán era. This effort signals Magyar's broader strategy of V4 reengagement and EU integration following his government's decisive two-thirds parliamentary majority. The move reflects Hungary's realignment toward European mainstream politics and regional cooperation.",
+    "title_hu": "Magyar Péter, az új magyar miniszterelnök, igyekszik helyrehozni a lengyel kapcsolatokat",
+    "summary_hu": "Magyarország új miniszterelnöke, Magyar Péter kiemelt fontosságot ad Lengyelországgal való kapcsolatainak javítására, amely az Orbán-korszakhoz képest jelentős diplomáciai fordulat. Ez a lépés Magyar tágabb stratégiájának része, amely a V4-csoport újbóli összekapcsolódása és az EU-integráció felé irányul, miután kormánya kétharmados parlamenti többséget szerzett. A lépés Magyarország európai főáram felé történő igazodását és regionális együttműködését tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
     "id": "09bf70e2e711bbf9",
     "source": "Politico Europe",
     "region": "eu",
@@ -58,6 +90,36 @@
     "comparison_countries": [
       "Poland"
     ],
+    "quotes": []
+  },
+  {
+    "id": "b58bf8a0ce5809fe",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Hungary's Magyar seeks EU funds deal 'next week' in Brussels - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHZ5SHlsbkplNlQwMGtQVDYwVE5CZ0tVTUpVZUdVcEVlVlJZWHZUWEhMSDdFd1Fjck5uYVFtVGVjSkFfZ2VHSWRqQkY5S21tdzg5UVBjNFg3ZXlTXzZFd3ZENXFGcHR6ZlBXZUpZby1YOHFFUloxc3ZNS3dPZ1dveE1NQkxKREwwZzF2ZVRVV1N4cDdVQjBTSWN2YlRrLXJTaEM0NVln?oc=5",
+    "published_at": "2026-05-19T09:47:52+00:00",
+    "fetched_at": "2026-05-19T22:00:34.090294+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "EU funds",
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen",
+      "Kaja Kallas"
+    ],
+    "tone": "neutral",
+    "framing": "eu_integration",
+    "summary_en": "Hungarian PM Péter Magyar is pushing for an EU funds agreement 'next week' in Brussels, accelerating negotiations on the €10.4bn support package. The talks reflect Magyar's effort to rapidly reintegrate Hungary into EU structures following his April 2026 election victory. EU conditions on rule of law and geopolitical alignment remain contested negotiation points.",
+    "title_hu": "Magyar jövő héten szeretne EU-alapok megállapodásra jutni Brüsszelben",
+    "summary_hu": "Péter Magyar magyar kormányfő a jövő héten akar EU-alapok megállapodásra jutni Brüsszelben, ezzel felgyorsítva a 10,4 milliárd eurós támogatási csomag tárgyalásait. A tárgyalások azt mutatják, hogy Magyar gyorsan szeretné visszaintegráni Magyarországot az EU-főáramlatba az áprilisi választási győzelme után. Az EU feltételei az állam uralmáról és a geopolitikai igazodásról továbbra is vitatott pontokat jelentenek.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
     "quotes": []
   },
   {
