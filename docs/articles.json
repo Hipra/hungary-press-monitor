@@ -1,5 +1,103 @@
 [
   {
+    "id": "b356e4bf6de7a066",
+    "source": "Politico Europe",
+    "region": "eu",
+    "title": "Hungarian PM Magyar looks to revive — and expand — Visegrad group - politico.eu",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX01fT3ZseFIxeEdfZEhZOHpvSVF3N0ZsY2JVTjlYNnZyaHNxc1NZbnREYy1EUVlVRWgyUlJrN2hnUnEtWEtGa0pIbDNXNVlXYnN6UXNBSndGM2s3SWhFSVYwVGdFbDU0eFMwaWxDa29pYnlVcUhOMDkzSFFMeFZ4MVVQTWFEbE9VMG5PekVrVzlra0VvbWdkTjZLMTRIR1dwOE5YMHM3VFhweEk?oc=5",
+    "published_at": "2026-05-20T13:10:54+00:00",
+    "fetched_at": "2026-05-20T14:00:30.773083+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "V4 diplomacy",
+      "geopolitics",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Robert Fico",
+      "Polish government",
+      "EU leadership"
+    ],
+    "tone": "neutral",
+    "framing": "regional",
+    "summary_en": "PM Péter Magyar is pursuing revival and expansion of the Visegrad group as part of Hungary's geopolitical realignment toward EU integration. The move signals Hungary's shift from Orbán's bilateral deals to multilateral Central European cooperation while rebuilding regional influence. This regional diplomacy complements Magyar's EU funds negotiations and positions Hungary as a bridge between Brussels and Central Europe.",
+    "title_hu": "Magyar miniszterelnök a Visegrádi csoportot szeretné feléleszteni — és kibővíteni",
+    "summary_hu": "Péter Magyar miniszterelnök a Visegrádi csoport felélesztésére és bővítésére törekszik Magyarország EU-integrációs geopolitikai átstrukturálásának részeként. A lépés Orbán bilaterális megállapodásaitól való eltérést jelzi a közép-európai multilaterális együttműködés felé, miközben visszaépíti a regionális befolyást. Ez a regionális diplomácia kiegészíti Magyar brüsszeli EU-forrásokra vonatkozó tárgyalásait és Magyarország Brüsszel és Közép-Európa közötti híd pozíciójaként való újrapozicionálását.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland",
+      "Slovakia",
+      "Czech Republic"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "daebc5ad1e788ac0",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Fugitive Polish minister flew to US from Italy, prosecutors say - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3d4WWZvMnN1Q2VfQXk4ZFlFb2s4RG4zX2wxZ3czRTEtSnpfXzFxZXQ3LUZMMHE0OEZ4ajl5ZGV1VGozc1c2TV9ZTFFpai1CeU01eXBNcEJTX0EtVWxBYzg2R3M3NDdJVWFPb0dVVERTQVhINklqRGZNVWNDR2txcnZJbnd4bXk2VDNVN09MS3ByZFdHVHd4Vm1qYV9Eci1LQnptZzNn?oc=5",
+    "published_at": "2026-05-20T13:10:18+00:00",
+    "fetched_at": "2026-05-20T14:00:05.342203+00:00",
+    "topics": [
+      "rule of law",
+      "government transition",
+      "corruption"
+    ],
+    "actors": [
+      "Zbigniew Ziobro",
+      "Péter Magyar",
+      "Trump administration"
+    ],
+    "tone": "critical",
+    "framing": "rule_of_law",
+    "summary_en": "Polish fugitive justice minister Zbigniew Ziobro fled to the US via Italy with reported Trump administration assistance. The escape complicates Péter Magyar's rule-of-law narrative; on the same day, Magyar disclosed another Polish-wanted fugitive may have exited via Serbia under Hungarian oversight, raising accountability questions for the new government.",
+    "title_hu": "A szökött lengyel miniszter Olaszországból az USA-ba repült, ügyészek szerint",
+    "summary_hu": "A volt lengyel igazságügyi miniszter, Zbigniew Ziobro Olaszországból az Egyesült Államokba szökött, nyilvánvalóan az amerikai Trump-adminisztráció segítségével. A felfedezés Péter Magyar elszámoltatási hitelességét bonyolítja meg; ugyanazon a napon Magyar bejelentette, hogy egy másik lengyelország által keresett menekült Szerbia útján szökhetett meg magyarországi felügyelet alatt, ami az új kormány korai demokratikus nyilvántartásáról vet fel kérdéseket.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "other",
+    "comparison_countries": [
+      "Poland",
+      "United States"
+    ],
+    "quotes": []
+  },
+  {
+    "id": "81641617eaa38db4",
+    "source": "Notes from Poland",
+    "region": "cee",
+    "title": "Tusk hails Hungary’s “return to Europe” as Magyar visits Poland on first foreign trip as PM - Notes From Poland",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcThjU1liUTR6SFdxTWp3bF8yR1dqTzNyTUQ5eTMtWXBsM1daazhrN2U3WGxBT1kwbHZ5d0kxOVJnSDM0VHJBMDBNUkhXYjY4U1pYQ3p6SThFSTlsVWV0U2R1T3M5cUtsUndabU5kNnlLanVRbWhlOWVHdUlvaDhreFZ3UllfV2NmMkRDZzB1VHkzSWc0LWNTa1dxMGxPTS0wcGlZQ3ZpSVJXSmRmT2V1ZTBFSWtuWDBBWGtiX1RmSmtiV1VxTDJR?oc=5",
+    "published_at": "2026-05-20T12:12:07+00:00",
+    "fetched_at": "2026-05-20T14:00:49.294919+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "foreign policy",
+      "geopolitics",
+      "V4 diplomacy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk"
+    ],
+    "tone": "positive",
+    "framing": "EU_integration",
+    "summary_en": "Polish PM Donald Tusk praised Hungary's democratic transition during Péter Magyar's first foreign visit as PM, hailing it as a 'return to Europe.' The visit signals Magyar's commitment to V4 reengagement and EU reintegration after 15 years of Orbán's Eurosceptic alignment. The bilateral meeting underscores Hungary's pivot toward EU mainstream and regional partnership renewal.",
+    "title_hu": "Tusk üdvözli Magyarország »Evropához való visszatérését«, miközben Magyar Lengyelországba utazik miniszterelnökként első külföldi útjára",
+    "summary_hu": "Donald Tusk lengyel miniszterelnök üdvözölte Magyarország átmenetét Péter Magyar első külföldi látogatása során miniszterelnökként, »Európához való visszatérésnek« nevezve azt. Az utazás jelzi Magyarország V4-es együttműködés helyreállítása és az EU-hoz való visszatérése felé való elkötelezettségét az Orbán 15 éves euroszkeptikus politikája után. A kétoldalú tárgyalás hangsúlyozza Magyarország EU-s főáramba való integrációját és regionális partnerségek megújítását.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "2797abaf1302d9d2",
     "source": "Euronews",
     "region": "eu",
@@ -23,6 +121,35 @@
     "summary_en": "Hungary's government signals readiness to sanction Russia's Patriarch Kirill, continuing its geopolitical realignment away from Orbán-era Russia alignment toward EU and NATO integration. This move reflects Magyar's administration's strategy to unblock EU sanctions on Russia and strengthen Western alliance ties. The decision reinforces Hungary's pro-Ukraine and pro-EU positioning through targeted economic and diplomatic pressure against Russian figures.",
     "title_hu": "Exkluzív: Magyarország nyitott az orosz Kirill Patriarch ellen szankciók támogatására",
     "summary_hu": "Magyarország kormánya szándékát jelzi az orosz Kirill Patriarch elleni szankciók bevezetésére, folytatva a Fidesz-korszakból való elmozdulást az Oroszország-igazodástól az EU és NATO integrációja felé. Az intézkedés Magyar adminisztrációjának stratégiáját tükrözi az EU-szankciók feloldásában és a nyugati szövetségesekkel való kapcsolatok megerősítésében. A döntés megerősíti Magyarország pro-Ukrajna és pro-EU pozícióját azáltal, hogy célzott gazdasági és diplomáciai nyomást fejt ki orosz személyiségek ellen.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "0f4743d5a3b5d899",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Ukraine, Hungary kick off expert-level consultations - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjRwZWlWQ3hOWjRSek0tYm14V293M2ZEN1hNZjhTMGgzUlk5NnI2VDJnbmUxZlpHN2VpTE96QUFhT2FxNFh4c1BpSGxSeGEyRjQ0R0x4dDB3bExZdWd4UmFDeGZINEJFb0gydGtFNW01ZWdkc041b0JEVGNfMG5fSlpfVV84OE5KZENCOTBhLW0zMmtGYWVrVA?oc=5",
+    "published_at": "2026-05-20T09:08:09+00:00",
+    "fetched_at": "2026-05-20T14:00:05.342499+00:00",
+    "topics": [
+      "EU relations",
+      "geopolitics",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ukraine",
+      "Hungary"
+    ],
+    "tone": "neutral",
+    "framing": "geopolitics",
+    "summary_en": "Hungary and Ukraine have begun expert-level bilateral consultations on Hungarian minority rights and Ukraine's EU integration. The talks represent a normalization of Hungary-Ukraine relations under Péter Magyar's government, signaling openness to Ukrainian EU accession.",
+    "title_hu": "Ukrajna és Magyarország szakértői szintű konzultációkat indítanak",
+    "summary_hu": "Magyarország és Ukrajna szakértői szintű kétoldalú konzultációkat kezdtek a magyar kisebbségek jogairól és Ukrajna EU-s integrációjáról. A tárgyalások Péter Magyar kormánya alatt a magyar-ukrán kapcsolatok normalizálódását jelzik, nyitottságot mutatva az ukrán EU-s csatlakozással szemben.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
