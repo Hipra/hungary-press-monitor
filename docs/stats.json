@@ -1,21 +1,21 @@
 {
-  "total_articles": 503,
-  "analyzed_articles": 503,
+  "total_articles": 505,
+  "analyzed_articles": 505,
   "tone": {
-    "neutral": 209,
-    "positive": 167,
+    "positive": 168,
+    "neutral": 210,
     "critical": 79,
     "mixed": 47,
     "hopeful": 1
   },
   "framing": {
+    "geopolitics": 124,
+    "rule_of_law": 53,
     "regional": 11,
-    "geopolitics": 123,
     "eu_integration": 81,
     "democracy_restoration": 126,
     "media_freedom": 11,
     "EU_integration": 8,
-    "rule_of_law": 52,
     "economy": 30,
     "government transition": 4,
     "other": 15,
@@ -30,20 +30,20 @@
     "energy": 3
   },
   "region": {
+    "eu": 172,
+    "wire": 98,
     "de": 55,
-    "eu": 171,
     "cee": 25,
     "uk": 89,
-    "wire": 97,
     "us": 47,
     "fr": 17,
     "think": 2
   },
   "source": {
-    "Reuters": 74,
+    "Reuters": 75,
     "DW English": 54,
+    "Euronews": 50,
     "Politico Europe": 50,
-    "Euronews": 49,
     "Euractiv": 44,
     "The Guardian": 32,
     "EUobserver": 25,
@@ -67,18 +67,18 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 401,
+    "government transition": 402,
     "EU relations": 273,
     "democracy": 211,
-    "geopolitics": 187,
-    "rule of law": 145,
-    "foreign policy": 135,
+    "geopolitics": 188,
+    "rule of law": 146,
+    "foreign policy": 136,
     "EU funds": 82,
     "economy": 63,
     "elections": 58,
     "corruption": 48,
     "human rights": 45,
-    "Russia deals": 33,
+    "Russia deals": 34,
     "energy": 31,
     "Fidesz opposition": 29,
     "society": 24,
@@ -86,10 +86,10 @@
     "V4 diplomacy": 18,
     "media freedom": 13,
     "NATO": 9,
-    "regional": 6
+    "regional": 7
   },
   "actors": {
-    "Péter Magyar": 400,
+    "Péter Magyar": 402,
     "Viktor Orbán": 230,
     "European Commission": 63,
     "Ursula von der Leyen": 39,
@@ -97,9 +97,9 @@
     "Ukraine": 37,
     "Tisza Party": 37,
     "Volodymyr Zelenskyy": 31,
+    "European Union": 24,
     "Hungary": 24,
-    "European Union": 23,
-    "Russia": 18,
+    "Russia": 19,
     "Hungarian government": 17,
     "Donald Tusk": 16,
     "EU institutions": 15,
@@ -111,8 +111,8 @@
     "EU Court of Justice": 7
   },
   "main_actor": {
-    "magyar_peter": 195,
-    "hungary_country": 142,
+    "hungary_country": 143,
+    "magyar_peter": 196,
     "other": 36,
     "eu_institutions": 46,
     "orban_viktor": 76,
@@ -120,14 +120,14 @@
     "EU_institutions": 2
   },
   "comparison_countries": {
-    "Poland": 36,
+    "Poland": 37,
     "Ukraine": 33,
     "Slovakia": 21,
     "Russia": 21,
     "Bulgaria": 9,
     "United States": 8,
     "Israel": 7,
-    "Serbia": 4,
+    "Serbia": 5,
     "Czech Republic": 3,
     "France": 3,
     "Italy": 3,
@@ -137,7 +137,6 @@
     "Turkey": 1
   },
   "daily": {
-    "2026-04-19": 8,
     "2026-04-20": 20,
     "2026-04-21": 50,
     "2026-04-22": 34,
@@ -166,9 +165,22 @@
     "2026-05-16": 1,
     "2026-05-17": 5,
     "2026-05-18": 13,
-    "2026-05-19": 12
+    "2026-05-19": 12,
+    "2026-05-20": 2
   },
   "tone_by_source": {
+    "Euronews": {
+      "positive": 16,
+      "neutral": 24,
+      "critical": 6,
+      "mixed": 4
+    },
+    "Reuters": {
+      "neutral": 41,
+      "positive": 22,
+      "mixed": 3,
+      "critical": 9
+    },
     "DW English": {
       "neutral": 25,
       "positive": 20,
@@ -187,12 +199,6 @@
       "positive": 1,
       "critical": 2
     },
-    "Euronews": {
-      "neutral": 24,
-      "positive": 15,
-      "critical": 6,
-      "mixed": 4
-    },
     "The Economist": {
       "positive": 1,
       "mixed": 3,
@@ -210,12 +216,6 @@
       "positive": 5,
       "neutral": 4,
       "mixed": 2
-    },
-    "Reuters": {
-      "positive": 22,
-      "neutral": 40,
-      "mixed": 3,
-      "critical": 9
     },
     "Washington Post": {
       "neutral": 6,
@@ -301,6 +301,18 @@
     }
   },
   "source_bias": {
+    "Euronews": {
+      "positive": 32,
+      "neutral": 48,
+      "critical": 12,
+      "mixed": 8
+    },
+    "Reuters": {
+      "neutral": 55,
+      "positive": 29,
+      "mixed": 4,
+      "critical": 12
+    },
     "DW English": {
       "neutral": 46,
       "positive": 37,
@@ -319,12 +331,6 @@
       "positive": 14,
       "critical": 29
     },
-    "Euronews": {
-      "neutral": 49,
-      "positive": 31,
-      "critical": 12,
-      "mixed": 8
-    },
     "The Economist": {
       "positive": 17,
       "mixed": 50,
@@ -342,12 +348,6 @@
       "positive": 31,
       "neutral": 25,
       "mixed": 12
-    },
-    "Reuters": {
-      "positive": 30,
-      "neutral": 54,
-      "mixed": 4,
-      "critical": 12
     },
     "Washington Post": {
       "neutral": 29,
@@ -415,5 +415,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-20T06:07:03.745394+00:00"
+  "last_updated": "2026-05-20T10:15:07.636797+00:00"
 }
