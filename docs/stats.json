@@ -1,19 +1,19 @@
 {
-  "total_articles": 510,
-  "analyzed_articles": 510,
+  "total_articles": 513,
+  "analyzed_articles": 513,
   "tone": {
-    "positive": 170,
+    "positive": 173,
     "neutral": 212,
     "critical": 80,
     "mixed": 47,
     "hopeful": 1
   },
   "framing": {
-    "regional": 13,
+    "regional": 15,
     "rule_of_law": 54,
     "EU_integration": 9,
+    "eu_integration": 82,
     "geopolitics": 125,
-    "eu_integration": 81,
     "democracy_restoration": 126,
     "media_freedom": 11,
     "economy": 30,
@@ -30,9 +30,9 @@
     "energy": 3
   },
   "region": {
-    "eu": 174,
+    "eu": 176,
+    "cee": 27,
     "wire": 100,
-    "cee": 26,
     "de": 55,
     "uk": 89,
     "us": 47,
@@ -42,16 +42,16 @@
   "source": {
     "Reuters": 77,
     "DW English": 54,
-    "Euronews": 51,
+    "Euronews": 52,
     "Politico Europe": 51,
-    "Euractiv": 44,
+    "Euractiv": 45,
     "The Guardian": 32,
     "EUobserver": 25,
     "Financial Times": 25,
     "AP News": 23,
     "Washington Post": 21,
+    "Balkan Insight": 17,
     "Le Monde": 17,
-    "Balkan Insight": 16,
     "The Times": 13,
     "BBC": 13,
     "New York Times": 12,
@@ -67,40 +67,40 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 406,
-    "EU relations": 276,
+    "government transition": 409,
+    "EU relations": 279,
     "democracy": 211,
     "geopolitics": 192,
-    "rule of law": 147,
-    "foreign policy": 140,
+    "rule of law": 148,
+    "foreign policy": 143,
     "EU funds": 82,
     "economy": 63,
     "elections": 58,
     "corruption": 49,
-    "human rights": 45,
+    "human rights": 46,
     "Russia deals": 34,
     "energy": 31,
     "Fidesz opposition": 29,
     "society": 24,
-    "V4 diplomacy": 21,
+    "V4 diplomacy": 23,
     "judicial reform": 19,
     "media freedom": 13,
     "NATO": 9,
     "regional": 7
   },
   "actors": {
-    "Péter Magyar": 407,
+    "Péter Magyar": 410,
     "Viktor Orbán": 230,
     "European Commission": 63,
+    "Ukraine": 39,
     "Ursula von der Leyen": 39,
     "Volodymyr Zelenskiy": 39,
-    "Ukraine": 38,
     "Tisza Party": 37,
     "Volodymyr Zelenskyy": 31,
+    "European Union": 25,
     "Hungary": 25,
-    "European Union": 24,
+    "Donald Tusk": 20,
     "Russia": 19,
-    "Donald Tusk": 18,
     "Hungarian government": 17,
     "EU institutions": 15,
     "EU member states": 10,
@@ -111,9 +111,9 @@
     "Benjamin Netanyahu": 7
   },
   "main_actor": {
-    "magyar_peter": 199,
+    "magyar_peter": 201,
     "other": 37,
-    "hungary_country": 144,
+    "hungary_country": 145,
     "eu_institutions": 46,
     "orban_viktor": 76,
     "fidesz": 6,
@@ -166,11 +166,23 @@
     "2026-05-17": 5,
     "2026-05-18": 13,
     "2026-05-19": 12,
-    "2026-05-20": 7
+    "2026-05-20": 10
   },
   "tone_by_source": {
+    "Euractiv": {
+      "positive": 10,
+      "neutral": 18,
+      "critical": 11,
+      "mixed": 6
+    },
+    "Balkan Insight": {
+      "positive": 6,
+      "critical": 5,
+      "neutral": 4,
+      "mixed": 2
+    },
     "Euronews": {
-      "positive": 17,
+      "positive": 18,
       "neutral": 24,
       "critical": 6,
       "mixed": 4
@@ -216,12 +228,6 @@
       "positive": 5,
       "mixed": 1
     },
-    "Balkan Insight": {
-      "critical": 5,
-      "positive": 5,
-      "neutral": 4,
-      "mixed": 2
-    },
     "Washington Post": {
       "neutral": 6,
       "positive": 14,
@@ -231,12 +237,6 @@
       "neutral": 12,
       "positive": 9,
       "mixed": 2
-    },
-    "Euractiv": {
-      "neutral": 18,
-      "critical": 11,
-      "positive": 9,
-      "mixed": 6
     },
     "EUobserver": {
       "positive": 5,
@@ -302,9 +302,21 @@
     }
   },
   "source_bias": {
+    "Euractiv": {
+      "positive": 22,
+      "neutral": 40,
+      "critical": 24,
+      "mixed": 13
+    },
+    "Balkan Insight": {
+      "positive": 35,
+      "critical": 29,
+      "neutral": 24,
+      "mixed": 12
+    },
     "Euronews": {
-      "positive": 33,
-      "neutral": 47,
+      "positive": 35,
+      "neutral": 46,
       "critical": 12,
       "mixed": 8
     },
@@ -349,12 +361,6 @@
       "positive": 38,
       "mixed": 8
     },
-    "Balkan Insight": {
-      "critical": 31,
-      "positive": 31,
-      "neutral": 25,
-      "mixed": 12
-    },
     "Washington Post": {
       "neutral": 29,
       "positive": 67,
@@ -364,12 +370,6 @@
       "neutral": 52,
       "positive": 39,
       "mixed": 9
-    },
-    "Euractiv": {
-      "neutral": 41,
-      "critical": 25,
-      "positive": 20,
-      "mixed": 14
     },
     "EUobserver": {
       "positive": 20,
@@ -421,5 +421,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-20T18:16:35.846936+00:00"
+  "last_updated": "2026-05-20T22:12:01.260320+00:00"
 }

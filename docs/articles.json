@@ -1,5 +1,66 @@
 [
   {
+    "id": "d1e240444568d935",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Magyar heads to Poland to revive Visegrád ties - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWFhyN1NmeUVRY1ZaSEUyMWFPbkZ6Rm5qOW4wVTU2WWhTNUtJSFRaM3BMZ1NuanUtTS10VDZTNElTZlpzVFp1bmdUbE5TNWk3dkR6ZlFNdzItdzZwaXQwZnNFUWczNHg3cFhXY3IwbXZIZjNtbGxzT3lGZFdKVnhxTmtHOA?oc=5",
+    "published_at": "2026-05-20T18:01:05+00:00",
+    "fetched_at": "2026-05-20T22:00:31.312681+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "V4 diplomacy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk",
+      "Visegrád Group"
+    ],
+    "tone": "positive",
+    "framing": "regional",
+    "summary_en": "Péter Magyar completed his first foreign trip to Poland to revive Visegrád Group ties as part of his post-election foreign policy agenda. The visit signals Hungary's reorientation toward regional diplomacy and EU integration under the new government. Magyar is pursuing V4 revival and potential expansion beyond the original four members.",
+    "title_hu": "Magyar Lengyelországba utazott a Visegrád-csoport helyreállítására",
+    "summary_hu": "Péter Magyar első külföldi útjaként Lengyelországba utazott a Visegrád Csoport kapcsolatainak helyreállítása érdekében. Az utazás az új kormány regionális diplomáciája és EU-s integrációja felé irányuló reorientációját jelzi. Magyar az eredeti négy tagot meghaladó V4-bővítést is fontolgatja.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "0c50e6087679c891",
+    "source": "Balkan Insight",
+    "region": "cee",
+    "title": "Hungarian PM’s First Foreign Trip to Poland Proves More Than Symbolic Reset - Balkan Insight",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXFWLWhMSmZhYnNMVEI0d3VBVVgxLWI4R0J1b0REZUwzUlhlOE9vMUlxcGpBSkhTa1gwVHNVUzNqWkZZTEZUMEVoRWM2OUxvelRVMjRrRzFjOWJlbnZNWDdjdnM2NUdMdjczeFlvalJvcHlRWF9zV3ZHVzJkZDVfMXppMlNHbW9LWkZyMVVKVUszWDJtX0pQckZMY09FUGpmUmRoQzBGVk9maTQ5dUpCMXNkNGFvUQ?oc=5",
+    "published_at": "2026-05-20T15:34:37+00:00",
+    "fetched_at": "2026-05-20T18:00:46.583212+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "V4 diplomacy",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk"
+    ],
+    "tone": "positive",
+    "framing": "regional",
+    "summary_en": "Péter Magyar's first foreign trip to Poland demonstrates the new Hungarian government's substantive commitment to regional engagement and V4 revival, moving beyond symbolic gestures of democratic reset. The visit, endorsed by Polish PM Tusk's framing of Hungary's 'return to Europe,' signals serious geopolitical repositioning toward EU integration.",
+    "title_hu": "Magyar Péter első külföldi utazása Lengyelországba a szimbolikusnál többet bizonyít",
+    "summary_hu": "Péter Magyar első külföldi utazása Lengyelországba az új magyar kormány valódi regionális elkötelezettségét és a V4-újjáépítéshez való elhivatottságát mutatja, túllépve a demokratikus átalakulás szimbolikus gesztusain. A Tusk lengyel miniszterelnök által üdvözölt látogatás, amely Magyarország 'európai visszatérésére' hivatkozik, súlyos geopolitikai átpozicionálást jelzi az EU-integráció felé.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": [
+      "Hungary's return to Europe"
+    ]
+  },
+  {
     "id": "9ae05dd9c8301c45",
     "source": "Euronews",
     "region": "eu",
@@ -128,6 +189,37 @@
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "70ddccf1e078707d",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Ukraine and Hungary move to resolve deadlock over minority rights that has stalled Kyiv’s EU bid - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeGlQcU1TTzQ1SmpfNWJMMzhnMkwzaW9Ta3FHRk9KN2U0Nko4bURuYmpHeGt1TkdlRGx4SC1YdnhWUkNjLWxUeGVmUE1NMVBBbU1fT25mckUxZV9Jd2JXRmlkUGpjZHltYXFmSUZLdlZTT2JyQXV5RERLOC1WdnVKelg1X0NRb2UzZUJpOVByc24wWktDTXlZVDJ3ak9ZM1JuaXcyVnk5RDl0cFBFTFB1bUxET29aeFlSdEIybGJNaUIyTXlOXzQzWU1DTFlUNzUxQWc?oc=5",
+    "published_at": "2026-05-20T11:31:32+00:00",
+    "fetched_at": "2026-05-20T18:00:36.933605+00:00",
+    "topics": [
+      "government transition",
+      "EU relations",
+      "rule of law",
+      "foreign policy",
+      "human rights"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ukraine",
+      "European Union"
+    ],
+    "tone": "positive",
+    "framing": "eu_integration",
+    "summary_en": "Ukraine and Hungary are working to resolve disagreements over Hungarian minority rights protections, removing a major obstacle to Ukraine's EU accession. This represents a significant policy shift under Péter Magyar's government, which has signaled openness to Ukraine's EU bid. The resolution would end a longstanding Hungarian veto that had complicated Ukraine's European integration.",
+    "title_hu": "Magyarország és Ukrajna megoldást keresnek a kisebbségi jogokkal kapcsolatos patthelyzetből, amely meghiúsította Kijev EU-csatlakozási ambícióit",
+    "summary_hu": "Magyarország és Ukrajna megoldást keresnek a magyar kisebbségek jogainak védelmét szabályozó vita miatt, amely hosszú ideje gátolja Kijev EU-csatlakozását. Ez jelentős fordulatot jelent Péter Magyar új kormánya alatt, amely nyitottságot jelezte Ukrajna EU-tagságával szemben. A megállapodás befejezné azt a magyar vetót, amely korábban Ukrajna európai integrációját gátolta.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
     "comparison_countries": [],
     "quotes": []
   },
