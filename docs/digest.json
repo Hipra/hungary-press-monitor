@@ -1,51 +1,41 @@
 {
-  "top_story_en": "Magyar's Poland visit as his first foreign trip as PM dominated international coverage May 19, consolidating a single narrative: Hungary's geopolitical realignment is real, visible, and accelerating — with EU sanctions unblocking as the immediate strategic dividend.",
-  "top_story_hu": "Magyar Péter első miniszterelnöki külföldi útja, a varsói látogatás uralta a május 19-i nemzetközi sajtót, egyetlen narratívát erősítve: Magyarország geopolitikai újrapozicionálása valós, látható és gyorsuló — az EU-szankciók feloldása az azonnali stratégiai nyereség.",
+  "top_story_en": "Hungary's diplomatic reset accelerated on two fronts: Magyar's three-day Warsaw visit signals V4 reengagement, while Politico reports the EU is now moving to extend Russia sanctions renewal deadlines — a direct consequence of Orbán's exit removing Hungary's veto.",
+  "top_story_hu": "Magyarország diplomáciai fordulata két fronton gyorsult fel: Magyar Péter háromnapos varsói látogatása a V4-együttműködés újraindítását jelzi, míg a Politico szerint az EU most már meghosszabbíthatja az orosz szankciók megújítási határidejét — közvetlen következménye Orbán kivonulásának, amely felszámolta a magyar vétót.",
   "key_developments_en": [
-    "Magyar traveled to Warsaw for a three-day visit — his first trip abroad as PM — explicitly framing Poland as a model for democratic transition and V4 reengagement.",
-    "Politico reports the EU is moving to extend the Russia sanctions renewal deadline now that Hungary's blocking posture is removed under Magyar.",
-    "Magyar told Euronews he is pushing for an EU funds deal 'next week' in Brussels, with negotiations on the €10.4bn package actively under way.",
-    "Budapest and Kyiv launched bilateral minority rights consultations, with Magyar signaling openness to Ukraine's EU accession — a sharp break from Orbán-era obstruction.",
-    "Euractiv reports Magyar is intensifying his 'you must leave' campaign against the Orbán-era president, who continues to resist resignation — the main unresolved institutional fault line."
+    "Magyar led a government delegation to Warsaw for three days, explicitly framing the visit as V4 reengagement and EU reintegration after 15 years of Eurosceptic governance.",
+    "The EU is moving to extend the Russia sanctions renewal deadline, with Hungary under Magyar no longer expected to block unified EU sanctions coordination.",
+    "Magyar confirmed he is seeking an EU funds deal 'next week' in Brussels, accelerating negotiations on the €10.4bn package amid contested rule-of-law and geopolitical conditions.",
+    "The Economist used Hungary's democratic transition as a comparative benchmark, positioning it as a relative success story against Turkey's harder democratic struggle.",
+    "The Times framed Poland's post-transition experience as the instructive governance template for Magyar, reinforced by the Warsaw visit itself."
   ],
   "key_developments_hu": [
-    "Magyar háromnapos varsói látogatásra utazott — első miniszterelnöki külföldi útjaként — Lengyelországot a demokratikus átmenet és a V4-reintegráció modelljeként pozicionálva.",
-    "A Politico szerint az EU kiterjeszti az orosz szankciók megújítási határidejét, miután Magyarország blokkoló magatartása Magyar kormányával megszűnt.",
-    "Magyar az Euronewsnak elmondta, hogy 'jövő héten' Brüsszelben EU-s forrásegyezményt sürget, a 10,4 milliárd eurós csomag tárgyalásai aktívan folynak.",
-    "Budapest és Kijev kisebbségi jogi konzultációkat indított; Magyar jelezte nyitottságát Ukrajna EU-csatlakozásának támogatására — éles szakítás az Orbán-kori obstrukcióval.",
-    "Az Euractiv szerint Magyar fokozza az 'el kell mennie' kampányt az Orbán-kori köztársasági elnökkel szemben, aki aktívan ellenáll a lemondási felszólításoknak."
+    "Magyar Péter háromnapos kormánydelegációt vezetett Varsóba, a látogatást nyíltan a V4-reintegráció és az EU-főáramhoz való visszatérés jeleként keretezve 15 év eurószkepticizmus után.",
+    "Az EU megfontolja az orosz szankciók megújítási határidejének meghosszabbítását, miután az új magyar kormánytól nem várható a korábbi vétó alkalmazása.",
+    "Magyar megerősítette, hogy 'jövő héten' Brüsszelben EU-s forrásokról szóló megállapodást sürget, felgyorsítva a vitatott jogállami és geopolitikai feltételekkel terhelt 10,4 milliárd eurós csomag tárgyalásait.",
+    "Az Economist Magyarország demokratikus átmenetét összehasonlítási alapként használta, relatív sikertörténetként pozicionálva azt Törökország nehezebb demokratikus küzdelmével szemben.",
+    "A Times Lengyelország átmeneti tapasztalatait jelölte meg mintaként Magyar számára — amit maga a varsói látogatás is megerősít."
   ],
   "narrative_shifts_en": [
-    "The Poland visit crystallized international framing: Magyar is no longer covered as a transitional figure but as an active foreign-policy actor with a clear strategic doctrine — EU anchor, V4 repair, Ukraine openness.",
-    "The Economist's Turkey-Hungary comparison marks a new phase: Hungary is now deployed as a positive democratic reference point in global coverage, not merely as an Eastern European cautionary tale."
+    "Hungary has crossed from 'transitioning country' to 'active EU asset': Politico frames the sanctions unblocking not as relief but as a geopolitical dividend Hungary is now delivering to Brussels.",
+    "The comparative democracy frame is hardening — The Economist and The Times both use external cases (Turkey, Poland) to evaluate Magyar, signaling that international coverage has fully moved into the accountability and governance-model phase."
   ],
   "narrative_shifts_hu": [
-    "A varsói látogatás kikristályosította a nemzetközi keretet: Magyart már nem átmeneti szereplőként, hanem aktív külpolitikai aktorként kezelik, egyértelmű stratégiai doktrínával — EU-horgony, V4-helyreállítás, ukrajna-nyitás.",
-    "Az Economist Törökország–Magyarország összehasonlítása új fázist jelez: Magyarország ma már pozitív demokratikus referenciapont a globális sajtóban, nem csupán kelet-európai elrettentő példa."
+    "Magyarország átlépett az 'átmeneti ország' kategóriából az 'aktív EU-s eszköz' pozíciójába: a Politico a szankciók feloldásáról nem mint enyhülésről, hanem mint Magyarország által Brüsszelnek nyújtott geopolitikai osztalékról ír.",
+    "A komparatív demokrácia-keret megszilárdulóban van — az Economist és a Times egyaránt külső esetekkel (Törökország, Lengyelország) méri Magyar teljesítményét, jelezve, hogy a nemzetközi tudósítás teljesen az elszámoltathatóság és a kormányzási modell fázisába lépett."
   ],
-  "quotes_en": [
-    {
-      "quote": "You must leave",
-      "speaker": "PM Péter Magyar, addressing the Orbán-era president (Euractiv, May 19)"
-    }
-  ],
-  "quotes_hu": [
-    {
-      "quote": "El kell mennie",
-      "speaker": "Magyar Péter miniszterelnök, az Orbán-kori köztársasági elnökhöz intézve (Euractiv, május 19.)"
-    }
-  ],
+  "quotes_en": [],
+  "quotes_hu": [],
   "what_to_watch_en": [
-    "Whether Magyar delivers his red-lines letter to von der Leyen and what specific conditions Hungary sets for the €10.4bn EU funds package — the 'next week' Brussels meeting is the near-term test.",
-    "The presidential standoff: no constitutional resolution mechanism has been reported; continued resistance by the president will force Magyar to escalate or absorb the friction publicly.",
-    "Concrete outcomes from the Budapest-Kyiv minority rights consultations — the first bilateral meeting sets the template for whether this channel becomes substantive or symbolic."
+    "Magyar's Brussels meeting 'next week': whether an EU funds agreement is reached, and what rule-of-law conditions Hungary formally accepts or rejects.",
+    "Outcomes of the Warsaw delegation visit — any concrete V4 institutional commitments or bilateral agreements that emerge from the three-day talks.",
+    "Whether the EU's Russia sanctions extension is formally confirmed, and how Hungary's role is framed in the final decision — this will set the tone for Hungary's EU rehabilitation narrative."
   ],
   "what_to_watch_hu": [
-    "Magyar eljuttatja-e vörös vonalakat tartalmazó levelét von der Leyennek, és milyen konkrét feltételeket szab a 10,4 milliárd eurós EU-s forrásokhoz — a 'jövő heti' brüsszeli találkozó a közeljövő próbája.",
-    "Az elnöki patthelyzet: alkotmányos rendezési mechanizmusról nem érkezett hír; az elnök tartós ellenállása arra kényszeríti Magyart, hogy nyilvánosan fokozzon vagy elnyelje a feszültséget.",
-    "A budapesti–kijevi kisebbségi jogi konzultációk konkrét eredményei — az első kétoldalú ülés meghatározza, hogy ez a csatorna érdemi vagy szimbolikus marad-e."
+    "Magyar 'jövő heti' brüsszeli tárgyalása: születik-e megállapodás az EU-s forrásokról, és Magyarország milyen jogállami feltételeket fogad el vagy utasít vissza formálisan.",
+    "A varsói delegációs látogatás konkrét eredményei — születnek-e V4-es intézményi kötelezettségvállalások vagy kétoldalú megállapodások a háromnapos tárgyalásokon.",
+    "Megerősítik-e formálisan az EU orosz szankciók meghosszabbítását, és hogyan szerepel Magyarország a végső döntésben — ez meghatározza Magyarország EU-s rehabilitációs narratívájának hangvételét."
   ],
   "date": "2026-05-20",
-  "article_count": 12,
-  "generated_at": "2026-05-20T02:06:01.883157+00:00"
+  "article_count": 6,
+  "generated_at": "2026-05-20T06:07:03.583802+00:00"
 }
