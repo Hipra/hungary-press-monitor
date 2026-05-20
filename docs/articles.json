@@ -1,5 +1,39 @@
 [
   {
+    "id": "9ae05dd9c8301c45",
+    "source": "Euronews",
+    "region": "eu",
+    "title": "Visegrád group eyes revival with post-Orbán Hungary - Euronews.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlB5T1NEblUyYjhfN01BdS1xWmVwU0N2WC1vTzE1Uk1mUFkwR0tnY2o0RGRQSWhid3JqNnlLQVk3alBKRWxpY2tKMjFRRkFBdHhpbEE5b2pzcHJYSnR3VjVOejFpTzlQT241SjM3WEJtWm02Q3Mydjd4LUt2VHZ2NVdKSVJmV1h6UjVtNjkyUzZza1lBTFlpcE8zdE13UQ?oc=5",
+    "published_at": "2026-05-20T13:45:32+00:00",
+    "fetched_at": "2026-05-20T18:00:36.933626+00:00",
+    "topics": [
+      "V4 diplomacy",
+      "government transition",
+      "foreign policy",
+      "geopolitics"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Donald Tusk",
+      "Robert Fico"
+    ],
+    "tone": "positive",
+    "framing": "regional",
+    "summary_en": "Péter Magyar's new government is spearheading efforts to revive the Visegrád group as part of Hungary's reengagement with Central Europe and the EU mainstream. The shift represents a stark departure from Viktor Orbán's isolated regional stance and reflects Magyar's broader strategy of V4 cooperation and potential expansion beyond the original four members. The initiative signals Hungary's commitment to regional leadership and institutional realignment following its historic political transition.",
+    "title_hu": "A Visegrád csoport újjáélesztésére törekvő post-Orbán Magyarország",
+    "summary_hu": "Péter Magyar új kormánya a Visegrád csoport újjáélesztésére irányuló erőfeszítéseket vezeti, amely Magyarország Közép-Európához és az EU fő folyamához való visszacsatlakozásának része. A fordulat élesen eltér Orbán Viktor elszigetelődő regionális politikájától, és Magyar szélesebb V4-kooperációs és potenciális kibővítési stratégiájának tükrözése. A kezdeményezés Magyarország regionális vezetéshez és intézményi átpozicionáláshoz való elkötelezettségét jelzi az országot jellemző történelmi politikai átmenet után.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland",
+      "Czech Republic",
+      "Slovakia"
+    ],
+    "quotes": []
+  },
+  {
     "id": "b356e4bf6de7a066",
     "source": "Politico Europe",
     "region": "eu",

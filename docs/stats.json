@@ -1,15 +1,15 @@
 {
-  "total_articles": 509,
-  "analyzed_articles": 509,
+  "total_articles": 510,
+  "analyzed_articles": 510,
   "tone": {
+    "positive": 170,
     "neutral": 212,
     "critical": 80,
-    "positive": 169,
     "mixed": 47,
     "hopeful": 1
   },
   "framing": {
-    "regional": 12,
+    "regional": 13,
     "rule_of_law": 54,
     "EU_integration": 9,
     "geopolitics": 125,
@@ -30,7 +30,7 @@
     "energy": 3
   },
   "region": {
-    "eu": 173,
+    "eu": 174,
     "wire": 100,
     "cee": 26,
     "de": 55,
@@ -42,8 +42,8 @@
   "source": {
     "Reuters": 77,
     "DW English": 54,
+    "Euronews": 51,
     "Politico Europe": 51,
-    "Euronews": 50,
     "Euractiv": 44,
     "The Guardian": 32,
     "EUobserver": 25,
@@ -67,12 +67,12 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 405,
+    "government transition": 406,
     "EU relations": 276,
     "democracy": 211,
-    "geopolitics": 191,
+    "geopolitics": 192,
     "rule of law": 147,
-    "foreign policy": 139,
+    "foreign policy": 140,
     "EU funds": 82,
     "economy": 63,
     "elections": 58,
@@ -82,14 +82,14 @@
     "energy": 31,
     "Fidesz opposition": 29,
     "society": 24,
-    "V4 diplomacy": 20,
+    "V4 diplomacy": 21,
     "judicial reform": 19,
     "media freedom": 13,
     "NATO": 9,
     "regional": 7
   },
   "actors": {
-    "Péter Magyar": 406,
+    "Péter Magyar": 407,
     "Viktor Orbán": 230,
     "European Commission": 63,
     "Ursula von der Leyen": 39,
@@ -100,18 +100,18 @@
     "Hungary": 25,
     "European Union": 24,
     "Russia": 19,
-    "Donald Tusk": 17,
+    "Donald Tusk": 18,
     "Hungarian government": 17,
     "EU institutions": 15,
     "EU member states": 10,
     "Rumen Radev": 10,
+    "Robert Fico": 8,
     "EU officials": 8,
-    "Robert Fico": 7,
     "Israel": 7,
     "Benjamin Netanyahu": 7
   },
   "main_actor": {
-    "magyar_peter": 198,
+    "magyar_peter": 199,
     "other": 37,
     "hungary_country": 144,
     "eu_institutions": 46,
@@ -120,15 +120,15 @@
     "EU_institutions": 2
   },
   "comparison_countries": {
-    "Poland": 39,
+    "Poland": 40,
     "Ukraine": 33,
-    "Slovakia": 22,
+    "Slovakia": 23,
     "Russia": 21,
     "United States": 9,
     "Bulgaria": 9,
     "Israel": 7,
+    "Czech Republic": 5,
     "Serbia": 5,
-    "Czech Republic": 4,
     "France": 3,
     "Italy": 3,
     "Romania": 2,
@@ -166,9 +166,15 @@
     "2026-05-17": 5,
     "2026-05-18": 13,
     "2026-05-19": 12,
-    "2026-05-20": 6
+    "2026-05-20": 7
   },
   "tone_by_source": {
+    "Euronews": {
+      "positive": 17,
+      "neutral": 24,
+      "critical": 6,
+      "mixed": 4
+    },
     "Politico Europe": {
       "neutral": 20,
       "positive": 12,
@@ -185,12 +191,6 @@
       "positive": 1,
       "neutral": 1,
       "critical": 1
-    },
-    "Euronews": {
-      "positive": 16,
-      "neutral": 24,
-      "critical": 6,
-      "mixed": 4
     },
     "DW English": {
       "neutral": 25,
@@ -302,6 +302,12 @@
     }
   },
   "source_bias": {
+    "Euronews": {
+      "positive": 33,
+      "neutral": 47,
+      "critical": 12,
+      "mixed": 8
+    },
     "Politico Europe": {
       "neutral": 39,
       "positive": 24,
@@ -318,12 +324,6 @@
       "positive": 33,
       "neutral": 33,
       "critical": 33
-    },
-    "Euronews": {
-      "positive": 32,
-      "neutral": 48,
-      "critical": 12,
-      "mixed": 8
     },
     "DW English": {
       "neutral": 46,
@@ -421,5 +421,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-20T14:13:46.138345+00:00"
+  "last_updated": "2026-05-20T18:16:35.846936+00:00"
 }
