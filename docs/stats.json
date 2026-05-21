@@ -1,15 +1,15 @@
 {
-  "total_articles": 520,
-  "analyzed_articles": 520,
+  "total_articles": 521,
+  "analyzed_articles": 521,
   "tone": {
-    "positive": 175,
+    "positive": 176,
     "neutral": 215,
     "critical": 82,
     "mixed": 47,
     "hopeful": 1
   },
   "framing": {
-    "democracy_restoration": 128,
+    "democracy_restoration": 129,
     "rule_of_law": 55,
     "economy": 32,
     "geopolitics": 126,
@@ -30,12 +30,12 @@
     "energy": 3
   },
   "region": {
+    "uk": 90,
     "eu": 180,
     "wire": 102,
     "fr": 18,
     "cee": 27,
     "de": 55,
-    "uk": 89,
     "us": 47,
     "think": 2
   },
@@ -45,7 +45,7 @@
     "Euronews": 52,
     "Politico Europe": 51,
     "Euractiv": 48,
-    "The Guardian": 32,
+    "The Guardian": 33,
     "EUobserver": 26,
     "Financial Times": 25,
     "AP News": 23,
@@ -67,11 +67,11 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 414,
+    "government transition": 415,
     "EU relations": 283,
-    "democracy": 215,
+    "democracy": 216,
     "geopolitics": 193,
-    "rule of law": 151,
+    "rule of law": 152,
     "foreign policy": 145,
     "EU funds": 83,
     "economy": 65,
@@ -89,8 +89,8 @@
     "regional": 7
   },
   "actors": {
-    "Péter Magyar": 417,
-    "Viktor Orbán": 234,
+    "Péter Magyar": 418,
+    "Viktor Orbán": 235,
     "European Commission": 63,
     "Tisza Party": 40,
     "Ukraine": 40,
@@ -111,8 +111,8 @@
     "Benjamin Netanyahu": 7
   },
   "main_actor": {
+    "hungary_country": 148,
     "magyar_peter": 206,
-    "hungary_country": 147,
     "other": 37,
     "eu_institutions": 46,
     "orban_viktor": 76,
@@ -166,9 +166,15 @@
     "2026-05-18": 13,
     "2026-05-19": 12,
     "2026-05-20": 10,
-    "2026-05-21": 6
+    "2026-05-21": 7
   },
   "tone_by_source": {
+    "The Guardian": {
+      "positive": 19,
+      "critical": 5,
+      "mixed": 2,
+      "neutral": 7
+    },
     "EUobserver": {
       "positive": 6,
       "mixed": 2,
@@ -249,12 +255,6 @@
       "positive": 9,
       "mixed": 2
     },
-    "The Guardian": {
-      "positive": 18,
-      "critical": 5,
-      "mixed": 2,
-      "neutral": 7
-    },
     "Foreign Policy": {
       "critical": 1,
       "positive": 3,
@@ -302,6 +302,12 @@
     }
   },
   "source_bias": {
+    "The Guardian": {
+      "positive": 58,
+      "critical": 15,
+      "mixed": 6,
+      "neutral": 21
+    },
     "EUobserver": {
       "positive": 23,
       "mixed": 8,
@@ -382,12 +388,6 @@
       "positive": 39,
       "mixed": 9
     },
-    "The Guardian": {
-      "positive": 56,
-      "critical": 16,
-      "mixed": 6,
-      "neutral": 22
-    },
     "Foreign Policy": {
       "critical": 14,
       "positive": 43,
@@ -421,5 +421,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-21T18:15:04.339053+00:00"
+  "last_updated": "2026-05-21T22:04:38.790370+00:00"
 }

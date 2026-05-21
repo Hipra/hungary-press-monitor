@@ -1,5 +1,33 @@
 [
   {
+    "id": "8f293bb61ca9db18",
+    "source": "The Guardian",
+    "region": "uk",
+    "title": "Hungary to limit PMs to eight years in office, warding off any Orbán comeback - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTlRa0pkcjlCUUxyNlB5ZnZOdWR6NW1iaWZyYTd3enVzMjkxTkFwbFF6OVhhR0VDa2Ewbl85eDI1Y2U3VEFzbFpTNDJiMkNYTTdEZGhTU3RWSFRfbGFWUFZkeFhwTUpkbjY0cDhpOGVTaC1PajdBTlpOb3dyYi1JOV82Q3BmUnB3MW1qQ1BkXzRjQ1ptOUd1NTc1LThKSndRVWt5dFJxSC0wNzNSa3hhMW93TQ?oc=5",
+    "published_at": "2026-05-21T16:53:00+00:00",
+    "fetched_at": "2026-05-21T18:00:09.907020+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's new government under Péter Magyar has enacted constitutional term limits restricting prime ministers to two eight-year terms, constitutionally barring Viktor Orbán from returning to office. The measure, enacted May 21, represents a democratic safeguard against authoritarian backsliding and a symbolic assertion of the Tisza Party's reform agenda. It demonstrates institutional constraints on executive power following 15 years of Orbán-era governance.",
+    "title_hu": "Magyarország nyolc évre korlátozza a miniszterelnökök mandátumát, megelőzve az Orbán-féle visszatérést",
+    "summary_hu": "Az újonnan megválasztott magyar kormány Péter Magyar vezetésével alkotmánymódosítással nyolc évre korlátozta a miniszterelnökök mandátumát, gyakorlatilag meggátolva Orbán visszatérésének lehetőségét. A május 21-én elfogadott intézkedés fontos demokratikus biztosítéka az autoritárius visszacsúszás megakadályozásának és a Tisza Párt reformprogramjának szimbolikus kijelentése. Az Orbán-éra után ez az intézményi korlát az executive hatalom számbavételét jelenti.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "4cb02216c4fde301",
     "source": "EUobserver",
     "region": "eu",
