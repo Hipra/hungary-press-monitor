@@ -1,5 +1,35 @@
 [
   {
+    "id": "5fbb75ac280f30f3",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary's ruling Tisza party moves to limit prime ministerial terms - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWpPdkZRR3ozUGFWalY2U2FVRl9mRnQzdElCWDlseW8xSEZYRFp2WDNETVdUNEZiYlFVLXNNUTNCZ2RMcU9WQlBwMmdycWxtSi1QMW9JZGtCS3NYUmJ2U1N6X29ZTERZYmI2R1cwTjNFZUp1Zkc5dHVqdWpBSnJVVjVUYk80dFJ3ZjNpV0s5ZmtkdS1wRmxGbHRpZUxkdTFkZzJrcEVQLVc?oc=5",
+    "published_at": "2026-05-21T07:03:43+00:00",
+    "fetched_at": "2026-05-21T10:00:04.218185+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law",
+      "EU relations"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Tisza Party",
+      "Viktor Orbán"
+    ],
+    "tone": "neutral",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's ruling Tisza Party is implementing constitutional limits on prime ministerial terms as a structural safeguard against executive power concentration. The measure directly addresses international concerns that Péter Magyar could replicate Viktor Orbán's 15-year centralization of authority. This institutional reform signals the government's commitment to democratic norms and EU alignment.",
+    "title_hu": "Magyarország Tisza pártja korlátozza a miniszterelnöki időszakot",
+    "summary_hu": "Magyarország kormányzó Tisza Pártja alkotmányjogi korlátozásokat vezet be a miniszterelnöki ciklus hosszára, hogy megakadályozza a végrehajtó hatalom koncentrációját. Az intézkedés közvetlenül az olyan nemzetközi aggályokra válaszol, hogy Péter Magyar megismételheti Viktor Orbán 15 éves centralizációját. Az intézményi reform elkötelezettséget jelez a demokratikus normák és az EU-s igazodás iránt.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "84169cc6979d4340",
     "source": "Le Monde",
     "region": "fr",
@@ -1248,6 +1278,35 @@
     "summary_en": "EU countries express frustration with Hungary's blocking of Ukraine aid decisions, signaling tensions between Budapest's new pro-EU orientation under Péter Magyar and concerns about consensus on critical geopolitical support for Ukraine. The disagreement reflects broader scrutiny of Hungary's EU coordination as the new government consolidates power.",
     "title_hu": "EU-tagállamok fejezik ki haragjukat Magyarország Ukrajna-segély blokádja miatt",
     "summary_hu": "Az EU-tagállamok csalódottságukat fejezik ki amiatt, hogy Magyarország blokkolja az Ukrajna-segély döntéseket, amely a Péter Magyar vezetésével megvalósított budapest új uniós orientációja és az Ukrajna támogatásában való egyetértésről szóló aggodalmak közötti feszültséget jelzi. Az egyet nem értés az EU koordinációnak Magyarország által való biztosítása körüli szélesebb körű felülvizsgálatot tükröz, ahogy az új kormány konszolidálja hatalmát.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "57a52a33d4420bd2",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Hungary takes on EU presidency amid concerns - Euractiv - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxON1lMVW8xZFVjOTM3b1I3UlpIQXdnNFNJcXBGdlNwdHNaMHpfNWRDSDd1TnpPRVVvYlA3Y1hVcU5od0d0Wk85TWJCdFk4UU5EWmo1dWlLaU1fX0JBLVVPd2J3c0JiTlMyQnNTY1RnbGJLRzhYSHVuZU04UUlYLU9qdmRiY2hlQWh0T3ZHcmxXbVROM01BYzRkMThzRHFnanN1RU12UGJLVFZzYXJnNFlXRlBra1dIT01sb1dISFRGeFNVVlNpWDUyYXRWTTJ1WUp2OHp2d3ZXbmgza3gtT25WQlV4LWdoT2pFdmp1UmdFWWpBd0o2OVFWYzdoMlZPTUVsRXVvZDlmX2VmRlJGNk0tbEI1bw?oc=5",
+    "published_at": "2026-05-16T23:21:34+00:00",
+    "fetched_at": "2026-05-21T10:00:30.142168+00:00",
+    "topics": [
+      "EU relations",
+      "government transition",
+      "democracy",
+      "EU funds"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Ursula von der Leyen"
+    ],
+    "tone": "critical",
+    "framing": "eu_integration",
+    "summary_en": "Hungary assumes a leadership role in EU affairs amid concerns about its democratic consolidation and institutional readiness. The article reflects skepticism about whether the newly transitioned Magyar government can effectively manage EU processes while resolving ongoing constitutional and rule-of-law challenges.",
+    "title_hu": "Magyarország az EU elnökségét veszi át aggályok közepette",
+    "summary_hu": "Magyarország az EU-s ügyek terén vezető szerepet vállal a demokracia konszolidációja és az intézményi felkészültség kapcsán felmerülő aggályok közepette. A cikk kétségeket vet fel az újonnan átalakuló Magyar-kormány EU-s folyamatok hatékony irányításáról.",
     "analyzed": 1,
     "is_relevant": 1,
     "main_actor": "hungary_country",
