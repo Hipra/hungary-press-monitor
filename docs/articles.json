@@ -1,5 +1,117 @@
 [
   {
+    "id": "4cb02216c4fde301",
+    "source": "EUobserver",
+    "region": "eu",
+    "title": "Orbán can never return as Hungary’s PM, under new Tisza term limits (39 days post-election) - EUobserver",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlR2N3lyRDltczd2UThIR0hzeXo4VzVOZVJBbngyeTIzT3Z4XzFpYWRjZVFjY0FnbjcyYU9NUGxUWlpkRTNYSTJHWWtFM056a0syZUlCV1g3R3N6QlhCTTlaX3NXSXozUDNBRlR1SHJjQmlNdHIzRW1mdmZoTkRtaEQ5VXRjVGlsTXh2UHNfUHJQZXJaZnN3c0lxTTk5d1RoQ1d4WXVIVmU2TEtBbkcwbFJ5Y0FuQ0dGS0E?oc=5",
+    "published_at": "2026-05-21T13:06:07+00:00",
+    "fetched_at": "2026-05-21T14:00:33.416222+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "positive",
+    "framing": "democracy_restoration",
+    "summary_en": "Hungary's Tisza Party government has implemented constitutional term limits on the prime ministerial office, constitutionally preventing Viktor Orbán from ever returning to power. This structural safeguard directly addresses international concerns about power concentration and represents a concrete democratic restoration measure during the post-election transition.",
+    "title_hu": "Orbán soha nem térhet vissza Magyarország miniszterelnökeként az új Tisza ciklus korlátok alatt",
+    "summary_hu": "Magyarország Tisza-párti kormánya alkotmányi ciklus korlátokat vezetett be a miniszterelnöki hivatal számára, amely alkotmányosan megakadályozza, hogy Viktor Orbán valaha is visszatérjen a hatalomba. Ez a strukturális védelmi intézkedés közvetlenül a hatalom koncentrációjával kapcsolatos nemzetközi aggályokat kezel, és a választás utáni átmenet során végbemenő konkrét demokratikus helyreállítási intézkedést képvisel.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "498b3a0a9c6349b7",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "The Orbán amendment: Hungary’s new government tests constitutional limits - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHFhNTkwQmV5amNBeUp5RG9pc0tSdHBDa0dfd05kZWI0RDE2Y09iYlRUS0swb0JieWNsSEF3ZXlyT19jWGx4dmRDYVAxQWpkbXM4b1FYRjZKT3Eza0k0cTliOFdpU2puVnhJX2pEMXpjZkJkbGlnazJDOWEwSVZFRUR6c0RtZ3hNUmVCc01fcXY4OGQtYzRoNTZ0S3g4TDNVZ1BxYg?oc=5",
+    "published_at": "2026-05-21T11:56:22+00:00",
+    "fetched_at": "2026-05-21T14:00:31.421224+00:00",
+    "topics": [
+      "government transition",
+      "democracy",
+      "rule of law"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Tisza Party"
+    ],
+    "tone": "neutral",
+    "framing": "rule_of_law",
+    "summary_en": "Hungary's new Tisza government has implemented constitutional amendments limiting prime ministerial terms on May 21, directly addressing international concerns about power concentration. This structural safeguard signals a commitment to preventing the executive overreach characteristic of Orbán's 15-year rule.",
+    "title_hu": "Az Orbán-módosítás: az új magyar kormány teszteli az alkotmányi korlátokat",
+    "summary_hu": "Magyarország új Tisza-kormánya május 21-én alkotmányi módosításokat hajtott végre a miniszterelnöki mandátum korlátozása érdekében, közvetlenül válaszolva az Orbán-korszak hatalomkoncentrációjáról szóló nemzetközi aggályokra. Ez az intézményi biztosíték a kormány elkötelezettségét jelzi a végrehajtói túlkapások megelőzésére.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "1aee5d78efa7b75a",
+    "source": "Reuters",
+    "region": "wire",
+    "title": "Hungary PM Magyar says tax reform will come after new 2026 budget - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTJqdHVQNVlBcFpUZk5uV0xTd3hOZThtSG1NYmlDY3BONlJITnpUclFOTV82WGZFWVZpb3B1eUFoQ2JDV0R2XzVIYlE5azBLSDdicG8ySnRSMC0yMkoyYS1OSlBta0N0Yldob0pkZ0tZWWNWcnJGb0xNREwxZjltd0w3Tm1Ebkp0LXpKUENSZ25ETGdGazF4dWpsaVd5dWNYc3VUaktsQWw4SGYtMmNv?oc=5",
+    "published_at": "2026-05-21T11:31:43+00:00",
+    "fetched_at": "2026-05-21T14:00:03.863108+00:00",
+    "topics": [
+      "economy"
+    ],
+    "actors": [
+      "Péter Magyar"
+    ],
+    "tone": "neutral",
+    "framing": "economy",
+    "summary_en": "Hungary PM Péter Magyar stated that tax reform will be sequenced after the new 2026 budget is finalized. The phased fiscal approach reflects the government's prioritization during its transition period.",
+    "title_hu": "Magyarország miniszterelnöke Magyar azt mondja, hogy az adóreform az új 2026-os költségvetés után következik",
+    "summary_hu": "Magyarország miniszterelnöke Péter Magyar nyilatkozott, hogy az adóreform az új 2026-os költségvetés után következik. A fázisozódott költségvetési megközelítés a kormány átmeneti időszakában a prioritásokat tükrözi.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
+    "id": "012d5b65785dab60",
+    "source": "Euractiv",
+    "region": "eu",
+    "title": "Hungary revives Ukraine food ban after accidental lapse - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkxpTUIxSkMwb203WUQtb05zTGFZOHpEOTNzb1BHc0RHdFJXN2xrTER3V09QamJyU084cmRCd0Q0RWRKQm5wTjgxM1BFNHJ6S3hWbVk3ejVDVHoyb2Rpem16empkNGJpXzNMaFJLdFdGVTl4cHhpMGdGa2twbkRRcnAxRU5rbVRDNHlNTGVyZw?oc=5",
+    "published_at": "2026-05-21T10:31:15+00:00",
+    "fetched_at": "2026-05-21T14:00:31.421242+00:00",
+    "topics": [
+      "EU relations",
+      "economy",
+      "foreign policy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Hungarian government",
+      "Ukraine"
+    ],
+    "tone": "critical",
+    "framing": "economy",
+    "summary_en": "Hungary has reinstated a food import ban on Ukraine that had been inadvertently lapsed. The move contradicts Magyar's recent pledges of EU integration and Ukraine support, raising questions about the influence of Hungarian agricultural interests on government policy.",
+    "title_hu": "Magyarország felújítja az Ukrajna elleni élelmiszerembargót a véletlen szüneteltetés után",
+    "summary_hu": "Magyarország újra bevezette az Ukrajna elleni élelmiszerimport-tilalmat, amely véletlenül lejárt. Az intézkedés ellentmond Magyar közelmúltbeli EU-integráció és Ukrajna-támogatás ígéretének, ami kérdéseket vet fel a magyar mezőgazdasági érdekek kormányzati politikára gyakorolt hatásáról.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "hungary_country",
+    "comparison_countries": [],
+    "quotes": []
+  },
+  {
     "id": "5fbb75ac280f30f3",
     "source": "Reuters",
     "region": "wire",

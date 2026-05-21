@@ -1,51 +1,61 @@
 {
-  "top_story_en": "Tisza's move to constitutionally cap prime ministerial terms marks the first concrete structural anti-concentration reform under Magyar, shifting international coverage from risk-warning to institutional action on the same day his Warsaw visit sealed Hungary's V4 comeback.",
-  "top_story_hu": "A Tisza Párt miniszterelnöki ciklus-korlátozásra irányuló alkotmányos lépése az első konkrét hatalomkoncentráció-ellenes intézményi reform Magyar alatt — ez a lépés egyszerre esik egybe a varsói látogatással, amely Magyarország V4-visszatérését pecsételte meg.",
+  "top_story_en": "Hungary's Tisza government enacted constitutional term limits on the prime ministerial office on May 21, structurally barring Viktor Orbán from ever returning to power and delivering the most concrete democratic safeguard of the post-election transition.",
+  "top_story_hu": "A Tisza-kormány május 21-én alkotmányos korlátozást vezetett be a miniszterelnöki tisztségre, ezzel jogilag megakadályozva Orbán Viktor esetleges visszatérését — ez a választás utáni átmenet legkézzelfoghatóbb demokratikus biztosítéka.",
   "key_developments_en": [
-    "Tisza Party introduced constitutional limits on prime ministerial terms, directly countering international warnings that Magyar could replicate Orbán's 15-year centralization.",
-    "Magyar completed his first foreign trip to Warsaw; Polish PM Tusk praised Hungary's 'return to Europe,' confirming V4 revival as a strategic geopolitical priority.",
-    "Magyar is pursuing expansion of the Visegrád group beyond its original four members, positioning Hungary as a regional bridge to Brussels.",
-    "Ukraine and Hungary launched consultations to resolve minority rights disputes blocking Kyiv's EU accession, signaling Magyar's openness to Ukraine's European bid.",
-    "Fugitive Polish minister Ziobro flew to the US via Italy with reported Trump administration assistance; separately, Magyar disclosed a second Polish-wanted fugitive may have exited via Serbia under Hungarian oversight."
+    "Hungary constitutionally limited prime ministerial terms 39 days after the April election, directly preventing Orbán's return (EUobserver, Euractiv, Reuters).",
+    "PM Magyar told Reuters tax reform will be sequenced after the 2026 budget is finalized, providing the first concrete fiscal prioritization timeline.",
+    "Hungary reinstated a food import ban on Ukraine after it accidentally lapsed, the first reported policy contradiction under Magyar contradicting his pro-Ukraine diplomatic stance.",
+    "Magyar's Poland visit concluded with PM Tusk praising Hungary's 'return to Europe,' confirming V4 revival and potential group expansion as strategic priorities.",
+    "Le Monde framed the Warsaw visit as a fundamental diplomatic reset away from Orbán-era foreign policy toward EU integration."
   ],
   "key_developments_hu": [
-    "A Tisza Párt alkotmányos korlátozást vezet be a miniszterelnöki ciklusokra, közvetlenül reagálva arra a nemzetközi aggodalomra, hogy Magyar megismételheti Orbán 15 éves centralizációját.",
-    "Magyar elvégezte első külföldi útját Varsóba; Tusk lengyel miniszterelnök Magyarország 'Európába való visszatéréseként' méltatta a látogatást, megerősítve a V4-revival stratégiai prioritását.",
-    "Magyar a Visegrádi csoport eredeti négy tagján túli bővítését szorgalmazza, Magyarországot Brüsszel és Közép-Európa közötti híddá pozicionálva.",
-    "Ukrajna és Magyarország tárgyalásokat kezdett a kisebbségi jogok rendezéséről, elhárítva Kijev uniós csatlakozásának egyik fő akadályát.",
-    "A menekülő lengyel Ziobro az Egyesült Államokba repült Olaszországon át, állítólag Trump-adminisztrációs segítséggel; Magyar eközben beismert egy második, Szerbiát érintő ügyet is."
+    "Magyarország az alkotmányban korlátozta a miniszterelnöki ciklus hosszát a választástól számított 39. napon — Orbán visszatérését jogilag kizárva (EUobserver, Euractiv, Reuters).",
+    "Magyar Péter a Reutersnek nyilatkozva közölte: az adóreform a 2026-os költségvetés elfogadása után kerül sorra — ez az első konkrét fiskális ütemterv.",
+    "Magyarország visszaállította az Ukrajna elleni élelmiszer-importtilalmat, miután az véletlenül megszűnt — ez az első nyilvánosan feltárt ellentmondás Magyar EU-párti politikájával szemben.",
+    "Magyar varsói látogatása Tusk 'Magyarország visszatért Európába' kijelentésével zárult, megerősítve a V4 újjáélesztését és esetleges bővítését.",
+    "A Le Monde a varsói utazást alapvető külpolitikai fordulatként értékelte az Orbán-korszak diplomáciájával szemben."
   ],
   "narrative_shifts_en": [
-    "The term-limits announcement moves coverage from hypothetical concentration-of-power warnings to documented institutional safeguards — a materially more favorable framing for Magyar.",
-    "Hungary transitions from subject to reference case in democracy coverage: The Economist recently used Hungary's transition to contextualize Turkey's struggles, a role reversal from years of Hungary being the cautionary tale."
+    "Coverage has moved from symbolic transition acts to structural constitutional reform — the term-limits story marks the first major institutional output of the Tisza government receiving multi-outlet confirmation.",
+    "The Ukraine food ban introduces a 'policy contradiction' framing absent from prior coverage, signaling that scrutiny of Magyar's own governance decisions is beginning to emerge alongside the inherited-Orbán narrative.",
+    "The Poland visit is now being assessed substantively rather than symbolically: Balkan Insight and Le Monde both argue it delivered concrete geopolitical repositioning, not merely optics."
   ],
   "narrative_shifts_hu": [
-    "A ciklus-korlátozás bejelentése a sajtó keretezését hipotetikus hatalomkoncentrációs figyelmeztetésekről konkrét intézményi garanciákra tolja — ez lényegesen kedvezőbb narratíva Magyar számára.",
-    "Magyarország a demokrácia-tudósítások tárgyából viszonyítási alappá válik: a The Economist Törökország nehézségeit most Magyarország átmenetéhez méri, megfordítva az évtizedes 'elrettentő példa' szerepkört."
+    "A tudósítások a szimbolikus átmeneti lépésektől az alkotmányos intézményi reformok felé tolódtak — a cikluskorlátozás az első olyan jelentős strukturális intézkedés, amelyet több forrás is megerősített.",
+    "Az ukrán élelmiszer-importtilalom visszaállítása bevezette az 'ellentmondásos politika' keretet, amely eddig hiányzott a Magyar-kormányról szóló tudósításokból.",
+    "A lengyel látogatást a sajtó már nem szimbolikus gesztusként, hanem érdemi geopolitikai fordulatként értékeli."
   ],
   "quotes_en": [
     {
-      "quote": "Hungary's return to Europe.",
+      "quote": "Hungary's return to Europe",
       "speaker": "Donald Tusk, Polish Prime Minister"
+    },
+    {
+      "quote": "Tax reform will come after the new 2026 budget",
+      "speaker": "Péter Magyar, Prime Minister of Hungary (Reuters)"
     }
   ],
   "quotes_hu": [
     {
-      "quote": "Magyarország visszatért Európába.",
+      "quote": "Magyarország visszatért Európába",
       "speaker": "Donald Tusk, lengyel miniszterelnök"
+    },
+    {
+      "quote": "Az adóreform az új 2026-os költségvetés elfogadása után következik",
+      "speaker": "Magyar Péter miniszterelnök (Reuters)"
     }
   ],
   "what_to_watch_en": [
-    "Content of Magyar's red-lines letter to von der Leyen ahead of the anticipated Brussels EU funds meeting — the €10.4bn negotiation enters its critical phase.",
-    "Whether the second Polish-wanted fugitive disclosure triggers domestic accountability scrutiny, marking the first rule-of-law credibility test originating from Magyar's own government.",
-    "Constitutional mechanism and timeline for resolving the presidential standoff — the Orbán-era president continues resisting resignation demands with no reported legal pathway forward."
+    "Content of Magyar's red-lines letter to von der Leyen on the €10.4bn EU funds package — still undisclosed and central to the Brussels negotiation round opened May 18.",
+    "Whether the Ukraine food ban reinstatement generates diplomatic pushback from Kyiv or EU partners, and how the government frames the contradiction with Magyar's pro-Ukraine posture.",
+    "Resolution pathway for the presidential conflict — the Orbán-era president's continued resistance to resignation demands remains the primary institutional friction with no constitutional endgame reported."
   ],
   "what_to_watch_hu": [
-    "Magyar vörös vonalakat tartalmazó levelének tartalma Von der Leyennek — a várható brüsszeli találkozóval a 10,4 milliárd eurós tárgyalás kritikus szakaszba lép.",
-    "A második lengyel körözött menekülttel kapcsolatos beismerés vált-e belföldi elszámoltathatósági kérdéssé — ez lenne az első jogrendi próbatétel, amely már Magyar saját kormányából ered.",
-    "Az elnöki patthelyzet alkotmányos megoldási mechanizmusa és ütemezése — az Orbán-kori elnök folytatja a lemondás elutasítását, miközben a jogi megoldás nem látható."
+    "Magyar Péter von der Leyennek szóló 'vörös vonalak' levelének tartalma a 10,4 milliárd eurós uniós csomag kapcsán — a május 18-án megnyitott brüsszeli tárgyalások kulcskérdése.",
+    "Az ukrán élelmiszer-importtilalom visszaállítása vált-e ki diplomáciai reakciót Kijev vagy uniós partnerek részéről, és hogyan kommunikálja a kormány az ellentmondást.",
+    "Az elnöki konfliktus megoldási útja — az Orbán-kori köztársasági elnök lemondást elutasító magatartása továbbra is a legfőbb intézményi feszültségforrás, alkotmányos kimenetel nélkül."
   ],
   "date": "2026-05-21",
-  "article_count": 9,
-  "generated_at": "2026-05-21T10:07:30.016385+00:00"
+  "article_count": 8,
+  "generated_at": "2026-05-21T14:15:46.479047+00:00"
 }
