@@ -1,19 +1,19 @@
 {
-  "total_articles": 513,
-  "analyzed_articles": 513,
+  "total_articles": 514,
+  "analyzed_articles": 514,
   "tone": {
-    "positive": 173,
+    "positive": 174,
     "neutral": 212,
     "critical": 80,
     "mixed": 47,
     "hopeful": 1
   },
   "framing": {
+    "geopolitics": 126,
     "regional": 15,
     "rule_of_law": 54,
     "EU_integration": 9,
     "eu_integration": 82,
-    "geopolitics": 125,
     "democracy_restoration": 126,
     "media_freedom": 11,
     "economy": 30,
@@ -30,13 +30,13 @@
     "energy": 3
   },
   "region": {
+    "fr": 18,
     "eu": 176,
     "cee": 27,
     "wire": 100,
     "de": 55,
     "uk": 89,
     "us": 47,
-    "fr": 17,
     "think": 2
   },
   "source": {
@@ -50,8 +50,8 @@
     "Financial Times": 25,
     "AP News": 23,
     "Washington Post": 21,
+    "Le Monde": 18,
     "Balkan Insight": 17,
-    "Le Monde": 17,
     "The Times": 13,
     "BBC": 13,
     "New York Times": 12,
@@ -67,12 +67,12 @@
     "The Atlantic": 1
   },
   "topics": {
-    "government transition": 409,
-    "EU relations": 279,
+    "government transition": 410,
+    "EU relations": 280,
     "democracy": 211,
-    "geopolitics": 192,
+    "geopolitics": 193,
     "rule of law": 148,
-    "foreign policy": 143,
+    "foreign policy": 144,
     "EU funds": 82,
     "economy": 63,
     "elections": 58,
@@ -81,16 +81,16 @@
     "Russia deals": 34,
     "energy": 31,
     "Fidesz opposition": 29,
+    "V4 diplomacy": 24,
     "society": 24,
-    "V4 diplomacy": 23,
     "judicial reform": 19,
     "media freedom": 13,
     "NATO": 9,
     "regional": 7
   },
   "actors": {
-    "Péter Magyar": 410,
-    "Viktor Orbán": 230,
+    "Péter Magyar": 411,
+    "Viktor Orbán": 231,
     "European Commission": 63,
     "Ukraine": 39,
     "Ursula von der Leyen": 39,
@@ -99,7 +99,7 @@
     "Volodymyr Zelenskyy": 31,
     "European Union": 25,
     "Hungary": 25,
-    "Donald Tusk": 20,
+    "Donald Tusk": 21,
     "Russia": 19,
     "Hungarian government": 17,
     "EU institutions": 15,
@@ -111,7 +111,7 @@
     "Benjamin Netanyahu": 7
   },
   "main_actor": {
-    "magyar_peter": 201,
+    "magyar_peter": 202,
     "other": 37,
     "hungary_country": 145,
     "eu_institutions": 46,
@@ -120,7 +120,7 @@
     "EU_institutions": 2
   },
   "comparison_countries": {
-    "Poland": 40,
+    "Poland": 41,
     "Ukraine": 33,
     "Slovakia": 23,
     "Russia": 21,
@@ -137,7 +137,6 @@
     "Turkey": 1
   },
   "daily": {
-    "2026-04-20": 20,
     "2026-04-21": 50,
     "2026-04-22": 34,
     "2026-04-23": 28,
@@ -166,9 +165,15 @@
     "2026-05-17": 5,
     "2026-05-18": 13,
     "2026-05-19": 12,
-    "2026-05-20": 10
+    "2026-05-20": 10,
+    "2026-05-21": 1
   },
   "tone_by_source": {
+    "Le Monde": {
+      "positive": 12,
+      "neutral": 4,
+      "critical": 2
+    },
     "Euractiv": {
       "positive": 10,
       "neutral": 18,
@@ -244,11 +249,6 @@
       "neutral": 7,
       "critical": 11
     },
-    "Le Monde": {
-      "positive": 11,
-      "neutral": 4,
-      "critical": 2
-    },
     "The Guardian": {
       "positive": 18,
       "critical": 5,
@@ -302,6 +302,11 @@
     }
   },
   "source_bias": {
+    "Le Monde": {
+      "positive": 67,
+      "neutral": 22,
+      "critical": 11
+    },
     "Euractiv": {
       "positive": 22,
       "neutral": 40,
@@ -377,11 +382,6 @@
       "neutral": 28,
       "critical": 44
     },
-    "Le Monde": {
-      "positive": 65,
-      "neutral": 24,
-      "critical": 12
-    },
     "The Guardian": {
       "positive": 56,
       "critical": 16,
@@ -421,5 +421,5 @@
     }
   },
   "coverage_gaps": [],
-  "last_updated": "2026-05-21T02:05:50.658773+00:00"
+  "last_updated": "2026-05-21T06:06:27.502052+00:00"
 }

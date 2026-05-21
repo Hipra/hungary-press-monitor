@@ -1,5 +1,38 @@
 [
   {
+    "id": "84169cc6979d4340",
+    "source": "Le Monde",
+    "region": "fr",
+    "title": "Hungary's Magyar signals break with Orban-era diplomacy during Poland visit - Le Monde.fr",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWFJFRjR1bmlCTHkxUUh5RHhhU0FpcWpRS2o2NW5Sd05RZ2c4UFJ1emVDbjR0d1d4VDNySUNKdHQyeEVJdjQxYkdEZ1ZRTURLakljUWt4Z0I2VUxpVDgzRUtMdGJzaVh1Uk9hM1JmdzVHdTVKeGtMT056UFlZVlVTTjZ4bDhZOEx5M2NYVFl0eWpiNnFPb0hHdnlDaGlTU25qLUxXOHotVHAzUW9CVjYwdlpyT21rT3ZWTWhWc0h3NldkVjVEZjFpNHlZMlFieGM4VUZoVkZnSzVmUDJRVXJJUXhIVQ?oc=5",
+    "published_at": "2026-05-21T02:25:35+00:00",
+    "fetched_at": "2026-05-21T06:00:37.558824+00:00",
+    "topics": [
+      "government transition",
+      "foreign policy",
+      "EU relations",
+      "geopolitics",
+      "V4 diplomacy"
+    ],
+    "actors": [
+      "Péter Magyar",
+      "Viktor Orbán",
+      "Donald Tusk"
+    ],
+    "tone": "positive",
+    "framing": "geopolitics",
+    "summary_en": "Péter Magyar's May 19-21 Poland visit signals Hungary's strategic reorientation away from Orbán's controversial foreign policy toward closer European integration and regional cooperation. The visit confirms V4 revival as a geopolitical priority, with Polish PM Tusk praising Hungary's 'return to Europe,' marking a fundamental diplomatic reset.",
+    "title_hu": "Magyar Péter szignalizálja az Orbán-korszak diplomáciájával való szakítást lengyelországi látogatása során",
+    "summary_hu": "Péter Magyar május 19-21-i lengyelországi látogatása Magyarország stratégiai újraorientációját jelzi az Orbán vitatott külpolitikája helyett az európai integráció és regionális együttműködés felé. A látogatás megerősítette a V4 helyreállítását geopolitikai prioritásként, Tusk lengyel miniszterelnök Magyarország 'Európához való visszatérésével' dicsérve, alapvető diplomáciai fordulat szimbóluma.",
+    "analyzed": 1,
+    "is_relevant": 1,
+    "main_actor": "magyar_peter",
+    "comparison_countries": [
+      "Poland"
+    ],
+    "quotes": []
+  },
+  {
     "id": "d1e240444568d935",
     "source": "Euractiv",
     "region": "eu",
